@@ -87,6 +87,23 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   // 5. Score y margen
   const score = profile.scoreMargin(wpItem, ebayEst, config);
 
+  // Safeguard universal: si el spread es extremo (>300% margen), es casi seguro que
+  // la query eBay está comparando producto incorrecto (ej: funda vs consola).
+  // Mejor falso negativo que falso positivo masivo.
+  if (score.margin_pct > 300) {
+    return {
+      pass: false,
+      reason: `spread extremo sospechoso (${score.margin_pct}%): probable query eBay mal calibrada`,
+      profile: profile.name,
+      query: searchQuery,
+      ebay_price_estimate: ebayEst.price,
+      ebay_count: ebayEst.count,
+      margin_net: score.margin_net,
+      margin_pct: score.margin_pct,
+      score: score.score,
+    };
+  }
+
   const pass = score.margin_net >= config.MIN_NET_MARGIN_EUR &&
                score.margin_pct >= config.MIN_MARGIN_PCT &&
                score.score >= config.MIN_SCORE;

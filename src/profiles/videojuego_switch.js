@@ -36,6 +36,22 @@ const BAD_SWITCH_SIGNALS = [
   "reserva", "pre-order", "preventa",
 ];
 
+// Accesorios commodity que SE CONFUNDEN con consolas en búsquedas eBay.
+// (ej: "funda switch" → eBay devuelve consolas + fundas mezcladas → precio irreal)
+// Se confunden porque las búsquedas eBay devuelven de TODO con esas palabras.
+// Margen bajo + alta confusión = skip.
+const COMMODITY_ACCESSORIES_TITLE_PREFIX = [
+  "funda", "case", "cover", "carcasa",
+  "cable", "cargador", "adaptador",
+  "protector", "cristal", "cristales",
+  "grip", "empuñadura",
+  "soporte", "stand", "base carga",
+  "tarjeta sd", "tarjeta micro",
+  "microsd", "sd card",
+  "auriculares", "cascos",
+  "volante", "accesorio",
+];
+
 function matches(wpItem) {
   const text = norm(`${wpItem.title} ${wpItem.description}`);
   // Matchear si menciona Switch
@@ -68,6 +84,16 @@ function detectType(textN) {
 function isViable(wpItem) {
   const text = `${wpItem.title} ${wpItem.description}`;
   const textN = norm(text);
+
+  // 0. Detectar accesorio commodity (confunde comparación con consolas en eBay)
+  //    Ej: "Funda Oficial Nintendo Switch" vs precios de consolas
+  const titleN = norm(wpItem.title);
+  const looksLikeAccessory = COMMODITY_ACCESSORIES_TITLE_PREFIX.some(
+    prefix => titleN.startsWith(prefix + " ") || titleN.startsWith(prefix + ",")
+  );
+  if (looksLikeAccessory) {
+    return { ok: false, reason: `accesorio commodity (confunde eBay con consolas)` };
+  }
 
   // 1. Señales específicas de mal estado / item incompleto
   const badSignal = BAD_SWITCH_SIGNALS.find(s => textN.includes(s));
