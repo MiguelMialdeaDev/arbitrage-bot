@@ -2,7 +2,7 @@ name: Arbitrage Bot
 
 on:
   schedule:
-    - cron: '*/45 * * * *'      # cada 45 minutos
+    - cron: '*/15 * * * *'      # cada 15 minutos (más datos, más rápido capturar gangas)
   workflow_dispatch:
     inputs:
       mode:

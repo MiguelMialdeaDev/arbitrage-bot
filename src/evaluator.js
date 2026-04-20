@@ -5,12 +5,11 @@
 const vinilo = require("./profiles/vinilo");
 const funko = require("./profiles/funko");
 const funkoLote = require("./profiles/funko_lote");
+const switchGame = require("./profiles/videojuego_switch");
 const generic = require("./profiles/generic");
 
 // Ordenar por especificidad: los más específicos primero, genérico al final.
-// Así cada item pasa por los filtros más estrictos primero, y sólo si
-// ninguno aplica cae al perfil genérico (que tiene confidence baja).
-const PROFILES = [funkoLote, funko, vinilo, generic];
+const PROFILES = [funkoLote, funko, switchGame, vinilo, generic];
 
 function pickProfile(wpItem) {
   return PROFILES.find(p => p.matches(wpItem)) || null;
