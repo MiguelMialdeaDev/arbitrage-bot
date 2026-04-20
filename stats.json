@@ -1,23 +1,23 @@
 {
-  "runs": 5,
-  "total_wp_items_fetched": 480,
+  "runs": 6,
+  "total_wp_items_fetched": 482,
   "total_ebay_queries": 0,
   "total_signals_sent": 13,
-  "last_run": "2026-04-20T12:15:08.947Z",
+  "last_run": "2026-04-20T12:21:53.770Z",
   "by_keyword": {
     "vinilo lp": {
-      "items_today": 40,
-      "signals_today": 2
+      "items_today": 1,
+      "signals_today": 0
     },
     "funko exclusive": {
-      "items_today": 17,
+      "items_today": 0,
       "signals_today": 0
     },
     "funko lote": {
-      "items_today": 39,
-      "signals_today": 2
+      "items_today": 1,
+      "signals_today": 0
     }
   },
-  "last_run_items": 96,
-  "last_run_signals": 4
+  "last_run_items": 2,
+  "last_run_signals": 0
 }
