@@ -8,6 +8,7 @@ const funkoLote = require("./profiles/funko_lote");
 const switchGame = require("./profiles/videojuego_switch");
 const generic = require("./profiles/generic");
 const { detectPriceContradiction } = require("./profiles/_base");
+const wallapopSource = require("./sources/wallapop");
 
 // Ordenar por especificidad: los más específicos primero, genérico al final.
 const PROFILES = [funkoLote, funko, switchGame, vinilo, generic];
@@ -84,6 +85,56 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
     return { pass: false, reason: "no se puede estimar precio eBay", profile: profile.name };
   }
 
+  // 4.5. Cross-check Wallapop (SOLO funko por ahora, nicho por nicho)
+  //   La idea: si se supone que esto es ganga, debería haber evidencia EN Wallapop
+  //   (reservados del mismo producto → alguien lo está comprando AHORA).
+  //   Si no hay reservados → o no se vende → o ya se habrá vendido → skip.
+  let wallapopCheck = null;
+  if (profile.name === "funko") {
+    try {
+      const wpSimilar = await wallapopSource.searchSimilarItems(searchQuery, { pages: 2 });
+      const reservedMedian = wpSimilar.reserved_prices.length
+        ? [...wpSimilar.reserved_prices].sort((a, b) => a - b)[Math.floor(wpSimilar.reserved_prices.length / 2)]
+        : null;
+      wallapopCheck = {
+        query: searchQuery,
+        active_count: wpSimilar.active_count,
+        reserved_count: wpSimilar.reserved_count,
+        reserved_median: reservedMedian,
+        reserved_min: wpSimilar.reserved_prices.length ? Math.min(...wpSimilar.reserved_prices) : null,
+      };
+
+      // Regla: exigir al menos 2 reservados para confirmar demanda real en Wallapop
+      if (wpSimilar.reserved_count < 2) {
+        return {
+          pass: false,
+          reason: `sin demanda Wallapop (${wpSimilar.reserved_count} reservados de ${wpSimilar.total} items)`,
+          profile: profile.name,
+          query: searchQuery,
+          ebay_price_estimate: ebayEst.price,
+          ebay_count: ebayEst.count,
+          wallapop_check: wallapopCheck,
+        };
+      }
+
+      // Regla: el precio Wallapop debe estar al menos 20% por debajo del precio reservados
+      // (sino, no es realmente ganga dentro del propio mercado Wallapop)
+      if (reservedMedian && wpItem.price > reservedMedian * 0.8) {
+        return {
+          pass: false,
+          reason: `precio Wallapop ${wpItem.price}€ no es ganga vs reservados ${reservedMedian}€ (umbral 80%)`,
+          profile: profile.name,
+          query: searchQuery,
+          wallapop_check: wallapopCheck,
+          ebay_price_estimate: ebayEst.price,
+        };
+      }
+    } catch (e) {
+      console.warn(`[evaluator] Wallapop cross-check falló: ${e.message}`);
+      // No fallar por esto; seguir con eBay solo
+    }
+  }
+
   // 5. Score y margen
   const score = profile.scoreMargin(wpItem, ebayEst, config);
 
@@ -125,6 +176,7 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
     sold_count: marketData.sold_count,
     active_count: marketData.active_count,
     velocity_ratio: marketData.velocity_ratio,
+    wallapop_check: wallapopCheck,
   };
 }
 

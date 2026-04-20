@@ -94,4 +94,23 @@ async function getUserStats(userId, delay = 500) {
   }
 }
 
-module.exports = { search, getUserStats };
+// Búsqueda secundaria: items similares a uno dado, separando activos y reservados.
+// Útil para validar "precio de mercado real" en Wallapop (no solo eBay).
+// Los reservados son señal fuerte: alguien los está comprando AHORA.
+async function searchSimilarItems(query, opts = {}) {
+  const { lat = 40.4168, lng = -3.7038, pages = 2, delay = 600 } = opts;
+  const items = await search(query, { lat, lng, pages, delay });
+  const active = items.filter(i => !i.reserved);
+  const reserved = items.filter(i => i.reserved);
+  return {
+    query,
+    total: items.length,
+    active_count: active.length,
+    reserved_count: reserved.length,
+    active_prices: active.map(i => i.price).filter(p => p >= 3),
+    reserved_prices: reserved.map(i => i.price).filter(p => p >= 3),
+    reserved_items: reserved.slice(0, 5),  // muestra hasta 5 reservados
+  };
+}
+
+module.exports = { search, getUserStats, searchSimilarItems };
