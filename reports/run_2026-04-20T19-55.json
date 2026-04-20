@@ -1,0 +1,277 @@
+{
+  "timestamp": "2026-04-20T19:54:42.949Z",
+  "keywords": [
+    "protector funko pop",
+    "funko pop exclusive",
+    "funko pop chase",
+    "funko lote",
+    "nintendo switch",
+    "juegos nintendo switch",
+    "zelda switch",
+    "mario switch",
+    "vinilo lp"
+  ],
+  "sections": {
+    "protector funko pop": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "funko pop exclusive": {
+      "total_items": 14,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "funko pop chase": {
+      "total_items": 26,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "funko lote": {
+      "total_items": 40,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Lote Funko Pop! Harry Potter",
+          "price": 10,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lote-funko-pop-harry-potter-1254431225",
+          "reserved": false,
+          "profile": "funko_lote",
+          "verdict": "skip",
+          "reason": "count=2 < 3, no es lote claro"
+        },
+        {
+          "title": "Eva Reservado",
+          "price": 10,
+          "city": "Gavà",
+          "url": "https://es.wallapop.com/item/eva-reservado-1254431114",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko eva reservado",
+          "ebay_count": 61,
+          "ebay_price_estimate": 9.26,
+          "verdict": "skip",
+          "reason": "sin demanda Wallapop (0 reservados de 1 items)"
+        }
+      ],
+      "signals": 0
+    },
+    "nintendo switch": {
+      "total_items": 40,
+      "new_items": 9,
+      "items": [
+        {
+          "title": "Funda GX Trust para Nintendo Switch",
+          "price": 30,
+          "city": "Carmona",
+          "url": "https://es.wallapop.com/item/funda-gx-trust-para-nintendo-switch-1254431052",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Nintendo Switch Completa +   4 Joy-Cons + 128gb SD",
+          "price": 170,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/nintendo-switch-completa-con-bolsa-y-joy-cons-1254430938",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch completa joy-cons 128gb",
+          "ebay_count": 123,
+          "ebay_price_estimate": 74.64,
+          "margin_net": -112.73,
+          "margin_pct": -66,
+          "score": 15,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-112.73€, pct=-66%, score=15)"
+        },
+        {
+          "title": "Nintendo Switch OLED Blanca y Negra Nueva",
+          "price": 250,
+          "city": "Benifaió",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled-blanca-y-negra-nueva-1254430776",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch oled blanca negra",
+          "ebay_count": 94,
+          "ebay_price_estimate": 3.45,
+          "margin_net": -252.6,
+          "margin_pct": -101,
+          "score": 10,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-252.6€, pct=-101%, score=10)"
+        },
+        {
+          "title": "MasterChef: El Videojuego Oficial Nintendo Switch",
+          "price": 25,
+          "city": "Daganzo de Arriba",
+          "url": "https://es.wallapop.com/item/masterchef-el-videojuego-oficial-nintendo-switch-1254430732",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "masterchef: oficial nintendo switch",
+          "verdict": "skip",
+          "reason": "mercado saturado (7 sold vs 125 active)"
+        },
+        {
+          "title": "Juego Nintendo Switch Starlink: Battle for Atlas",
+          "price": 10,
+          "city": "Canyelles",
+          "url": "https://es.wallapop.com/item/juego-nintendo-switch-starlink-battle-for-atlas-1254430528",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "Stranded Deep Nintendo Switch",
+          "price": 30,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/stranded-deep-nintendo-switch-1254430358",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "stranded deep nintendo switch",
+          "ebay_count": 60,
+          "ebay_price_estimate": 19.53,
+          "margin_net": -19.08,
+          "margin_pct": -64,
+          "score": 35,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-19.08€, pct=-64%, score=35)"
+        },
+        {
+          "title": "Caja Nintendo Switch Pokémon Púrpura",
+          "price": 12,
+          "city": "Sant Boi de Llobregat",
+          "url": "https://es.wallapop.com/item/caja-nintendo-switch-pokemon-purpura-1254430271",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch pokemon purpura",
+          "verdict": "skip",
+          "reason": "eBay sin datos (0)"
+        },
+        {
+          "title": "Bratz: Edición Completa Nintendo Switch",
+          "price": 17,
+          "city": "Daganzo de Arriba",
+          "url": "https://es.wallapop.com/item/bratz-edicion-completa-nintendo-switch-1254430133",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "consola <80€ sospechoso"
+        },
+        {
+          "title": "Nintendo Switch Neon HAC-001 V1 2018 Completa",
+          "price": 149.9,
+          "city": "Barbeano",
+          "url": "https://es.wallapop.com/item/nintendo-switch-neon-hac-001-v1-2018-completa-1254430071",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        }
+      ],
+      "signals": 0
+    },
+    "juegos nintendo switch": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "zelda switch": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "mario switch": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "vinilo lp": {
+      "total_items": 40,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Disco Vinilo Pop Rock Internacional Miguel bose",
+          "price": 8,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/disco-vinilo-pop-rock-internacional-miguel-bose-1254430837",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "pop rock internacional miguel bose",
+          "ebay_count": 104,
+          "ebay_price_estimate": 4.99,
+          "margin_net": -9.3,
+          "margin_pct": -116,
+          "score": 20,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-9.3€, pct=-116%, score=20)"
+        },
+        {
+          "title": "Shy - Excess All Areas Vinilo LP",
+          "price": 12,
+          "city": "Fuengirola",
+          "url": "https://es.wallapop.com/item/shy-excess-all-areas-vinilo-lp-1254430829",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "shy excess all areas",
+          "verdict": "skip",
+          "reason": "mercado saturado (33 sold vs 132 active)"
+        },
+        {
+          "title": "Disco de vinilo LP 33 rpm - Led Zeppelin",
+          "price": 25,
+          "city": "Lecce",
+          "url": "https://es.wallapop.com/item/disco-vinile-lp-33-giri-led-zeppelin-1254430730",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "rpm led zeppelin",
+          "ebay_count": 147,
+          "ebay_price_estimate": 4.25,
+          "margin_net": -26.93,
+          "margin_pct": -108,
+          "score": 0,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-26.93€, pct=-108%, score=0)"
+        },
+        {
+          "title": "Lote Vinilos Éxitos de Onda Años 70",
+          "price": 10,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/lote-vinilos-exitos-de-onda-anos-70-1254430614",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Vinilo Lole y Manuel - Al Alba con Alegría",
+          "price": 12,
+          "city": "Jerez de la Frontera",
+          "url": "https://es.wallapop.com/item/vinilo-lole-y-manuel-al-alba-con-alegria-1254430374",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 16,
+  "total_signals": 0,
+  "duration_s": 41
+}
