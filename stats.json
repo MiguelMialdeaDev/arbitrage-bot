@@ -1,1 +1,22 @@
-{"runs":0,"total_wp_items_fetched":0,"total_signals_sent":0,"last_run":null,"by_keyword":{}}
+{
+  "runs": 1,
+  "total_wp_items_fetched": 97,
+  "total_signals_sent": 2,
+  "last_run": "2026-04-20T12:28:21.163Z",
+  "by_keyword": {
+    "vinilo lp": {
+      "items_today": 40,
+      "signals_today": 2
+    },
+    "funko exclusive": {
+      "items_today": 18,
+      "signals_today": 0
+    },
+    "funko lote": {
+      "items_today": 39,
+      "signals_today": 0
+    }
+  },
+  "last_run_items": 97,
+  "last_run_signals": 2
+}
