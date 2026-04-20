@@ -71,19 +71,19 @@ function estimateEbayPrice(ebayData) {
   if (!ebayData.prices || ebayData.prices.length < 3) {
     return { price: 0, confidence: "none" };
   }
-  // Filtrar outliers: Funkos estándar se venden entre 8€ y 250€
-  const filtered = [...ebayData.prices].filter(p => p >= 8 && p <= 250).sort((a, b) => a - b);
+  const { estimateCompetitivePrice } = require("../pricing/ebay");
+  // Filtrar rango Funkos (8-250€) antes de estimar
+  const filtered = ebayData.prices.filter(p => p >= 8 && p <= 250);
   if (filtered.length < 3) return { price: 0, confidence: "none" };
-  const median = filtered[Math.floor(filtered.length / 2)];
-  const p25 = filtered[Math.floor(filtered.length * 0.25)];
-  // Conservador
-  const conservativePrice = Math.round((p25 * 0.6 + median * 0.4) * 100) / 100;
+  // Precio competitivo: el más bajo que se repite ≥3 veces (±15%)
+  const competitive = estimateCompetitivePrice(filtered, 3, 0.15);
+  if (!competitive) return { price: 0, confidence: "none", reason: "precio mínimo no se repite" };
   return {
-    price: conservativePrice,
-    median,
-    p25,
-    count: filtered.length,
-    confidence: filtered.length >= 15 ? "high" : filtered.length >= 7 ? "medium" : "low",
+    price: competitive.price,
+    cluster_size: competitive.cluster_size,
+    cluster_range: [competitive.cluster_min, competitive.cluster_max],
+    count: competitive.total_samples,
+    confidence: competitive.cluster_size >= 8 ? "high" : competitive.cluster_size >= 5 ? "medium" : "low",
   };
 }
 

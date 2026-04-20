@@ -64,10 +64,53 @@ function hasFakeSignal(text) {
   return FAKE_SIGNALS.find(s => t.includes(s)) || null;
 }
 
+// Detecta si en la descripción hay un precio distinto al campo price.amount.
+// Common trick: poner price=1€ o 20€ pero "son 100€ total" en descripción,
+// para aparecer primero en búsquedas por precio.
+function detectPriceContradiction(wpItem) {
+  if (!wpItem.description) return null;
+  const statedPrice = wpItem.price;
+  const desc = wpItem.description;
+
+  // Patrones de precio mencionado en texto
+  // "son 100€", "precio real 100", "100€ total", "100 euros", "precio 100€"
+  const patterns = [
+    /son\s+(\d{2,4})\s*[€e]/gi,
+    /precio\s+(?:real\s+|total\s+)?(\d{2,4})\s*[€e]/gi,
+    /(\d{2,4})\s*[€e]\s+total/gi,
+    /(\d{2,4})\s+euros?/gi,
+    /\bvalen\s+(\d{2,4})\s*[€e]/gi,
+    /por\s+(\d{2,4})\s*[€e]/gi,
+  ];
+
+  const mentioned = [];
+  for (const re of patterns) {
+    const matches = [...desc.matchAll(re)];
+    for (const m of matches) {
+      const p = parseInt(m[1], 10);
+      if (p >= 10 && p < 10000) mentioned.push(p);
+    }
+  }
+
+  if (!mentioned.length) return null;
+  const maxMentioned = Math.max(...mentioned);
+
+  // Si hay un precio mencionado >2x del campo price, es contradicción
+  if (maxMentioned > statedPrice * 2) {
+    return {
+      stated: statedPrice,
+      mentioned: maxMentioned,
+      samples: mentioned,
+    };
+  }
+  return null;
+}
+
 module.exports = {
   norm,
   anyKeyword,
   cleanSearchTerms,
   hasBadConditionSignal,
   hasFakeSignal,
+  detectPriceContradiction,
 };

@@ -24,11 +24,16 @@ const JUEGO_SIGNALS = [
 ];
 
 const BAD_SWITCH_SIGNALS = [
-  "solo caja", "solo carátula", "sin juego", "caratula sin",
+  // Item incompleto / solo parcial
+  "solo caja", "solo carátula", "solo caratula", "sin juego", "caja vacia", "caja vacía",
+  "caratula sin", "no incluye juego", "sin el juego", "only case", "only box",
+  "solo manual", "sin cartucho", "sin carátula",
+  // Estado malo
   "no funciona", "pantalla rota", "mojado", "quemado",
-  "sin cable", "sin cargador", "joy con rotos",
+  "sin cable", "sin cargador", "joy con rotos", "joycon rotos",
+  // Digital / reserva
   "juego eliminado", "solo codigo", "solo código", "codigo descargado",
-  "reserva", "pre-order",  // items de pre-venta sin stock
+  "reserva", "pre-order", "preventa",
 ];
 
 function matches(wpItem) {
@@ -42,13 +47,21 @@ function matches(wpItem) {
 }
 
 function detectType(textN) {
+  // Pack explícito (múltiples juegos)
+  if (/\bpack\s+(de\s+)?\d+\s+juegos?\b|\blote\s+\d+\s+juegos?\b|\d+\s+juegos?\s+switch/i.test(textN) ||
+      /juegos?\s+switch.*\s+y\s+.*juegos?/i.test(textN)) {
+    return "pack_juegos";
+  }
+  // Pack consola + juegos
+  if (/switch.*\+\s*juegos?\b|switch.*\+\s*mario|switch.*\+\s*zelda|pack\s+switch/.test(textN)) {
+    return "pack_consola_juegos";
+  }
   // Distinguir entre consola y juego
-  if (/\b(consola|only|solo|completa)\b.*switch\b/.test(textN) && !JUEGO_SIGNALS.some(j => textN.includes(j))) {
+  if (/\b(consola|only|solo|completa|sola)\b.*switch\b/.test(textN) && !JUEGO_SIGNALS.some(j => textN.includes(j))) {
     return "consola";
   }
   const hasJuego = JUEGO_SIGNALS.some(j => textN.includes(j));
   if (hasJuego) return "juego";
-  // Ambiguo → asumir consola si precio alto, juego si precio bajo
   return "unknown";
 }
 
@@ -77,7 +90,14 @@ function isViable(wpItem) {
   // 5. Clasificar
   const type = detectType(textN);
 
-  // 6. Rango de precio razonable según tipo
+  // 6. Packs son de alto riesgo de mala comparación eBay → skip conservador
+  //    (usuario Miguel: "hay muchos packs enteros por el mismo precio, dudo que elijan
+  //    una switch sin nada", "pack de gunvolt tienen además un juego más")
+  if (type === "pack_juegos" || type === "pack_consola_juegos") {
+    return { ok: false, reason: `pack (${type}): comparación eBay imprecisa, skip conservador` };
+  }
+
+  // 7. Rango de precio razonable según tipo
   if (type === "consola") {
     if (wpItem.price < 80) return { ok: false, reason: "consola <80€ sospechoso" };
     if (wpItem.price > 450) return { ok: false, reason: "consola >450€ sin margen" };
@@ -129,22 +149,18 @@ function estimateEbayPrice(ebayData) {
   if (!ebayData.prices || ebayData.prices.length < 4) {
     return { price: 0, confidence: "none" };
   }
-  // Filtrar outliers: juegos Switch se venden entre 5€ y 150€ típicamente
-  // Consolas entre 150€ y 500€
-  const sorted = [...ebayData.prices].sort((a, b) => a - b);
-  // Quitar el 20% inferior y superior (outliers)
-  const trimmed = sorted.slice(Math.floor(sorted.length * 0.2), Math.ceil(sorted.length * 0.8));
-  if (trimmed.length < 3) return { price: 0, confidence: "none" };
+  const { estimateCompetitivePrice } = require("../pricing/ebay");
+  // Precio competitivo = el más bajo que se repite ≥3 veces (±15%)
+  // Representa lo que TÚ tendrías que cobrar para vender rápido
+  const competitive = estimateCompetitivePrice(ebayData.prices, 3, 0.15);
+  if (!competitive) return { price: 0, confidence: "none", reason: "ningún precio se repite ≥3 veces" };
 
-  const median = trimmed[Math.floor(trimmed.length / 2)];
-  const p25 = trimmed[Math.floor(trimmed.length * 0.25)];
-  const conservativePrice = Math.round((p25 * 0.6 + median * 0.4) * 100) / 100;
   return {
-    price: conservativePrice,
-    median,
-    p25,
-    count: trimmed.length,
-    confidence: trimmed.length >= 15 ? "high" : trimmed.length >= 7 ? "medium" : "low",
+    price: competitive.price,
+    cluster_size: competitive.cluster_size,
+    cluster_range: [competitive.cluster_min, competitive.cluster_max],
+    count: competitive.total_samples,
+    confidence: competitive.cluster_size >= 8 ? "high" : competitive.cluster_size >= 5 ? "medium" : "low",
   };
 }
 

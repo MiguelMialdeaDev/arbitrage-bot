@@ -7,6 +7,7 @@ const funko = require("./profiles/funko");
 const funkoLote = require("./profiles/funko_lote");
 const switchGame = require("./profiles/videojuego_switch");
 const generic = require("./profiles/generic");
+const { detectPriceContradiction } = require("./profiles/_base");
 
 // Ordenar por especificidad: los más específicos primero, genérico al final.
 const PROFILES = [funkoLote, funko, switchGame, vinilo, generic];
@@ -19,6 +20,17 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   const profile = pickProfile(wpItem);
   if (!profile) {
     return { pass: false, reason: "sin perfil aplicable" };
+  }
+
+  // 0. Pre-check universal: contradicción de precio entre campo price y descripción
+  //    (ej: "20€" en price field, "son 100€" en descripción)
+  const contradiction = detectPriceContradiction(wpItem);
+  if (contradiction) {
+    return {
+      pass: false,
+      reason: `precio ambiguo: field=${contradiction.stated}€ pero desc menciona ${contradiction.mentioned}€`,
+      profile: profile.name,
+    };
   }
 
   // 1. Filtros del perfil (estado, señales de fake, etc)

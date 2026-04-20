@@ -119,4 +119,31 @@ function stats(prices) {
   };
 }
 
-module.exports = { fetchSoldPrices, extractPrices, stats };
+// Precio conservador: el mínimo que se REPITE al menos N veces (±15%).
+// Esto representa el "precio competitivo real" al que tendrías que vender,
+// no la mediana ruidosa. Evita outliers únicos y da confianza real.
+function estimateCompetitivePrice(prices, minRepetitions = 3, tolerance = 0.15) {
+  if (!prices || prices.length < minRepetitions) return null;
+  const sorted = [...prices].sort((a, b) => a - b);
+  // Buscar el precio más bajo que tenga ≥ N vecinos dentro de ±15%
+  for (let i = 0; i < sorted.length; i++) {
+    const base = sorted[i];
+    const low = base * (1 - tolerance);
+    const high = base * (1 + tolerance);
+    const cluster = sorted.filter(p => p >= low && p <= high);
+    if (cluster.length >= minRepetitions) {
+      // Precio competitivo = mediana del cluster (precio estable que se repite)
+      const clusterMedian = cluster[Math.floor(cluster.length / 2)];
+      return {
+        price: Math.round(clusterMedian * 100) / 100,
+        cluster_size: cluster.length,
+        cluster_min: cluster[0],
+        cluster_max: cluster[cluster.length - 1],
+        total_samples: prices.length,
+      };
+    }
+  }
+  return null;
+}
+
+module.exports = { fetchSoldPrices, extractPrices, stats, estimateCompetitivePrice };

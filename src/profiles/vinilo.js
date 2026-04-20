@@ -73,18 +73,17 @@ function estimateEbayPrice(ebayData) {
   if (!ebayData.prices || ebayData.prices.length < 3) {
     return { price: 0, confidence: "none", reason: "pocos sold listings" };
   }
-  const sorted = [...ebayData.prices].filter(p => p >= 4 && p <= 500).sort((a, b) => a - b);
-  if (sorted.length < 3) return { price: 0, confidence: "none" };
-  const median = sorted[Math.floor(sorted.length / 2)];
-  const p25 = sorted[Math.floor(sorted.length * 0.25)];
-  // Conservador: entre P25 y mediana
-  const conservativePrice = Math.round((p25 * 0.7 + median * 0.3) * 100) / 100;
+  const { estimateCompetitivePrice } = require("../pricing/ebay");
+  const filtered = ebayData.prices.filter(p => p >= 4 && p <= 500);
+  if (filtered.length < 3) return { price: 0, confidence: "none" };
+  const competitive = estimateCompetitivePrice(filtered, 3, 0.15);
+  if (!competitive) return { price: 0, confidence: "none", reason: "precio mínimo no se repite" };
   return {
-    price: conservativePrice,
-    median,
-    p25,
-    count: sorted.length,
-    confidence: sorted.length >= 15 ? "high" : sorted.length >= 7 ? "medium" : "low",
+    price: competitive.price,
+    cluster_size: competitive.cluster_size,
+    cluster_range: [competitive.cluster_min, competitive.cluster_max],
+    count: competitive.total_samples,
+    confidence: competitive.cluster_size >= 8 ? "high" : competitive.cluster_size >= 5 ? "medium" : "low",
   };
 }
 
