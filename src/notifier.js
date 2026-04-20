@@ -167,18 +167,18 @@ async function notify(wpItem, evalResult, config) {
 // para que veas que el bot está vivo sin molestarte como señal real.
 async function notifyRunSummary(summary, config) {
   const {
-    total_items, total_signals, duration_s,
+    total_fetched = 0, total_items, total_signals, duration_s,
     discards_by_reason = {},
   } = summary;
 
-  // Top 6 razones de descarte (más comunes primero)
+  // Top 6 razones de descarte
   const topReasons = Object.entries(discards_by_reason)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 6);
 
   const lines = [
     `📊 <b>Run resumen</b>`,
-    `<i>${total_items} items · ${total_signals} señales · ${duration_s}s</i>`,
+    `<i>${total_fetched} fetched · ${total_items} nuevos · ${total_signals} señales · ${duration_s}s</i>`,
     ``,
   ];
 
@@ -188,8 +188,12 @@ async function notifyRunSummary(summary, config) {
       const short = reason.length > 60 ? reason.slice(0, 57) + "…" : reason;
       lines.push(`  • ${count}× ${short}`);
     }
+  } else if (total_fetched > 0 && total_items === 0) {
+    lines.push("<i>Todos los items ya se procesaron en runs previos. Esperando nuevos listings en Wallapop.</i>");
+  } else if (total_fetched === 0) {
+    lines.push("<i>⚠️ 0 items fetched — posible problema de red/rate limit</i>");
   } else {
-    lines.push("<i>Sin descartes (no hubo items)</i>");
+    lines.push("<i>Sin descartes (todos los nuevos pasaron filtros básicos)</i>");
   }
 
   const text = lines.join("\n");

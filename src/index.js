@@ -46,7 +46,8 @@ async function run() {
     setCached: (q, data) => storage.setCachedPrice(cache, q, data),
   };
 
-  let runItemsCount = 0;
+  let runItemsCount = 0;       // items NUEVOS (no vistos antes)
+  let runItemsFetched = 0;     // items totales fetched de Wallapop (incluye ya vistos)
   let runSignalsCount = 0;
   const byKw = {};
 
@@ -61,6 +62,7 @@ async function run() {
 
     const newItems = wpItems.filter(i => !storage.isSeen(seen, i.id));
     runItemsCount += newItems.length;
+    runItemsFetched += wpItems.length;
     byKw[keyword] = { items_today: newItems.length, signals_today: 0 };
 
     console.log(`   ${wpItems.length} items (${newItems.length} nuevos)`);
@@ -167,6 +169,7 @@ async function run() {
   if (!config.DRY_RUN) {
     try {
       await notifyRunSummary({
+        total_fetched: runItemsFetched,
         total_items: runItemsCount,
         total_signals: runSignalsCount,
         duration_s: dur,
