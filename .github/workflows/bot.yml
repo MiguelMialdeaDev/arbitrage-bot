@@ -14,6 +14,7 @@ on:
           - normal
           - dry-run
           - verbose
+          - test-notify      # envía mensaje test a Telegram/ntfy sin correr el bot
 
 concurrency:
   group: arbitrage-bot
@@ -36,7 +37,32 @@ jobs:
       - name: 📦 Install
         run: npm install --no-audit --no-fund || true
 
+      - name: 📣 Test notify (only in test-notify mode)
+        if: github.event.inputs.mode == 'test-notify'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC:         ${{ secrets.NTFY_TOPIC }}
+        run: |
+          TEXT="🤖 <b>Arbitrage Bot · test</b>%0ASi lees esto, los secrets están OK.%0ACron activo cada 15 min."
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            RESP=$(curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              -d chat_id="${TELEGRAM_CHAT_ID}" -d parse_mode=HTML \
+              --data-urlencode text="${TEXT}")
+            echo "Telegram response: $(echo $RESP | head -c 200)"
+          else
+            echo "Telegram no configurado (falta token o chat_id)"
+          fi
+          if [ -n "$NTFY_TOPIC" ]; then
+            curl -s -X POST "https://ntfy.sh/${NTFY_TOPIC}" \
+              -H "Title: Arbitrage Bot test" -H "Priority: default" \
+              -d "Si lees esto, ntfy funciona. Cron cada 15 min." || true
+            echo "ntfy enviado al topic"
+          fi
+          exit 0
+
       - name: 🤖 Run bot
+        if: github.event.inputs.mode != 'test-notify'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
