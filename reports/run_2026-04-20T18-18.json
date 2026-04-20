@@ -1,0 +1,136 @@
+{
+  "timestamp": "2026-04-20T18:17:45.741Z",
+  "keywords": [
+    "protector funko pop",
+    "funko pop exclusive",
+    "funko pop chase",
+    "funko lote",
+    "nintendo switch",
+    "juegos nintendo switch",
+    "zelda switch",
+    "mario switch",
+    "vinilo lp"
+  ],
+  "sections": {
+    "protector funko pop": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "funko pop exclusive": {
+      "total_items": 14,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "funko pop chase": {
+      "total_items": 26,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "funko lote": {
+      "total_items": 40,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Lote Figuras Funko Kinder Sorpresa",
+          "price": 5,
+          "city": "Arnuero",
+          "url": "https://es.wallapop.com/item/lote-figuras-funko-kinder-sorpresa-1254399993",
+          "reserved": false,
+          "profile": "funko_lote",
+          "verdict": "skip",
+          "reason": "mini funkos / kinder, sin valor de reventa"
+        },
+        {
+          "title": "Lote Funko Pop Game of Thrones y Jumanji",
+          "price": 21,
+          "city": "Huelva",
+          "url": "https://es.wallapop.com/item/lote-funko-pop-game-of-thrones-y-jumanji-1254399805",
+          "reserved": false,
+          "profile": "funko_lote",
+          "query_ebay": "Funko Pop game of thrones",
+          "ebay_count": 103,
+          "ebay_price_estimate": 18.74,
+          "margin_net": -13.86,
+          "margin_pct": -66,
+          "score": 20,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-13.86€, pct=-66%, score=20)"
+        }
+      ],
+      "signals": 0
+    },
+    "nintendo switch": {
+      "total_items": 40,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Consola Nintendo Switch + Accesorios",
+          "price": 110,
+          "city": "Spinadesco",
+          "url": "https://es.wallapop.com/item/nintendo-switch-console---accessori-1254399312",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch accesorios",
+          "ebay_count": 119,
+          "ebay_price_estimate": 6.12,
+          "margin_net": -110.35,
+          "margin_pct": -100,
+          "score": 10,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-110.35€, pct=-100%, score=10)"
+        },
+        {
+          "title": "Nintendo Switch + Funda + Caja",
+          "price": 400,
+          "city": "El Moli d'en Rovira",
+          "url": "https://es.wallapop.com/item/nintendo-switch---funda---caja-1254399297",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch funda",
+          "ebay_count": 122,
+          "ebay_price_estimate": 6.81,
+          "margin_net": -399.77,
+          "margin_pct": -100,
+          "score": 20,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-399.77€, pct=-100%, score=20)"
+        }
+      ],
+      "signals": 0
+    },
+    "juegos nintendo switch": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "zelda switch": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "mario switch": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "vinilo lp": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 4,
+  "total_signals": 0,
+  "duration_s": 25
+}
