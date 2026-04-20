@@ -1,19 +1,19 @@
 {
-  "runs": 5,
-  "total_wp_items_fetched": 757,
+  "runs": 6,
+  "total_wp_items_fetched": 853,
   "total_signals_sent": 12,
-  "last_run": "2026-04-20T17:36:32.148Z",
+  "last_run": "2026-04-20T18:12:29.758Z",
   "by_keyword": {
     "protector funko pop": {
-      "items_today": 4,
+      "items_today": 1,
       "signals_today": 0
     },
     "funko pop exclusive": {
-      "items_today": 0,
+      "items_today": 2,
       "signals_today": 0
     },
     "funko pop chase": {
-      "items_today": 3,
+      "items_today": 1,
       "signals_today": 0
     },
     "funko lote": {
@@ -21,26 +21,26 @@
       "signals_today": 0
     },
     "nintendo switch": {
-      "items_today": 40,
-      "signals_today": 2
+      "items_today": 39,
+      "signals_today": 0
     },
     "juegos nintendo switch": {
-      "items_today": 16,
-      "signals_today": 1
+      "items_today": 14,
+      "signals_today": 0
     },
     "zelda switch": {
-      "items_today": 9,
+      "items_today": 1,
       "signals_today": 0
     },
     "mario switch": {
-      "items_today": 18,
+      "items_today": 6,
       "signals_today": 0
     },
     "vinilo lp": {
-      "items_today": 40,
+      "items_today": 29,
       "signals_today": 0
     }
   },
-  "last_run_items": 133,
-  "last_run_signals": 3
+  "last_run_items": 96,
+  "last_run_signals": 0
 }
