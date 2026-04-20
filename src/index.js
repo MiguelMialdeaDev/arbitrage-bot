@@ -147,11 +147,35 @@ async function run() {
   console.log(`   ${runSignalsCount} señales enviadas`);
   console.log(`   Duración: ${dur}s\n`);
 
+  // Agregado de razones de descarte (para resumen Telegram)
+  const discardsByReason = {};
+  for (const section of Object.values(report.sections)) {
+    for (const item of section.items) {
+      if (item.verdict !== "SIGNAL" && item.reason) {
+        discardsByReason[item.reason] = (discardsByReason[item.reason] || 0) + 1;
+      }
+    }
+  }
+
   // Generar reporte markdown
   report.total_items = runItemsCount;
   report.total_signals = runSignalsCount;
   report.duration_s = dur;
   writeReport(report);
+
+  // Enviar resumen silent a Telegram (no hace sonido, solo para saber que el bot vive)
+  if (!config.DRY_RUN) {
+    try {
+      await notifyRunSummary({
+        total_items: runItemsCount,
+        total_signals: runSignalsCount,
+        duration_s: dur,
+        discards_by_reason: discardsByReason,
+      }, config);
+    } catch (e) {
+      console.warn(`[summary] Error enviando resumen: ${e.message}`);
+    }
+  }
 }
 
 function writeReport(report) {

@@ -63,7 +63,8 @@ async function sendTelegram(msg, opts = {}) {
       chat_id: CHAT_ID,
       text: msg,
       parse_mode: "HTML",
-      disable_web_page_preview: false,
+      disable_web_page_preview: opts.silent ? true : false,
+      disable_notification: !!opts.silent,  // sin sonido si silent=true
     };
     const r = await fetch(url, {
       method: "POST",
@@ -162,23 +163,44 @@ async function notify(wpItem, evalResult, config) {
   return { ok: true, channels: delivered };
 }
 
-async function notifyRunSummary(stats, config) {
+// Resumen del run: se envía SILENT (sin sonido) tras cada ejecución
+// para que veas que el bot está vivo sin molestarte como señal real.
+async function notifyRunSummary(summary, config) {
+  const {
+    total_items, total_signals, duration_s,
+    discards_by_reason = {},
+  } = summary;
+
+  // Top 6 razones de descarte (más comunes primero)
+  const topReasons = Object.entries(discards_by_reason)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 6);
+
   const lines = [
-    `📊 <b>Bot arbitraje · resumen</b>`,
-    `🔄 Runs acumulados: ${stats.runs}`,
-    `📦 Items fetched hoy: ${stats.last_run_items || 0}`,
-    `🎯 Señales nuevas: ${stats.last_run_signals || 0}`,
-    `📨 Total señales enviadas: ${stats.total_signals_sent}`,
+    `📊 <b>Run resumen</b>`,
+    `<i>${total_items} items · ${total_signals} señales · ${duration_s}s</i>`,
     ``,
-    ...Object.entries(stats.by_keyword || {}).map(([k, s]) =>
-      `  · ${k}: ${s.items_today || 0} items, ${s.signals_today || 0} señales`
-    ),
   ];
+
+  if (topReasons.length) {
+    lines.push("<b>Top descartes:</b>");
+    for (const [reason, count] of topReasons) {
+      const short = reason.length > 60 ? reason.slice(0, 57) + "…" : reason;
+      lines.push(`  • ${count}× ${short}`);
+    }
+  } else {
+    lines.push("<i>Sin descartes (no hubo items)</i>");
+  }
+
+  const text = lines.join("\n");
+
   if (config.DRY_RUN) {
-    console.log("[DRY SUMMARY]\n" + lines.join("\n"));
+    console.log("[DRY SUMMARY]\n" + text);
     return;
   }
-  await sendTelegram(lines.join("\n"));
+
+  // Enviar silent (sin sonido) — solo las señales reales hacen sonido
+  await sendTelegram(text, { silent: true });
 }
 
 module.exports = { notify, notifyRunSummary, formatSignal };
