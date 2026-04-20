@@ -72,13 +72,19 @@ jobs:
         run: node src/index.js
 
       - name: 💾 Commit state + reports
-        if: always()
+        if: always() && github.event.inputs.mode != 'test-notify'
         run: |
           git config --local user.email "bot@arbitrage-bot"
           git config --local user.name "Arbitrage Bot"
           git add -f seen_items.json price_cache.json stats.json signals.log reports/ 2>/dev/null || true
           git diff --staged --quiet || git commit -m "chore: update state + report [skip ci]"
-          git push || true
+          # Intentar push hasta 3 veces con pull --rebase en caso de conflicto
+          for i in 1 2 3; do
+            if git push 2>&1; then break; fi
+            echo "Push falló, pull --rebase y reintentar ($i/3)..."
+            git pull --rebase origin main 2>&1 || git rebase --abort
+            sleep 2
+          done
 
       - name: 🚨 Alerta si falla
         if: failure()
