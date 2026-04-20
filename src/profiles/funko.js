@@ -1,0 +1,133 @@
+// ============================================================
+// Perfil: Funko Pop (exclusive / lote / sellado)
+// ============================================================
+// Ganga = Funko con caja en buen estado donde el precio está
+// por debajo del precio eBay.es de esa figura concreta.
+// ============================================================
+
+const { norm, anyKeyword, cleanSearchTerms, hasBadConditionSignal } = require("./_base");
+
+const FUNKO_KEYWORDS = ["funko", "pop vinyl", "pop! "];
+
+const BAD_FUNKO_SIGNALS = [
+  "sin caja", "loose", "solo figura",
+  "caja rota", "caja dañada", "aplastada",
+  "caja doblada", "caja fea", "caja amarilla",
+  "amarillo", "amarillento", "amarilleado",
+  "quemado sol", "descolorido",
+  "pegatina", "precio tachado",
+  "reproducción", "reproduccion",
+];
+
+const EXCLUSIVE_SIGNALS = ["exclusive", "sdcc", "nycc", "eccc", "fyi", "chase", "glow", "metallic", "flocked", "limited", "limitada", "edicion especial"];
+
+function matches(wpItem) {
+  const text = `${wpItem.title} ${wpItem.description}`;
+  return anyKeyword(text, FUNKO_KEYWORDS);
+}
+
+function isViable(wpItem) {
+  const text = `${wpItem.title} ${wpItem.description}`;
+  const textN = norm(text);
+
+  // 1. Señales específicas de mal estado
+  const badSignal = BAD_FUNKO_SIGNALS.find(s => textN.includes(s));
+  if (badSignal) return { ok: false, reason: `funko problema: ${badSignal}` };
+
+  // 2. Mal estado general
+  const generalBad = hasBadConditionSignal(text);
+  if (generalBad) return { ok: false, reason: `estado: ${generalBad}` };
+
+  // 3. Skip lotes REALES (no items individuales con "Or16" prefix u otros códigos)
+  //    Un lote tiene múltiples productos: "Lote X Funkos" o "Pack X Funkos" o "Funkos X y Y"
+  const isRealLot =
+    /^lote\s|^pack\s|\blote\s+de\s|\bpack\s+de\s|\bcoleccion\s+completa|\ball\s+in\s+one/.test(textN) ||
+    /\d{2,}\s+funkos?\b/.test(textN) ||     // "12 funkos" pero no "funko #1234"
+    /\b(y|,)\s+funko/.test(textN);          // "Goku y Funko Freezer"
+  if (isRealLot) return { ok: false, reason: "es lote real, va al perfil funko_lote" };
+
+  // 4. Skip keychains (llaveros) y items pequeños
+  if (/llavero|keychain|funko mini|mystery mini|pocket pop/.test(textN)) {
+    return { ok: false, reason: "no es Pop estándar" };
+  }
+
+  // 5. Detectar si es exclusive/chase (mayor valor)
+  const isExclusive = EXCLUSIVE_SIGNALS.some(s => textN.includes(s));
+  const confidence = isExclusive ? "high" : "medium";
+
+  return { ok: true, confidence, is_exclusive: isExclusive };
+}
+
+function extractSearchQuery(wpItem) {
+  // Para Funko buscamos "Funko Pop + personaje + serie" idealmente
+  const stopwords = ["funko", "pop", "vinyl", "figura", "coleccionable", "nuevo",
+    "sellado", "caja", "original", "autentico", "auténtico", "protector"];
+  const cleaned = cleanSearchTerms(wpItem.title, stopwords);
+  // Asegurar que "Funko" está en la query
+  return `Funko ${cleaned}`.trim();
+}
+
+function estimateEbayPrice(ebayData) {
+  if (!ebayData.prices || ebayData.prices.length < 3) {
+    return { price: 0, confidence: "none" };
+  }
+  // Filtrar outliers: Funkos estándar se venden entre 8€ y 250€
+  const filtered = [...ebayData.prices].filter(p => p >= 8 && p <= 250).sort((a, b) => a - b);
+  if (filtered.length < 3) return { price: 0, confidence: "none" };
+  const median = filtered[Math.floor(filtered.length / 2)];
+  const p25 = filtered[Math.floor(filtered.length * 0.25)];
+  // Conservador
+  const conservativePrice = Math.round((p25 * 0.6 + median * 0.4) * 100) / 100;
+  return {
+    price: conservativePrice,
+    median,
+    p25,
+    count: filtered.length,
+    confidence: filtered.length >= 15 ? "high" : filtered.length >= 7 ? "medium" : "low",
+  };
+}
+
+function scoreMargin(wpItem, ebayEst, config) {
+  const sellPrice = ebayEst.price;
+  const buyPrice = wpItem.price;
+  if (!sellPrice || !buyPrice) return { score: 0, margin_net: 0, margin_pct: 0 };
+
+  const commission = sellPrice * config.EBAY_COMMISSION_RATE;
+  const payment = sellPrice * config.EBAY_PAYMENT_RATE;
+  const margin_net = sellPrice - commission - payment - config.SHIPPING_ES_NATIONAL - config.PACKAGING - buyPrice;
+  const margin_pct = buyPrice > 0 ? (margin_net / buyPrice) * 100 : 0;
+
+  let score = 0;
+  if (margin_pct >= 60) score += 40;
+  else if (margin_pct >= 40) score += 30;
+  else if (margin_pct >= 25) score += 20;
+  else if (margin_pct >= 15) score += 10;
+
+  if (margin_net >= 25) score += 30;
+  else if (margin_net >= 15) score += 25;
+  else if (margin_net >= 10) score += 20;
+  else if (margin_net >= 8) score += 15;
+
+  if (ebayEst.confidence === "high") score += 20;
+  else if (ebayEst.confidence === "medium") score += 10;
+
+  if (wpItem.shipping_ok) score += 5;
+  if (wpItem.reserved) score -= 40;
+
+  return {
+    score: Math.max(0, Math.min(100, score)),
+    margin_net: Math.round(margin_net * 100) / 100,
+    margin_pct: Math.round(margin_pct),
+    sell_price_target: sellPrice,
+    ebay_count: ebayEst.count,
+  };
+}
+
+module.exports = {
+  name: "funko",
+  matches,
+  isViable,
+  extractSearchQuery,
+  estimateEbayPrice,
+  scoreMargin,
+};
