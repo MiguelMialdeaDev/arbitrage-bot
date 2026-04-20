@@ -45,13 +45,13 @@ jobs:
           VERBOSE:            ${{ github.event.inputs.mode == 'verbose' && '1' || '' }}
         run: node src/index.js
 
-      - name: 💾 Commit state
+      - name: 💾 Commit state + reports
         if: always()
         run: |
           git config --local user.email "bot@arbitrage-bot"
           git config --local user.name "Arbitrage Bot"
-          git add -f seen_items.json price_cache.json stats.json signals.log 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "chore: update state [skip ci]"
+          git add -f seen_items.json price_cache.json stats.json signals.log reports/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: update state + report [skip ci]"
           git push || true
 
       - name: 🚨 Alerta si falla

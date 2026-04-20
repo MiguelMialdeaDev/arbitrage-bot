@@ -6,9 +6,18 @@ module.exports = {
   // Keywords a monitorizar en Wallapop
   // Cada keyword se mapea a un perfil según src/evaluator.js
   KEYWORDS: [
-    "vinilo lp",
-    "funko exclusive",
+    // Territorio Miguel (nicho Funko + protectores)
+    "protector funko pop",
+    "funko pop exclusive",
+    "funko pop chase",
     "funko lote",
+    // Nintendo Switch (su domino)
+    "nintendo switch",
+    "juegos nintendo switch",
+    "zelda switch",
+    "mario switch",
+    // Vinilos (donde vimos más arbitraje validado)
+    "vinilo lp",
   ],
 
   // Umbrales de señal
