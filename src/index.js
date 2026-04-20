@@ -60,7 +60,10 @@ async function run() {
       delay: config.WALLAPOP_DELAY,
     });
 
-    const newItems = wpItems.filter(i => !storage.isSeen(seen, i.id));
+    // Si IGNORE_SEEN_ITEMS=true, reprocesa todo cada run (útil mientras afinamos filtros)
+    const newItems = config.IGNORE_SEEN_ITEMS
+      ? wpItems
+      : wpItems.filter(i => !storage.isSeen(seen, i.id));
     runItemsCount += newItems.length;
     runItemsFetched += wpItems.length;
     byKw[keyword] = { items_today: newItems.length, signals_today: 0 };

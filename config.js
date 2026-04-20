@@ -34,6 +34,11 @@ module.exports = {
   // Cache
   EBAY_PRICE_CACHE_TTL_HOURS: 24,
 
+  // Dedup de items ya procesados
+  // true  = reprocesa TODO cada run (útil mientras afinamos filtros)
+  // false = dedup normal, solo procesa items nuevos respecto a seen_items.json
+  IGNORE_SEEN_ITEMS: true,
+
   // Wallapop search
   WALLAPOP_LAT: 40.4168,   // Madrid
   WALLAPOP_LNG: -3.7038,
