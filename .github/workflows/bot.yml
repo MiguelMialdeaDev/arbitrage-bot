@@ -40,6 +40,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC:         ${{ secrets.NTFY_TOPIC }}
           DRY_RUN:            ${{ github.event.inputs.mode == 'dry-run' && '1' || '' }}
           VERBOSE:            ${{ github.event.inputs.mode == 'verbose' && '1' || '' }}
         run: node src/index.js
@@ -53,17 +54,24 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update state [skip ci]"
           git push || true
 
-      - name: 🚨 Alerta Telegram si falla
+      - name: 🚨 Alerta si falla
         if: failure()
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC:         ${{ secrets.NTFY_TOPIC }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
             curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
               -d chat_id="${TELEGRAM_CHAT_ID}" \
               -d parse_mode=HTML \
-              --data-urlencode text="🚨 <b>Arbitrage Bot falló</b>%0ARun: <a href=\"${RUN_URL}\">ver logs</a>" \
-              > /dev/null || true
+              --data-urlencode text="🚨 Arbitrage Bot falló · Run: ${RUN_URL}" > /dev/null || true
+          fi
+          if [ -n "$NTFY_TOPIC" ]; then
+            curl -s -X POST "https://ntfy.sh/${NTFY_TOPIC}" \
+              -H "Title: Arbitrage Bot falló" \
+              -H "Priority: high" \
+              -H "Tags: warning" \
+              -d "Run: ${RUN_URL}" > /dev/null || true
           fi

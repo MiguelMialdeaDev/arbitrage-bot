@@ -39,9 +39,21 @@ DRY_RUN=1 npm start            # corre sin mandar Telegram, solo log
 
 ### GitHub Actions (producción)
 1. Repo público = minutos Actions ilimitados
-2. Secrets requeridos:
-   - `TELEGRAM_BOT_TOKEN` (crear con @BotFather)
-   - `TELEGRAM_CHAT_ID` (tu chat ID, obtén con @userinfobot)
+2. **Elige cómo recibir señales** (uno o varios):
+
+   **Opción A · ntfy.sh** (recomendado, setup 30s, sin registro):
+   - Instala app `ntfy` en móvil (iOS/Android)
+   - Inventa un topic secreto (ej: `miguel-arb-xK7zp9qR`)
+   - Suscríbete a ese topic desde la app
+   - Configura secret `NTFY_TOPIC` en GitHub con ese valor
+
+   **Opción B · Telegram** (bot clásico, setup 2 min):
+   - Crea bot con `@BotFather` → obtén token
+   - Obtén tu chat_id con `@userinfobot`
+   - Configura secrets `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID`
+
+   Los dos pueden estar activos a la vez. El bot mandará por todos los canales configurados.
+
 3. Workflow ejecuta cada 45 min + auto-commit del estado
 
 ## Configuración (`config.js`)

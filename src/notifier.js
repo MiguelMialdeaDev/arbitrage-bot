@@ -7,6 +7,7 @@ const path = require("path");
 const { appendSignalLog } = require("./storage");
 
 const TELEGRAM_API = "https://api.telegram.org/bot";
+const NTFY_URL = "https://ntfy.sh";
 
 function formatSignal(wpItem, evalResult) {
   const emoji = evalResult.margin_pct >= 50 ? "🟢" : evalResult.margin_pct >= 30 ? "🟡" : "🔵";
@@ -44,7 +45,7 @@ async function sendTelegram(msg, opts = {}) {
   const TOKEN = process.env.TELEGRAM_BOT_TOKEN;
   const CHAT_ID = process.env.TELEGRAM_CHAT_ID;
   if (!TOKEN || !CHAT_ID) {
-    return { ok: false, error: "no token/chat configured" };
+    return { ok: false, error: "no token/chat configured", skipped: true };
   }
   try {
     const url = `${TELEGRAM_API}${TOKEN}/sendMessage`;
@@ -60,16 +61,61 @@ async function sendTelegram(msg, opts = {}) {
       body: JSON.stringify(body),
     });
     if (!r.ok) return { ok: false, error: `HTTP ${r.status}`, body: await r.text() };
-    return { ok: true };
+    return { ok: true, channel: "telegram" };
   } catch (e) {
     return { ok: false, error: e.message };
   }
 }
 
+async function sendNtfy(msg, opts = {}) {
+  const TOPIC = process.env.NTFY_TOPIC;
+  if (!TOPIC) return { ok: false, error: "no ntfy topic configured", skipped: true };
+  try {
+    // ntfy no soporta HTML, convertimos a texto plano limpiando tags
+    const plainText = stripHtml(msg);
+    const title = opts.title || "🎯 Ganga detectada";
+    const clickUrl = opts.clickUrl || "";
+    const priority = opts.priority || "high";  // high = notificación push prioritaria
+
+    const r = await fetch(`${NTFY_URL}/${encodeURIComponent(TOPIC)}`, {
+      method: "POST",
+      headers: {
+        "Title": encodeHeader(title),
+        "Priority": priority,
+        "Tags": opts.tags || "moneybag",
+        ...(clickUrl ? { "Click": clickUrl } : {}),
+      },
+      body: plainText,
+    });
+    if (!r.ok) return { ok: false, error: `HTTP ${r.status}` };
+    return { ok: true, channel: "ntfy" };
+  } catch (e) {
+    return { ok: false, error: e.message };
+  }
+}
+
+function stripHtml(s) {
+  return (s || "")
+    .replace(/<b>/gi, "*").replace(/<\/b>/gi, "*")
+    .replace(/<i>/gi, "_").replace(/<\/i>/gi, "_")
+    .replace(/<a\s+href="([^"]+)"[^>]*>([^<]+)<\/a>/gi, "$2 ($1)")
+    .replace(/<[^>]+>/g, "")
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'");
+}
+
+// ntfy HTTP headers no aceptan emoji / UTF-8 directo, usamos RFC 2047
+function encodeHeader(s) {
+  // Solo ASCII → devolver tal cual; else, codificación base64 UTF-8
+  if (/^[\x20-\x7E]+$/.test(s)) return s;
+  const b64 = Buffer.from(s, "utf8").toString("base64");
+  return `=?UTF-8?B?${b64}?=`;
+}
+
 async function notify(wpItem, evalResult, config) {
   const msg = formatSignal(wpItem, evalResult);
 
-  // Log siempre (incluso con Telegram)
+  // Log siempre (incluso si hay Telegram/ntfy)
   const logEntry = `[${new Date().toISOString()}] [${evalResult.score}] ${wpItem.url} · ${wpItem.price}€ → ${evalResult.ebay_price_estimate}€ · +${evalResult.margin_net}€`;
   appendSignalLog(logEntry);
 
@@ -79,11 +125,31 @@ async function notify(wpItem, evalResult, config) {
     return { ok: true, dry: true };
   }
 
-  const result = await sendTelegram(msg);
-  if (!result.ok) {
-    console.warn(`[notifier] Telegram falló: ${result.error}`);
+  // Enviar por TODOS los canales configurados en paralelo (ntfy + telegram si ambos existen)
+  const title = `🎯 Ganga ${evalResult.margin_pct}% · +${evalResult.margin_net}€`;
+  const ntfyOpts = { title, clickUrl: wpItem.url, priority: evalResult.margin_pct >= 50 ? "max" : "high", tags: "moneybag" };
+
+  const [tg, nf] = await Promise.all([
+    sendTelegram(msg),
+    sendNtfy(msg, ntfyOpts),
+  ]);
+
+  const delivered = [tg, nf].filter(r => r.ok).map(r => r.channel);
+  const failures = [tg, nf].filter(r => !r.ok && !r.skipped);
+
+  if (delivered.length === 0) {
+    const reasons = failures.map(f => f.error).concat(
+      [tg.skipped ? "telegram skipped" : null, nf.skipped ? "ntfy skipped" : null].filter(Boolean)
+    ).join("; ");
+    console.warn(`[notifier] Sin canales activos: ${reasons}`);
+    return { ok: false, error: "no channels active" };
   }
-  return result;
+
+  if (failures.length) {
+    console.warn(`[notifier] Algunos canales fallaron:`, failures.map(f => f.error).join(", "));
+  }
+
+  return { ok: true, channels: delivered };
 }
 
 async function notifyRunSummary(stats, config) {
