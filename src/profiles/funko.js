@@ -38,17 +38,17 @@ function isViable(wpItem) {
   const generalBad = hasBadConditionSignal(text);
   if (generalBad) return { ok: false, reason: `estado: ${generalBad}` };
 
-  // 3. Skip lotes REALES (no items individuales con "Or16" prefix u otros códigos)
-  //    Un lote tiene múltiples productos: "Lote X Funkos" o "Pack X Funkos" o "Funkos X y Y"
+  // 3. Skip lotes REALES (usar mismos patrones estrictos que funko_lote.matches())
   const isRealLot =
-    /^lote\s|^pack\s|\blote\s+de\s|\bpack\s+de\s|\bcoleccion\s+completa|\ball\s+in\s+one/.test(textN) ||
-    /\d{2,}\s+funkos?\b/.test(textN) ||     // "12 funkos" pero no "funko #1234"
-    /\b(y|,)\s+funko/.test(textN);          // "Goku y Funko Freezer"
+    /^(lote|pack|colecci(o|ó)n)\s/.test(textN) ||
+    /\b(lote|pack)\s+(de|con)?\s*\d*\s*funkos?\b/.test(textN) ||
+    /^\d{1,3}\s+funkos?\b/.test(textN) ||
+    /\b(colecci(o|ó)n\s+completa|set\s+completo|todos\s+los\s+funkos)\b/.test(textN);
   if (isRealLot) return { ok: false, reason: "es lote real, va al perfil funko_lote" };
 
-  // 4. Skip keychains (llaveros) y items pequeños
-  if (/llavero|keychain|funko mini|mystery mini|pocket pop/.test(textN)) {
-    return { ok: false, reason: "no es Pop estándar" };
+  // 4. Skip keychains, kinder joy funkos y items pequeños (no son Pop estándar)
+  if (/\bkinder\b|\bhuevo\s+sorpresa\b|\bllavero|keychain|funko\s+mini|mystery\s+mini|pocket\s+pop\b|\bmu[ñn]ecos?\s+funko/.test(textN)) {
+    return { ok: false, reason: "no es Pop estándar (kinder/mini/llavero)" };
   }
 
   // 5. Detectar si es exclusive/chase (mayor valor)

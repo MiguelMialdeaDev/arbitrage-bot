@@ -12,25 +12,35 @@ const { norm, anyKeyword, hasBadConditionSignal } = require("./_base");
 
 function matches(wpItem) {
   const t = norm(wpItem.title);
-  // Sólo matchea si realmente parece un lote
+  // Heurísticas estrictas para lote REAL (evitar falsos positivos tipo "Or16 Funko")
   const isLote =
-    /^lote\s|^pack\s|\blote\s+de\s|\bpack\s+de\s|\bcoleccion\s+completa/.test(t) ||
-    /\d{2,}\s+funkos?\b/.test(t);
+    // Título empieza con "Lote ..." o "Pack ..."
+    /^(lote|pack|colecci(o|ó)n)\s/.test(t) ||
+    // "lote de X" o "pack de X funkos"
+    /\b(lote|pack)\s+(de|con)?\s*\d*\s*funkos?\b/.test(t) ||
+    // Número al PRINCIPIO de título seguido de funkos (ej: "12 Funkos de Stranger Things")
+    /^\d{1,3}\s+funkos?\b/.test(t) ||
+    // "colección completa" / "set completo" / "todos los funkos"
+    /\b(colecci(o|ó)n\s+completa|set\s+completo|todos\s+los\s+funkos)\b/.test(t) ||
+    // Patrones plurales claros: "X + Y funkos" o "X funkos y Z funkos"
+    /funkos\b.*\b(y|,|\+)\b.*funkos?\b/.test(t);
   return isLote && /funko|pop/.test(t);
 }
 
 function extractCount(text) {
   const t = norm(text);
   // "lote de 7 funkos", "pack 5 funkos", "15 figuras funko", etc
-  let m = t.match(/(\d{1,2})\s*(funkos?|figuras|unidades|pop)/);
+  let m = t.match(/(\d{1,2})\s*(funkos?|figuras|unidades|pops?)\b/);
   if (m) return parseInt(m[1], 10);
-  m = t.match(/lote\s+(\d{1,2})/);
+  m = t.match(/(?:lote|pack)\s+(\d{1,2})/);
   if (m) return parseInt(m[1], 10);
-  m = t.match(/pack\s+(\d{1,2})/);
-  if (m) return parseInt(m[1], 10);
-  // Contar menciones de personajes (aproximación)
-  const chars = (text.match(/[A-Z][a-z]+/g) || []).length;
-  return Math.max(3, Math.min(10, Math.round(chars / 3)));
+  // Para casos ambiguos: contar conjunciones ("y", "+", ",") entre nombres de personajes
+  // Si hay al menos 2 conjunciones, probable lote de 3+
+  const conjunctions = (t.match(/\s+(y|,|\+|&)\s+/g) || []).length;
+  if (conjunctions >= 2) return Math.min(5, conjunctions + 1);
+  if (conjunctions === 1) return 2;
+  // Default conservador: no podemos determinar → no tratar como lote grande
+  return 0;
 }
 
 function isViable(wpItem) {
@@ -49,7 +59,7 @@ function isViable(wpItem) {
   }
 
   const count = extractCount(text);
-  if (count < 3) return { ok: false, reason: "menos de 3 figuras, no es lote rentable" };
+  if (count < 3) return { ok: false, reason: `count=${count} < 3, no es lote claro` };
 
   return { ok: true, confidence: count >= 5 ? "high" : "medium", figures_count: count };
 }
