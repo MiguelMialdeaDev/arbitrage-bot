@@ -17,18 +17,17 @@ const USD_TO_EUR = 0.92;
 
 async function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-async function fetchSoldPricesFromDomain(query, domain) {
-  const url = `https://www.ebay.${domain}/sch/i.html?_nkw=${encodeURIComponent(query)}&LH_Sold=1&LH_Complete=1&_ipg=120`;
+async function fetchListingFromDomain(query, domain, soldMode) {
+  const soldParam = soldMode ? "&LH_Sold=1&LH_Complete=1" : "";
+  const url = `https://www.ebay.${domain}/sch/i.html?_nkw=${encodeURIComponent(query)}${soldParam}&_ipg=120`;
   try {
     const r = await fetch(url, { headers: HEADERS, redirect: "follow" });
     if (!r.ok) return { prices: [], error: `HTTP ${r.status}`, domain };
-    // Detectar redirección a splash challenge (anti-bot)
     if (r.url.includes("/splashui/challenge") || r.url.includes("captcha")) {
       return { prices: [], error: "blocked by captcha", domain };
     }
     const html = await r.text();
     if (!html || html.length < 5000) return { prices: [], error: "empty response", domain };
-    // Detectar challenge en el body
     if (/splashui\/challenge|captcha|Bitte bestätigen Sie/i.test(html)) {
       return { prices: [], error: "captcha in body", domain };
     }
@@ -37,6 +36,14 @@ async function fetchSoldPricesFromDomain(query, domain) {
   } catch (e) {
     return { prices: [], error: e.message, domain };
   }
+}
+
+async function fetchSoldPricesFromDomain(query, domain) {
+  return fetchListingFromDomain(query, domain, true);
+}
+
+async function fetchActiveFromDomain(query, domain) {
+  return fetchListingFromDomain(query, domain, false);
 }
 
 // Intenta eBay.es, si falla hace fallback a eBay.de
@@ -50,11 +57,52 @@ async function fetchSoldPrices(query, opts = {}) {
       return result;
     }
     lastError = result.error;
-    // Delay corto entre fallbacks
     await sleep(500);
   }
   await sleep(delay);
   return { prices: [], error: lastError || "no data", query };
+}
+
+// Fetch combinado: sold + active. Da señal de demanda y competencia.
+// - sold_count: vendidos recientes (≈ 90 días)
+// - active_count: compiten contigo ahora mismo
+// - velocity_ratio: sold/active → >1 rápido, <0.5 saturado
+async function fetchMarketData(query, opts = {}) {
+  const { delay = 1500, domains = ["es", "de"] } = opts;
+  let soldResult = { prices: [], domain: null };
+  let activeResult = { prices: [], domain: null };
+  let lastError = null;
+
+  for (const domain of domains) {
+    const [sold, active] = await Promise.all([
+      fetchSoldPricesFromDomain(query, domain),
+      fetchActiveFromDomain(query, domain),
+    ]);
+    // Acepta el dominio si sold da datos útiles
+    if (sold.prices && sold.prices.length >= 3) {
+      soldResult = sold;
+      activeResult = active;
+      break;
+    }
+    lastError = sold.error;
+    await sleep(500);
+  }
+
+  await sleep(delay);
+
+  const soldCount = soldResult.prices?.length || 0;
+  const activeCount = activeResult.prices?.length || 0;
+  const velocityRatio = activeCount > 0 ? soldCount / activeCount : null;
+
+  return {
+    sold: soldResult.prices || [],
+    active: activeResult.prices || [],
+    sold_count: soldCount,
+    active_count: activeCount,
+    velocity_ratio: velocityRatio,
+    domain: soldResult.domain,
+    error: soldCount === 0 ? lastError : null,
+  };
 }
 
 // Extrae precios desde s-card__price y hace matching por aria-label + precio
@@ -146,4 +194,4 @@ function estimateCompetitivePrice(prices, minRepetitions = 3, tolerance = 0.15) 
   return null;
 }
 
-module.exports = { fetchSoldPrices, extractPrices, stats, estimateCompetitivePrice };
+module.exports = { fetchSoldPrices, fetchMarketData, extractPrices, stats, estimateCompetitivePrice };

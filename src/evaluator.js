@@ -45,18 +45,37 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
     return { pass: false, reason: "título sin términos útiles", profile: profile.name };
   }
 
-  // 3. Obtener precios eBay (cache o fetch)
-  let ebayData = cache.getCached(searchQuery);
+  // 3. Obtener datos de mercado eBay (sold + active, con cache o fetch)
+  let marketData = cache.getCached(searchQuery);
   let fromCache = true;
-  if (!ebayData) {
+  if (!marketData || typeof marketData.sold_count === "undefined") {
     fromCache = false;
-    const fetched = await ebay.fetchSoldPrices(searchQuery);
-    ebayData = fetched;
+    const fetched = await ebay.fetchMarketData(searchQuery);
+    marketData = fetched;
     cache.setCached(searchQuery, fetched);
   }
 
+  // Normalizamos: el evaluator espera ebayData.prices (mantener compatibilidad con perfiles)
+  const ebayData = { prices: marketData.sold || [] };
+
   if (!ebayData.prices || ebayData.prices.length < 3) {
     return { pass: false, reason: `eBay sin datos (${ebayData.prices?.length || 0})`, profile: profile.name, query: searchQuery };
+  }
+
+  // 3.1. Filtro de salud de mercado: ratio sold/active
+  //   >1.5 → demanda alta, rápida rotación
+  //   0.5-1.5 → equilibrio
+  //   <0.5 → mercado saturado, tu item tarda en venderse
+  const velocity = marketData.velocity_ratio;
+  if (velocity !== null && velocity < 0.3 && marketData.active_count > 15) {
+    return {
+      pass: false,
+      reason: `mercado saturado (${marketData.sold_count} sold vs ${marketData.active_count} active)`,
+      profile: profile.name,
+      query: searchQuery,
+      sold_count: marketData.sold_count,
+      active_count: marketData.active_count,
+    };
   }
 
   // 4. Estimar precio de venta
@@ -86,6 +105,9 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
     score: score.score,
     viability,
     from_cache: fromCache,
+    sold_count: marketData.sold_count,
+    active_count: marketData.active_count,
+    velocity_ratio: marketData.velocity_ratio,
   };
 }
 
