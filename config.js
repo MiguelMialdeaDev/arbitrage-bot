@@ -37,7 +37,7 @@ module.exports = {
   // Dedup de items ya procesados
   // true  = reprocesa TODO cada run (útil mientras afinamos filtros)
   // false = dedup normal, solo procesa items nuevos respecto a seen_items.json
-  IGNORE_SEEN_ITEMS: true,
+  IGNORE_SEEN_ITEMS: false,
 
   // Wallapop search
   WALLAPOP_LAT: 40.4168,   // Madrid
