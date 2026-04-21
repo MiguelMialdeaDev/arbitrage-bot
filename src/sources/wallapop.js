@@ -46,6 +46,40 @@ async function search(keyword, opts = {}) {
     .map(normalize);
 }
 
+// Búsqueda por categoría (sin keyword). Cubre universos enteros sin sesgarnos.
+// Endpoint: source=facets&category_ids=X. Devuelve newest por defecto.
+async function searchByCategory(categoryId, opts = {}) {
+  const {
+    lat = 40.4168, lng = -3.7038,
+    pages = 3,
+    delay = 800,
+  } = opts;
+
+  const all = [];
+  for (let p = 0; p < pages; p++) {
+    const url = `https://api.wallapop.com/api/v3/search?source=facets&filters_source=facets&category_ids=${categoryId}&latitude=${lat}&longitude=${lng}&order_by=newest&start=${p * 40}`;
+    try {
+      const r = await fetch(url, { headers: HEADERS });
+      if (!r.ok) {
+        console.warn(`[wallapop] HTTP ${r.status} en categoría ${categoryId} p${p}`);
+        continue;
+      }
+      const j = await r.json();
+      const items = j?.data?.section?.payload?.items || [];
+      all.push(...items);
+      if (items.length < 40) break;
+      await sleep(delay);
+    } catch (e) {
+      console.warn(`[wallapop] Error en categoría ${categoryId} p${p}:`, e.message);
+    }
+  }
+
+  const seen = new Set();
+  return all
+    .filter(i => { if (seen.has(i.id)) return false; seen.add(i.id); return true; })
+    .map(normalize);
+}
+
 function normalize(i) {
   return {
     id: i.id,
@@ -132,4 +166,4 @@ async function searchSimilarItems(query, opts = {}) {
   };
 }
 
-module.exports = { search, getUserStats, searchSimilarItems };
+module.exports = { search, searchByCategory, getUserStats, searchSimilarItems };
