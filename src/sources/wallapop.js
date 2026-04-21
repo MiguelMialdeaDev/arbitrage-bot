@@ -94,22 +94,41 @@ async function getUserStats(userId, delay = 500) {
   }
 }
 
-// Búsqueda secundaria: items similares a uno dado, separando activos y reservados.
-// Útil para validar "precio de mercado real" en Wallapop (no solo eBay).
-// Los reservados son señal fuerte: alguien los está comprando AHORA.
+// Análisis de mercado de un producto en Wallapop.
+// Devuelve foto completa: activos, reservados, vendedores únicos (competencia),
+// precios mínimos/mediana, samples para inspección.
 async function searchSimilarItems(query, opts = {}) {
-  const { lat = 40.4168, lng = -3.7038, pages = 2, delay = 600 } = opts;
+  const { lat = 40.4168, lng = -3.7038, pages = 3, delay = 600 } = opts;
   const items = await search(query, { lat, lng, pages, delay });
   const active = items.filter(i => !i.reserved);
   const reserved = items.filter(i => i.reserved);
+  const activePrices = active.map(i => i.price).filter(p => p >= 3).sort((a, b) => a - b);
+  const reservedPrices = reserved.map(i => i.price).filter(p => p >= 3).sort((a, b) => a - b);
+
+  // Vendedores únicos = medida de competencia
+  const uniqueSellers = new Set(items.map(i => i.user_id)).size;
+  const uniqueActiveSellers = new Set(active.map(i => i.user_id)).size;
+
+  const median = arr => arr.length ? arr[Math.floor(arr.length / 2)] : null;
+
   return {
     query,
     total: items.length,
     active_count: active.length,
     reserved_count: reserved.length,
-    active_prices: active.map(i => i.price).filter(p => p >= 3),
-    reserved_prices: reserved.map(i => i.price).filter(p => p >= 3),
-    reserved_items: reserved.slice(0, 5),  // muestra hasta 5 reservados
+    unique_sellers: uniqueSellers,
+    unique_active_sellers: uniqueActiveSellers,
+    active_prices: activePrices,
+    reserved_prices: reservedPrices,
+    active_min: activePrices[0] || null,
+    active_median: median(activePrices),
+    active_max: activePrices[activePrices.length - 1] || null,
+    reserved_min: reservedPrices[0] || null,
+    reserved_median: median(reservedPrices),
+    reserved_max: reservedPrices[reservedPrices.length - 1] || null,
+    reserved_items: reserved.slice(0, 5),
+    active_items: active.slice(0, 10),
+    all_items: items,
   };
 }
 

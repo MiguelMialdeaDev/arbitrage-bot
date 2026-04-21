@@ -101,73 +101,101 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   const ebayEst = { price: 0, count: 0, confidence: "none" };
   const fromCache = false;
 
-  // 4.5. MODO RESERVADOS (SOLO funko por ahora):
-  //   Buscar items RESERVADOS del mismo producto en Wallapop. Los reservados
-  //   son el "precio de venta real" confirmado (alguien los está comprando AHORA).
-  //   - Si no encuentra ningún reservado del mismo producto → skip (no hay evidencia
-  //     de que ese Funko se venda a precios mayores)
-  //   - Si encuentra reservados y nuestro item está por debajo con suficiente margen
-  //     → señal
-  //   - Excluimos el propio item (wpItem.id) para evitar self-reference
+  // 4.5. ANÁLISIS DE MERCADO WALLAPOP (SOLO funko por ahora)
+  //   Para cada Funko, miramos el mercado completo del MISMO producto:
+  //     · ¿cuántos hay reservados? (demanda confirmada)
+  //     · ¿a qué precio los reservados? (precio de venta real)
+  //     · ¿cuántos activos? (oferta actual)
+  //     · ¿a qué precio los activos? (competencia)
+  //     · ¿cuántos vendedores únicos? (concentración del mercado)
+  //     · ¿nuestro precio vs precio mínimo reservado? (si ganga real)
+  //     · ¿nuestro precio vs precio mínimo activo? (competencia directa)
   let wallapopCheck = null;
   if (profile.name === "funko") {
     try {
-      // Buscamos con query que incluye el número del Funko (#509, 1339…)
-      // para que los resultados sean del MISMO producto, no Funkos genéricos.
-      const wpSimilar = await wallapopSource.searchSimilarItems(searchQuery, { pages: 3 });
+      const market = await wallapopSource.searchSimilarItems(searchQuery, { pages: 3 });
 
-      // Excluir el propio item del conjunto (fix self-reference)
-      const reservedOthers = (wpSimilar.reserved_items || [])
-        .filter(it => it.id !== wpItem.id)
-        .map(it => ({ id: it.id, price: it.price, title: it.title, city: it.city }));
-      const reservedPrices = reservedOthers.map(it => it.price).filter(p => p >= 3);
+      // Excluir nuestro propio item del análisis (fix self-reference)
+      const reservedOthers = (market.reserved_items || []).filter(it => it.id !== wpItem.id);
+      const activeOthers = (market.active_items || []).filter(it => it.id !== wpItem.id);
+      const reservedPrices = reservedOthers.map(it => it.price).filter(p => p >= 3).sort((a,b)=>a-b);
+      const activePrices = activeOthers.map(it => it.price).filter(p => p >= 3).sort((a,b)=>a-b);
 
-      const reservedMedian = reservedPrices.length
-        ? [...reservedPrices].sort((a, b) => a - b)[Math.floor(reservedPrices.length / 2)]
-        : null;
-      const reservedMin = reservedPrices.length ? Math.min(...reservedPrices) : null;
+      // Vendedores únicos (competencia) excluyendo al vendedor del propio item
+      const allOthers = market.all_items.filter(it => it.id !== wpItem.id);
+      const uniqueSellers = new Set(allOthers.map(it => it.user_id)).size;
+      const uniqueActiveSellers = new Set(activeOthers.map(it => it.user_id)).size;
+
+      const median = arr => arr.length ? arr[Math.floor(arr.length / 2)] : null;
+      const reservedMedian = median(reservedPrices);
+      const reservedMin = reservedPrices[0] || null;
+      const activeMedian = median(activePrices);
+      const activeMin = activePrices[0] || null;
 
       wallapopCheck = {
         query: searchQuery,
-        active_count: wpSimilar.active_count,
         reserved_count: reservedOthers.length,
-        reserved_median: reservedMedian,
         reserved_min: reservedMin,
-        reserved_samples: reservedOthers.slice(0, 3),
+        reserved_median: reservedMedian,
+        active_count: activeOthers.length,
+        active_min: activeMin,
+        active_median: activeMedian,
+        unique_sellers: uniqueSellers,
+        unique_active_sellers: uniqueActiveSellers,
+        reserved_samples: reservedOthers.slice(0, 3).map(it => ({ price: it.price, title: (it.title||'').slice(0,60), city: it.city })),
       };
 
-      // Regla nueva: exigir al menos 1 reservado distinto al nuestro.
-      //   Si 0 reservados → no hay evidencia de ventas a precios mayores → skip
+      // Regla 1: exigir al menos 1 reservado del mismo producto
+      //   (demanda confirmada: alguien ya lo está comprando)
       if (reservedOthers.length < 1) {
         return {
           pass: false,
-          reason: `sin reservados del mismo producto en Wallapop (query: "${searchQuery}")`,
-          profile: profile.name,
-          query: searchQuery,
-          wallapop_check: wallapopCheck,
+          reason: `0 reservados de '${searchQuery}' (sin evidencia de demanda)`,
+          profile: profile.name, query: searchQuery, wallapop_check: wallapopCheck,
         };
       }
 
-      // Regla: el precio de nuestro item debe estar al menos 30% POR DEBAJO del
-      // precio mínimo reservado (no el mediano, para ser conservadores: la ganga
-      // tiene que venderse más barata que el más barato ya reservado).
-      const threshold = reservedMin * 0.7;
-      if (wpItem.price > threshold) {
+      // Regla 2: el MÍNIMO reservado debe ser claramente mayor que nuestro precio.
+      //   (de nada sirve que haya reservados si son al mismo precio)
+      //   Ser conservador: ganga clara = al menos 30% por debajo del MÍN reservado.
+      if (wpItem.price > reservedMin * 0.7) {
         return {
           pass: false,
-          reason: `precio ${wpItem.price}€ >= 70% del mín reservado ${reservedMin}€ (no es ganga clara)`,
-          profile: profile.name,
-          query: searchQuery,
-          wallapop_check: wallapopCheck,
+          reason: `${wpItem.price}€ vs mín reservado ${reservedMin}€ (margen <30%, no es ganga clara)`,
+          profile: profile.name, query: searchQuery, wallapop_check: wallapopCheck,
+        };
+      }
+
+      // Regla 3: competencia manejable.
+      //   Si hay muchos vendedores activos con precios similares, competir es difícil.
+      //   Permitimos hasta 8 vendedores únicos activos. Más = saturado.
+      if (uniqueActiveSellers > 8) {
+        return {
+          pass: false,
+          reason: `competencia alta: ${uniqueActiveSellers} vendedores activos del mismo producto`,
+          profile: profile.name, query: searchQuery, wallapop_check: wallapopCheck,
+        };
+      }
+
+      // Regla 4: consistencia de precios activos.
+      //   Si el mínimo activo es MUY bajo comparado con los reservados, algo raro
+      //   (producto difícil de vender, múltiples gangas sin vender).
+      //   Si el min activo está por encima de nuestro precio pero >50% del min reservado
+      //   → nuestro item es verdadera ganga (más barato que resto activos y reservados)
+      if (activeMin !== null && activeMin < reservedMin * 0.5) {
+        // Muchos activos muy baratos = probablemente nicho saturado o producto genérico
+        return {
+          pass: false,
+          reason: `activos saturados (mín activo ${activeMin}€ vs mín reservado ${reservedMin}€)`,
+          profile: profile.name, query: searchQuery, wallapop_check: wallapopCheck,
         };
       }
     } catch (e) {
-      console.warn(`[evaluator] Wallapop reservados falló: ${e.message}`);
+      console.warn(`[evaluator] Wallapop market analysis falló: ${e.message}`);
       return {
         pass: false,
-        reason: `error buscando reservados Wallapop: ${e.message}`,
-        profile: profile.name,
-        query: searchQuery,
+        reason: `error análisis Wallapop: ${e.message}`,
+        profile: profile.name, query: searchQuery,
       };
     }
   }

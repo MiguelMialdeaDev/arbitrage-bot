@@ -12,17 +12,19 @@ const NTFY_URL = "https://ntfy.sh";
 function formatSignal(wpItem, evalResult) {
   const emoji = evalResult.margin_pct >= 50 ? "🟢" : evalResult.margin_pct >= 30 ? "🟡" : "🔵";
 
-  // Precio de referencia: Wallapop-only si hay wallapop_check con reservados,
-  // si no, eBay estimate tradicional.
-  let priceRefLine;
-  if (evalResult.wallapop_check?.reserved_median) {
+  // Análisis de mercado Wallapop
+  const marketLines = [];
+  if (evalResult.wallapop_check) {
     const wc = evalResult.wallapop_check;
-    priceRefLine = `💰 Wallapop: <b>${wpItem.price}€</b> → reservados median: ${wc.reserved_median}€ (${wc.reserved_count} reservados, ${wc.active_count} activos)`;
+    marketLines.push(`💰 <b>${wpItem.price}€</b> vs mín reservado <b>${wc.reserved_min}€</b>`);
+    marketLines.push(`📦 Reservados: ${wc.reserved_count} (mediana ${wc.reserved_median || '?'}€)`);
+    marketLines.push(`📊 Activos: ${wc.active_count} (mín ${wc.active_min || '?'}€)`);
+    marketLines.push(`👥 Competencia: ${wc.unique_active_sellers} vendedores activos`);
   } else {
-    const confidence = evalResult.ebay_confidence === "high" ? "✓ alta" :
-                       evalResult.ebay_confidence === "medium" ? "○ media" : "· baja";
-    priceRefLine = `💰 Wallapop: <b>${wpItem.price}€</b> → eBay est: ${evalResult.ebay_price_estimate}€ (${evalResult.ebay_count} sold, ${confidence})`;
+    const confidence = evalResult.ebay_confidence === "high" ? "✓ alta" : "○ media";
+    marketLines.push(`💰 Wallapop: <b>${wpItem.price}€</b> → eBay: ${evalResult.ebay_price_estimate}€ (${evalResult.ebay_count} sold, ${confidence})`);
   }
+  const priceRefLine = marketLines.join("\n");
 
   const lines = [
     `${emoji} <b>GANGA ${evalResult.margin_pct}% · +${evalResult.margin_net}€</b>`,
