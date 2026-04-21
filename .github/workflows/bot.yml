@@ -2,10 +2,17 @@ name: Arbitrage Bot
 
 on:
   schedule:
-    # Minutos explícitos (5,20,35,50) en vez de '*/15' porque GitHub Actions
-    # throttle agresivamente los cron wildcard y terminaba corriendo 1/hora.
-    # Ver: https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
-    - cron: '5,20,35,50 * * * *'
+    # GitHub Actions throttlea agresivamente los cron de repos gratuitos.
+    # Aunque declaremos cada 15min, en la práctica termina siendo ~1/hora
+    # con saltos (verificado con gh run list). Para conseguir cadencia real
+    # de 15min configuramos un cron EXTERNO (cron-job.org gratis) que dispare
+    # workflow_dispatch vía API GitHub. Los dispatch manuales NO se throttlean.
+    # Ver CRON_SETUP.md con los pasos exactos.
+    #
+    # Estas líneas scheduled quedan como red de seguridad: si el cron externo
+    # se cae, GitHub igual corre el bot aprox 1/hora.
+    - cron: '7 * * * *'
+    - cron: '37 * * * *'
   workflow_dispatch:
     inputs:
       mode:
