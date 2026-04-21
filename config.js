@@ -3,21 +3,17 @@
 // ============================================================
 
 module.exports = {
-  // Keywords a monitorizar en Wallapop
-  // Cada keyword se mapea a un perfil según src/evaluator.js
-  KEYWORDS: [
-    // Territorio Miguel (nicho Funko + protectores)
-    "protector funko pop",
-    "funko pop exclusive",
-    "funko pop chase",
-    "funko lote",
-    // Nintendo Switch (su domino)
-    "nintendo switch",
-    "juegos nintendo switch",
-    "zelda switch",
-    "mario switch",
-    // Vinilos (donde vimos más arbitraje validado)
-    "vinilo lp",
+  // Categorías Wallapop a escanear (sin filtro de keywords).
+  // Cubrimos universos enteros para dejar que los datos nos digan
+  // qué se vende, en lugar de decidirlo nosotros a priori.
+  //
+  // IDs reales del endpoint /api/v3/categories?locale=es_ES
+  CATEGORIES: [
+    { id: 18000, name: "Coleccionismo",           pages: 3 },  // Funkos, figuras, cromos, cartas
+    { id: 24200, name: "Tecnología y electrónica", pages: 3 }, // Consolas, gadgets, auriculares
+    { id: 12463, name: "Cine, libros y música",    pages: 3 }, // Vinilos, CDs, libros, videojuegos
+    { id: 12579, name: "Deporte y ocio",           pages: 2 }, // Juegos mesa, hobbies, coleccionables
+    { id: 12461, name: "Niños y bebés",            pages: 2 }, // Juguetes, figuras, Lego
   ],
 
   // Umbrales de señal
@@ -42,7 +38,7 @@ module.exports = {
   // Wallapop search
   WALLAPOP_LAT: 40.4168,   // Madrid
   WALLAPOP_LNG: -3.7038,
-  WALLAPOP_PAGES: 2,        // 2 páginas = 80 items por keyword
+  WALLAPOP_PAGES: 3,        // default si CATEGORIES no especifica
 
   // Rate limiting (ms entre requests)
   WALLAPOP_DELAY: 800,
