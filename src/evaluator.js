@@ -46,6 +46,13 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
     return { pass: false, reason: "título sin términos útiles", profile: profile.name };
   }
 
+  // ============================================================
+  // EBAY DESACTIVADO temporalmente (por decisión explícita de Miguel)
+  // Vamos paso a paso: primero validar Wallapop-only para Funko,
+  // luego re-habilitamos eBay como fuente complementaria.
+  // Para re-activar: descomentar el bloque de abajo y quitar el stub.
+  // ============================================================
+  /*
   // 3. Obtener datos de mercado eBay (sold + active, con cache o fetch)
   let marketData = cache.getCached(searchQuery);
   let fromCache = true;
@@ -84,6 +91,15 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   if (!ebayEst.price) {
     return { pass: false, reason: "no se puede estimar precio eBay", profile: profile.name };
   }
+  */
+
+  // Stub mientras eBay está desactivado: datos vacíos para que el resto del
+  // flujo no rompa. ebayEst.price=0 hará que la decisión dependa 100% del
+  // cross-check Wallapop en perfiles que lo implementan (funko).
+  const marketData = { sold: [], active: [], sold_count: 0, active_count: 0, velocity_ratio: null };
+  const ebayData = { prices: [] };
+  const ebayEst = { price: 0, count: 0, confidence: "none" };
+  const fromCache = false;
 
   // 4.5. Cross-check Wallapop (SOLO funko por ahora, nicho por nicho)
   //   La idea: si se supone que esto es ganga, debería haber evidencia EN Wallapop
@@ -136,15 +152,49 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   }
 
   // 5. Score y margen
-  const score = profile.scoreMargin(wpItem, ebayEst, config);
+  //    Modo Wallapop-only para Funko: usar mediana de reservados como precio target.
+  //    Para otros perfiles con eBay desactivado: skip (no pueden evaluar).
+  let score;
+  if (profile.name === "funko" && wallapopCheck?.reserved_median) {
+    // Calcular margen Wallapop→Wallapop: compra a wpItem.price, revende al
+    // precio mediano de los reservados. Envío nacional ~4.50€.
+    const sellPrice = wallapopCheck.reserved_median;
+    const buyPrice = wpItem.price;
+    const margin_net = sellPrice - config.SHIPPING_ES_NATIONAL - config.PACKAGING - buyPrice;
+    const margin_pct = buyPrice > 0 ? Math.round((margin_net / buyPrice) * 100) : 0;
+    let s = 0;
+    if (margin_pct >= 60) s += 40;
+    else if (margin_pct >= 40) s += 30;
+    else if (margin_pct >= 25) s += 20;
+    else if (margin_pct >= 15) s += 10;
+    if (margin_net >= 20) s += 30;
+    else if (margin_net >= 12) s += 20;
+    else if (margin_net >= 8) s += 15;
+    // Bonus por más reservados (mayor confianza en precio target)
+    if (wallapopCheck.reserved_count >= 5) s += 20;
+    else if (wallapopCheck.reserved_count >= 3) s += 15;
+    else if (wallapopCheck.reserved_count >= 2) s += 10;
+    if (wpItem.shipping_ok) s += 5;
+    if (wpItem.reserved) s -= 40;
+    score = {
+      score: Math.max(0, Math.min(100, s)),
+      margin_net: Math.round(margin_net * 100) / 100,
+      margin_pct,
+      sell_price_target: sellPrice,
+      ebay_count: 0,
+    };
+  } else {
+    // Resto de perfiles: scoreMargin con ebayEst (que ahora es stub vacío).
+    // Con eBay desactivado, cualquier perfil no-funko devolverá score=0 y skipea.
+    score = profile.scoreMargin(wpItem, ebayEst, config);
+  }
 
-  // Safeguard universal: si el spread es extremo (>300% margen), es casi seguro que
-  // la query eBay está comparando producto incorrecto (ej: funda vs consola).
-  // Mejor falso negativo que falso positivo masivo.
+  // Safeguard universal: si el spread es extremo (>300% margen), es casi seguro
+  // que la query está comparando producto incorrecto.
   if (score.margin_pct > 300) {
     return {
       pass: false,
-      reason: `spread extremo sospechoso (${score.margin_pct}%): probable query eBay mal calibrada`,
+      reason: `spread extremo sospechoso (${score.margin_pct}%): probable query mal calibrada`,
       profile: profile.name,
       query: searchQuery,
       ebay_price_estimate: ebayEst.price,

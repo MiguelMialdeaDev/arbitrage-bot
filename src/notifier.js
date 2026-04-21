@@ -11,24 +11,24 @@ const NTFY_URL = "https://ntfy.sh";
 
 function formatSignal(wpItem, evalResult) {
   const emoji = evalResult.margin_pct >= 50 ? "🟢" : evalResult.margin_pct >= 30 ? "🟡" : "🔵";
-  const confidence = evalResult.ebay_confidence === "high" ? "✓ alta" :
-                     evalResult.ebay_confidence === "medium" ? "○ media" : "· baja";
 
-  // Velocidad de mercado
-  let velocityLine = "";
-  if (evalResult.sold_count !== undefined && evalResult.active_count !== undefined) {
-    const vr = evalResult.velocity_ratio;
-    const velocityEmoji = vr >= 1.5 ? "🚀" : vr >= 0.8 ? "🟢" : vr >= 0.4 ? "🟡" : "🐌";
-    const velocityLabel = vr >= 1.5 ? "demanda alta" : vr >= 0.8 ? "equilibrado" : vr >= 0.4 ? "lento" : "saturado";
-    velocityLine = `${velocityEmoji} ${evalResult.sold_count} sold / ${evalResult.active_count} active · ${velocityLabel}`;
+  // Precio de referencia: Wallapop-only si hay wallapop_check con reservados,
+  // si no, eBay estimate tradicional.
+  let priceRefLine;
+  if (evalResult.wallapop_check?.reserved_median) {
+    const wc = evalResult.wallapop_check;
+    priceRefLine = `💰 Wallapop: <b>${wpItem.price}€</b> → reservados median: ${wc.reserved_median}€ (${wc.reserved_count} reservados, ${wc.active_count} activos)`;
+  } else {
+    const confidence = evalResult.ebay_confidence === "high" ? "✓ alta" :
+                       evalResult.ebay_confidence === "medium" ? "○ media" : "· baja";
+    priceRefLine = `💰 Wallapop: <b>${wpItem.price}€</b> → eBay est: ${evalResult.ebay_price_estimate}€ (${evalResult.ebay_count} sold, ${confidence})`;
   }
 
   const lines = [
     `${emoji} <b>GANGA ${evalResult.margin_pct}% · +${evalResult.margin_net}€</b>`,
     ``,
     `📦 <b>${escapeHtml(truncate(wpItem.title, 80))}</b>`,
-    `💰 Wallapop: <b>${wpItem.price}€</b> → eBay est: ${evalResult.ebay_price_estimate}€ (${evalResult.ebay_count} sold, ${confidence})`,
-    velocityLine,
+    priceRefLine,
     `📍 ${wpItem.city || "?"}${wpItem.region ? `, ${wpItem.region}` : ""}`,
     `⏱️ hace ${ageMinutes(wpItem.created_at)} min`,
     `🏷️ ${evalResult.profile}${evalResult.viability?.is_exclusive ? " · exclusive" : ""}${evalResult.viability?.grade_hint ? ` · ${evalResult.viability.grade_hint}` : ""}`,
