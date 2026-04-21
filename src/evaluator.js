@@ -101,53 +101,74 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   const ebayEst = { price: 0, count: 0, confidence: "none" };
   const fromCache = false;
 
-  // 4.5. Cross-check Wallapop (SOLO funko por ahora, nicho por nicho)
-  //   La idea: si se supone que esto es ganga, debería haber evidencia EN Wallapop
-  //   (reservados del mismo producto → alguien lo está comprando AHORA).
-  //   Si no hay reservados → o no se vende → o ya se habrá vendido → skip.
+  // 4.5. MODO RESERVADOS (SOLO funko por ahora):
+  //   Buscar items RESERVADOS del mismo producto en Wallapop. Los reservados
+  //   son el "precio de venta real" confirmado (alguien los está comprando AHORA).
+  //   - Si no encuentra ningún reservado del mismo producto → skip (no hay evidencia
+  //     de que ese Funko se venda a precios mayores)
+  //   - Si encuentra reservados y nuestro item está por debajo con suficiente margen
+  //     → señal
+  //   - Excluimos el propio item (wpItem.id) para evitar self-reference
   let wallapopCheck = null;
   if (profile.name === "funko") {
     try {
-      const wpSimilar = await wallapopSource.searchSimilarItems(searchQuery, { pages: 2 });
-      const reservedMedian = wpSimilar.reserved_prices.length
-        ? [...wpSimilar.reserved_prices].sort((a, b) => a - b)[Math.floor(wpSimilar.reserved_prices.length / 2)]
+      // Buscamos con query que incluye el número del Funko (#509, 1339…)
+      // para que los resultados sean del MISMO producto, no Funkos genéricos.
+      const wpSimilar = await wallapopSource.searchSimilarItems(searchQuery, { pages: 3 });
+
+      // Excluir el propio item del conjunto (fix self-reference)
+      const reservedOthers = (wpSimilar.reserved_items || [])
+        .filter(it => it.id !== wpItem.id)
+        .map(it => ({ id: it.id, price: it.price, title: it.title, city: it.city }));
+      const reservedPrices = reservedOthers.map(it => it.price).filter(p => p >= 3);
+
+      const reservedMedian = reservedPrices.length
+        ? [...reservedPrices].sort((a, b) => a - b)[Math.floor(reservedPrices.length / 2)]
         : null;
+      const reservedMin = reservedPrices.length ? Math.min(...reservedPrices) : null;
+
       wallapopCheck = {
         query: searchQuery,
         active_count: wpSimilar.active_count,
-        reserved_count: wpSimilar.reserved_count,
+        reserved_count: reservedOthers.length,
         reserved_median: reservedMedian,
-        reserved_min: wpSimilar.reserved_prices.length ? Math.min(...wpSimilar.reserved_prices) : null,
+        reserved_min: reservedMin,
+        reserved_samples: reservedOthers.slice(0, 3),
       };
 
-      // Regla: exigir al menos 2 reservados para confirmar demanda real en Wallapop
-      if (wpSimilar.reserved_count < 2) {
+      // Regla nueva: exigir al menos 1 reservado distinto al nuestro.
+      //   Si 0 reservados → no hay evidencia de ventas a precios mayores → skip
+      if (reservedOthers.length < 1) {
         return {
           pass: false,
-          reason: `sin demanda Wallapop (${wpSimilar.reserved_count} reservados de ${wpSimilar.total} items)`,
+          reason: `sin reservados del mismo producto en Wallapop (query: "${searchQuery}")`,
           profile: profile.name,
           query: searchQuery,
-          ebay_price_estimate: ebayEst.price,
-          ebay_count: ebayEst.count,
           wallapop_check: wallapopCheck,
         };
       }
 
-      // Regla: el precio Wallapop debe estar al menos 20% por debajo del precio reservados
-      // (sino, no es realmente ganga dentro del propio mercado Wallapop)
-      if (reservedMedian && wpItem.price > reservedMedian * 0.8) {
+      // Regla: el precio de nuestro item debe estar al menos 30% POR DEBAJO del
+      // precio mínimo reservado (no el mediano, para ser conservadores: la ganga
+      // tiene que venderse más barata que el más barato ya reservado).
+      const threshold = reservedMin * 0.7;
+      if (wpItem.price > threshold) {
         return {
           pass: false,
-          reason: `precio Wallapop ${wpItem.price}€ no es ganga vs reservados ${reservedMedian}€ (umbral 80%)`,
+          reason: `precio ${wpItem.price}€ >= 70% del mín reservado ${reservedMin}€ (no es ganga clara)`,
           profile: profile.name,
           query: searchQuery,
           wallapop_check: wallapopCheck,
-          ebay_price_estimate: ebayEst.price,
         };
       }
     } catch (e) {
-      console.warn(`[evaluator] Wallapop cross-check falló: ${e.message}`);
-      // No fallar por esto; seguir con eBay solo
+      console.warn(`[evaluator] Wallapop reservados falló: ${e.message}`);
+      return {
+        pass: false,
+        reason: `error buscando reservados Wallapop: ${e.message}`,
+        profile: profile.name,
+        query: searchQuery,
+      };
     }
   }
 
