@@ -22,16 +22,17 @@ async function run() {
   const fs = require("fs");
   const path = require("path");
 
+  const categories = config.CATEGORIES || [];
   console.log(`\n🤖 Arbitrage Bot · run ${new Date().toISOString()}`);
-  console.log(`   Keywords: ${config.KEYWORDS.join(", ")}`);
+  console.log(`   Categorías: ${categories.map(c => c.name).join(", ")}`);
   console.log(`   Umbral: +${config.MIN_NET_MARGIN_EUR}€ net · ${config.MIN_MARGIN_PCT}% · score ${config.MIN_SCORE}`);
   console.log(`   DRY_RUN: ${config.DRY_RUN}\n`);
 
   // Reporte detallado (markdown) de este run
   const report = {
     timestamp: new Date().toISOString(),
-    keywords: config.KEYWORDS,
-    sections: {},   // keyword → { items: [...], summary }
+    categories: categories.map(c => c.name),
+    sections: {},   // categoryName → { items: [...], summary }
   };
 
   const seen = storage.loadSeen();
@@ -39,6 +40,9 @@ async function run() {
   const stats = storage.loadStats();
   stats.runs = (stats.runs || 0) + 1;
   stats.last_run = new Date().toISOString();
+
+  // Estado de escaneo por categoría (lo leerá el dashboard)
+  const scanState = loadScanState();
 
   // Wrapper cache para evaluator
   const cacheWrap = {
@@ -49,14 +53,15 @@ async function run() {
   let runItemsCount = 0;       // items NUEVOS (no vistos antes)
   let runItemsFetched = 0;     // items totales fetched de Wallapop (incluye ya vistos)
   let runSignalsCount = 0;
-  const byKw = {};
+  const byCat = {};
 
-  for (const keyword of config.KEYWORDS) {
-    console.log(`\n━━━ ${keyword} ━━━`);
-    const wpItems = await wallapop.search(keyword, {
+  for (const category of categories) {
+    const keyword = category.name;  // alias para mantener forma del reporte
+    console.log(`\n━━━ [${category.id}] ${category.name} ━━━`);
+    const wpItems = await wallapop.searchByCategory(category, {
       lat: config.WALLAPOP_LAT,
       lng: config.WALLAPOP_LNG,
-      pages: config.WALLAPOP_PAGES,
+      pages: category.pages || config.WALLAPOP_PAGES,
       delay: config.WALLAPOP_DELAY,
     });
 
@@ -66,7 +71,7 @@ async function run() {
       : wpItems.filter(i => !storage.isSeen(seen, i.id));
     runItemsCount += newItems.length;
     runItemsFetched += wpItems.length;
-    byKw[keyword] = { items_today: newItems.length, signals_today: 0 };
+    byCat[keyword] = { items_today: newItems.length, signals_today: 0 };
 
     console.log(`   ${wpItems.length} items (${newItems.length} nuevos)`);
 
@@ -112,7 +117,7 @@ async function run() {
           console.log(`   ✓ SEÑAL: ${item.title.slice(0, 50)}... · +${result.margin_net}€ (${result.margin_pct}%) score ${result.score}`);
           await notify(item, result, config);
           runSignalsCount++;
-          byKw[keyword].signals_today++;
+          byCat[keyword].signals_today++;
           section.signals++;
         } else {
           itemReport.verdict = "skip";
@@ -132,6 +137,17 @@ async function run() {
     }
 
     report.sections[keyword] = section;
+
+    // Marcar categoría como escaneada (lo lee el dashboard)
+    scanState.categories[String(category.id)] = {
+      id: category.id,
+      name: category.name,
+      last_scan: new Date().toISOString(),
+      items_fetched: wpItems.length,
+      items_new: newItems.length,
+      signals: section.signals,
+    };
+    saveScanState(scanState);
   }
 
   // Actualizar stats
@@ -139,7 +155,7 @@ async function run() {
   stats.total_signals_sent = (stats.total_signals_sent || 0) + runSignalsCount;
   stats.last_run_items = runItemsCount;
   stats.last_run_signals = runSignalsCount;
-  stats.by_keyword = byKw;
+  stats.by_category = byCat;
 
   // Persistir
   storage.saveSeen(seen);
@@ -266,6 +282,24 @@ function writeReport(report) {
 
 function truncate(s, n) { return s.length > n ? s.slice(0, n - 1) + "…" : s; }
 function esc(s) { return (s || "").replace(/[|<>]/g, ""); }
+
+// Estado de escaneo por categoría, lo lee el dashboard para marcar tareas.
+function loadScanState() {
+  const fs = require("fs");
+  const path = require("path");
+  const file = path.join(__dirname, "..", "data", "scan_state.json");
+  if (!fs.existsSync(file)) return { updated_at: null, categories: {} };
+  try { return JSON.parse(fs.readFileSync(file, "utf8")); }
+  catch { return { updated_at: null, categories: {} }; }
+}
+function saveScanState(state) {
+  const fs = require("fs");
+  const path = require("path");
+  const dir = path.join(__dirname, "..", "data");
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+  state.updated_at = new Date().toISOString();
+  fs.writeFileSync(path.join(dir, "scan_state.json"), JSON.stringify(state, null, 2), "utf8");
+}
 
 run().catch(e => {
   console.error("💥 Error fatal:", e);

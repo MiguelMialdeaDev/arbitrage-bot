@@ -46,38 +46,30 @@ async function search(keyword, opts = {}) {
     .map(normalize);
 }
 
-// Búsqueda por categoría (sin keyword). Cubre universos enteros sin sesgarnos.
-// Endpoint: source=facets&category_ids=X. Devuelve newest por defecto.
-async function searchByCategory(categoryId, opts = {}) {
-  const {
-    lat = 40.4168, lng = -3.7038,
-    pages = 3,
-    delay = 800,
-  } = opts;
-
+// Escaneo de una "categoría" = agregado de N búsquedas por keyword.
+// Filtramos además por category_id real del item cuando esté disponible,
+// para asegurarnos de quedarnos solo con lo pertinente a la categoría.
+async function searchByCategory(category, opts = {}) {
+  const { lat, lng, pages, delay } = opts;
+  const queries = category.queries || [];
   const all = [];
-  for (let p = 0; p < pages; p++) {
-    const url = `https://api.wallapop.com/api/v3/search?source=facets&filters_source=facets&category_ids=${categoryId}&latitude=${lat}&longitude=${lng}&order_by=newest&start=${p * 40}`;
-    try {
-      const r = await fetch(url, { headers: HEADERS });
-      if (!r.ok) {
-        console.warn(`[wallapop] HTTP ${r.status} en categoría ${categoryId} p${p}`);
-        continue;
-      }
-      const j = await r.json();
-      const items = j?.data?.section?.payload?.items || [];
-      all.push(...items);
-      if (items.length < 40) break;
-      await sleep(delay);
-    } catch (e) {
-      console.warn(`[wallapop] Error en categoría ${categoryId} p${p}:`, e.message);
-    }
+  for (const q of queries) {
+    const items = await search(q, { lat, lng, pages: category.pages || pages, delay });
+    all.push(...items);
   }
-
+  // Dedup por id + filtrar por category_id real (si está expuesto).
   const seen = new Set();
-  return all
-    .filter(i => { if (seen.has(i.id)) return false; seen.add(i.id); return true; })
-    .map(normalize);
+  const filtered = all.filter(i => {
+    if (seen.has(i.id)) return false;
+    seen.add(i.id);
+    // Si el item expone category_id, aceptamos solo si coincide con la categoría
+    // o si no está expuesto (en cuyo caso confiamos en la keyword para filtrar).
+    if (category.id && i.category_id) {
+      return i.category_id === category.id;
+    }
+    return true;
+  });
+  return filtered;
 }
 
 function normalize(i) {

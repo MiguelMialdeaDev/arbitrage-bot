@@ -1,0 +1,482 @@
+{
+  "timestamp": "2026-04-21T14:41:14.343Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 40,
+      "new_items": 40,
+      "items": [
+        {
+          "title": "Cooler Master Masterliquid ML240L V2 RGB",
+          "price": 40,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/cooler-master-masterliquid-ml240l-v2-rgb-1245930224",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cooler master masterliquid ml240l rgb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Volkswagen Caravelle nacional 2017",
+          "price": 21499,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/volkswagen-caravelle-nacional-2017-1254317281",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "volkswagen caravelle nacional",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Plancha Profesional SAYL 3 Quemadores",
+          "price": 55,
+          "city": "Corro d'Amunt",
+          "url": "https://es.wallapop.com/item/plancha-profesional-sayl-3-quemadores-1254659530",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: quemado"
+        },
+        {
+          "title": "Samsung A9+en caja. Nueva. Con funda original.",
+          "price": 210,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/samsung-a9--nueva-con-funda-y-teclado-1253021279",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "samsung a9+en caja. nueva. con",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Carrocería Peugeot 106",
+          "price": 600,
+          "city": "Seseña",
+          "url": "https://es.wallapop.com/item/carroceria-peugeot-106-1253803672",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Renault Trafic 2021",
+          "price": 18900,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/renault-trafic-2021-1236406195",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "renault trafic",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "SEAT Leon 2009",
+          "price": 7990,
+          "city": "Lugo",
+          "url": "https://es.wallapop.com/item/seat-leon-2009-1254659461",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "seat leon",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Games PC Ryzen 7-3700X/16Gb/512Gb/RTX3080",
+          "price": 710,
+          "city": "Gandía",
+          "url": "https://es.wallapop.com/item/games-pc-ryzen-7-3700x-16gb-512gb-rtx3080-1252793325",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "games ryzen 7-3700x/16gb/512gb/rtx3080",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Fiat Cinquecento  rally Carreras",
+          "price": 700,
+          "city": "Seseña",
+          "url": "https://es.wallapop.com/item/fiat-cinquecento-carreras-1253618178",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fiat cinquecento rally carreras",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "SEAT Alhambra 2.0 TDI 150 CV DSG Start&Stop Style Plus",
+          "price": 15900,
+          "city": "Alcobendas",
+          "url": "https://es.wallapop.com/item/seat-alhambra-2-0-tdi-150-cv-dsg-start-stop-style-plus-1254658221",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "seat alhambra 2.0 tdi dsg",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Guitarra Ibanez SA + Ampli Kustom",
+          "price": 350,
+          "city": "Gilet",
+          "url": "https://es.wallapop.com/item/guitarra-ibanez-sa---ampli-kustom-1251838691",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "guitarra ibanez ampli kustom",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Aparador de madera blanco",
+          "price": 110,
+          "city": "Cabo de Palos",
+          "url": "https://es.wallapop.com/item/aparador-de-madera-blanco-1241443154",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "aparador madera blanco",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Tarjeta Gráfica Gigabyte RTX 3070 Ti Gaming OC 8G",
+          "price": 260,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/gigabyte-rtx-3070-ti-gaming-oc-8g---adaptador-1253388881",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "tarjeta grafica gigabyte rtx gaming",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Comandante Shadowsun tau Warhammer",
+          "price": 28.5,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/comandante-shadowsun-tau-warhammer-1254316591",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "comandante shadowsun tau warhammer",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Clases particualres de biologia y química",
+          "price": 30,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/clases-particualres-de-biologia-y-quimica-1249510390",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "clases particualres biologia quimica",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Estantería Banak Negra y Madera 5 meses de uso",
+          "price": 250,
+          "city": "Palamós",
+          "url": "https://es.wallapop.com/item/estanteria-banak-negra-y-madera-5-meses-de-uso-1252636988",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "estanteria banak negra madera meses",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Aparador comedor blanco",
+          "price": 150,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/bufete-comedor-blanco-1253829623",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "aparador comedor blanco",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mercedes-Benz Clase A 2021",
+          "price": 39800,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/mercedes-benz-clase-a-2021-1240098518",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "mercedes-benz clase",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "FIAT Escudo 2.0 130cv 2013",
+          "price": 5900,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/fiat-escudo-2-0-130cv-2013-1240117912",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fiat escudo 2.0 130cv",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mitsubishi Canter 2021",
+          "price": 38000,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/mitsubishi-canter-2021-1254337620",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mitsubishi canter",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Volvo V60 2014",
+          "price": 10900,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/volvo-v60-2014-1253263827",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "volvo v60",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Volkswagen Golf gti 2017",
+          "price": 21500,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/volkswagen-golf-gti-2017-1240097105",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "volkswagen golf gti",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Citroen ë-SpaceTourer 2018",
+          "price": 16500,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/citroen-e-spacetourer-2018-1254233103",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "citroen e-spacetourer",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "PC Gaming RX 9060 XT 16GB / i5-12400F / 16GB RAM",
+          "price": 899,
+          "city": "Orihuela",
+          "url": "https://es.wallapop.com/item/pc-gaming-rx-6900-xt-i5-12400f-16gb-ram-1251548081",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gaming 16gb i5-12400f 16gb ram",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Liquidación de canapés y colchones",
+          "price": 105,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/liquidacion-de-canapes-y-colchones-1254657581",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "liquidacion canapes colchones",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Cámara Sony DSC-H400 Zoom Óptico 63x",
+          "price": 75,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/camara-sony-dsc-h400-zoom-optico-63x-1253402267",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "camara sony dsc-h400 zoom optico",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Vitrina y armario HAVSTA beige/gris con zócalo",
+          "price": 230,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/vitrina-y-armario-havsta-beige-gris-con-zocalo-1248503647",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "vitrina armario havsta beige/gris con",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Peugeot Boxer L2H2 2007",
+          "price": 25500,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/peugeot-boxer-2007-1241639121",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "peugeot boxer l2h2",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Preu negociable - Armario de madera con puertas de",
+          "price": 350,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/armario-de-madera-con-puertas-de-espejo-cajones-1250624554",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "preu armario madera con puertas",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Xiaomi Mi Scooter Pro 2 con cargador y bolsa",
+          "price": 200,
+          "city": "Castellar Oliveral",
+          "url": "https://es.wallapop.com/item/xiaomi-mi-scooter-pro-1-con-cargador-y-bolsa-1253672131",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xiaomi scooter pro con cargador",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "RENAULT CAPTUR MICRO HIBRIDO ETIQUETA ECO",
+          "price": 17200,
+          "city": "San Martin",
+          "url": "https://es.wallapop.com/item/renaul-captur-micro-hibrido-1243967683",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "renault captur micro hibrido etiqueta",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Citroen C3 ¡ pocos km!",
+          "price": 3590,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/citroen-c3-pocos-km-1253009100",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "citroen pocos km!",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Portátil Toshiba Intel Core i5 , 8GB RAM , GPU 2GB",
+          "price": 90,
+          "city": "Gandía",
+          "url": "https://es.wallapop.com/item/portatil-toshiba-intel-core-i5-8gb-ram-gpu-2gb-1253957466",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "portatil toshiba intel core 8gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Carenado Suzuki GSXR 750 1100 Superior",
+          "price": 180,
+          "city": "A Acea",
+          "url": "https://es.wallapop.com/item/carenado-suzuki-gsxr-750-1100-superior-1247554242",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carenado suzuki gsxr superior",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mesa comedor madera maciza rústica 175x90",
+          "price": 175,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mesa-comedor-madera-maciza-rustica-175x90-1233630393",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mesa comedor madera maciza rustica",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "SSD Crucial P310 500GB PCIe Gen4 NVMe M.2",
+          "price": 80,
+          "city": "Alcoi/Alcoy",
+          "url": "https://es.wallapop.com/item/ssd-crucial-p310-500gb-pcie-gen4-nvme-m-2-1254490236",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ssd crucial p310 500gb pcie",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Maqueta Tren Marklin Escala HO medidas 2,65x1,5m",
+          "price": 1000,
+          "city": "Corro d'Avall",
+          "url": "https://es.wallapop.com/item/maqueta-tren-marklin-escala-ho-1251778783",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "maqueta tren marklin escala medidas",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Renault Laguna 2012",
+          "price": 9900,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/renault-laguna-2012-1253964291",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "renault laguna",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Turmalina Negra Mineral con Soporte",
+          "price": 6,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/turmalina-negra-mineral-con-soporte-1254315826",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Juego de té porcelana alemana floral",
+          "price": 65,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/juego-de-te-porcelana-alemana-floral-1252058796",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 40,
+  "total_signals": 0,
+  "duration_s": 15
+}

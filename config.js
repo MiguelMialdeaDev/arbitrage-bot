@@ -3,17 +3,42 @@
 // ============================================================
 
 module.exports = {
-  // Categorías Wallapop a escanear (sin filtro de keywords).
-  // Cubrimos universos enteros para dejar que los datos nos digan
-  // qué se vende, en lugar de decidirlo nosotros a priori.
-  //
-  // IDs reales del endpoint /api/v3/categories?locale=es_ES
+  // Categorías Wallapop a escanear. Cada categoría es un GRUPO de keywords
+  // que cubren ese universo semántico. (La API pública de Wallapop ignora
+  // category_ids sin keyword, así que filtramos con múltiples keywords por
+  // categoría.) Esto amplía muchísimo la cobertura vs el modo anterior de
+  // 9 keywords sueltas, y mantiene filtrado efectivo.
   CATEGORIES: [
-    { id: 18000, name: "Coleccionismo",           pages: 3 },  // Funkos, figuras, cromos, cartas
-    { id: 24200, name: "Tecnología y electrónica", pages: 3 }, // Consolas, gadgets, auriculares
-    { id: 12463, name: "Cine, libros y música",    pages: 3 }, // Vinilos, CDs, libros, videojuegos
-    { id: 12579, name: "Deporte y ocio",           pages: 2 }, // Juegos mesa, hobbies, coleccionables
-    { id: 12461, name: "Niños y bebés",            pages: 2 }, // Juguetes, figuras, Lego
+    {
+      id: 18000,
+      name: "Coleccionismo",
+      queries: ["funko pop", "lego", "cromos panini", "trading cards", "cartas magic", "cartas pokemon", "playmobil"],
+      pages: 2,
+    },
+    {
+      id: 24200,
+      name: "Tecnología y electrónica",
+      queries: ["nintendo switch", "playstation 5", "ps4 consola", "xbox series", "airpods", "iphone", "apple watch"],
+      pages: 2,
+    },
+    {
+      id: 12463,
+      name: "Cine, libros y música",
+      queries: ["vinilo lp", "cd coleccion", "blu ray", "manga lote", "comic marvel", "libro primera edicion"],
+      pages: 2,
+    },
+    {
+      id: 12579,
+      name: "Deporte y ocio",
+      queries: ["juego mesa", "monopoly", "puzzle 1000 piezas", "bicicleta montaña", "raqueta padel"],
+      pages: 2,
+    },
+    {
+      id: 12461,
+      name: "Niños y bebés",
+      queries: ["lego star wars", "juguete vintage", "figura anime", "muñeca coleccion", "accion figura"],
+      pages: 2,
+    },
   ],
 
   // Umbrales de señal
