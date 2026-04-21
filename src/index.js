@@ -196,7 +196,8 @@ async function run() {
   // agrupa por modelo y emite data/opportunities.json para el dashboard.
   try {
     const opp = opportunities.updateFromRun(reservedThisRun);
-    console.log(`   🎯 Oportunidades: ${opp.stats.super_ganga}🔥 · ${opp.stats.high_confidence}✨ · ${opp.stats.possible}💡 (${opp.stats.total_reservations} reservas trackadas)`);
+    const s = opp.stats;
+    console.log(`   🎯 Oportunidades: ${s.proven_seller}🚀 · ${s.hot_24h}🔥 · ${s.trending_7d}✨ · ${s.recurring}📈 · ${s.possible}💡 (${s.total_reservations} reservas trackadas, ${s.total_unique_models} modelos)`);
   } catch (e) {
     console.warn(`[opportunities] error: ${e.message}`);
   }
