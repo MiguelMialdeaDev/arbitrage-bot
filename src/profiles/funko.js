@@ -59,12 +59,32 @@ function isViable(wpItem) {
 }
 
 function extractSearchQuery(wpItem) {
-  // Para Funko buscamos "Funko Pop + personaje + serie" idealmente
+  // Para Funko, el NÚMERO (#509, #1339, etc) es lo que identifica unívocamente
+  // al Funko concreto. Hay muchos "Goku" pero solo un "Goku 509".
+  // Si perdemos el número, la query es ambigua y eBay devuelve 0 o ruido.
+  const title = wpItem.title || "";
+
+  // 1. Extraer número del Funko: puede aparecer como "#509", "nº 509", "num 509",
+  //    "Funko 509" o simplemente "509" al lado del nombre.
+  let funkoNumber = null;
+  const numMatch = title.match(/#\s*(\d{1,5})\b|(?:\bn[ºoº°]|\bnum|\bnumero|\bno\.?)\s*(\d{1,5})\b|\b(\d{2,5})(?=\s|$|[^0-9])/);
+  if (numMatch) {
+    funkoNumber = numMatch[1] || numMatch[2] || numMatch[3];
+  }
+
+  // 2. Limpiar título normalmente (quita stopwords)
   const stopwords = ["funko", "pop", "vinyl", "figura", "coleccionable", "nuevo",
     "sellado", "caja", "original", "autentico", "auténtico", "protector"];
-  const cleaned = cleanSearchTerms(wpItem.title, stopwords);
-  // Asegurar que "Funko" está en la query
-  return `Funko ${cleaned}`.trim();
+  const cleaned = cleanSearchTerms(title, stopwords);
+
+  // 3. Construir query con el número si existe
+  //    (cleanSearchTerms filtra números por `!/^[0-9]+$/.test(w)`, así que
+  //     lo añadimos manualmente si lo teníamos)
+  const base = `Funko ${cleaned}`.trim();
+  if (funkoNumber && !base.includes(funkoNumber)) {
+    return `${base} ${funkoNumber}`.trim();
+  }
+  return base;
 }
 
 function estimateEbayPrice(ebayData) {
