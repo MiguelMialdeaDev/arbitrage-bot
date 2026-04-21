@@ -15,6 +15,7 @@ const ebay = require("./pricing/ebay");
 const storage = require("./storage");
 const { evaluate } = require("./evaluator");
 const { notify, notifyRunSummary } = require("./notifier");
+const opportunities = require("./opportunities");
 const config = require("../config");
 
 async function run() {
@@ -54,6 +55,7 @@ async function run() {
   let runItemsFetched = 0;     // items totales fetched de Wallapop (incluye ya vistos)
   let runSignalsCount = 0;
   const byCat = {};
+  const reservedThisRun = [];  // items reservados detectados para opportunities tracker
 
   for (const category of categories) {
     const keyword = category.name;  // alias para mantener forma del reporte
@@ -91,6 +93,12 @@ async function run() {
         url: item.url,
         reserved: item.reserved,
       };
+
+      // Capturar todos los reservados (independiente del veredicto)
+      // para el tracker de oportunidades.
+      if (item.reserved && item.price >= 3) {
+        reservedThisRun.push({ ...item, category: category.name });
+      }
 
       // Filtro mínimo: precio >= 3€ (evita 1€ truco SEO)
       if (item.price < 3) {
@@ -183,6 +191,15 @@ async function run() {
   report.total_signals = runSignalsCount;
   report.duration_s = dur;
   writeReport(report);
+
+  // Tracker de oportunidades: acumula reservados vistos con timestamp,
+  // agrupa por modelo y emite data/opportunities.json para el dashboard.
+  try {
+    const opp = opportunities.updateFromRun(reservedThisRun);
+    console.log(`   🎯 Oportunidades: ${opp.stats.super_ganga}🔥 · ${opp.stats.high_confidence}✨ · ${opp.stats.possible}💡 (${opp.stats.total_reservations} reservas trackadas)`);
+  } catch (e) {
+    console.warn(`[opportunities] error: ${e.message}`);
+  }
 
   // Enviar resumen silent a Telegram (no hace sonido, solo para saber que el bot vive)
   if (!config.DRY_RUN) {

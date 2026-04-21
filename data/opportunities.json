@@ -1,0 +1,233 @@
+{
+  "updated_at": "2026-04-21T15:01:56.405Z",
+  "tiers": {
+    "super_ganga": [],
+    "high_confidence": [
+      {
+        "model": "2024 25 megacracks flashback #429 messi yamal",
+        "example_title": "2024-25 Megacracks Flashback #429 Messi - Yamal",
+        "example_url": "https://es.wallapop.com/item/2024-25-megacracks-flashback-429-messi-yamal-1254491403",
+        "total_reservations": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "min_price": 13.5,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "2024-25 Megacracks Flashback #429 Messi - Yamal",
+            "url": "https://es.wallapop.com/item/2024-25-megacracks-flashback-429-messi-yamal-1254493708",
+            "city": "Getafe"
+          },
+          {
+            "price": 13.5,
+            "title": "2024-25 Megacracks Flashback #429 Messi - Yamal",
+            "url": "https://es.wallapop.com/item/2024-25-megacracks-flashback-429-messi-yamal-1254491403",
+            "city": "Getafe"
+          }
+        ]
+      }
+    ],
+    "possible": [
+      {
+        "model": "strixhaven collector booster reserva alvaro",
+        "example_title": "Strixhaven Collector Booster reserva alvaro",
+        "example_url": "https://es.wallapop.com/item/strixhaven-collector-booster-reserva-alvaro-1254641742",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Strixhaven Collector Booster reserva alvaro",
+            "url": "https://es.wallapop.com/item/strixhaven-collector-booster-reserva-alvaro-1254641742",
+            "city": "Gavà"
+          }
+        ]
+      },
+      {
+        "model": "avatar aang commander deck",
+        "example_title": "Avatar Aang Commander Deck",
+        "example_url": "https://es.wallapop.com/item/avatar-aang-commander-deck-1254633894",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 160,
+        "median_price": 160,
+        "max_price": 160,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 160,
+            "title": "Avatar Aang Commander Deck",
+            "url": "https://es.wallapop.com/item/avatar-aang-commander-deck-1254633894",
+            "city": "Ponts"
+          }
+        ]
+      },
+      {
+        "model": "albumes coleccionistas pokemon",
+        "example_title": "2 Álbumes Coleccionistas Pokémon",
+        "example_url": "https://es.wallapop.com/item/2-albumes-coleccionistas-pokemon-1254661945",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "2 Álbumes Coleccionistas Pokémon",
+            "url": "https://es.wallapop.com/item/2-albumes-coleccionistas-pokemon-1254661945",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote cajas entrenador elite pokemon",
+        "example_title": "Lote Cajas Entrenador Élite Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-cajas-entrenador-elite-pokemon-1254659393",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Lote Cajas Entrenador Élite Pokémon",
+            "url": "https://es.wallapop.com/item/lote-cajas-entrenador-elite-pokemon-1254659393",
+            "city": "Sant Celoni"
+          }
+        ]
+      },
+      {
+        "model": "soportes consolas retro ps1 ps2 megadrive",
+        "example_title": "Soportes para consolas retro PS1, PS2, Megadrive",
+        "example_url": "https://es.wallapop.com/item/soportes-para-consolas-retro-ps1-ps2-megadrive-1254662433",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Soportes para consolas retro PS1, PS2, Megadrive",
+            "url": "https://es.wallapop.com/item/soportes-para-consolas-retro-ps1-ps2-megadrive-1254662433",
+            "city": "Valladolid"
+          }
+        ]
+      },
+      {
+        "model": "xbox series mandos accesorios",
+        "example_title": "Xbox Series X + 2 mandos + accesorios",
+        "example_url": "https://es.wallapop.com/item/xbox-series-x---2-mandos---accesorios-1254593308",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 350,
+        "median_price": 350,
+        "max_price": 350,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 350,
+            "title": "Xbox Series X + 2 mandos + accesorios",
+            "url": "https://es.wallapop.com/item/xbox-series-x---2-mandos---accesorios-1254593308",
+            "city": "Sevilla"
+          }
+        ]
+      },
+      {
+        "model": "lote cds toto cds stratovarius",
+        "example_title": "Lote 8 CDs Toto y 3 cds Stratovarius",
+        "example_url": "https://es.wallapop.com/item/lote-8-cds-toto-1254636132",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 132,
+        "median_price": 132,
+        "max_price": 132,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 132,
+            "title": "Lote 8 CDs Toto y 3 cds Stratovarius",
+            "url": "https://es.wallapop.com/item/lote-8-cds-toto-1254636132",
+            "city": "Etxebarri"
+          }
+        ]
+      },
+      {
+        "model": "comic vengadores ediciones vertice 1969",
+        "example_title": "COMIC LOS VENGADORES N°1 EDICIONES VERTICE 1969",
+        "example_url": "https://es.wallapop.com/item/comic-los-vengadores-n1-ediciones-vertice-1969-1254591672",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "COMIC LOS VENGADORES N°1 EDICIONES VERTICE 1969",
+            "url": "https://es.wallapop.com/item/comic-los-vengadores-n1-ediciones-vertice-1969-1254591672",
+            "city": "Badalona"
+          }
+        ]
+      },
+      {
+        "model": "raqueta babolat pure drive 2025",
+        "example_title": "Raqueta Babolat Pure Drive 2025",
+        "example_url": "https://es.wallapop.com/item/raqueta-babolat-pure-drive-2025-1254616587",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "min_price": 140,
+        "median_price": 140,
+        "max_price": 140,
+        "first_seen": "2026-04-21T15:01:56.403Z",
+        "last_seen": "2026-04-21T15:01:56.403Z",
+        "sample": [
+          {
+            "price": 140,
+            "title": "Raqueta Babolat Pure Drive 2025",
+            "url": "https://es.wallapop.com/item/raqueta-babolat-pure-drive-2025-1254616587",
+            "city": "Santiago de Compostela"
+          }
+        ]
+      }
+    ]
+  },
+  "stats": {
+    "super_ganga": 0,
+    "high_confidence": 1,
+    "possible": 9,
+    "total_unique_models": 10,
+    "total_reservations": 11
+  }
+}
