@@ -233,9 +233,14 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
       ebay_count: 0,
     };
   } else {
-    // Resto de perfiles: scoreMargin con ebayEst (que ahora es stub vacío).
-    // Con eBay desactivado, cualquier perfil no-funko devolverá score=0 y skipea.
-    score = profile.scoreMargin(wpItem, ebayEst, config);
+    // Resto de perfiles dependen de eBay para estimar precio de venta.
+    // Con eBay desactivado, no podemos evaluarlos → descarte claro.
+    return {
+      pass: false,
+      reason: `perfil '${profile.name}' requiere eBay (desactivado temporalmente, solo funko activo)`,
+      profile: profile.name,
+      query: searchQuery,
+    };
   }
 
   // Safeguard universal: si el spread es extremo (>300% margen), es casi seguro
