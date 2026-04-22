@@ -1,0 +1,683 @@
+{
+  "timestamp": "2026-04-22T06:21:23.358Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 209,
+      "new_items": 15,
+      "items": [
+        {
+          "title": "Funko Pop! Rick and Morty Shrimp Rick 644",
+          "price": 20,
+          "city": "Ribatejada",
+          "url": "https://es.wallapop.com/item/funko-pop-rick-and-morty-shrimp-rick-644-1254831991",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! rick and morty shrimp 644",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! rick and morty shrimp 644' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Teddy Rick 662 Rick and Morty",
+          "price": 10,
+          "city": "Ribatejada",
+          "url": "https://es.wallapop.com/item/funko-pop-teddy-rick-662-rick-and-morty-1254831838",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! teddy rick rick and 662",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! teddy rick rick and 662' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Stranger Things Dart 601",
+          "price": 10,
+          "city": "Ribatejada",
+          "url": "https://es.wallapop.com/item/funko-pop-stranger-things-dart-601-1254831704",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! stranger things dart 601",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! stranger things dart 601' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Ghostbuster Dustin 549 Stranger Things",
+          "price": 20,
+          "city": "Ribatejada",
+          "url": "https://es.wallapop.com/item/funko-pop-ghostbuster-dustin-549-stranger-things-1254831552",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! ghostbuster dustin stranger things 549",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! ghostbuster dustin stranger things 549' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Nightmare Freddy 111 Glow Dark",
+          "price": 30,
+          "city": "Ribatejada",
+          "url": "https://es.wallapop.com/item/funko-pop-nightmare-freddy-111-glow-dark-1254831264",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! nightmare freddy glow dark 111",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! nightmare freddy glow dark 111' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Bob Esponja F.U.N. 679",
+          "price": 50,
+          "city": "Ribatejada",
+          "url": "https://es.wallapop.com/item/funko-pop-bob-esponja-f-u-n-679-1254831124",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! bob esponja f.u.n. 679",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! bob esponja f.u.n. 679' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Funko Pop! Varios Personajes",
+          "price": 50,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lote-funko-pop-varios-personajes-1254831109",
+          "reserved": false,
+          "profile": "funko_lote",
+          "verdict": "skip",
+          "reason": "count=2 < 3, no es lote claro"
+        },
+        {
+          "title": "Funko Pop! Minecraft Tuxedo Cat Chase",
+          "price": 15,
+          "city": "Ribatejada",
+          "url": "https://es.wallapop.com/item/funko-pop-minecraft-tuxedo-cat-chase-1254830981",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! minecraft tuxedo cat chase",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! minecraft tuxedo cat chase' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Lord of the Rings Denethor 1991",
+          "price": 60,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-1991-1254830906",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! lord the rings denethor 1991",
+          "verdict": "skip",
+          "reason": "60€ vs mín reservado 28€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funko Pop! Blackfire 454 Teen Titans Go!",
+          "price": 30,
+          "city": "Ribatejada",
+          "url": "https://es.wallapop.com/item/funko-pop-blackfire-454-teen-titans-go-1254830779",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! blackfire teen titans go! 454",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! blackfire teen titans go! 454' (sin evidencia de demanda)"
+        },
+        {
+          "title": "RESERVADO Lego Star Wars Kabaya Mini (3 uds)",
+          "price": 120,
+          "city": "L' Aldea",
+          "url": "https://es.wallapop.com/item/reservado-lego-star-wars-kabaya-mini-3-uds-1254830462",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "reservado lego star wars kabaya",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "LEGO Creator 31132 Viking Ship",
+          "price": 100,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lego-creator-31132-viking-ship-1254830386",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lego creator viking ship",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Cajas metálicas Pokémon (vacías) Prismatic",
+          "price": 10,
+          "city": "Barakaldo",
+          "url": "https://es.wallapop.com/item/cajas-metalicas-pokemon-vacias-prismatic-1254831001",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas metalicas pokemon (vacias) prismatic",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Fundas para cartas Pokémon Dragonite",
+          "price": 2.5,
+          "city": "Barakaldo",
+          "url": "https://es.wallapop.com/item/fundas-para-cartas-pokemon-dragonite-1254830863",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Interpoké Holo 96/101 Pokemon Vittorie Regali 2012",
+          "price": 1,
+          "city": "Castel del Piano",
+          "url": "https://es.wallapop.com/item/interpoke-holo-96-101-pokemon-vittorie-regali-2012-1254830538",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 258,
+      "new_items": 38,
+      "items": [
+        {
+          "title": "Funda Protectora Playvital para Nintendo Switch",
+          "price": 10,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funda-protectora-playvital-para-nintendo-switch-1254831955",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Star Wars Outlaws Gold Edition Nintendo Switch",
+          "price": 35,
+          "city": "Las Palmas de Gran Canaria",
+          "url": "https://es.wallapop.com/item/star-wars-outlaws-gold-edition-nintendo-switch-1254831763",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "consola <80€ sospechoso"
+        },
+        {
+          "title": "Super Mario 3D All-Stars Nintendo Switch",
+          "price": 65,
+          "city": "Vecindario",
+          "url": "https://es.wallapop.com/item/super-mario-3d-all-stars-nintendo-switch-1254831690",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario all-stars nintendo switch",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Resident Evil Generation Pack Nintendo Switch",
+          "price": 165,
+          "city": "Las Palmas de Gran Canaria",
+          "url": "https://es.wallapop.com/item/resident-evil-generation-pack-nintendo-switch-1254831538",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "resident evil generation pack nintendo",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Pack Skylanders Giants",
+          "price": 1,
+          "city": "Vecindario",
+          "url": "https://es.wallapop.com/item/pack-skylanders-giants-1254831492",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Auriculares de Diadema Cerrados",
+          "price": 12,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/auriculares-de-diadema-cerrados-1254831314",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Donkey Kong BANANZA - NINTENDO SWITCH 2",
+          "price": 50,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/donkey-kong-bananza-nintendo-switch-2-1254831164",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "donkey kong bananza nintendo switch",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Everybody 1-2 Switch! Nintendo Switch",
+          "price": 15,
+          "city": "Jerez de los Caballeros",
+          "url": "https://es.wallapop.com/item/everybody-1-2-switch-nintendo-switch-1254831089",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "everybody 1-2 switch! nintendo switch",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Pokemon Diamante Brillante Nintendo Switch",
+          "price": 27,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1254830850",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "pokemon diamante brillante nintendo switch",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mando Switch/PS3/PC Blanco y Negro",
+          "price": 20,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mando-switch-ps3-pc-blanco-y-negro-1254830547",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mando switch/ps3/pc blanco negro",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Base Nintendo Switch",
+          "price": 20,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/base-nintendo-switch-1254830220",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "base nintendo switch",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Consola PS3 + 5 Juegos",
+          "price": 60,
+          "city": "Vecindario",
+          "url": "https://es.wallapop.com/item/consola-ps3---5-juegos-1254831926",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps3 juegos",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "EA Sports FC 24 PS5 Juego Deporte",
+          "price": 30,
+          "city": "Barakaldo",
+          "url": "https://es.wallapop.com/item/ea-sports-fc-24-ps5-juego-deporte-1254831765",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sports ps5 juego deporte",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Consola Sony PS5 1TB + Juegos + 2 Mandos",
+          "price": 410,
+          "city": "La Línea de la Concepción",
+          "url": "https://es.wallapop.com/item/consola-sony-ps5-1tb---juegos---2-mandos-1254831673",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps5 1tb juegos",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Sony PlayStation 5 Pro Blanca",
+          "price": 660,
+          "city": "Arenal",
+          "url": "https://es.wallapop.com/item/sony-playstation-5-pro-blanca-1254831630",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sony playstation pro blanca",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Playstation 5 PS5 Sony Blanca y Negra",
+          "price": 350,
+          "city": "Callosa de Segura",
+          "url": "https://es.wallapop.com/item/playstation-5-ps5-sony-blanca-y-negra-1254831287",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation ps5 sony blanca negra",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mafia: El Viejo Continente PS5",
+          "price": 28,
+          "city": "Vidreres",
+          "url": "https://es.wallapop.com/item/mafia-el-viejo-continente-ps5-1254831285",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mafia: viejo continente ps5",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Trust GXT 310 - Auriculares Gaming",
+          "price": 14.99,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/trust-gxt-310-auriculares-gaming-1254830454",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "trust gxt auriculares gaming",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Pack 4 Mini Consolas Hyper Mega Tech",
+          "price": 50,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/pack-4-mini-consolas-hyper-mega-tech-1254831475",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack mini consolas hyper mega",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Grand Theft Auto V - [Xbox Series X]",
+          "price": 12,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/grand-theft-auto-v-xbox-series-x-1254831076",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "grand theft auto [xbox series",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "AirPods Pro 2da Gen",
+          "price": 35,
+          "city": "Pamplona/Iruña",
+          "url": "https://es.wallapop.com/item/airpods-pro-2da-gen-1254831853",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro 2da gen",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Belkin Cargador Inalámbrico Compatible con MagSafe",
+          "price": 12,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/belkin-cargador-inalambrico-compatible-con-magsafe-1254831669",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "belkin cargador inalambrico compatible con",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Funda iPhone 6/6s Gris Azul",
+          "price": 3,
+          "city": "Gandía",
+          "url": "https://es.wallapop.com/item/funda-iphone-6-6s-gris-azul-1254831564",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Funda Kickstand para iPhone 15 Pro MAX 6,7 Pulgada",
+          "price": 12,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/funda-kickstand-para-iphone-15-pro-max-6-7-pulgada-1254831493",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda kickstand para iphone pro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Funda para iPhone 13 Pro Max 6,7\" [Compatible con Magsafe]",
+          "price": 12,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/funda-para-iphone-13-pro-max-6-7-compatible-con-magsafe-1254831407",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "funda para iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Funda Carcasa para iPhone 16 Pro Max",
+          "price": 12,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/funda-carcasa-para-iphone-16-pro-max-1254831381",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda carcasa para iphone pro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 13 Pro Max 256GB Plata",
+          "price": 300,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-max-256gb-plata-1254831248",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: no funciona"
+        },
+        {
+          "title": "iPhone 17air negro 256",
+          "price": 760,
+          "city": "Lloret de Mar",
+          "url": "https://es.wallapop.com/item/iphone-17air-negro-256-1254831238",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 17air negro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 13 128gb Negro medianoche como Nuevo",
+          "price": 299,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/iphone-13-128gb-negro-medianoche-como-nuevo-1254831232",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb negro medianoche como",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Funda iPhone 14 Plus Con Cordon en 3 colores",
+          "price": 6,
+          "city": "Segorbe",
+          "url": "https://es.wallapop.com/item/funda-iphone-14-plus-con-cordon-en-3-colores-1254831080",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 13 128gb Blanco como Nuevo garantía",
+          "price": 299,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/iphone-13-128gb-blanco-como-nuevo-garantia-1254830916",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb blanco como garantia",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 13 Blanco",
+          "price": 230,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-13-blanco-1254830840",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone blanco",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Power Bank 10000mAh Carga Rápida 22.5W",
+          "price": 18,
+          "city": "Las Rozas de Madrid",
+          "url": "https://es.wallapop.com/item/power-bank-10000mah-carga-rapida-22-5w-1254830605",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "power bank 10000mah carga rapida",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 13 mini 128gb Negro como Nuevo garantía",
+          "price": 279,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/iphone-13-mini-128gb-negro-como-nuevo-garantia-1254830573",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone mini 128gb negro como",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 256GB Naranja",
+          "price": 1100,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-naranja-1254830403",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb naranja",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 16 Pro Negro",
+          "price": 600,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-negro-1254830141",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro negro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 13 Pro 128GB - EXCELENTE",
+          "price": 340,
+          "city": "Base Aerea Conjunta Torrejon",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-128gb-excelente-1254830125",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 128gb excelente",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Apple Watch Serie 5 Negro GPS",
+          "price": 150,
+          "city": "Vic",
+          "url": "https://es.wallapop.com/item/apple-watch-serie-5-negro-gps-1254830278",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch serie negro gps",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 164,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "4 Vinilos Elvis Presley The Legend 4 LP Vinilo",
+          "price": 50,
+          "city": "Lorca",
+          "url": "https://es.wallapop.com/item/4-vinilos-elvis-presley-the-legend-4-lp-vinilo-1254831171",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "LP J.J. Cale Troubadour 1980",
+          "price": 12,
+          "city": "Sommacampagna",
+          "url": "https://es.wallapop.com/item/lp-j-j-cale-troubadour-1980-1254830830",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "j.j. cale troubadour",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Lote 4 Películas Blu-ray",
+          "price": 10,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/lote-4-peliculas-blu-ray-1254830957",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        },
+        {
+          "title": "Lote 9 Blu-ray Acción y Suspense",
+          "price": 4,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/lote-9-blu-ray-accion-y-suspense-1254830493",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta GRX Grip Rite",
+          "price": 10,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/raqueta-grx-grip-rite-1254831709",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta grx grip rite",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 30,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Muñeca musical K-Pop Rumi Huntrix Demon Hunters",
+          "price": 14.5,
+          "city": "Los Barreros",
+          "url": "https://es.wallapop.com/item/muneca-musical-k-pop-rumi-huntrix-demon-hunters-1254830752",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "muneca musical k-pop rumi huntrix",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 59,
+  "total_signals": 0,
+  "duration_s": 59
+}
