@@ -1,0 +1,188 @@
+{
+  "timestamp": "2026-04-22T03:49:57.904Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 206,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 228,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Lote Juegos Nintendo Switch",
+          "price": 400,
+          "city": "Avilés",
+          "url": "https://es.wallapop.com/item/lote-juegos-nintendo-switch-1254822900",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Nintendo Switch 2",
+          "price": 400,
+          "city": "Milano",
+          "url": "https://es.wallapop.com/item/nintendo-switch-2-1254822906",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "Sistema de sonido 5.1 Samsung PS-WC560S",
+          "price": 50,
+          "city": "Moita",
+          "url": "https://es.wallapop.com/item/sistema-som-5-1-samsung-ps-wc560s-1254822729",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sistema sonido 5.1 samsung ps-wc560s",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Consola PS5 con 2 juegos",
+          "price": 520,
+          "city": "Monserrat",
+          "url": "https://es.wallapop.com/item/consola-ps5-con-2-juegos-1254822407",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 con juegos",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Airpods premium",
+          "price": 500,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/airpods-premium-1254822588",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods premium",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 12 128gb",
+          "price": 150,
+          "city": "Vilanova i la Geltrú",
+          "url": "https://es.wallapop.com/item/iphone-12-128gb-1254823020",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Apple IPhone 14 Pro Buen Estado Funciona Perfecto",
+          "price": 370,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-pro-buen-estado-funciona-perfecto-1254822753",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro buen funciona",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Iphone 13 pro max",
+          "price": 331,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/super-humor-10-edicion-ibanez-1254822748",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 159,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Disco, Lp, Borraska, 1974",
+          "price": 4.29,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-borraska-1974-1254822461",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, borraska,",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco, Lp, Free N' Easy, Rough N' Ready, 1977",
+          "price": 18.59,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-free-n-easy-rough-n-ready-1977-1254822454",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, free easy, rough",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco, Lp, Corazon Rebelde, 1974",
+          "price": 10.89,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-corazon-rebelde-1974-1254822446",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, corazon rebelde,",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco, Lp, The Rubettes, Keep On Dancing, 1985",
+          "price": 16.39,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-the-rubettes-keep-on-dancing-1985-1254822425",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, the rubettes, keep",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Coal Chamber - The Complete Roadrunner Collection",
+          "price": 14.95,
+          "city": "Moncofa",
+          "url": "https://es.wallapop.com/item/coal-chamber-the-complete-roadrunner-collection-1254823025",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "coal chamber the complete roadrunner",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 28,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 13,
+  "total_signals": 0,
+  "duration_s": 60
+}
