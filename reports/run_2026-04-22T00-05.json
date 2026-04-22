@@ -1,0 +1,855 @@
+{
+  "timestamp": "2026-04-22T00:04:35.388Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 219,
+      "new_items": 9,
+      "items": [
+        {
+          "title": "Lego Ninjago no oficial",
+          "price": 6.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/lego-ninjago-no-oficial-1254803930",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lego Ninjago Figura No Oficial",
+          "price": 5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/lego-ninjago-figura-no-oficial-1254803275",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lego ninjago figura oficial",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Lego Ferrari SF-24 Technic",
+          "price": 170,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lego-ferrari-sf-24-technic-1254802874",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lego ferrari sf-24 technic",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Carta Pokémon Mewtwo HP 130 SVP EN 052",
+          "price": 80,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/carta-pokemon-mewtwo-hp-130-svp-en-052-1254804373",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon mewtwo svp",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "120 Cartas Pokémon Originales",
+          "price": 7,
+          "city": "Basauri",
+          "url": "https://es.wallapop.com/item/120-cartas-pokemon-originales-1254804278",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "315 Cartas Pokémon + 10 Holográficas Español+japo",
+          "price": 25,
+          "city": "Basauri",
+          "url": "https://es.wallapop.com/item/315-cartas-pokemon---10-holograficas-espanol-japo-1254804135",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon holograficas espanol+japo",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Lote 500 cartas Pokémon bulk common y uncommon",
+          "price": 14,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/lote-500-cartas-pokemon-bulk-common-y-uncommon-1254804009",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon bulk common uncommon",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Lote 500 cartas Pokémon bulk comunes/poco comunes",
+          "price": 14,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/lote-500-cartas-pokemon-bulk-comunes-poco-comunes-1254803579",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon bulk comunes/poco comunes",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Lote 500 cartas Pokémon bulk comunes/poco comunes",
+          "price": 14,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/lote-500-cartas-pokemon-bulk-comunes-poco-comunes-1254802987",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon bulk comunes/poco comunes",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 239,
+      "new_items": 54,
+      "items": [
+        {
+          "title": "Mando Nintendo Switch Blanco",
+          "price": 10,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mando-nintendo-switch-blanco-1254802928",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "FC 25 / Fifa 25 Ps5",
+          "price": 9.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/fc-25-fifa-25-ps5-1254804321",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "(PRECINTADO)Shadows of Doubt PS5",
+          "price": 14.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/precintado-shadows-of-doubt-ps5-1254804292",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "(precintado)shadows doubt ps5",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mortal Kombat 1 Ps5 / Playstation 5",
+          "price": 23.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mortal-kombat-1-ps5-playstation-5-1254804018",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mortal kombat ps5 playstation",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mando DualSense Ps5",
+          "price": 55,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mando-dualsense-ps5-1254803739",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando dualsense ps5",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "​SSD Kingston 480GB + Carcasa USB 3.0/3.1 Tooq",
+          "price": 40,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/ssd-kingston-480gb---carcasa-usb-3-0-3-1-tooq-1254803652",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: copia"
+        },
+        {
+          "title": "Consola Sony PS5 Blanca y Gris",
+          "price": 260,
+          "city": "Talavera de la Reina",
+          "url": "https://es.wallapop.com/item/consola-sony-ps5-blanca-y-gris-1254803529",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps5 blanca gris",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mando Sony DualSense Edge PS5 Negro/Blanco",
+          "price": 120,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mando-sony-dualsense-edge-ps5-negro-blanco-1254803449",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando sony dualsense edge ps5",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Juego PS5 FC24 EA Sports",
+          "price": 12.9,
+          "city": "El Puerto de Santa María",
+          "url": "https://es.wallapop.com/item/juego-ps5-fc24-ea-sports-1254803122",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego ps5 fc24 sports",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Cascos gaming",
+          "price": 15,
+          "city": "Córdoba",
+          "url": "https://es.wallapop.com/item/cascos-gaming-1254802819",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cascos gaming",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "PS4 Pro 1TB Glacier White",
+          "price": 230,
+          "city": "Tortosa",
+          "url": "https://es.wallapop.com/item/ps4-pro-1tb-glacier-white-1254803770",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 pro 1tb glacier white",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "in-ear apple airpods pro 3",
+          "price": 245,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-pro-3-1254804006",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods pro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "in-ear apple airpods 1 gen",
+          "price": 49,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-1-gen-1254803973",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods gen",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 plus 128gb",
+          "price": 519,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-plus-128gb-1254804283",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone x 64gb",
+          "price": 125,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/apple-iphone-x-64gb-1254804198",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 64gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 16 Pro Max",
+          "price": 550,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/cuadro-decorativo-estilo-clasico-1254804185",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 17 pro max 256gb",
+          "price": 1269,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-256gb-1254804089",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 16 128gb",
+          "price": 599,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-128gb-1254804056",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 13 Pro",
+          "price": 270,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-1254804048",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 pro max 512gb",
+          "price": 725,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-max-512gb-1254804047",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 512gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 14 plus 128gb",
+          "price": 339,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-plus-128gb-1254804042",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 14 pro max 128gb",
+          "price": 569,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-pro-max-128gb-1254804031",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 14 plus 128gb",
+          "price": 339,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-plus-128gb-1254804001",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 16 plus 128gb",
+          "price": 709,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-plus-128gb-1254804000",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 plus 128gb",
+          "price": 519,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-plus-128gb-1254803991",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 14 pro max 128gb",
+          "price": 535,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-pro-max-128gb-1254803981",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 plus 128gb",
+          "price": 555,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-plus-128gb-1254803956",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 pro 256gb",
+          "price": 639,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-256gb-1254803912",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 16 512gb",
+          "price": 655,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-512gb-1254803873",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 512gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 17 256gb",
+          "price": 749,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-256gb-1254803820",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 14 128gb",
+          "price": 375,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-128gb-1254803792",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 17 256gb",
+          "price": 749,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-256gb-1254803778",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 17 256gb",
+          "price": 749,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-256gb-1254803735",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone air 256gb",
+          "price": 759,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-air-256gb-1254803710",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone air 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 16 plus 512gb",
+          "price": 809,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-plus-512gb-1254803678",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 512gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 17 pro max 512gb",
+          "price": 1429,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-512gb-1254803655",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 512gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 14 pro 128gb",
+          "price": 415,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-pro-128gb-1254803623",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 14 pro 128gb",
+          "price": 459,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-pro-128gb-1254803605",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 13 pro max 128gb",
+          "price": 469,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-pro-max-128gb-1254803580",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 13 pro max 1tb",
+          "price": 649,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-pro-max-1tb-1254803552",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 1tb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 16 pro max 256gb",
+          "price": 859,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-1254803528",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 15 256GB",
+          "price": 435,
+          "city": "Alzira",
+          "url": "https://es.wallapop.com/item/iphone-15-256gb-1254803524",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 pro 128gb",
+          "price": 615,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-128gb-1254803489",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 pro 128gb",
+          "price": 575,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-128gb-1254803463",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 15 128GB Verde - Batería 84%",
+          "price": 360,
+          "city": "Goiburu",
+          "url": "https://es.wallapop.com/item/iphone-15-128gb-verde-bateria-84-1254803398",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb verde bateria 84%",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 15 Pro Max Gris/Plata",
+          "price": 600,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-gris-plata-1254803365",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max gris/plata",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 16 Pro Max",
+          "price": 550,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/cuadro-decorativo-paisaje-invierno-1254803352",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 128gb",
+          "price": 415,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-128gb-1254803339",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 15 pro 256gb",
+          "price": 599,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-256gb-1254803250",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 17 pro max 256gb",
+          "price": 1269,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-256gb-1254803189",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 15 Negro",
+          "price": 370,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-negro-1254803160",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 17 512gb",
+          "price": 875,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-512gb-1254803159",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 512gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple iphone 17 pro max 256gb",
+          "price": 1269,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-256gb-1254803134",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "apple smartwatch apple watch series 9 45mm (gps)",
+          "price": 180,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/apple-smartwatch-apple-watch-series-9-45mm-gps-1254804091",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple smartwatch apple watch series",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 156,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "enciclopedia",
+          "price": 39,
+          "city": "Almería",
+          "url": "https://es.wallapop.com/item/enciclopedia-1254803613",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "enciclopedia",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 80,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Undaunted Normandy Juego de Mesa Inglés",
+          "price": 25,
+          "city": "Valverde del Fresno",
+          "url": "https://es.wallapop.com/item/undaunted-normandy-juego-de-mesa-ingles-1254804179",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "undaunted normandy juego mesa ingles",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Cartas Undaunted Reinforcements Originales Inglés",
+          "price": 5,
+          "city": "Valverde del Fresno",
+          "url": "https://es.wallapop.com/item/cartas-undaunted-reinforcements-originales-ingles-1254804024",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cartas Undaunted North Africa - Originales Inglés",
+          "price": 5,
+          "city": "Valverde del Fresno",
+          "url": "https://es.wallapop.com/item/cartas-undaunted-north-africa-originales-1254803526",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cartas Undaunted Normandy - Originales Inglés",
+          "price": 5,
+          "city": "Valverde del Fresno",
+          "url": "https://es.wallapop.com/item/cartas-undaunted-normandy-originales-1254803294",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "bicicleta montaña gt zaskar",
+          "price": 249,
+          "city": "Alcorcón",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-gt-zaskar-1254802878",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana zaskar",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "raqueta slazenger xcel tour 105",
+          "price": 18,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/raqueta-slazenger-xcel-tour-105-1254804052",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta slazenger xcel tour",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "raqueta wilson fusion xl",
+          "price": 39,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/raqueta-wilson-fusion-xl-1254804037",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "raqueta wilson fusion",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Set de 10 overgrips nuevos",
+          "price": 7,
+          "city": "Termoli",
+          "url": "https://es.wallapop.com/item/set-10-overgrip-nuovi-1254803964",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 23,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Furby Juguete Vintage Rojo",
+          "price": 10,
+          "city": "La Pedrosa",
+          "url": "https://es.wallapop.com/item/furby-juguete-vintage-rojo-1254802916",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "furby juguete vintage rojo",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Pack Figuras Hulk vs Abominación 2008",
+          "price": 25,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/pack-figuras-hulk-vs-abominacion-2008-1254804169",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack figuras hulk abominacion",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 74,
+  "total_signals": 0,
+  "duration_s": 58
+}
