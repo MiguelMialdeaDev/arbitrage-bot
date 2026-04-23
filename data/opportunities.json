@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T17:04:23.368Z",
+  "updated_at": "2026-04-23T17:17:42.010Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -38,6 +38,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "blu ray llorona steelbook edicion limitada",
+        "example_title": "Blu-ray La Llorona Steelbook Edición Limitada",
+        "example_url": "https://es.wallapop.com/item/blu-ray-la-llorona-steelbook-edicion-limitada-1255383936",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-23T17:17:42.009Z",
+        "last_seen": "2026-04-23T17:17:42.009Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Blu-ray La Llorona Steelbook Edición Limitada",
+            "url": "https://es.wallapop.com/item/blu-ray-la-llorona-steelbook-edicion-limitada-1255383936",
+            "city": "Algeciras"
+          }
+        ]
+      },
+      {
+        "model": "pack blu ray crimen ferpecto color purpura",
+        "example_title": "Pack 4 Blu-ray: Crimen Ferpecto, El Color Púrpura,",
+        "example_url": "https://es.wallapop.com/item/pack-4-blu-ray-crimen-ferpecto-el-color-purpura-1255382886",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 26,
+        "median_price": 26,
+        "max_price": 26,
+        "first_seen": "2026-04-23T17:17:42.009Z",
+        "last_seen": "2026-04-23T17:17:42.009Z",
+        "sample": [
+          {
+            "price": 26,
+            "title": "Pack 4 Blu-ray: Crimen Ferpecto, El Color Púrpura,",
+            "url": "https://es.wallapop.com/item/pack-4-blu-ray-crimen-ferpecto-el-color-purpura-1255382886",
+            "city": "Calella"
+          }
+        ]
+      },
       {
         "model": "funko pop mini will",
         "example_title": "Funko Pop Mini Will",
@@ -1570,9 +1620,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 61,
-    "total_unique_models": 62,
-    "total_reservations": 18,
+    "possible": 63,
+    "total_unique_models": 64,
+    "total_reservations": 20,
     "total_confirmed_sales": 45
   },
   "thresholds": {
@@ -1584,30 +1634,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "9jdw1q959n6k",
-      "model": "funko pop mini will",
-      "title": "Funko Pop Mini Will",
-      "sold_price": 9,
-      "city": "Villava",
-      "url": "https://es.wallapop.com/item/funko-pop-mini-will-1255331912",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T15:03:22.869Z",
-      "last_seen": "2026-04-23T15:03:22.869Z",
-      "confirmed_at": "2026-04-23T17:04:23.367Z"
-    },
-    {
-      "id": "8z88p0n8k1z3",
-      "model": "nintendo switch negra completa",
-      "title": "Nintendo Switch Negra Completa",
-      "sold_price": 83,
-      "city": "Ajalvir",
-      "url": "https://es.wallapop.com/item/nintendo-switch-negra-completa-1255333370",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T15:03:22.869Z",
-      "last_seen": "2026-04-23T15:03:22.869Z",
-      "confirmed_at": "2026-04-23T17:04:23.367Z"
-    }
-  ]
+  "new_sales": []
 }
