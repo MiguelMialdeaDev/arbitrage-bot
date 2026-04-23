@@ -1,39 +1,6 @@
 {
   "reservations": [
     {
-      "id": "36e5mkr1dk6d",
-      "title": "Muñecos Funko Pop Stranger Things",
-      "model": "munecos funko pop stranger things",
-      "price": 9,
-      "city": "Villava",
-      "url": "https://es.wallapop.com/item/munecos-funko-pop-stranger-things-1255305063",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T13:32:49.692Z",
-      "last_seen": "2026-04-23T13:32:49.692Z"
-    },
-    {
-      "id": "nz0813l0pe6o",
-      "title": "Tomodachi Life: Una Vida de Ensueño (N. Switch)",
-      "model": "tomodachi life vida ensueno switch",
-      "price": 60,
-      "city": "Alicante/Alacant",
-      "url": "https://es.wallapop.com/item/tomodachi-life-una-vida-de-ensueno-n-switch-1255304875",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T13:32:49.692Z",
-      "last_seen": "2026-04-23T13:32:49.692Z"
-    },
-    {
-      "id": "8j38k9le81z9",
-      "title": "Consola 3 Negra + Accesorios",
-      "model": "consola negra accesorios",
-      "price": 80,
-      "city": "Vilanoveta",
-      "url": "https://es.wallapop.com/item/consola-3-negra---accesorios-1255304610",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T13:32:49.692Z",
-      "last_seen": "2026-04-23T13:32:49.692Z"
-    },
-    {
       "id": "qzmm08w7lgzv",
       "title": "Pack 6 Cajas Deck Case 100+ Ultimate Guard",
       "model": "pack cajas deck case 100 ultimate guard",
@@ -41,28 +8,6 @@
       "city": "Burgos",
       "url": "https://es.wallapop.com/item/pack-6-cajas-deck-case-100--ultimate-guard-1255306656",
       "category": "Coleccionismo",
-      "first_seen": "2026-04-23T13:47:00.622Z",
-      "last_seen": "2026-04-23T13:47:00.622Z"
-    },
-    {
-      "id": "xzogwq1wy5j9",
-      "title": "Colección Pokémon First Partner Illustration",
-      "model": "coleccion pokemon first partner illustration",
-      "price": 59,
-      "city": "Otura",
-      "url": "https://es.wallapop.com/item/coleccion-pokemon-first-partner-illustration-1255310181",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T13:47:00.622Z",
-      "last_seen": "2026-04-23T13:47:00.622Z"
-    },
-    {
-      "id": "vjrem8344lzk",
-      "title": "Hot Toys Tonto 1/6 Figura de Acción",
-      "model": "hot toys tonto figura accion",
-      "price": 250,
-      "city": "Durango",
-      "url": "https://es.wallapop.com/item/hot-toys-tonto-1-6-figura-de-accion-1255306367",
-      "category": "Niños y bebés",
       "first_seen": "2026-04-23T13:47:00.622Z",
       "last_seen": "2026-04-23T13:47:00.622Z"
     },
@@ -219,6 +164,17 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-23T15:29:32.683Z",
       "last_seen": "2026-04-23T15:29:32.683Z"
+    },
+    {
+      "id": "p618m20do5z5",
+      "title": "(KOCHI) X3 Correa Ocean para Apple Watch",
+      "model": "kochi x3 correa ocean apple watch",
+      "price": 25,
+      "city": "Logroño",
+      "url": "https://es.wallapop.com/item/kochi-x3-correa-ocean-para-apple-watch-1255350007",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T15:47:39.863Z",
+      "last_seen": "2026-04-23T15:47:39.863Z"
     }
   ]
 }

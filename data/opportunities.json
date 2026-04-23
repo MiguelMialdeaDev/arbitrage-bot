@@ -1,11 +1,161 @@
 {
-  "updated_at": "2026-04-23T15:32:06.368Z",
+  "updated_at": "2026-04-23T15:47:39.864Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "kochi x3 correa ocean apple watch",
+        "example_title": "(KOCHI) X3 Correa Ocean para Apple Watch",
+        "example_url": "https://es.wallapop.com/item/kochi-x3-correa-ocean-para-apple-watch-1255350007",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-23T15:47:39.863Z",
+        "last_seen": "2026-04-23T15:47:39.863Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "(KOCHI) X3 Correa Ocean para Apple Watch",
+            "url": "https://es.wallapop.com/item/kochi-x3-correa-ocean-para-apple-watch-1255350007",
+            "city": "Logroño"
+          }
+        ]
+      },
+      {
+        "model": "munecos funko pop stranger things",
+        "example_title": "Muñecos Funko Pop Stranger Things",
+        "example_url": "https://es.wallapop.com/item/munecos-funko-pop-stranger-things-1255305063",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-23T15:47:39.863Z",
+        "last_seen": "2026-04-23T15:47:39.863Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Muñecos Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/munecos-funko-pop-stranger-things-1255305063",
+            "city": "Villava"
+          }
+        ]
+      },
+      {
+        "model": "tomodachi life vida ensueno switch",
+        "example_title": "Tomodachi Life: Una Vida de Ensueño (N. Switch)",
+        "example_url": "https://es.wallapop.com/item/tomodachi-life-una-vida-de-ensueno-n-switch-1255304875",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-23T15:47:39.863Z",
+        "last_seen": "2026-04-23T15:47:39.863Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Tomodachi Life: Una Vida de Ensueño (N. Switch)",
+            "url": "https://es.wallapop.com/item/tomodachi-life-una-vida-de-ensueno-n-switch-1255304875",
+            "city": "Alicante/Alacant"
+          }
+        ]
+      },
+      {
+        "model": "consola negra accesorios",
+        "example_title": "Consola 3 Negra + Accesorios",
+        "example_url": "https://es.wallapop.com/item/consola-3-negra---accesorios-1255304610",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 80,
+        "median_price": 80,
+        "max_price": 80,
+        "first_seen": "2026-04-23T15:47:39.863Z",
+        "last_seen": "2026-04-23T15:47:39.863Z",
+        "sample": [
+          {
+            "price": 80,
+            "title": "Consola 3 Negra + Accesorios",
+            "url": "https://es.wallapop.com/item/consola-3-negra---accesorios-1255304610",
+            "city": "Vilanoveta"
+          }
+        ]
+      },
+      {
+        "model": "coleccion pokemon first partner illustration",
+        "example_title": "Colección Pokémon First Partner Illustration",
+        "example_url": "https://es.wallapop.com/item/coleccion-pokemon-first-partner-illustration-1255310181",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 59,
+        "median_price": 59,
+        "max_price": 59,
+        "first_seen": "2026-04-23T15:47:39.863Z",
+        "last_seen": "2026-04-23T15:47:39.863Z",
+        "sample": [
+          {
+            "price": 59,
+            "title": "Colección Pokémon First Partner Illustration",
+            "url": "https://es.wallapop.com/item/coleccion-pokemon-first-partner-illustration-1255310181",
+            "city": "Otura"
+          }
+        ]
+      },
+      {
+        "model": "hot toys tonto figura accion",
+        "example_title": "Hot Toys Tonto 1/6 Figura de Acción",
+        "example_url": "https://es.wallapop.com/item/hot-toys-tonto-1-6-figura-de-accion-1255306367",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 250,
+        "median_price": 250,
+        "max_price": 250,
+        "first_seen": "2026-04-23T15:47:39.863Z",
+        "last_seen": "2026-04-23T15:47:39.863Z",
+        "sample": [
+          {
+            "price": 250,
+            "title": "Hot Toys Tonto 1/6 Figura de Acción",
+            "url": "https://es.wallapop.com/item/hot-toys-tonto-1-6-figura-de-accion-1255306367",
+            "city": "Durango"
+          }
+        ]
+      },
       {
         "model": "funko stranger things kinder joy figuras",
         "example_title": "Funko Stranger Things Kinder Joy Figuras",
@@ -428,131 +578,6 @@
             "title": "Pack 6 Cajas Deck Case 100+ Ultimate Guard",
             "url": "https://es.wallapop.com/item/pack-6-cajas-deck-case-100--ultimate-guard-1255306656",
             "city": "Burgos"
-          }
-        ]
-      },
-      {
-        "model": "coleccion pokemon first partner illustration",
-        "example_title": "Colección Pokémon First Partner Illustration",
-        "example_url": "https://es.wallapop.com/item/coleccion-pokemon-first-partner-illustration-1255310181",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 59,
-        "median_price": 59,
-        "max_price": 59,
-        "first_seen": "2026-04-23T13:47:00.622Z",
-        "last_seen": "2026-04-23T13:47:00.622Z",
-        "sample": [
-          {
-            "price": 59,
-            "title": "Colección Pokémon First Partner Illustration",
-            "url": "https://es.wallapop.com/item/coleccion-pokemon-first-partner-illustration-1255310181",
-            "city": "Otura"
-          }
-        ]
-      },
-      {
-        "model": "hot toys tonto figura accion",
-        "example_title": "Hot Toys Tonto 1/6 Figura de Acción",
-        "example_url": "https://es.wallapop.com/item/hot-toys-tonto-1-6-figura-de-accion-1255306367",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 250,
-        "median_price": 250,
-        "max_price": 250,
-        "first_seen": "2026-04-23T13:47:00.622Z",
-        "last_seen": "2026-04-23T13:47:00.622Z",
-        "sample": [
-          {
-            "price": 250,
-            "title": "Hot Toys Tonto 1/6 Figura de Acción",
-            "url": "https://es.wallapop.com/item/hot-toys-tonto-1-6-figura-de-accion-1255306367",
-            "city": "Durango"
-          }
-        ]
-      },
-      {
-        "model": "munecos funko pop stranger things",
-        "example_title": "Muñecos Funko Pop Stranger Things",
-        "example_url": "https://es.wallapop.com/item/munecos-funko-pop-stranger-things-1255305063",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9,
-        "median_price": 9,
-        "max_price": 9,
-        "first_seen": "2026-04-23T13:32:49.692Z",
-        "last_seen": "2026-04-23T13:32:49.692Z",
-        "sample": [
-          {
-            "price": 9,
-            "title": "Muñecos Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/munecos-funko-pop-stranger-things-1255305063",
-            "city": "Villava"
-          }
-        ]
-      },
-      {
-        "model": "tomodachi life vida ensueno switch",
-        "example_title": "Tomodachi Life: Una Vida de Ensueño (N. Switch)",
-        "example_url": "https://es.wallapop.com/item/tomodachi-life-una-vida-de-ensueno-n-switch-1255304875",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 60,
-        "median_price": 60,
-        "max_price": 60,
-        "first_seen": "2026-04-23T13:32:49.692Z",
-        "last_seen": "2026-04-23T13:32:49.692Z",
-        "sample": [
-          {
-            "price": 60,
-            "title": "Tomodachi Life: Una Vida de Ensueño (N. Switch)",
-            "url": "https://es.wallapop.com/item/tomodachi-life-una-vida-de-ensueno-n-switch-1255304875",
-            "city": "Alicante/Alacant"
-          }
-        ]
-      },
-      {
-        "model": "consola negra accesorios",
-        "example_title": "Consola 3 Negra + Accesorios",
-        "example_url": "https://es.wallapop.com/item/consola-3-negra---accesorios-1255304610",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 80,
-        "median_price": 80,
-        "max_price": 80,
-        "first_seen": "2026-04-23T13:32:49.692Z",
-        "last_seen": "2026-04-23T13:32:49.692Z",
-        "sample": [
-          {
-            "price": 80,
-            "title": "Consola 3 Negra + Accesorios",
-            "url": "https://es.wallapop.com/item/consola-3-negra---accesorios-1255304610",
-            "city": "Vilanoveta"
           }
         ]
       },
@@ -1263,10 +1288,10 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 50,
-    "total_unique_models": 50,
-    "total_reservations": 20,
-    "total_confirmed_sales": 30
+    "possible": 51,
+    "total_unique_models": 51,
+    "total_reservations": 16,
+    "total_confirmed_sales": 35
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1277,5 +1302,66 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "36e5mkr1dk6d",
+      "model": "munecos funko pop stranger things",
+      "title": "Muñecos Funko Pop Stranger Things",
+      "sold_price": 9,
+      "city": "Villava",
+      "url": "https://es.wallapop.com/item/munecos-funko-pop-stranger-things-1255305063",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T13:32:49.692Z",
+      "last_seen": "2026-04-23T13:32:49.692Z",
+      "confirmed_at": "2026-04-23T15:47:39.863Z"
+    },
+    {
+      "id": "nz0813l0pe6o",
+      "model": "tomodachi life vida ensueno switch",
+      "title": "Tomodachi Life: Una Vida de Ensueño (N. Switch)",
+      "sold_price": 60,
+      "city": "Alicante/Alacant",
+      "url": "https://es.wallapop.com/item/tomodachi-life-una-vida-de-ensueno-n-switch-1255304875",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T13:32:49.692Z",
+      "last_seen": "2026-04-23T13:32:49.692Z",
+      "confirmed_at": "2026-04-23T15:47:39.863Z"
+    },
+    {
+      "id": "8j38k9le81z9",
+      "model": "consola negra accesorios",
+      "title": "Consola 3 Negra + Accesorios",
+      "sold_price": 80,
+      "city": "Vilanoveta",
+      "url": "https://es.wallapop.com/item/consola-3-negra---accesorios-1255304610",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T13:32:49.692Z",
+      "last_seen": "2026-04-23T13:32:49.692Z",
+      "confirmed_at": "2026-04-23T15:47:39.863Z"
+    },
+    {
+      "id": "xzogwq1wy5j9",
+      "model": "coleccion pokemon first partner illustration",
+      "title": "Colección Pokémon First Partner Illustration",
+      "sold_price": 59,
+      "city": "Otura",
+      "url": "https://es.wallapop.com/item/coleccion-pokemon-first-partner-illustration-1255310181",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T13:47:00.622Z",
+      "last_seen": "2026-04-23T13:47:00.622Z",
+      "confirmed_at": "2026-04-23T15:47:39.863Z"
+    },
+    {
+      "id": "vjrem8344lzk",
+      "model": "hot toys tonto figura accion",
+      "title": "Hot Toys Tonto 1/6 Figura de Acción",
+      "sold_price": 250,
+      "city": "Durango",
+      "url": "https://es.wallapop.com/item/hot-toys-tonto-1-6-figura-de-accion-1255306367",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-23T13:47:00.622Z",
+      "last_seen": "2026-04-23T13:47:00.622Z",
+      "confirmed_at": "2026-04-23T15:47:39.863Z"
+    }
+  ]
 }
