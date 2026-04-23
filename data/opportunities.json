@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T23:29:12.522Z",
+  "updated_at": "2026-04-23T23:31:34.747Z",
   "tiers": {
     "proven_seller": [
       {
@@ -2647,30 +2647,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "3zlmpweko4jx",
-      "model": "funko pop bleach ichigo 1104 1820 1182",
-      "title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
-      "sold_price": 53,
-      "city": "Marbella",
-      "url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T21:17:33.160Z",
-      "last_seen": "2026-04-23T21:17:33.160Z",
-      "confirmed_at": "2026-04-23T23:29:12.521Z"
-    },
-    {
-      "id": "8z88pnv218z3",
-      "model": "pokemon diamante brillante nintendo switch",
-      "title": "Pokemon Diamante Brillante Nintendo Switch",
-      "sold_price": 20,
-      "city": "Puerto de Sagunto",
-      "url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T21:17:33.160Z",
-      "last_seen": "2026-04-23T21:17:33.160Z",
-      "confirmed_at": "2026-04-23T23:29:12.521Z"
-    }
-  ]
+  "new_sales": []
 }

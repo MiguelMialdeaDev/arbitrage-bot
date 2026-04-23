@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-04-23T23:30:29.452Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Conformer Shuriken MTG Rara NM Final Fantasy",
+          "price": 7,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/conformer-shuriken-mtg-rara-nm-final-fantasy-1255461116",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Latias & Latios GX 113/181 TAG TEAM",
+          "price": 55,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/latias-latios-gx-113-181-tag-team-1255461214",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "latias latios 113/181 tag team",
+          "verdict": "skip",
+          "reason": "0 reservados de 'latias latios 113/181 tag team' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cartas pokemon de machamp y hitmonchan",
+          "price": 60,
+          "city": "Onda",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-de-machamp-y-hitmonchan-1255461213",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon machamp hitmonchan",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon machamp hitmonchan' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Charizard, Venusaur, Blastoise Pokémon GO Cards",
+          "price": 15,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/charizard-venusaur-blastoise-pokemon-go-cards-1255461136",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "charizard, venusaur, blastoise pokemon cards",
+          "verdict": "skip",
+          "reason": "15€ vs mín reservado null€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Pokemon TCG: Caja Booster Ninja Spinner (JP)",
+          "price": 82.95,
+          "city": "La Línea de la Concepción",
+          "url": "https://es.wallapop.com/item/pokemon-tcg-caja-booster-ninja-spinner-jp-1255461049",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon tcg: booster ninja spinner",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon tcg: booster ninja spinner' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Wartortle 008 Base Set",
+          "price": 45,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-wartortle-008-base-set-1255461028",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon wartortle base set",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon wartortle base set' (sin evidencia de demanda)"
+        },
+        {
+          "title": "10 sobres de Pokémon Mega Symphonia japoneses",
+          "price": 29.99,
+          "city": "Cavaion Veronese",
+          "url": "https://es.wallapop.com/item/10-bustine-pokemon-mega-symphonia-giapponesi-1255461017",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sobres pokemon mega symphonia japoneses",
+          "verdict": "skip",
+          "reason": "0 reservados de 'sobres pokemon mega symphonia japoneses' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 266,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "iPhone 17 negro",
+          "price": 750,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-negro-1255461098",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 Pro 128GB Blanco Perfecto funcionamiento",
+          "price": 230,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-128gb-blanco-perfecto-funcionamiento-1255461080",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 128gb blanco funcionamiento",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 128gb blanco funcionamiento' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro MAX 256 GB",
+          "price": 1000,
+          "city": "Toledo",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-256-gb-1255461054",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Poco X7 Pro 256GB Verde PRECINTADO",
+          "price": 225,
+          "city": "Nájera",
+          "url": "https://es.wallapop.com/item/poco-x7-pro-256gb-verde-precintado-1255461035",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "poco pro 256gb verde precintado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'poco pro 256gb verde precintado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch Series 11 46mm Aluminio",
+          "price": 300,
+          "city": "Barbera del Valles",
+          "url": "https://es.wallapop.com/item/apple-watch-series-11-46mm-aluminio-1255461164",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 46mm aluminio",
+          "verdict": "skip",
+          "reason": "300€ vs mín reservado 40€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 176,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "The Amazing Spider-Man 2 SOLO DISCO 3D",
+          "price": 5,
+          "city": "Utrera",
+          "url": "https://es.wallapop.com/item/the-amazing-spider-man-2-solo-disco-3d-1255461120",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 45,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 13,
+  "total_signals": 0,
+  "duration_s": 65
+}
