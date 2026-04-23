@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T20:34:53.261Z",
+  "updated_at": "2026-04-23T20:47:49.588Z",
   "tiers": {
     "proven_seller": [
       {
@@ -70,6 +70,106 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "mtg totem maldito campo fuerza",
+        "example_title": "MTG Tótem Maldito + Campo de Fuerza",
+        "example_url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T20:47:49.587Z",
+        "last_seen": "2026-04-23T20:47:49.587Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "MTG Tótem Maldito + Campo de Fuerza",
+            "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
+            "city": "Vila Nova de Gaia"
+          }
+        ]
+      },
+      {
+        "model": "lote peliculas blu ray dvd oli",
+        "example_title": "Lote Películas Blu-ray y DVD para Oli",
+        "example_url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-y-dvd-para-oli-1255439064",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-23T20:47:49.587Z",
+        "last_seen": "2026-04-23T20:47:49.587Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "Lote Películas Blu-ray y DVD para Oli",
+            "url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-y-dvd-para-oli-1255439064",
+            "city": "Alcobendas"
+          }
+        ]
+      },
+      {
+        "model": "funko pop marvel superior iron man 1568 reservado",
+        "example_title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
+        "example_url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-23T20:47:49.587Z",
+        "last_seen": "2026-04-23T20:47:49.587Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
+            "url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "funko pop she ra masters of the universe #38",
+        "example_title": "Funko Pop She-Ra Masters of the Universe #38",
+        "example_url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T20:47:49.587Z",
+        "last_seen": "2026-04-23T20:47:49.587Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Funko Pop She-Ra Masters of the Universe #38",
+            "url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
+            "city": "Marbella"
+          }
+        ]
+      },
       {
         "model": "pragmata ps5",
         "example_title": "Pragmata PS5",
@@ -792,56 +892,6 @@
             "title": "iPhone 13 128 GB Negro",
             "url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
             "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "funko pop marvel superior iron man 1568 reservado",
-        "example_title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
-        "example_url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-23T18:45:30.539Z",
-        "last_seen": "2026-04-23T18:45:30.539Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
-            "url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "funko pop she ra masters of the universe #38",
-        "example_title": "Funko Pop She-Ra Masters of the Universe #38",
-        "example_url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-23T18:45:30.539Z",
-        "last_seen": "2026-04-23T18:45:30.539Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Funko Pop She-Ra Masters of the Universe #38",
-            "url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
-            "city": "Marbella"
           }
         ]
       },
@@ -2202,10 +2252,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 85,
-    "total_unique_models": 87,
+    "possible": 87,
+    "total_unique_models": 89,
     "total_reservations": 16,
-    "total_confirmed_sales": 74
+    "total_confirmed_sales": 76
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2216,5 +2266,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "9jdw1q3gwn6k",
+      "model": "funko pop marvel superior iron man 1568 reservado",
+      "title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
+      "sold_price": 30,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T18:45:30.539Z",
+      "last_seen": "2026-04-23T18:45:30.539Z",
+      "confirmed_at": "2026-04-23T20:47:49.587Z"
+    },
+    {
+      "id": "ejkmnqvg8yzx",
+      "model": "funko pop she ra masters of the universe #38",
+      "title": "Funko Pop She-Ra Masters of the Universe #38",
+      "sold_price": 10,
+      "city": "Marbella",
+      "url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T18:45:30.539Z",
+      "last_seen": "2026-04-23T18:45:30.539Z",
+      "confirmed_at": "2026-04-23T20:47:49.587Z"
+    }
+  ]
 }

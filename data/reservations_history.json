@@ -1,28 +1,6 @@
 {
   "reservations": [
     {
-      "id": "9jdw1q3gwn6k",
-      "title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
-      "model": "funko pop marvel superior iron man 1568 reservado",
-      "price": 30,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T18:45:30.539Z",
-      "last_seen": "2026-04-23T18:45:30.539Z"
-    },
-    {
-      "id": "ejkmnqvg8yzx",
-      "title": "Funko Pop She-Ra Masters of the Universe #38",
-      "model": "funko pop she ra masters of the universe #38",
-      "price": 10,
-      "city": "Marbella",
-      "url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T18:45:30.539Z",
-      "last_seen": "2026-04-23T18:45:30.539Z"
-    },
-    {
       "id": "vjrem8n499zk",
       "title": "Colección Cartas Pokémon 151",
       "model": "coleccion cartas pokemon 151",
@@ -175,6 +153,28 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-23T20:32:55.068Z",
       "last_seen": "2026-04-23T20:32:55.068Z"
+    },
+    {
+      "id": "ejkmn7224qzx",
+      "title": "MTG Tótem Maldito + Campo de Fuerza",
+      "model": "mtg totem maldito campo fuerza",
+      "price": 40,
+      "city": "Vila Nova de Gaia",
+      "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T20:47:49.587Z",
+      "last_seen": "2026-04-23T20:47:49.587Z"
+    },
+    {
+      "id": "v6gp3q89xm6e",
+      "title": "Lote Películas Blu-ray y DVD para Oli",
+      "model": "lote peliculas blu ray dvd oli",
+      "price": 27,
+      "city": "Alcobendas",
+      "url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-y-dvd-para-oli-1255439064",
+      "category": "Cine, libros y música",
+      "first_seen": "2026-04-23T20:47:49.587Z",
+      "last_seen": "2026-04-23T20:47:49.587Z"
     }
   ]
 }
