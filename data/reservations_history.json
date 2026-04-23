@@ -1,17 +1,6 @@
 {
   "reservations": [
     {
-      "id": "0j28odmq1mjy",
-      "title": "Lote Nuria 2",
-      "model": "lote nuria",
-      "price": 14,
-      "city": "Vitoria-Gasteiz",
-      "url": "https://es.wallapop.com/item/lote-nuria-2-1255431959",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T20:02:45.628Z",
-      "last_seen": "2026-04-23T20:02:45.628Z"
-    },
-    {
       "id": "pzpkxqv39kj3",
       "title": "Lote cromos fútbol New Master y Riquelme",
       "model": "lote cromos futbol new master riquelme",
@@ -186,6 +175,28 @@
       "category": "Deporte y ocio",
       "first_seen": "2026-04-23T22:17:21.384Z",
       "last_seen": "2026-04-23T22:17:21.384Z"
+    },
+    {
+      "id": "qjwrg5ed2e6o",
+      "title": "Lote 4 Funko Pops Anime",
+      "model": "lote funko pops anime",
+      "price": 29,
+      "city": "Parque Boadilla",
+      "url": "https://es.wallapop.com/item/lote-4-funko-pops-anime-1255456105",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T22:25:05.621Z",
+      "last_seen": "2026-04-23T22:25:05.621Z"
+    },
+    {
+      "id": "nzxegnlyge62",
+      "title": "iPhone 7 Plus Rosa",
+      "model": "iphone plus rosa",
+      "price": 30,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T22:25:05.621Z",
+      "last_seen": "2026-04-23T22:25:05.621Z"
     }
   ]
 }

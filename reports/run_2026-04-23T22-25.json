@@ -1,0 +1,416 @@
+{
+  "timestamp": "2026-04-23T22:23:59.128Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 195,
+      "new_items": 15,
+      "items": [
+        {
+          "title": "Funko Pop! Victoria Heyes Terrifier 3 1949",
+          "price": 25,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/funko-pop-victoria-heyes-terrifier-3-1949-1255456655",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! victoria heyes terrifier 1949",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! victoria heyes terrifier 1949' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop El Rey León Scar 548",
+          "price": 9,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/funko-pop-el-rey-leon-scar-548-1255456594",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko rey leon scar 548",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko rey leon scar 548' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Jack Skellington en Tren 07 Disney",
+          "price": 40,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/funko-pop-jack-skellington-en-tren-07-disney-1255456463",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko jack skellington tren disney 07",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko jack skellington tren disney 07' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Eleven In The Rainbow Room 1251",
+          "price": 90,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/funko-pop-eleven-in-the-rainbow-room-1251-1255456342",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! eleven the rainbow room 1251",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! eleven the rainbow room 1251' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 4 Funko Pops Anime",
+          "price": 29,
+          "city": "Parque Boadilla",
+          "url": "https://es.wallapop.com/item/lote-4-funko-pops-anime-1255456105",
+          "reserved": true,
+          "profile": "funko_lote",
+          "query_ebay": "Funko Pop",
+          "verdict": "skip",
+          "reason": "29€ vs mín reservado 6.5€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funko Pop Asno Shrek",
+          "price": 5,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/funko-pop-asno-shrek-1255456102",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko asno shrek",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko asno shrek' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lego N1 Starfighter Mandalorian",
+          "price": 32.5,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lego-n1-starfighter-mandalorian-1255456616",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lego starfighter mandalorian",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lego starfighter mandalorian' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lego Tie Fighter con figura",
+          "price": 25,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lego-tie-fighter-con-figura-1255456433",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lego tie fighter con figura",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lego tie fighter con figura' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 55 Cromos Supercracks Adrenalyn Panini",
+          "price": 55,
+          "city": "Tarancón",
+          "url": "https://es.wallapop.com/item/lote-55-cromos-supercracks-adrenalyn-panini-1255456143",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromos supercracks adrenalyn panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromos supercracks adrenalyn panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cromo Agirrezabala Adrenalyn XL 25-26 firmado.",
+          "price": 8,
+          "city": "Tavernes Blanques",
+          "url": "https://es.wallapop.com/item/cromo-agirrezabala-adrenalyn-xl-25-26-firmado-1255456108",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "CAJA 50 SOBRES STICKERS MUNDIAL WORLD CUP 2026",
+          "price": 69.95,
+          "city": "Santander",
+          "url": "https://es.wallapop.com/item/caja-50-sobres-stickers-mundial-world-cup-2026-1255456001",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sobres stickers mundial world cup",
+          "verdict": "skip",
+          "reason": "0 reservados de 'sobres stickers mundial world cup' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Figurine y cartas de Marvel 80° Aniversario Panini",
+          "price": 5,
+          "city": "Certaldo",
+          "url": "https://es.wallapop.com/item/figurine-e-cards-marvel-80th-anniversary-panini-1255455724",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Pokemon TCG(Ingles): Surging Sparks Booster Bundle",
+          "price": 80,
+          "city": "La Papiola",
+          "url": "https://es.wallapop.com/item/pokemon-tcg-ingles-surging-sparks-booster-bundle-1255455974",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "pokemon tcg(ingles): surging sparks booster",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon tcg(ingles): surging sparks booster' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Eclipsed Steppe - Magic The Gathering",
+          "price": 20,
+          "city": "León",
+          "url": "https://es.wallapop.com/item/eclipsed-steppe-magic-the-gathering-1255456035",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "eclipsed steppe magic the gathering",
+          "verdict": "skip",
+          "reason": "0 reservados de 'eclipsed steppe magic the gathering' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Magic Secretos Strixhaven Caja 30 Sobres Sellados ESP",
+          "price": 129.9,
+          "city": "Porto Maurizio",
+          "url": "https://es.wallapop.com/item/magic-secretos-strixhaven-caja-30-sobre-sealed-esp-1255455725",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "magic secretos strixhaven sobres sellados",
+          "verdict": "skip",
+          "reason": "0 reservados de 'magic secretos strixhaven sobres sellados' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 266,
+      "new_items": 13,
+      "items": [
+        {
+          "title": "Slave Zero X Calamity Edition Switch",
+          "price": 40,
+          "city": "Godelleta",
+          "url": "https://es.wallapop.com/item/slave-zero-x-calamity-edition-switch-1255456692",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "slave zero calamity edition switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'slave zero calamity edition switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pokémon Pokopia Nintendo Switch Juego",
+          "price": 55,
+          "city": "Buñol",
+          "url": "https://es.wallapop.com/item/pokemon-pokopia-nintendo-switch-juego-1255456643",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "pokemon pokopia nintendo switch",
+          "verdict": "skip",
+          "reason": "55€ vs mín reservado 52€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch + Pokémon Poképia + Protector",
+          "price": 500,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/nintendo-switch---pokemon-pokepia---protector-1255456362",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Hyrule Warriors: Age of Imprisonment Switch",
+          "price": 40,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/hyrule-warriors-age-of-imprisonment-switch-1255456014",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "hyrule warriors: age imprisonment switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hyrule warriors: age imprisonment switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch Tablet Negro",
+          "price": 75,
+          "city": "Lisboa",
+          "url": "https://es.wallapop.com/item/nintendo-switch-tablet-preto-1255455875",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch tablet negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch tablet negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch 2",
+          "price": 370.1,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/libro-infantil-geronimo-stilton-viaje-en-el-tiempo-1255455846",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "370.1€ vs mín reservado 23€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Kirby y la Tierra Olvidada Switch",
+          "price": 37,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/kirby-y-la-tierra-olvidada-switch-1255455803",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "kirby tierra olvidada switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'kirby tierra olvidada switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Soporte  Mandos y Auriculares PS5",
+          "price": 15,
+          "city": "Almería",
+          "url": "https://es.wallapop.com/item/soporte-mandos-y-auriculares-ps5-1255456684",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "soporte mandos auriculares ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'soporte mandos auriculares ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Volante ps4 , ps5 y pc T80 edición Ferrari488 ps",
+          "price": 40,
+          "city": "Coria del Río",
+          "url": "https://es.wallapop.com/item/volante-ps4-ps5-y-pc-t80-edicion-ferrari488-ps-1255456572",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "volante ps4 ps5 t80 edicion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'volante ps4 ps5 t80 edicion' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cronus Zen usado muy pocas veces",
+          "price": 110,
+          "city": "Cagliari",
+          "url": "https://es.wallapop.com/item/crons-zen-usata-pochissime-volte-1255456452",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: defecto"
+        },
+        {
+          "title": "iPhone 15 Pro Max Negro/Gris  256 GB",
+          "price": 600,
+          "city": "Sant Cugat del Vallès",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-negro-gris-256-gb-1255456537",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max negro/gris",
+          "verdict": "skip",
+          "reason": "600€ vs mín reservado 330€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda CASE&ME iPhone 14 Pro Max Lila",
+          "price": 3,
+          "city": "Vila Real",
+          "url": "https://es.wallapop.com/item/capa-case-me-iphone-14-pro-max-lilas-1255456518",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 7 Plus Rosa",
+          "price": 30,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "iphone plus rosa",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 174,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Vinilo Alcatrazz - Dangerous Games",
+          "price": 100,
+          "city": "Manzanares el Real",
+          "url": "https://es.wallapop.com/item/vinilo-alcatrazz-dangerous-games-1255456478",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "alcatrazz dangerous games",
+          "verdict": "skip",
+          "reason": "0 reservados de 'alcatrazz dangerous games' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Wonder Woman 1984 BLURAY",
+          "price": 3.95,
+          "city": "Aguain",
+          "url": "https://es.wallapop.com/item/wonder-woman-1984-bluray-1255456600",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Zootrópolis BLURAY",
+          "price": 3.95,
+          "city": "Aguain",
+          "url": "https://es.wallapop.com/item/zootropolis-bluray-1255456385",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote 5 mangas Junji Ito",
+          "price": 30,
+          "city": "Rubí",
+          "url": "https://es.wallapop.com/item/lote-5-mangas-junji-ito-1255456507",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mangas junji ito",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mangas junji ito' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 78,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Unmatched: Batalla de Leyendas Volumen Uno",
+          "price": 25,
+          "city": "Santa Coloma de Gramenet",
+          "url": "https://es.wallapop.com/item/unmatched-batalla-de-leyendas-volumen-uno-1255456346",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "unmatched: batalla leyendas volumen uno",
+          "verdict": "skip",
+          "reason": "0 reservados de 'unmatched: batalla leyendas volumen uno' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Raqueta de Tenis para Hombre Adulto",
+          "price": 10,
+          "city": "Lisboa",
+          "url": "https://es.wallapop.com/item/raqueta-de-tenis-adulto-hombre-1255456610",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta tenis para hombre adulto",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta tenis para hombre adulto' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 43,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 34,
+  "total_signals": 0,
+  "duration_s": 66
+}

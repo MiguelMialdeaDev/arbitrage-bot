@@ -1043,6 +1043,18 @@
       "first_reserved": "2026-04-23T20:02:45.628Z",
       "last_seen": "2026-04-23T20:02:45.628Z",
       "confirmed_at": "2026-04-23T22:17:21.384Z"
+    },
+    {
+      "id": "0j28odmq1mjy",
+      "model": "lote nuria",
+      "title": "Lote Nuria 2",
+      "sold_price": 14,
+      "city": "Vitoria-Gasteiz",
+      "url": "https://es.wallapop.com/item/lote-nuria-2-1255431959",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T20:02:45.628Z",
+      "last_seen": "2026-04-23T20:02:45.628Z",
+      "confirmed_at": "2026-04-23T22:25:05.621Z"
     }
   ]
 }
