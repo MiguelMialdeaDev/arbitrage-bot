@@ -1151,6 +1151,18 @@
       "first_reserved": "2026-04-23T21:17:33.160Z",
       "last_seen": "2026-04-23T21:17:33.160Z",
       "confirmed_at": "2026-04-23T23:29:12.521Z"
+    },
+    {
+      "id": "wzyrgpepxe65",
+      "model": "lote productos magia",
+      "title": "Lote de 5 productos de magia",
+      "sold_price": 75,
+      "city": "Ciudad Real",
+      "url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-23T21:31:36.356Z",
+      "last_seen": "2026-04-23T21:31:36.356Z",
+      "confirmed_at": "2026-04-23T23:46:34.730Z"
     }
   ]
 }

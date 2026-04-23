@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T23:31:34.747Z",
+  "updated_at": "2026-04-23T23:46:34.731Z",
   "tiers": {
     "proven_seller": [
       {
@@ -76,6 +76,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote productos magia",
+        "example_title": "Lote de 5 productos de magia",
+        "example_url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 75,
+        "median_price": 75,
+        "max_price": 75,
+        "first_seen": "2026-04-23T23:46:34.730Z",
+        "last_seen": "2026-04-23T23:46:34.730Z",
+        "sample": [
+          {
+            "price": 75,
+            "title": "Lote de 5 productos de magia",
+            "url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
+            "city": "Ciudad Real"
+          }
+        ]
+      },
       {
         "model": "lote cartas pokemon mega clefable talonflame",
         "example_title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
@@ -648,31 +673,6 @@
             "title": "20 Sobres Pokémon Japoneses ThRush D Combo",
             "url": "https://es.wallapop.com/item/20-sobres-pokemon-japoneses-thrush-d-combo-1255450802",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "lote productos magia",
-        "example_title": "Lote de 5 productos de magia",
-        "example_url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 75,
-        "median_price": 75,
-        "max_price": 75,
-        "first_seen": "2026-04-23T21:31:36.356Z",
-        "last_seen": "2026-04-23T21:31:36.356Z",
-        "sample": [
-          {
-            "price": 75,
-            "title": "Lote de 5 productos de magia",
-            "url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
-            "city": "Ciudad Real"
           }
         ]
       },
@@ -2635,8 +2635,8 @@
     "recurring": 0,
     "possible": 102,
     "total_unique_models": 104,
-    "total_reservations": 11,
-    "total_confirmed_sales": 96
+    "total_reservations": 10,
+    "total_confirmed_sales": 97
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2647,5 +2647,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzyrgpepxe65",
+      "model": "lote productos magia",
+      "title": "Lote de 5 productos de magia",
+      "sold_price": 75,
+      "city": "Ciudad Real",
+      "url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-23T21:31:36.356Z",
+      "last_seen": "2026-04-23T21:31:36.356Z",
+      "confirmed_at": "2026-04-23T23:46:34.730Z"
+    }
+  ]
 }
