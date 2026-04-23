@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T22:31:53.084Z",
+  "updated_at": "2026-04-23T22:46:47.951Z",
   "tiers": {
     "proven_seller": [
       {
@@ -76,6 +76,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "pragmata ps5",
+        "example_title": "Pragmata PS5",
+        "example_url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 49,
+        "median_price": 49,
+        "max_price": 49,
+        "first_seen": "2026-04-23T22:46:47.950Z",
+        "last_seen": "2026-04-23T22:46:47.950Z",
+        "sample": [
+          {
+            "price": 49,
+            "title": "Pragmata PS5",
+            "url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "lote cromos futbol new master riquelme",
         "example_title": "Lote cromos fútbol New Master y Riquelme",
@@ -798,31 +823,6 @@
             "title": "Funko Pop She-Ra Masters of the Universe #38",
             "url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
             "city": "Marbella"
-          }
-        ]
-      },
-      {
-        "model": "pragmata ps5",
-        "example_title": "Pragmata PS5",
-        "example_url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 49,
-        "median_price": 49,
-        "max_price": 49,
-        "first_seen": "2026-04-23T20:32:55.068Z",
-        "last_seen": "2026-04-23T20:32:55.068Z",
-        "sample": [
-          {
-            "price": 49,
-            "title": "Pragmata PS5",
-            "url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
-            "city": "Madrid"
           }
         ]
       },
@@ -2610,8 +2610,8 @@
     "recurring": 0,
     "possible": 101,
     "total_unique_models": 103,
-    "total_reservations": 17,
-    "total_confirmed_sales": 89
+    "total_reservations": 16,
+    "total_confirmed_sales": 90
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2624,16 +2624,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "pzpkxqv39kj3",
-      "model": "lote cromos futbol new master riquelme",
-      "title": "Lote cromos fútbol New Master y Riquelme",
-      "sold_price": 9,
-      "city": "Xirivella",
-      "url": "https://es.wallapop.com/item/lote-cromos-futbol-new-master-y-riquelme-1255433526",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T20:17:39.227Z",
-      "last_seen": "2026-04-23T20:17:39.227Z",
-      "confirmed_at": "2026-04-23T22:31:53.083Z"
+      "id": "v6gp3q8yp56e",
+      "model": "pragmata ps5",
+      "title": "Pragmata PS5",
+      "sold_price": 49,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T20:32:55.068Z",
+      "last_seen": "2026-04-23T20:32:55.068Z",
+      "confirmed_at": "2026-04-23T22:46:47.950Z"
     }
   ]
 }
