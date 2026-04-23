@@ -1,11 +1,143 @@
 {
-  "updated_at": "2026-04-23T16:04:58.641Z",
+  "updated_at": "2026-04-23T16:17:28.166Z",
   "tiers": {
     "proven_seller": [],
-    "hot_24h": [],
+    "hot_24h": [
+      {
+        "model": "lote cartas pokemon",
+        "example_title": "Lote de cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
+        "total_reservations": 2,
+        "confirmed_sales": 0,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 35,
+        "median_price": 280,
+        "max_price": 280,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-23T16:17:28.164Z",
+        "sample": [
+          {
+            "price": 280,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+            "city": "Aguilar de Campoo"
+          },
+          {
+            "price": 35,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
+            "city": "Madrid"
+          }
+        ]
+      }
+    ],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote funko pop",
+        "example_title": "Lote Funko Pop",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8.5,
+        "median_price": 8.5,
+        "max_price": 8.5,
+        "first_seen": "2026-04-23T16:17:28.164Z",
+        "last_seen": "2026-04-23T16:17:28.164Z",
+        "sample": [
+          {
+            "price": 8.5,
+            "title": "Lote Funko Pop",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "llaveros cd mini battlefield ps4 ps5",
+        "example_title": "4 Llaveros CD Mini Battlefield 4 & 6 PS4/PS5",
+        "example_url": "https://es.wallapop.com/item/4-portachiavi-cd-mini-battlefield-4-6-ps4-ps5-1255359365",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T16:17:28.164Z",
+        "last_seen": "2026-04-23T16:17:28.164Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "4 Llaveros CD Mini Battlefield 4 & 6 PS4/PS5",
+            "url": "https://es.wallapop.com/item/4-portachiavi-cd-mini-battlefield-4-6-ps4-ps5-1255359365",
+            "city": "Bagnacavallo"
+          }
+        ]
+      },
+      {
+        "model": "princess peach showtime nintendo switch",
+        "example_title": "Princess Peach: Showtime! Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-23T16:17:28.164Z",
+        "last_seen": "2026-04-23T16:17:28.164Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Princess Peach: Showtime! Nintendo Switch",
+            "url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
+            "city": "Alcobendas"
+          }
+        ]
+      },
+      {
+        "model": "pack vinilos lp internacional pop rock",
+        "example_title": "Pack 2 Vinilos LP Internacional Pop Rock",
+        "example_url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 65,
+        "median_price": 65,
+        "max_price": 65,
+        "first_seen": "2026-04-23T16:17:28.164Z",
+        "last_seen": "2026-04-23T16:17:28.164Z",
+        "sample": [
+          {
+            "price": 65,
+            "title": "Pack 2 Vinilos LP Internacional Pop Rock",
+            "url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
+            "city": "Eivissa-San Juan"
+          }
+        ]
+      },
       {
         "model": "carta pokemon pikachu psa 10 sv 242 promo jp",
         "example_title": "Carta Pokémon Pikachu PSA 10 SV-P 242 Promo JP",
@@ -257,31 +389,6 @@
         ]
       },
       {
-        "model": "lote cartas pokemon",
-        "example_title": "Lote de cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 280,
-        "median_price": 280,
-        "max_price": 280,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-23T15:18:11.367Z",
-        "sample": [
-          {
-            "price": 280,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
-            "city": "Aguilar de Campoo"
-          }
-        ]
-      },
-      {
         "model": "pack juegos nintendo switch",
         "example_title": "Pack 8 Juegos Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
@@ -507,31 +614,6 @@
         ]
       },
       {
-        "model": "pack vinilos lp internacional pop rock",
-        "example_title": "Pack 2 Vinilos LP Internacional Pop Rock",
-        "example_url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 65,
-        "median_price": 65,
-        "max_price": 65,
-        "first_seen": "2026-04-23T14:17:03.862Z",
-        "last_seen": "2026-04-23T14:17:03.862Z",
-        "sample": [
-          {
-            "price": 65,
-            "title": "Pack 2 Vinilos LP Internacional Pop Rock",
-            "url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
-            "city": "Eivissa-San Juan"
-          }
-        ]
-      },
-      {
         "model": "lote adrenalyn 2025 2026",
         "example_title": "Lote Adrenalyn 2025-2026",
         "example_url": "https://es.wallapop.com/item/lote-adrenalyn-2025-2026-1255314004",
@@ -553,31 +635,6 @@
             "title": "Lote Adrenalyn 2025-2026",
             "url": "https://es.wallapop.com/item/lote-adrenalyn-2025-2026-1255314004",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "princess peach showtime nintendo switch",
-        "example_title": "Princess Peach: Showtime! Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-23T14:08:38.248Z",
-        "last_seen": "2026-04-23T14:08:38.248Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "Princess Peach: Showtime! Nintendo Switch",
-            "url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
-            "city": "Alcobendas"
           }
         ]
       },
@@ -1310,13 +1367,13 @@
   },
   "stats": {
     "proven_seller": 0,
-    "hot_24h": 0,
+    "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 52,
-    "total_unique_models": 52,
-    "total_reservations": 16,
-    "total_confirmed_sales": 36
+    "possible": 53,
+    "total_unique_models": 54,
+    "total_reservations": 17,
+    "total_confirmed_sales": 38
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1326,6 +1383,70 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
-  "new_sales": []
+  "tier_ups": [
+    {
+      "model": "lote cartas pokemon",
+      "from_tier": "possible",
+      "to_tier": "hot_24h",
+      "from_label": "💡 Posible",
+      "to_label": "🔥 Hot 24h",
+      "entry": {
+        "model": "lote cartas pokemon",
+        "example_title": "Lote de cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
+        "total_reservations": 2,
+        "confirmed_sales": 0,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 35,
+        "median_price": 280,
+        "max_price": 280,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-23T16:17:28.164Z",
+        "sample": [
+          {
+            "price": 280,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+            "city": "Aguilar de Campoo"
+          },
+          {
+            "price": 35,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
+            "city": "Madrid"
+          }
+        ]
+      }
+    }
+  ],
+  "new_sales": [
+    {
+      "id": "w67vnpp8v56x",
+      "model": "princess peach showtime nintendo switch",
+      "title": "Princess Peach: Showtime! Nintendo Switch",
+      "sold_price": 30,
+      "city": "Alcobendas",
+      "url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T14:08:38.248Z",
+      "last_seen": "2026-04-23T14:08:38.248Z",
+      "confirmed_at": "2026-04-23T16:17:28.164Z"
+    },
+    {
+      "id": "8z88p0013dz3",
+      "model": "pack vinilos lp internacional pop rock",
+      "title": "Pack 2 Vinilos LP Internacional Pop Rock",
+      "sold_price": 65,
+      "city": "Eivissa-San Juan",
+      "url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-23T14:17:03.862Z",
+      "last_seen": "2026-04-23T14:17:03.862Z",
+      "confirmed_at": "2026-04-23T16:17:28.164Z"
+    }
+  ]
 }
