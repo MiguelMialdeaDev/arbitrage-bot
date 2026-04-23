@@ -1,0 +1,248 @@
+{
+  "timestamp": "2026-04-23T23:00:35.555Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 198,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Funko Pop Katya 05 Drag Queens Hot Topic",
+          "price": 30,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/funko-pop-katya-05-drag-queens-hot-topic-1255459529",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko katya drag queens hot topic 05",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko katya drag queens hot topic 05' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Tiburon",
+          "price": 7.5,
+          "city": "Aguain",
+          "url": "https://es.wallapop.com/item/funko-pop-tiburon-1255459520",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "funko problema: sin caja"
+        },
+        {
+          "title": "Funko Pop El Juego del Calamar",
+          "price": 3.95,
+          "city": "Aguain",
+          "url": "https://es.wallapop.com/item/funko-pop-el-juego-del-calamar-1255459411",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "funko problema: sin caja"
+        },
+        {
+          "title": "Lote Cartas Pokémon antiguas",
+          "price": 100,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/lote-cartas-pokemon-antiguas-1255459568",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Cartas Pokémon (full art)",
+          "price": 0,
+          "city": "Urezarantza",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-1255459523",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Cartas Pokémon AR Japonesas (III)",
+          "price": 1,
+          "city": "Bárcena de Cicero",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-ar-japonesas-iii-1255459508",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Cartas Pokémon base set inglés",
+          "price": 130,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-base-set-ingles-1255459501",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon base set ingles",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon base set ingles' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 268,
+      "new_items": 10,
+      "items": [
+        {
+          "title": "Ender Magnolia: Bloom in the Mist Nintendo Switch",
+          "price": 19.99,
+          "city": "Camariñas",
+          "url": "https://es.wallapop.com/item/ender-magnolia-bloom-in-the-mist-nintendo-switch-1255459365",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "ender magnolia: bloom the mist",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ender magnolia: bloom the mist' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple AirPods Max Azul Medianoche USB-C",
+          "price": 250,
+          "city": "Albánchez",
+          "url": "https://es.wallapop.com/item/apple-airpods-max-azul-medianoche-usb-c-1255459478",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple airpods max azul medianoche",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple airpods max azul medianoche' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Max 256GB Azul Marino",
+          "price": 650,
+          "city": "Orihuela",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-azul-marino-1255459602",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb azul",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "iPhone 11 Negro Nuevo con Factura",
+          "price": 590,
+          "city": "Vilafranca del Penedès",
+          "url": "https://es.wallapop.com/item/iphone-11-negro-nuevo-con-factura-1255459601",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro con factura",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro con factura' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Batería StellarXcell iPhone 12 / 12 Pro",
+          "price": 20,
+          "city": "Almendralejo",
+          "url": "https://es.wallapop.com/item/bateria-stellarxcell-iphone-12-12-pro-1255459485",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bateria stellarxcell iphone pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bateria stellarxcell iphone pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 128GB Amarillo",
+          "price": 395,
+          "city": "Orihuela",
+          "url": "https://es.wallapop.com/item/iphone-15-128gb-amarillo-1255459451",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "iPhone 14 Pro Max 128GB Violeta leer bien!",
+          "price": 340,
+          "city": "Gandía",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-128gb-violeta-leer-bien-1255459382",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 128gb violeta",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 128gb violeta' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cámara frontal iPhone XS Apple",
+          "price": 5,
+          "city": "Lagos",
+          "url": "https://es.wallapop.com/item/camera-frontal-iphone-xs-apple-1255459348",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Apple Watch Series 9 45mm Space Gray",
+          "price": 220,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-watch-series-9-45mm-space-gray-1255459351",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 45mm space",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 45mm space' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch Series 11 46mm / SIN ABRIR",
+          "price": 345,
+          "city": "Alcorcón",
+          "url": "https://es.wallapop.com/item/apple-watch-series-11-46mm-sin-abrir-1255459111",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 46mm sin",
+          "verdict": "skip",
+          "reason": "345€ vs mín reservado 40€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 178,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Coroner - Punishment for Decadence LP",
+          "price": 30,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/coroner-punishment-for-decadence-lp-1255458796",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 77,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta Padel Head Coello Motion 2025",
+          "price": 170,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/raqueta-padel-head-coello-motion-2025-1255459592",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta padel head coello motion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta padel head coello motion' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 44,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 19,
+  "total_signals": 0,
+  "duration_s": 64
+}
