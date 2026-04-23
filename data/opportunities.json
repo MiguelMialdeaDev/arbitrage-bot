@@ -1,11 +1,36 @@
 {
-  "updated_at": "2026-04-23T14:17:03.863Z",
+  "updated_at": "2026-04-23T14:40:40.820Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "ps4 metro redux far cry",
+        "example_title": "PS4: Metro Redux y Far Cry 5",
+        "example_url": "https://es.wallapop.com/item/ps4-metro-redux-y-far-cry-5-1255325579",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 14,
+        "median_price": 14,
+        "max_price": 14,
+        "first_seen": "2026-04-23T14:40:40.819Z",
+        "last_seen": "2026-04-23T14:40:40.819Z",
+        "sample": [
+          {
+            "price": 14,
+            "title": "PS4: Metro Redux y Far Cry 5",
+            "url": "https://es.wallapop.com/item/ps4-metro-redux-y-far-cry-5-1255325579",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "pack vinilos lp internacional pop rock",
         "example_title": "Pack 2 Vinilos LP Internacional Pop Rock",
@@ -1013,9 +1038,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 40,
-    "total_unique_models": 40,
-    "total_reservations": 12,
+    "possible": 41,
+    "total_unique_models": 41,
+    "total_reservations": 13,
     "total_confirmed_sales": 28
   },
   "thresholds": {
