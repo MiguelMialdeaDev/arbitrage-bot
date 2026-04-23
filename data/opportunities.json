@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T22:25:05.622Z",
+  "updated_at": "2026-04-23T22:31:53.084Z",
   "tiers": {
     "proven_seller": [
       {
@@ -76,6 +76,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cromos futbol new master riquelme",
+        "example_title": "Lote cromos fútbol New Master y Riquelme",
+        "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-new-master-y-riquelme-1255433526",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-23T22:31:53.083Z",
+        "last_seen": "2026-04-23T22:31:53.083Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Lote cromos fútbol New Master y Riquelme",
+            "url": "https://es.wallapop.com/item/lote-cromos-futbol-new-master-y-riquelme-1255433526",
+            "city": "Xirivella"
+          }
+        ]
+      },
       {
         "model": "lote funko pops anime",
         "example_title": "Lote 4 Funko Pops Anime",
@@ -898,31 +923,6 @@
             "title": "Pedido para Santiago",
             "url": "https://es.wallapop.com/item/pedido-para-santiago-1255407651",
             "city": "Palafolls"
-          }
-        ]
-      },
-      {
-        "model": "lote cromos futbol new master riquelme",
-        "example_title": "Lote cromos fútbol New Master y Riquelme",
-        "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-new-master-y-riquelme-1255433526",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9,
-        "median_price": 9,
-        "max_price": 9,
-        "first_seen": "2026-04-23T20:17:39.227Z",
-        "last_seen": "2026-04-23T20:17:39.227Z",
-        "sample": [
-          {
-            "price": 9,
-            "title": "Lote cromos fútbol New Master y Riquelme",
-            "url": "https://es.wallapop.com/item/lote-cromos-futbol-new-master-y-riquelme-1255433526",
-            "city": "Xirivella"
           }
         ]
       },
@@ -2610,8 +2610,8 @@
     "recurring": 0,
     "possible": 101,
     "total_unique_models": 103,
-    "total_reservations": 18,
-    "total_confirmed_sales": 88
+    "total_reservations": 17,
+    "total_confirmed_sales": 89
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2624,16 +2624,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "0j28odmq1mjy",
-      "model": "lote nuria",
-      "title": "Lote Nuria 2",
-      "sold_price": 14,
-      "city": "Vitoria-Gasteiz",
-      "url": "https://es.wallapop.com/item/lote-nuria-2-1255431959",
+      "id": "pzpkxqv39kj3",
+      "model": "lote cromos futbol new master riquelme",
+      "title": "Lote cromos fútbol New Master y Riquelme",
+      "sold_price": 9,
+      "city": "Xirivella",
+      "url": "https://es.wallapop.com/item/lote-cromos-futbol-new-master-y-riquelme-1255433526",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T20:02:45.628Z",
-      "last_seen": "2026-04-23T20:02:45.628Z",
-      "confirmed_at": "2026-04-23T22:25:05.621Z"
+      "first_reserved": "2026-04-23T20:17:39.227Z",
+      "last_seen": "2026-04-23T20:17:39.227Z",
+      "confirmed_at": "2026-04-23T22:31:53.083Z"
     }
   ]
 }
