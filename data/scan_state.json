@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-04-23T15:29:32.656Z",
+  "updated_at": "2026-04-23T15:32:06.342Z",
   "categories": {
     "12461": {
       "id": 12461,
       "name": "Niños y bebés",
-      "last_scan": "2026-04-23T15:29:32.656Z",
-      "items_fetched": 47,
-      "items_new": 5,
+      "last_scan": "2026-04-23T15:32:06.342Z",
+      "items_fetched": 49,
+      "items_new": 2,
       "signals": 0
     },
     "12463": {
       "id": 12463,
       "name": "Cine, libros y música",
-      "last_scan": "2026-04-23T15:29:14.976Z",
-      "items_fetched": 156,
-      "items_new": 15,
+      "last_scan": "2026-04-23T15:31:46.951Z",
+      "items_fetched": 150,
+      "items_new": 3,
       "signals": 0
     },
     "12579": {
       "id": 12579,
       "name": "Deporte y ocio",
-      "last_scan": "2026-04-23T15:29:22.507Z",
-      "items_fetched": 84,
-      "items_new": 6,
+      "last_scan": "2026-04-23T15:31:54.739Z",
+      "items_fetched": 86,
+      "items_new": 3,
       "signals": 0
     },
     "18000": {
       "id": 18000,
       "name": "Coleccionismo",
-      "last_scan": "2026-04-23T15:28:02.635Z",
-      "items_fetched": 216,
-      "items_new": 62,
+      "last_scan": "2026-04-23T15:30:48.803Z",
+      "items_fetched": 218,
+      "items_new": 14,
       "signals": 0
     },
     "24200": {
       "id": 24200,
       "name": "Tecnología y electrónica",
-      "last_scan": "2026-04-23T15:29:01.461Z",
-      "items_fetched": 259,
-      "items_new": 89,
-      "signals": 0
+      "last_scan": "2026-04-23T15:31:35.386Z",
+      "items_fetched": 266,
+      "items_new": 44,
+      "signals": 1
     }
   }
 }
