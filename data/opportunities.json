@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T13:16:27.502Z",
+  "updated_at": "2026-04-23T13:32:49.694Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
@@ -7,10 +7,787 @@
     "recurring": [],
     "possible": [
       {
+        "model": "munecos funko pop stranger things",
+        "example_title": "Muñecos Funko Pop Stranger Things",
+        "example_url": "https://es.wallapop.com/item/munecos-funko-pop-stranger-things-1255305063",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Muñecos Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/munecos-funko-pop-stranger-things-1255305063",
+            "city": "Villava"
+          }
+        ]
+      },
+      {
+        "model": "tomodachi life vida ensueno switch",
+        "example_title": "Tomodachi Life: Una Vida de Ensueño (N. Switch)",
+        "example_url": "https://es.wallapop.com/item/tomodachi-life-una-vida-de-ensueno-n-switch-1255304875",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Tomodachi Life: Una Vida de Ensueño (N. Switch)",
+            "url": "https://es.wallapop.com/item/tomodachi-life-una-vida-de-ensueno-n-switch-1255304875",
+            "city": "Alicante/Alacant"
+          }
+        ]
+      },
+      {
+        "model": "consola negra accesorios",
+        "example_title": "Consola 3 Negra + Accesorios",
+        "example_url": "https://es.wallapop.com/item/consola-3-negra---accesorios-1255304610",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 80,
+        "median_price": 80,
+        "max_price": 80,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 80,
+            "title": "Consola 3 Negra + Accesorios",
+            "url": "https://es.wallapop.com/item/consola-3-negra---accesorios-1255304610",
+            "city": "Vilanoveta"
+          }
+        ]
+      },
+      {
+        "model": "funko pop stranger things kinder joy",
+        "example_title": "Funko Pop Stranger Things Kinder Joy",
+        "example_url": "https://es.wallapop.com/item/funko-pop-stranger-things-kinder-joy-1254788532",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6.5,
+        "median_price": 6.5,
+        "max_price": 6.5,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 6.5,
+            "title": "Funko Pop Stranger Things Kinder Joy",
+            "url": "https://es.wallapop.com/item/funko-pop-stranger-things-kinder-joy-1254788532",
+            "city": "Valladolid"
+          }
+        ]
+      },
+      {
+        "model": "lego technic 42056 porsche 911 gt3 rs",
+        "example_title": "LEGO Technic 42056 Porsche 911 GT3 RS",
+        "example_url": "https://es.wallapop.com/item/lego-technic-42056-porsche-911-gt3-rs-1254788070",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 670,
+        "median_price": 670,
+        "max_price": 670,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 670,
+            "title": "LEGO Technic 42056 Porsche 911 GT3 RS",
+            "url": "https://es.wallapop.com/item/lego-technic-42056-porsche-911-gt3-rs-1254788070",
+            "city": "L'Aquila"
+          }
+        ]
+      },
+      {
+        "model": "lote figuras lego star wars family guy",
+        "example_title": "Lote Figuras Lego Star Wars y Family Guy",
+        "example_url": "https://es.wallapop.com/item/lote-figuras-lego-star-wars-y-family-guy-1254787340",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 19,
+        "median_price": 19,
+        "max_price": 19,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 19,
+            "title": "Lote Figuras Lego Star Wars y Family Guy",
+            "url": "https://es.wallapop.com/item/lote-figuras-lego-star-wars-y-family-guy-1254787340",
+            "city": "Málaga"
+          }
+        ]
+      },
+      {
+        "model": "lote figuras lego star wars",
+        "example_title": "Lote 5 Figuras Lego Star Wars",
+        "example_url": "https://es.wallapop.com/item/lote-5-figuras-lego-star-wars-1254778122",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Lote 5 Figuras Lego Star Wars",
+            "url": "https://es.wallapop.com/item/lote-5-figuras-lego-star-wars-1254778122",
+            "city": "Alicante/Alacant"
+          }
+        ]
+      },
+      {
+        "model": "panini mundiales 1998 2018",
+        "example_title": "Panini Mundiales 1998-2018",
+        "example_url": "https://es.wallapop.com/item/panini-mundiales-1998-2018-1254776115",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 22,
+        "median_price": 22,
+        "max_price": 22,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 22,
+            "title": "Panini Mundiales 1998-2018",
+            "url": "https://es.wallapop.com/item/panini-mundiales-1998-2018-1254776115",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
+        "model": "cartas album grant",
+        "example_title": "Cartas y álbum para Grant",
+        "example_url": "https://es.wallapop.com/item/cartas-y-album-para-grant-1254726626",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 450,
+        "median_price": 450,
+        "max_price": 450,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 450,
+            "title": "Cartas y álbum para Grant",
+            "url": "https://es.wallapop.com/item/cartas-y-album-para-grant-1254726626",
+            "city": "Girona"
+          }
+        ]
+      },
+      {
+        "model": "conjunto cartas pokemon flygon meowth mega",
+        "example_title": "Conjunto de Cartas Pokémon: Flygon, Meowth, Mega H",
+        "example_url": "https://es.wallapop.com/item/conjunto-de-cartas-pokemon-flygon-meowth-mega-h-1254794103",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "Conjunto de Cartas Pokémon: Flygon, Meowth, Mega H",
+            "url": "https://es.wallapop.com/item/conjunto-de-cartas-pokemon-flygon-meowth-mega-h-1254794103",
+            "city": "Ovar"
+          }
+        ]
+      },
+      {
+        "model": "pokemon eevee heroes caja 30 sobres korea",
+        "example_title": "Pokemon Eevee heroes caja de 30 sobres Korea",
+        "example_url": "https://es.wallapop.com/item/pokemon-eevee-heroes-caja-de-30-sobres-korea-1254789284",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 99.99,
+        "median_price": 99.99,
+        "max_price": 99.99,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 99.99,
+            "title": "Pokemon Eevee heroes caja de 30 sobres Korea",
+            "url": "https://es.wallapop.com/item/pokemon-eevee-heroes-caja-de-30-sobres-korea-1254789284",
+            "city": "Fabraquer"
+          }
+        ]
+      },
+      {
+        "model": "playmobil figuras superheroes",
+        "example_title": "Playmobil Figuras Superhéroes",
+        "example_url": "https://es.wallapop.com/item/playmobil-figuras-superheroes-1254789742",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Playmobil Figuras Superhéroes",
+            "url": "https://es.wallapop.com/item/playmobil-figuras-superheroes-1254789742",
+            "city": "Vilar"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch",
+        "example_title": "Nintendo Switch 2",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-2-1254794253",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 365,
+        "median_price": 365,
+        "max_price": 365,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 365,
+            "title": "Nintendo Switch 2",
+            "url": "https://es.wallapop.com/item/nintendo-switch-2-1254794253",
+            "city": "Zaragoza"
+          }
+        ]
+      },
+      {
+        "model": "leyenda zelda breath of the wild switch",
+        "example_title": "La Leyenda de Zelda: Breath of the Wild Switch",
+        "example_url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-switch-1254792889",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "La Leyenda de Zelda: Breath of the Wild Switch",
+            "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-switch-1254792889",
+            "city": "Caserta"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch azul rojo mario kart deluxe",
+        "example_title": "Nintendo Switch Azul/Rojo + Mario Kart 8 Deluxe",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-azul-rojo---mario-kart-8-deluxe-1254791443",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 110,
+        "median_price": 110,
+        "max_price": 110,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 110,
+            "title": "Nintendo Switch Azul/Rojo + Mario Kart 8 Deluxe",
+            "url": "https://es.wallapop.com/item/nintendo-switch-azul-rojo---mario-kart-8-deluxe-1254791443",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "consola ps4 playstation carcasa vacia",
+        "example_title": "Consola PS4 (PlayStation 4) + Carcasa Vacía",
+        "example_url": "https://es.wallapop.com/item/consola-ps4-playstation-4---carcasa-vacia-1254783256",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "Consola PS4 (PlayStation 4) + Carcasa Vacía",
+            "url": "https://es.wallapop.com/item/consola-ps4-playstation-4---carcasa-vacia-1254783256",
+            "city": "Zaragoza"
+          }
+        ]
+      },
+      {
+        "model": "consola sony ps4 negra",
+        "example_title": "Consola Sony PS4 Negra",
+        "example_url": "https://es.wallapop.com/item/consola-sony-ps4-negra-1254772041",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Consola Sony PS4 Negra",
+            "url": "https://es.wallapop.com/item/consola-sony-ps4-negra-1254772041",
+            "city": "Monzón"
+          }
+        ]
+      },
+      {
+        "model": "mando xbox series pilas agotadas",
+        "example_title": "Mando Xbox Series S (pilas agotadas)",
+        "example_url": "https://es.wallapop.com/item/mando-xbox-series-s-pilas-agotadas-1254789507",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Mando Xbox Series S (pilas agotadas)",
+            "url": "https://es.wallapop.com/item/mando-xbox-series-s-pilas-agotadas-1254789507",
+            "city": "Tomelloso"
+          }
+        ]
+      },
+      {
+        "model": "marvel avengers xbox series xbox one",
+        "example_title": "Marvel's Avengers Xbox Series X/S Xbox One",
+        "example_url": "https://es.wallapop.com/item/marvel-s-avengers-xbox-series-x-s-xbox-one-1254768843",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Marvel's Avengers Xbox Series X/S Xbox One",
+            "url": "https://es.wallapop.com/item/marvel-s-avengers-xbox-series-x-s-xbox-one-1254768843",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "soporte mesa xbox series",
+        "example_title": "Soporte de mesa para Xbox Series S",
+        "example_url": "https://es.wallapop.com/item/soporte-de-mesa-para-xbox-series-s-1254764865",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Soporte de mesa para Xbox Series S",
+            "url": "https://es.wallapop.com/item/soporte-de-mesa-para-xbox-series-s-1254764865",
+            "city": "La Zubia"
+          }
+        ]
+      },
+      {
+        "model": "airpods generacion",
+        "example_title": "Airpods 1ª Generación",
+        "example_url": "https://es.wallapop.com/item/airpods-1-generacion-1254792391",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "Airpods 1ª Generación",
+            "url": "https://es.wallapop.com/item/airpods-1-generacion-1254792391",
+            "city": "Artola"
+          }
+        ]
+      },
+      {
+        "model": "camara frontal iphone 6s flex",
+        "example_title": "Cámara frontal iPhone 6s con flex",
+        "example_url": "https://es.wallapop.com/item/camara-frontal-iphone-6s-con-flex-1254793683",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4,
+        "median_price": 4,
+        "max_price": 4,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 4,
+            "title": "Cámara frontal iPhone 6s con flex",
+            "url": "https://es.wallapop.com/item/camara-frontal-iphone-6s-con-flex-1254793683",
+            "city": "Lugo"
+          }
+        ]
+      },
+      {
+        "model": "iphone 14 plata buen estado",
+        "example_title": "iPhone 14 Plata - Buen Estado",
+        "example_url": "https://es.wallapop.com/item/iphone-14-plata-buen-estado-1254793579",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 100,
+        "median_price": 100,
+        "max_price": 100,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 100,
+            "title": "iPhone 14 Plata - Buen Estado",
+            "url": "https://es.wallapop.com/item/iphone-14-plata-buen-estado-1254793579",
+            "city": "Santa Coloma de Gramenet"
+          }
+        ]
+      },
+      {
+        "model": "comics varios",
+        "example_title": "Comics varios",
+        "example_url": "https://es.wallapop.com/item/comics-varios-1254753499",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Comics varios",
+            "url": "https://es.wallapop.com/item/comics-varios-1254753499",
+            "city": "Oviedo"
+          }
+        ]
+      },
+      {
+        "model": "rabia spanish edition",
+        "example_title": "Rabia (Spanish Edition)",
+        "example_url": "https://es.wallapop.com/item/rabia-spanish-edition-1254686445",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 65,
+        "median_price": 65,
+        "max_price": 65,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 65,
+            "title": "Rabia (Spanish Edition)",
+            "url": "https://es.wallapop.com/item/rabia-spanish-edition-1254686445",
+            "city": "Cuenca"
+          }
+        ]
+      },
+      {
+        "model": "inserto guerra anillo lurtzerio",
+        "example_title": "Inserto Guerra del Anillo para Lurtzerio",
+        "example_url": "https://es.wallapop.com/item/inserto-guerra-del-anillo-para-lurtzerio-1254787933",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 28,
+        "median_price": 28,
+        "max_price": 28,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 28,
+            "title": "Inserto Guerra del Anillo para Lurtzerio",
+            "url": "https://es.wallapop.com/item/inserto-guerra-del-anillo-para-lurtzerio-1254787933",
+            "city": "Mataró"
+          }
+        ]
+      },
+      {
+        "model": "monopoly fortnite edicion espanol",
+        "example_title": "Monopoly Fortnite Edición Español",
+        "example_url": "https://es.wallapop.com/item/monopoly-fortnite-edicion-espanol-1254734621",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Monopoly Fortnite Edición Español",
+            "url": "https://es.wallapop.com/item/monopoly-fortnite-edicion-espanol-1254734621",
+            "city": "Nuevo Baztán"
+          }
+        ]
+      },
+      {
+        "model": "puzzle 1000 piezas globos aerostaticos cisnes",
+        "example_title": "Puzzle 1000 Piezas Globos Aerostáticos Cisnes",
+        "example_url": "https://es.wallapop.com/item/puzzle-1000-piezas-globos-aerostaticos-cisnes-1254751759",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Puzzle 1000 Piezas Globos Aerostáticos Cisnes",
+            "url": "https://es.wallapop.com/item/puzzle-1000-piezas-globos-aerostaticos-cisnes-1254751759",
+            "city": "Badalona"
+          }
+        ]
+      },
+      {
+        "model": "raqueta tenis head oversize 15 pir 25",
+        "example_title": "Raqueta de Tenis HEAD Oversize 1 por 15 i 2 pir 25",
+        "example_url": "https://es.wallapop.com/item/raqueta-de-tenis-head-oversize-1-por-15-i-2-pir-25-1254739972",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Raqueta de Tenis HEAD Oversize 1 por 15 i 2 pir 25",
+            "url": "https://es.wallapop.com/item/raqueta-de-tenis-head-oversize-1-por-15-i-2-pir-25-1254739972",
+            "city": "Premià de Dalt"
+          }
+        ]
+      },
+      {
+        "model": "pack figuras star wars compatibles lego",
+        "example_title": "Pack 7 Figuras Star Wars Compatibles Lego",
+        "example_url": "https://es.wallapop.com/item/pack-7-figuras-star-wars-compatibles-lego-1254761230",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 16,
+        "median_price": 16,
+        "max_price": 16,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 16,
+            "title": "Pack 7 Figuras Star Wars Compatibles Lego",
+            "url": "https://es.wallapop.com/item/pack-7-figuras-star-wars-compatibles-lego-1254761230",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
+        "model": "muneca reborn realista",
+        "example_title": "Muñeca Reborn realista",
+        "example_url": "https://es.wallapop.com/item/muneca-reborn-realista-1254776460",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 70,
+        "median_price": 70,
+        "max_price": 70,
+        "first_seen": "2026-04-23T13:32:49.692Z",
+        "last_seen": "2026-04-23T13:32:49.692Z",
+        "sample": [
+          {
+            "price": 70,
+            "title": "Muñeca Reborn realista",
+            "url": "https://es.wallapop.com/item/muneca-reborn-realista-1254776460",
+            "city": "Alicante/Alacant"
+          }
+        ]
+      },
+      {
         "model": "lote funko pop stranger things",
         "example_title": "Lote Funko Pop Stranger Things",
         "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
         "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
         "reservations_24h": 1,
         "reservations_7d": 1,
         "reservations_30d": 1,
@@ -34,6 +811,8 @@
         "example_title": "Pack cartas pokemon trainer gallery",
         "example_url": "https://es.wallapop.com/item/pack-cartas-pokemon-trainer-gallery-1255294102",
         "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
         "reservations_24h": 1,
         "reservations_7d": 1,
         "reservations_30d": 1,
@@ -51,650 +830,6 @@
             "city": "Barcelona"
           }
         ]
-      },
-      {
-        "model": "funko pop stranger things kinder joy",
-        "example_title": "Funko Pop Stranger Things Kinder Joy",
-        "example_url": "https://es.wallapop.com/item/funko-pop-stranger-things-kinder-joy-1254788532",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 6.5,
-        "median_price": 6.5,
-        "max_price": 6.5,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 6.5,
-            "title": "Funko Pop Stranger Things Kinder Joy",
-            "url": "https://es.wallapop.com/item/funko-pop-stranger-things-kinder-joy-1254788532",
-            "city": "Valladolid"
-          }
-        ]
-      },
-      {
-        "model": "lego technic 42056 porsche 911 gt3 rs",
-        "example_title": "LEGO Technic 42056 Porsche 911 GT3 RS",
-        "example_url": "https://es.wallapop.com/item/lego-technic-42056-porsche-911-gt3-rs-1254788070",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 670,
-        "median_price": 670,
-        "max_price": 670,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 670,
-            "title": "LEGO Technic 42056 Porsche 911 GT3 RS",
-            "url": "https://es.wallapop.com/item/lego-technic-42056-porsche-911-gt3-rs-1254788070",
-            "city": "L'Aquila"
-          }
-        ]
-      },
-      {
-        "model": "lote figuras lego star wars family guy",
-        "example_title": "Lote Figuras Lego Star Wars y Family Guy",
-        "example_url": "https://es.wallapop.com/item/lote-figuras-lego-star-wars-y-family-guy-1254787340",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 19,
-        "median_price": 19,
-        "max_price": 19,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 19,
-            "title": "Lote Figuras Lego Star Wars y Family Guy",
-            "url": "https://es.wallapop.com/item/lote-figuras-lego-star-wars-y-family-guy-1254787340",
-            "city": "Málaga"
-          }
-        ]
-      },
-      {
-        "model": "lote figuras lego star wars",
-        "example_title": "Lote 5 Figuras Lego Star Wars",
-        "example_url": "https://es.wallapop.com/item/lote-5-figuras-lego-star-wars-1254778122",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Lote 5 Figuras Lego Star Wars",
-            "url": "https://es.wallapop.com/item/lote-5-figuras-lego-star-wars-1254778122",
-            "city": "Alicante/Alacant"
-          }
-        ]
-      },
-      {
-        "model": "panini mundiales 1998 2018",
-        "example_title": "Panini Mundiales 1998-2018",
-        "example_url": "https://es.wallapop.com/item/panini-mundiales-1998-2018-1254776115",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 22,
-        "median_price": 22,
-        "max_price": 22,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 22,
-            "title": "Panini Mundiales 1998-2018",
-            "url": "https://es.wallapop.com/item/panini-mundiales-1998-2018-1254776115",
-            "city": "Santander"
-          }
-        ]
-      },
-      {
-        "model": "cartas album grant",
-        "example_title": "Cartas y álbum para Grant",
-        "example_url": "https://es.wallapop.com/item/cartas-y-album-para-grant-1254726626",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 450,
-        "median_price": 450,
-        "max_price": 450,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 450,
-            "title": "Cartas y álbum para Grant",
-            "url": "https://es.wallapop.com/item/cartas-y-album-para-grant-1254726626",
-            "city": "Girona"
-          }
-        ]
-      },
-      {
-        "model": "conjunto cartas pokemon flygon meowth mega",
-        "example_title": "Conjunto de Cartas Pokémon: Flygon, Meowth, Mega H",
-        "example_url": "https://es.wallapop.com/item/conjunto-de-cartas-pokemon-flygon-meowth-mega-h-1254794103",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 32,
-        "median_price": 32,
-        "max_price": 32,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 32,
-            "title": "Conjunto de Cartas Pokémon: Flygon, Meowth, Mega H",
-            "url": "https://es.wallapop.com/item/conjunto-de-cartas-pokemon-flygon-meowth-mega-h-1254794103",
-            "city": "Ovar"
-          }
-        ]
-      },
-      {
-        "model": "pokemon eevee heroes caja 30 sobres korea",
-        "example_title": "Pokemon Eevee heroes caja de 30 sobres Korea",
-        "example_url": "https://es.wallapop.com/item/pokemon-eevee-heroes-caja-de-30-sobres-korea-1254789284",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 99.99,
-        "median_price": 99.99,
-        "max_price": 99.99,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 99.99,
-            "title": "Pokemon Eevee heroes caja de 30 sobres Korea",
-            "url": "https://es.wallapop.com/item/pokemon-eevee-heroes-caja-de-30-sobres-korea-1254789284",
-            "city": "Fabraquer"
-          }
-        ]
-      },
-      {
-        "model": "playmobil figuras superheroes",
-        "example_title": "Playmobil Figuras Superhéroes",
-        "example_url": "https://es.wallapop.com/item/playmobil-figuras-superheroes-1254789742",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 6,
-        "median_price": 6,
-        "max_price": 6,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 6,
-            "title": "Playmobil Figuras Superhéroes",
-            "url": "https://es.wallapop.com/item/playmobil-figuras-superheroes-1254789742",
-            "city": "Vilar"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch",
-        "example_title": "Nintendo Switch 2",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-2-1254794253",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 365,
-        "median_price": 365,
-        "max_price": 365,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 365,
-            "title": "Nintendo Switch 2",
-            "url": "https://es.wallapop.com/item/nintendo-switch-2-1254794253",
-            "city": "Zaragoza"
-          }
-        ]
-      },
-      {
-        "model": "leyenda zelda breath of the wild switch",
-        "example_title": "La Leyenda de Zelda: Breath of the Wild Switch",
-        "example_url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-switch-1254792889",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "La Leyenda de Zelda: Breath of the Wild Switch",
-            "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-switch-1254792889",
-            "city": "Caserta"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch azul rojo mario kart deluxe",
-        "example_title": "Nintendo Switch Azul/Rojo + Mario Kart 8 Deluxe",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-azul-rojo---mario-kart-8-deluxe-1254791443",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 110,
-        "median_price": 110,
-        "max_price": 110,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 110,
-            "title": "Nintendo Switch Azul/Rojo + Mario Kart 8 Deluxe",
-            "url": "https://es.wallapop.com/item/nintendo-switch-azul-rojo---mario-kart-8-deluxe-1254791443",
-            "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "consola ps4 playstation carcasa vacia",
-        "example_title": "Consola PS4 (PlayStation 4) + Carcasa Vacía",
-        "example_url": "https://es.wallapop.com/item/consola-ps4-playstation-4---carcasa-vacia-1254783256",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 27,
-        "median_price": 27,
-        "max_price": 27,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 27,
-            "title": "Consola PS4 (PlayStation 4) + Carcasa Vacía",
-            "url": "https://es.wallapop.com/item/consola-ps4-playstation-4---carcasa-vacia-1254783256",
-            "city": "Zaragoza"
-          }
-        ]
-      },
-      {
-        "model": "consola sony ps4 negra",
-        "example_title": "Consola Sony PS4 Negra",
-        "example_url": "https://es.wallapop.com/item/consola-sony-ps4-negra-1254772041",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Consola Sony PS4 Negra",
-            "url": "https://es.wallapop.com/item/consola-sony-ps4-negra-1254772041",
-            "city": "Monzón"
-          }
-        ]
-      },
-      {
-        "model": "mando xbox series pilas agotadas",
-        "example_title": "Mando Xbox Series S (pilas agotadas)",
-        "example_url": "https://es.wallapop.com/item/mando-xbox-series-s-pilas-agotadas-1254789507",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 7,
-        "median_price": 7,
-        "max_price": 7,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 7,
-            "title": "Mando Xbox Series S (pilas agotadas)",
-            "url": "https://es.wallapop.com/item/mando-xbox-series-s-pilas-agotadas-1254789507",
-            "city": "Tomelloso"
-          }
-        ]
-      },
-      {
-        "model": "marvel avengers xbox series xbox one",
-        "example_title": "Marvel's Avengers Xbox Series X/S Xbox One",
-        "example_url": "https://es.wallapop.com/item/marvel-s-avengers-xbox-series-x-s-xbox-one-1254768843",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Marvel's Avengers Xbox Series X/S Xbox One",
-            "url": "https://es.wallapop.com/item/marvel-s-avengers-xbox-series-x-s-xbox-one-1254768843",
-            "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "soporte mesa xbox series",
-        "example_title": "Soporte de mesa para Xbox Series S",
-        "example_url": "https://es.wallapop.com/item/soporte-de-mesa-para-xbox-series-s-1254764865",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 12,
-        "median_price": 12,
-        "max_price": 12,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 12,
-            "title": "Soporte de mesa para Xbox Series S",
-            "url": "https://es.wallapop.com/item/soporte-de-mesa-para-xbox-series-s-1254764865",
-            "city": "La Zubia"
-          }
-        ]
-      },
-      {
-        "model": "airpods generacion",
-        "example_title": "Airpods 1ª Generación",
-        "example_url": "https://es.wallapop.com/item/airpods-1-generacion-1254792391",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 50,
-        "median_price": 50,
-        "max_price": 50,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 50,
-            "title": "Airpods 1ª Generación",
-            "url": "https://es.wallapop.com/item/airpods-1-generacion-1254792391",
-            "city": "Artola"
-          }
-        ]
-      },
-      {
-        "model": "camara frontal iphone 6s flex",
-        "example_title": "Cámara frontal iPhone 6s con flex",
-        "example_url": "https://es.wallapop.com/item/camara-frontal-iphone-6s-con-flex-1254793683",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 4,
-        "median_price": 4,
-        "max_price": 4,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 4,
-            "title": "Cámara frontal iPhone 6s con flex",
-            "url": "https://es.wallapop.com/item/camara-frontal-iphone-6s-con-flex-1254793683",
-            "city": "Lugo"
-          }
-        ]
-      },
-      {
-        "model": "iphone 14 plata buen estado",
-        "example_title": "iPhone 14 Plata - Buen Estado",
-        "example_url": "https://es.wallapop.com/item/iphone-14-plata-buen-estado-1254793579",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 100,
-        "median_price": 100,
-        "max_price": 100,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 100,
-            "title": "iPhone 14 Plata - Buen Estado",
-            "url": "https://es.wallapop.com/item/iphone-14-plata-buen-estado-1254793579",
-            "city": "Santa Coloma de Gramenet"
-          }
-        ]
-      },
-      {
-        "model": "comics varios",
-        "example_title": "Comics varios",
-        "example_url": "https://es.wallapop.com/item/comics-varios-1254753499",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Comics varios",
-            "url": "https://es.wallapop.com/item/comics-varios-1254753499",
-            "city": "Oviedo"
-          }
-        ]
-      },
-      {
-        "model": "rabia spanish edition",
-        "example_title": "Rabia (Spanish Edition)",
-        "example_url": "https://es.wallapop.com/item/rabia-spanish-edition-1254686445",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 65,
-        "median_price": 65,
-        "max_price": 65,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 65,
-            "title": "Rabia (Spanish Edition)",
-            "url": "https://es.wallapop.com/item/rabia-spanish-edition-1254686445",
-            "city": "Cuenca"
-          }
-        ]
-      },
-      {
-        "model": "inserto guerra anillo lurtzerio",
-        "example_title": "Inserto Guerra del Anillo para Lurtzerio",
-        "example_url": "https://es.wallapop.com/item/inserto-guerra-del-anillo-para-lurtzerio-1254787933",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 28,
-        "median_price": 28,
-        "max_price": 28,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 28,
-            "title": "Inserto Guerra del Anillo para Lurtzerio",
-            "url": "https://es.wallapop.com/item/inserto-guerra-del-anillo-para-lurtzerio-1254787933",
-            "city": "Mataró"
-          }
-        ]
-      },
-      {
-        "model": "monopoly fortnite edicion espanol",
-        "example_title": "Monopoly Fortnite Edición Español",
-        "example_url": "https://es.wallapop.com/item/monopoly-fortnite-edicion-espanol-1254734621",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Monopoly Fortnite Edición Español",
-            "url": "https://es.wallapop.com/item/monopoly-fortnite-edicion-espanol-1254734621",
-            "city": "Nuevo Baztán"
-          }
-        ]
-      },
-      {
-        "model": "puzzle 1000 piezas globos aerostaticos cisnes",
-        "example_title": "Puzzle 1000 Piezas Globos Aerostáticos Cisnes",
-        "example_url": "https://es.wallapop.com/item/puzzle-1000-piezas-globos-aerostaticos-cisnes-1254751759",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 7,
-        "median_price": 7,
-        "max_price": 7,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 7,
-            "title": "Puzzle 1000 Piezas Globos Aerostáticos Cisnes",
-            "url": "https://es.wallapop.com/item/puzzle-1000-piezas-globos-aerostaticos-cisnes-1254751759",
-            "city": "Badalona"
-          }
-        ]
-      },
-      {
-        "model": "raqueta tenis head oversize 15 pir 25",
-        "example_title": "Raqueta de Tenis HEAD Oversize 1 por 15 i 2 pir 25",
-        "example_url": "https://es.wallapop.com/item/raqueta-de-tenis-head-oversize-1-por-15-i-2-pir-25-1254739972",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Raqueta de Tenis HEAD Oversize 1 por 15 i 2 pir 25",
-            "url": "https://es.wallapop.com/item/raqueta-de-tenis-head-oversize-1-por-15-i-2-pir-25-1254739972",
-            "city": "Premià de Dalt"
-          }
-        ]
-      },
-      {
-        "model": "pack figuras star wars compatibles lego",
-        "example_title": "Pack 7 Figuras Star Wars Compatibles Lego",
-        "example_url": "https://es.wallapop.com/item/pack-7-figuras-star-wars-compatibles-lego-1254761230",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 16,
-        "median_price": 16,
-        "max_price": 16,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 16,
-            "title": "Pack 7 Figuras Star Wars Compatibles Lego",
-            "url": "https://es.wallapop.com/item/pack-7-figuras-star-wars-compatibles-lego-1254761230",
-            "city": "Santander"
-          }
-        ]
-      },
-      {
-        "model": "muneca reborn realista",
-        "example_title": "Muñeca Reborn realista",
-        "example_url": "https://es.wallapop.com/item/muneca-reborn-realista-1254776460",
-        "total_reservations": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 70,
-        "median_price": 70,
-        "max_price": 70,
-        "first_seen": "2026-04-21T22:34:07.413Z",
-        "last_seen": "2026-04-21T22:34:07.413Z",
-        "sample": [
-          {
-            "price": 70,
-            "title": "Muñeca Reborn realista",
-            "url": "https://es.wallapop.com/item/muneca-reborn-realista-1254776460",
-            "city": "Alicante/Alacant"
-          }
-        ]
       }
     ]
   },
@@ -703,15 +838,356 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 30,
-    "total_unique_models": 30,
-    "total_reservations": 30
+    "possible": 33,
+    "total_unique_models": 33,
+    "total_reservations": 5,
+    "total_confirmed_sales": 28
   },
   "thresholds": {
-    "proven_7d": 5,
-    "proven_30d": 10,
-    "hot_24h": 3,
-    "trending_7d": 3,
-    "recurring_30d": 2
-  }
+    "proven_7d": 3,
+    "proven_30d": 5,
+    "hot_24h": 2,
+    "trending_7d": 2,
+    "recurring_30d": 2,
+    "mode": "incubation"
+  },
+  "tier_ups": [],
+  "new_sales": [
+    {
+      "id": "qzmm0wgl71zv",
+      "model": "funko pop stranger things kinder joy",
+      "title": "Funko Pop Stranger Things Kinder Joy",
+      "sold_price": 6.5,
+      "city": "Valladolid",
+      "url": "https://es.wallapop.com/item/funko-pop-stranger-things-kinder-joy-1254788532",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "8z88plv798z3",
+      "model": "lego technic 42056 porsche 911 gt3 rs",
+      "title": "LEGO Technic 42056 Porsche 911 GT3 RS",
+      "sold_price": 670,
+      "city": "L'Aquila",
+      "url": "https://es.wallapop.com/item/lego-technic-42056-porsche-911-gt3-rs-1254788070",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "v6gp3rmwgl6e",
+      "model": "lote figuras lego star wars family guy",
+      "title": "Lote Figuras Lego Star Wars y Family Guy",
+      "sold_price": 19,
+      "city": "Málaga",
+      "url": "https://es.wallapop.com/item/lote-figuras-lego-star-wars-y-family-guy-1254787340",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "8z88plv1kdz3",
+      "model": "lote figuras lego star wars",
+      "title": "Lote 5 Figuras Lego Star Wars",
+      "sold_price": 40,
+      "city": "Alicante/Alacant",
+      "url": "https://es.wallapop.com/item/lote-5-figuras-lego-star-wars-1254778122",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "36e5mmq30n6d",
+      "model": "panini mundiales 1998 2018",
+      "title": "Panini Mundiales 1998-2018",
+      "sold_price": 22,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/panini-mundiales-1998-2018-1254776115",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "pzpkxxpgp9j3",
+      "model": "cartas album grant",
+      "title": "Cartas y álbum para Grant",
+      "sold_price": 450,
+      "city": "Girona",
+      "url": "https://es.wallapop.com/item/cartas-y-album-para-grant-1254726626",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "nz081lg4736o",
+      "model": "conjunto cartas pokemon flygon meowth mega",
+      "title": "Conjunto de Cartas Pokémon: Flygon, Meowth, Mega H",
+      "sold_price": 32,
+      "city": "Ovar",
+      "url": "https://es.wallapop.com/item/conjunto-de-cartas-pokemon-flygon-meowth-mega-h-1254794103",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "9jdw1rd3rl6k",
+      "model": "pokemon eevee heroes caja 30 sobres korea",
+      "title": "Pokemon Eevee heroes caja de 30 sobres Korea",
+      "sold_price": 99.99,
+      "city": "Fabraquer",
+      "url": "https://es.wallapop.com/item/pokemon-eevee-heroes-caja-de-30-sobres-korea-1254789284",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "x6qq1ol5x56y",
+      "model": "playmobil figuras superheroes",
+      "title": "Playmobil Figuras Superhéroes",
+      "sold_price": 6,
+      "city": "Vilar",
+      "url": "https://es.wallapop.com/item/playmobil-figuras-superheroes-1254789742",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "qjwrgner4k6o",
+      "model": "nintendo switch",
+      "title": "Nintendo Switch 2",
+      "sold_price": 365,
+      "city": "Zaragoza",
+      "url": "https://es.wallapop.com/item/nintendo-switch-2-1254794253",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "wzvgd5rl1rzl",
+      "model": "leyenda zelda breath of the wild switch",
+      "title": "La Leyenda de Zelda: Breath of the Wild Switch",
+      "sold_price": 40,
+      "city": "Caserta",
+      "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-switch-1254792889",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "vjrem3kkowzk",
+      "model": "nintendo switch azul rojo mario kart deluxe",
+      "title": "Nintendo Switch Azul/Rojo + Mario Kart 8 Deluxe",
+      "sold_price": 110,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/nintendo-switch-azul-rojo---mario-kart-8-deluxe-1254791443",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "qzmm0wgn3xzv",
+      "model": "consola ps4 playstation carcasa vacia",
+      "title": "Consola PS4 (PlayStation 4) + Carcasa Vacía",
+      "sold_price": 27,
+      "city": "Zaragoza",
+      "url": "https://es.wallapop.com/item/consola-ps4-playstation-4---carcasa-vacia-1254783256",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "wzvgddx8eqzl",
+      "model": "consola sony ps4 negra",
+      "title": "Consola Sony PS4 Negra",
+      "sold_price": 5,
+      "city": "Monzón",
+      "url": "https://es.wallapop.com/item/consola-sony-ps4-negra-1254772041",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "p618ml9p97z5",
+      "model": "mando xbox series pilas agotadas",
+      "title": "Mando Xbox Series S (pilas agotadas)",
+      "sold_price": 7,
+      "city": "Tomelloso",
+      "url": "https://es.wallapop.com/item/mando-xbox-series-s-pilas-agotadas-1254789507",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "vjremmlp99zk",
+      "model": "marvel avengers xbox series xbox one",
+      "title": "Marvel's Avengers Xbox Series X/S Xbox One",
+      "sold_price": 5,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/marvel-s-avengers-xbox-series-x-s-xbox-one-1254768843",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "wzvgddxl4qzl",
+      "model": "soporte mesa xbox series",
+      "title": "Soporte de mesa para Xbox Series S",
+      "sold_price": 12,
+      "city": "La Zubia",
+      "url": "https://es.wallapop.com/item/soporte-de-mesa-para-xbox-series-s-1254764865",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "vjrem3k9y4zk",
+      "model": "airpods generacion",
+      "title": "Airpods 1ª Generación",
+      "sold_price": 50,
+      "city": "Artola",
+      "url": "https://es.wallapop.com/item/airpods-1-generacion-1254792391",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "0j28olw48rjy",
+      "model": "camara frontal iphone 6s flex",
+      "title": "Cámara frontal iPhone 6s con flex",
+      "sold_price": 4,
+      "city": "Lugo",
+      "url": "https://es.wallapop.com/item/camara-frontal-iphone-6s-con-flex-1254793683",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "p618mlv4vgz5",
+      "model": "iphone 14 plata buen estado",
+      "title": "iPhone 14 Plata - Buen Estado",
+      "sold_price": 100,
+      "city": "Santa Coloma de Gramenet",
+      "url": "https://es.wallapop.com/item/iphone-14-plata-buen-estado-1254793579",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "nz0811nrde6o",
+      "model": "comics varios",
+      "title": "Comics varios",
+      "sold_price": 10,
+      "city": "Oviedo",
+      "url": "https://es.wallapop.com/item/comics-varios-1254753499",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "3zlmpp254qjx",
+      "model": "rabia spanish edition",
+      "title": "Rabia (Spanish Edition)",
+      "sold_price": 65,
+      "city": "Cuenca",
+      "url": "https://es.wallapop.com/item/rabia-spanish-edition-1254686445",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "xzogw1kpgwj9",
+      "model": "inserto guerra anillo lurtzerio",
+      "title": "Inserto Guerra del Anillo para Lurtzerio",
+      "sold_price": 28,
+      "city": "Mataró",
+      "url": "https://es.wallapop.com/item/inserto-guerra-del-anillo-para-lurtzerio-1254787933",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "3zlmpplv28jx",
+      "model": "monopoly fortnite edicion espanol",
+      "title": "Monopoly Fortnite Edición Español",
+      "sold_price": 5,
+      "city": "Nuevo Baztán",
+      "url": "https://es.wallapop.com/item/monopoly-fortnite-edicion-espanol-1254734621",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "0j28oo03enjy",
+      "model": "puzzle 1000 piezas globos aerostaticos cisnes",
+      "title": "Puzzle 1000 Piezas Globos Aerostáticos Cisnes",
+      "sold_price": 7,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/puzzle-1000-piezas-globos-aerostaticos-cisnes-1254751759",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "e65qddwpmg6o",
+      "model": "raqueta tenis head oversize 15 pir 25",
+      "title": "Raqueta de Tenis HEAD Oversize 1 por 15 i 2 pir 25",
+      "sold_price": 25,
+      "city": "Premià de Dalt",
+      "url": "https://es.wallapop.com/item/raqueta-de-tenis-head-oversize-1-por-15-i-2-pir-25-1254739972",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "nzxegg1ko162",
+      "model": "pack figuras star wars compatibles lego",
+      "title": "Pack 7 Figuras Star Wars Compatibles Lego",
+      "sold_price": 16,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/pack-7-figuras-star-wars-compatibles-lego-1254761230",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    },
+    {
+      "id": "9jdw11ggn46k",
+      "model": "muneca reborn realista",
+      "title": "Muñeca Reborn realista",
+      "sold_price": 70,
+      "city": "Alicante/Alacant",
+      "url": "https://es.wallapop.com/item/muneca-reborn-realista-1254776460",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-21T22:34:07.413Z",
+      "last_seen": "2026-04-21T22:34:07.413Z",
+      "confirmed_at": "2026-04-23T13:32:49.692Z"
+    }
+  ]
 }
