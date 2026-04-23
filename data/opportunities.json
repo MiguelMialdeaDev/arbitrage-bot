@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T17:43:32.132Z",
+  "updated_at": "2026-04-23T17:47:00.149Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -32,6 +32,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop marvel",
+        "example_title": "Funko Pop marvel",
+        "example_url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-23T17:47:00.148Z",
+        "last_seen": "2026-04-23T17:47:00.148Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Funko Pop marvel",
+            "url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
+            "city": "Getafe"
+          }
+        ]
+      },
       {
         "model": "super mario odyssey nintendo switch",
         "example_title": "Super Mario Odyssey Nintendo Switch",
@@ -1714,9 +1739,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 67,
-    "total_unique_models": 68,
-    "total_reservations": 19,
+    "possible": 68,
+    "total_unique_models": 69,
+    "total_reservations": 20,
     "total_confirmed_sales": 50
   },
   "thresholds": {
