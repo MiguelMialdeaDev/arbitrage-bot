@@ -467,6 +467,30 @@
       "first_reserved": "2026-04-23T13:47:00.622Z",
       "last_seen": "2026-04-23T13:47:00.622Z",
       "confirmed_at": "2026-04-23T16:33:04.791Z"
+    },
+    {
+      "id": "w67vnplwly6x",
+      "model": "lote adrenalyn 2025 2026",
+      "title": "Lote Adrenalyn 2025-2026",
+      "sold_price": 70,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-adrenalyn-2025-2026-1255314004",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T14:08:38.248Z",
+      "last_seen": "2026-04-23T14:08:38.248Z",
+      "confirmed_at": "2026-04-23T16:47:18.316Z"
+    },
+    {
+      "id": "p618m2233dz5",
+      "model": "ps4 metro redux far cry",
+      "title": "PS4: Metro Redux y Far Cry 5",
+      "sold_price": 14,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/ps4-metro-redux-y-far-cry-5-1255325579",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T14:40:40.819Z",
+      "last_seen": "2026-04-23T14:40:40.819Z",
+      "confirmed_at": "2026-04-23T16:47:18.316Z"
     }
   ]
 }

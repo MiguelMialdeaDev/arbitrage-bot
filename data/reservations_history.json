@@ -1,28 +1,6 @@
 {
   "reservations": [
     {
-      "id": "w67vnplwly6x",
-      "title": "Lote Adrenalyn 2025-2026",
-      "model": "lote adrenalyn 2025 2026",
-      "price": 70,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-adrenalyn-2025-2026-1255314004",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T14:08:38.248Z",
-      "last_seen": "2026-04-23T14:08:38.248Z"
-    },
-    {
-      "id": "p618m2233dz5",
-      "title": "PS4: Metro Redux y Far Cry 5",
-      "model": "ps4 metro redux far cry",
-      "price": 14,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/ps4-metro-redux-y-far-cry-5-1255325579",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T14:40:40.819Z",
-      "last_seen": "2026-04-23T14:40:40.819Z"
-    },
-    {
       "id": "wzyrg88mgp65",
       "title": "Funko Pop Will Stranger Things",
       "model": "funko pop will stranger things",
@@ -186,6 +164,39 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-23T16:33:04.791Z",
       "last_seen": "2026-04-23T16:33:04.791Z"
+    },
+    {
+      "id": "8j38k9101lz9",
+      "title": "iPhone 15 Rosa",
+      "model": "iphone 15 rosa",
+      "price": 280,
+      "city": "Lugo",
+      "url": "https://es.wallapop.com/item/iphone-15-rosa-1255369982",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T16:47:18.316Z",
+      "last_seen": "2026-04-23T16:47:18.316Z"
+    },
+    {
+      "id": "qjwrg83elg6o",
+      "title": "TOMOS SUELTOS MANGA THE PROMISED NEVERLAND",
+      "model": "tomos sueltos manga the promised neverland",
+      "price": 18,
+      "city": "León",
+      "url": "https://es.wallapop.com/item/tomos-sueltos-manga-the-promised-neverland-1255371853",
+      "category": "Cine, libros y música",
+      "first_seen": "2026-04-23T16:47:18.316Z",
+      "last_seen": "2026-04-23T16:47:18.316Z"
+    },
+    {
+      "id": "9jdw1qpo826k",
+      "title": "Heroquest El Despertar Juego de Mesa",
+      "model": "heroquest despertar juego mesa",
+      "price": 20,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/heroquest-el-despertar-juego-de-mesa-1255370284",
+      "category": "Deporte y ocio",
+      "first_seen": "2026-04-23T16:47:18.316Z",
+      "last_seen": "2026-04-23T16:47:18.316Z"
     }
   ]
 }
