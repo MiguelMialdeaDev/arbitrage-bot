@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T16:47:18.317Z",
+  "updated_at": "2026-04-23T17:02:51.921Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -38,6 +38,156 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop lord of the rings denethor",
+        "example_title": "Funko Pop! Lord of the Rings Denethor 2",
+        "example_url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-23T17:02:51.920Z",
+        "last_seen": "2026-04-23T17:02:51.920Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Funko Pop! Lord of the Rings Denethor 2",
+            "url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
+            "city": "Badalona"
+          }
+        ]
+      },
+      {
+        "model": "funko pop ice cube 160 funko pop tupac funko snoo",
+        "example_title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
+        "example_url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 75,
+        "median_price": 75,
+        "max_price": 75,
+        "first_seen": "2026-04-23T17:02:51.920Z",
+        "last_seen": "2026-04-23T17:02:51.920Z",
+        "sample": [
+          {
+            "price": 75,
+            "title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
+            "url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "playmobil marcelino",
+        "example_title": "Playmobil Marcelino",
+        "example_url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-23T17:02:51.920Z",
+        "last_seen": "2026-04-23T17:02:51.920Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Playmobil Marcelino",
+            "url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
+            "city": "Carretera del Km. 17,500 Al 22,600 Madrid-Colmenar Viejo"
+          }
+        ]
+      },
+      {
+        "model": "iphone 13 128 gb negro",
+        "example_title": "iPhone 13 128 GB Negro",
+        "example_url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 150,
+        "median_price": 150,
+        "max_price": 150,
+        "first_seen": "2026-04-23T17:02:51.920Z",
+        "last_seen": "2026-04-23T17:02:51.920Z",
+        "sample": [
+          {
+            "price": 150,
+            "title": "iPhone 13 128 GB Negro",
+            "url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "funko pop will stranger things",
+        "example_title": "Funko Pop Will Stranger Things",
+        "example_url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-23T17:02:51.920Z",
+        "last_seen": "2026-04-23T17:02:51.920Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Funko Pop Will Stranger Things",
+            "url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
+            "city": "Pinto"
+          }
+        ]
+      },
+      {
+        "model": "iphone 14 pro 128gb piezas",
+        "example_title": "iPhone 14 Pro 128GB para piezas",
+        "example_url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 110,
+        "median_price": 110,
+        "max_price": 110,
+        "first_seen": "2026-04-23T17:02:51.920Z",
+        "last_seen": "2026-04-23T17:02:51.920Z",
+        "sample": [
+          {
+            "price": 110,
+            "title": "iPhone 14 Pro 128GB para piezas",
+            "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
+            "city": "Castellón de la Plana/Castelló de la Plana"
+          }
+        ]
+      },
       {
         "model": "iphone 15 rosa",
         "example_title": "iPhone 15 Rosa",
@@ -710,56 +860,6 @@
             "title": "Pack cartas pokemon trainer gallery",
             "url": "https://es.wallapop.com/item/pack-cartas-pokemon-trainer-gallery-1255294102",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "funko pop will stranger things",
-        "example_title": "Funko Pop Will Stranger Things",
-        "example_url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8,
-        "median_price": 8,
-        "max_price": 8,
-        "first_seen": "2026-04-23T14:47:31.147Z",
-        "last_seen": "2026-04-23T14:47:31.147Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "Funko Pop Will Stranger Things",
-            "url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
-            "city": "Pinto"
-          }
-        ]
-      },
-      {
-        "model": "iphone 14 pro 128gb piezas",
-        "example_title": "iPhone 14 Pro 128GB para piezas",
-        "example_url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 110,
-        "median_price": 110,
-        "max_price": 110,
-        "first_seen": "2026-04-23T14:47:31.147Z",
-        "last_seen": "2026-04-23T14:47:31.147Z",
-        "sample": [
-          {
-            "price": 110,
-            "title": "iPhone 14 Pro 128GB para piezas",
-            "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
-            "city": "Castellón de la Plana/Castelló de la Plana"
           }
         ]
       },
@@ -1470,10 +1570,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 57,
-    "total_unique_models": 58,
-    "total_reservations": 18,
-    "total_confirmed_sales": 41
+    "possible": 61,
+    "total_unique_models": 62,
+    "total_reservations": 20,
+    "total_confirmed_sales": 43
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1486,28 +1586,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "w67vnplwly6x",
-      "model": "lote adrenalyn 2025 2026",
-      "title": "Lote Adrenalyn 2025-2026",
-      "sold_price": 70,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-adrenalyn-2025-2026-1255314004",
+      "id": "wzyrg88mgp65",
+      "model": "funko pop will stranger things",
+      "title": "Funko Pop Will Stranger Things",
+      "sold_price": 8,
+      "city": "Pinto",
+      "url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T14:08:38.248Z",
-      "last_seen": "2026-04-23T14:08:38.248Z",
-      "confirmed_at": "2026-04-23T16:47:18.316Z"
+      "first_reserved": "2026-04-23T14:47:31.147Z",
+      "last_seen": "2026-04-23T14:47:31.147Z",
+      "confirmed_at": "2026-04-23T17:02:51.920Z"
     },
     {
-      "id": "p618m2233dz5",
-      "model": "ps4 metro redux far cry",
-      "title": "PS4: Metro Redux y Far Cry 5",
-      "sold_price": 14,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/ps4-metro-redux-y-far-cry-5-1255325579",
+      "id": "mzn37qqrekjn",
+      "model": "iphone 14 pro 128gb piezas",
+      "title": "iPhone 14 Pro 128GB para piezas",
+      "sold_price": 110,
+      "city": "Castellón de la Plana/Castelló de la Plana",
+      "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T14:40:40.819Z",
-      "last_seen": "2026-04-23T14:40:40.819Z",
-      "confirmed_at": "2026-04-23T16:47:18.316Z"
+      "first_reserved": "2026-04-23T14:47:31.147Z",
+      "last_seen": "2026-04-23T14:47:31.147Z",
+      "confirmed_at": "2026-04-23T17:02:51.920Z"
     }
   ]
 }

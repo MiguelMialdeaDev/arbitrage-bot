@@ -1,28 +1,6 @@
 {
   "reservations": [
     {
-      "id": "wzyrg88mgp65",
-      "title": "Funko Pop Will Stranger Things",
-      "model": "funko pop will stranger things",
-      "price": 8,
-      "city": "Pinto",
-      "url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T14:47:31.147Z",
-      "last_seen": "2026-04-23T14:47:31.147Z"
-    },
-    {
-      "id": "mzn37qqrekjn",
-      "title": "iPhone 14 Pro 128GB para piezas",
-      "model": "iphone 14 pro 128gb piezas",
-      "price": 110,
-      "city": "Castellón de la Plana/Castelló de la Plana",
-      "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T14:47:31.147Z",
-      "last_seen": "2026-04-23T14:47:31.147Z"
-    },
-    {
       "id": "9jdw1q959n6k",
       "title": "Funko Pop Mini Will",
       "model": "funko pop mini will",
@@ -197,6 +175,50 @@
       "category": "Deporte y ocio",
       "first_seen": "2026-04-23T16:47:18.316Z",
       "last_seen": "2026-04-23T16:47:18.316Z"
+    },
+    {
+      "id": "nz0813ey8r6o",
+      "title": "Funko Pop! Lord of the Rings Denethor 2",
+      "model": "funko pop lord of the rings denethor",
+      "price": 5,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T17:02:51.920Z",
+      "last_seen": "2026-04-23T17:02:51.920Z"
+    },
+    {
+      "id": "p618m2g9x2z5",
+      "title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
+      "model": "funko pop ice cube 160 funko pop tupac funko snoo",
+      "price": 75,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T17:02:51.920Z",
+      "last_seen": "2026-04-23T17:02:51.920Z"
+    },
+    {
+      "id": "0j28odv40ejy",
+      "title": "Playmobil Marcelino",
+      "model": "playmobil marcelino",
+      "price": 15,
+      "city": "Carretera del Km. 17,500 Al 22,600 Madrid-Colmenar Viejo",
+      "url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T17:02:51.920Z",
+      "last_seen": "2026-04-23T17:02:51.920Z"
+    },
+    {
+      "id": "vjrem8w1x4zk",
+      "title": "iPhone 13 128 GB Negro",
+      "model": "iphone 13 128 gb negro",
+      "price": 150,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T17:02:51.920Z",
+      "last_seen": "2026-04-23T17:02:51.920Z"
     }
   ]
 }
