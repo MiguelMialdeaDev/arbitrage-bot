@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T17:17:42.010Z",
+  "updated_at": "2026-04-23T17:33:09.996Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -7,8 +7,8 @@
         "model": "lote cartas pokemon",
         "example_title": "Lote de cartas Pokémon",
         "example_url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-        "total_reservations": 2,
-        "confirmed_sales": 0,
+        "total_reservations": 1,
+        "confirmed_sales": 1,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -17,15 +17,9 @@
         "min_price": 35,
         "median_price": 280,
         "max_price": 280,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-23T16:17:28.164Z",
+        "first_seen": "2026-04-23T16:17:28.164Z",
+        "last_seen": "2026-04-23T17:33:09.995Z",
         "sample": [
-          {
-            "price": 280,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
-            "city": "Aguilar de Campoo"
-          },
           {
             "price": 35,
             "title": "Lote de cartas Pokémon",
@@ -38,6 +32,156 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "oricorio ex piplup pokemon cards",
+        "example_title": "Oricorio EX y Piplup Pokémon Cards",
+        "example_url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-23T17:33:09.995Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Oricorio EX y Piplup Pokémon Cards",
+            "url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
+            "city": "Vila-Real/Villarreal"
+          }
+        ]
+      },
+      {
+        "model": "super mario party jamboree nintendo switch",
+        "example_title": "Super Mario Party Jamboree Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-23T17:33:09.995Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Super Mario Party Jamboree Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
+            "city": "Móstoles"
+          }
+        ]
+      },
+      {
+        "model": "pack juegos nintendo switch",
+        "example_title": "Pack 8 Juegos Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-23T17:33:09.995Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Pack 8 Juegos Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
+            "city": "Vic"
+          }
+        ]
+      },
+      {
+        "model": "mando sony playstation blanco",
+        "example_title": "Mando Sony Playstation 5 Blanco",
+        "example_url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-23T17:33:09.995Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Mando Sony Playstation 5 Blanco",
+            "url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "funko stranger things kinder joy figuras",
+        "example_title": "Funko Stranger Things Kinder Joy Figuras",
+        "example_url": "https://es.wallapop.com/item/funko-stranger-things-kinder-joy-figuras-1255342299",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-23T17:33:09.995Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Funko Stranger Things Kinder Joy Figuras",
+            "url": "https://es.wallapop.com/item/funko-stranger-things-kinder-joy-figuras-1255342299",
+            "city": "Azuqueca de Henares"
+          }
+        ]
+      },
+      {
+        "model": "cartas pokemon",
+        "example_title": "Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-1255339953",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 22.8,
+        "median_price": 22.8,
+        "max_price": 22.8,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-23T17:33:09.995Z",
+        "sample": [
+          {
+            "price": 22.8,
+            "title": "Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-1255339953",
+            "city": "Pastrana"
+          }
+        ]
+      },
       {
         "model": "blu ray llorona steelbook edicion limitada",
         "example_title": "Blu-ray La Llorona Steelbook Edición Limitada",
@@ -760,106 +904,6 @@
             "title": "Hot Toys Tonto 1/6 Figura de Acción",
             "url": "https://es.wallapop.com/item/hot-toys-tonto-1-6-figura-de-accion-1255306367",
             "city": "Durango"
-          }
-        ]
-      },
-      {
-        "model": "funko stranger things kinder joy figuras",
-        "example_title": "Funko Stranger Things Kinder Joy Figuras",
-        "example_url": "https://es.wallapop.com/item/funko-stranger-things-kinder-joy-figuras-1255342299",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-23T15:29:32.683Z",
-        "last_seen": "2026-04-23T15:29:32.683Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Funko Stranger Things Kinder Joy Figuras",
-            "url": "https://es.wallapop.com/item/funko-stranger-things-kinder-joy-figuras-1255342299",
-            "city": "Azuqueca de Henares"
-          }
-        ]
-      },
-      {
-        "model": "cartas pokemon",
-        "example_title": "Cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/cartas-pokemon-1255339953",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 22.8,
-        "median_price": 22.8,
-        "max_price": 22.8,
-        "first_seen": "2026-04-23T15:29:32.683Z",
-        "last_seen": "2026-04-23T15:29:32.683Z",
-        "sample": [
-          {
-            "price": 22.8,
-            "title": "Cartas Pokémon",
-            "url": "https://es.wallapop.com/item/cartas-pokemon-1255339953",
-            "city": "Pastrana"
-          }
-        ]
-      },
-      {
-        "model": "pack juegos nintendo switch",
-        "example_title": "Pack 8 Juegos Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-23T15:18:11.367Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "Pack 8 Juegos Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
-            "city": "Vic"
-          }
-        ]
-      },
-      {
-        "model": "mando sony playstation blanco",
-        "example_title": "Mando Sony Playstation 5 Blanco",
-        "example_url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-23T15:18:11.367Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Mando Sony Playstation 5 Blanco",
-            "url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
-            "city": "Madrid"
           }
         ]
       },
@@ -1620,10 +1664,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 63,
-    "total_unique_models": 64,
-    "total_reservations": 20,
-    "total_confirmed_sales": 45
+    "possible": 65,
+    "total_unique_models": 66,
+    "total_reservations": 17,
+    "total_confirmed_sales": 50
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1634,5 +1678,66 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "v6gp3q5kvm6e",
+      "model": "lote cartas pokemon",
+      "title": "Lote de cartas Pokémon",
+      "sold_price": 280,
+      "city": "Aguilar de Campoo",
+      "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T15:18:11.367Z",
+      "last_seen": "2026-04-23T15:18:11.367Z",
+      "confirmed_at": "2026-04-23T17:33:09.995Z"
+    },
+    {
+      "id": "p618m23lk5z5",
+      "model": "pack juegos nintendo switch",
+      "title": "Pack 8 Juegos Nintendo Switch",
+      "sold_price": 35,
+      "city": "Vic",
+      "url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T15:18:11.367Z",
+      "last_seen": "2026-04-23T15:18:11.367Z",
+      "confirmed_at": "2026-04-23T17:33:09.995Z"
+    },
+    {
+      "id": "pzpkxqo58lj3",
+      "model": "mando sony playstation blanco",
+      "title": "Mando Sony Playstation 5 Blanco",
+      "sold_price": 20,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T15:18:11.367Z",
+      "last_seen": "2026-04-23T15:18:11.367Z",
+      "confirmed_at": "2026-04-23T17:33:09.995Z"
+    },
+    {
+      "id": "nz0813o5pv6o",
+      "model": "funko stranger things kinder joy figuras",
+      "title": "Funko Stranger Things Kinder Joy Figuras",
+      "sold_price": 10,
+      "city": "Azuqueca de Henares",
+      "url": "https://es.wallapop.com/item/funko-stranger-things-kinder-joy-figuras-1255342299",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T15:29:32.683Z",
+      "last_seen": "2026-04-23T15:29:32.683Z",
+      "confirmed_at": "2026-04-23T17:33:09.995Z"
+    },
+    {
+      "id": "qjwrg85w8q6o",
+      "model": "cartas pokemon",
+      "title": "Cartas Pokémon",
+      "sold_price": 22.8,
+      "city": "Pastrana",
+      "url": "https://es.wallapop.com/item/cartas-pokemon-1255339953",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T15:29:32.683Z",
+      "last_seen": "2026-04-23T15:29:32.683Z",
+      "confirmed_at": "2026-04-23T17:33:09.995Z"
+    }
+  ]
 }

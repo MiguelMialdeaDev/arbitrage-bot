@@ -1,61 +1,6 @@
 {
   "reservations": [
     {
-      "id": "v6gp3q5kvm6e",
-      "title": "Lote de cartas Pokémon",
-      "model": "lote cartas pokemon",
-      "price": 280,
-      "city": "Aguilar de Campoo",
-      "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T15:18:11.367Z",
-      "last_seen": "2026-04-23T15:18:11.367Z"
-    },
-    {
-      "id": "p618m23lk5z5",
-      "title": "Pack 8 Juegos Nintendo Switch",
-      "model": "pack juegos nintendo switch",
-      "price": 35,
-      "city": "Vic",
-      "url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T15:18:11.367Z",
-      "last_seen": "2026-04-23T15:18:11.367Z"
-    },
-    {
-      "id": "pzpkxqo58lj3",
-      "title": "Mando Sony Playstation 5 Blanco",
-      "model": "mando sony playstation blanco",
-      "price": 20,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T15:18:11.367Z",
-      "last_seen": "2026-04-23T15:18:11.367Z"
-    },
-    {
-      "id": "nz0813o5pv6o",
-      "title": "Funko Stranger Things Kinder Joy Figuras",
-      "model": "funko stranger things kinder joy figuras",
-      "price": 10,
-      "city": "Azuqueca de Henares",
-      "url": "https://es.wallapop.com/item/funko-stranger-things-kinder-joy-figuras-1255342299",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T15:29:32.683Z",
-      "last_seen": "2026-04-23T15:29:32.683Z"
-    },
-    {
-      "id": "qjwrg85w8q6o",
-      "title": "Cartas Pokémon",
-      "model": "cartas pokemon",
-      "price": 22.8,
-      "city": "Pastrana",
-      "url": "https://es.wallapop.com/item/cartas-pokemon-1255339953",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T15:29:32.683Z",
-      "last_seen": "2026-04-23T15:29:32.683Z"
-    },
-    {
       "id": "p618m20do5z5",
       "title": "(KOCHI) X3 Correa Ocean para Apple Watch",
       "model": "kochi x3 correa ocean apple watch",
@@ -219,6 +164,28 @@
       "category": "Cine, libros y música",
       "first_seen": "2026-04-23T17:17:42.009Z",
       "last_seen": "2026-04-23T17:17:42.009Z"
+    },
+    {
+      "id": "nz0813q0we6o",
+      "title": "Oricorio EX y Piplup Pokémon Cards",
+      "model": "oricorio ex piplup pokemon cards",
+      "price": 25,
+      "city": "Vila-Real/Villarreal",
+      "url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T17:33:09.995Z",
+      "last_seen": "2026-04-23T17:33:09.995Z"
+    },
+    {
+      "id": "36e5mkledy6d",
+      "title": "Super Mario Party Jamboree Nintendo Switch",
+      "model": "super mario party jamboree nintendo switch",
+      "price": 30,
+      "city": "Móstoles",
+      "url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T17:33:09.995Z",
+      "last_seen": "2026-04-23T17:33:09.995Z"
     }
   ]
 }
