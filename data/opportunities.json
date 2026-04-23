@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-23T22:02:06.014Z",
+  "updated_at": "2026-04-23T22:17:21.385Z",
   "tiers": {
     "proven_seller": [
       {
         "model": "super mario odyssey nintendo switch",
         "example_title": "Super Mario Odyssey Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
-        "total_reservations": 1,
-        "confirmed_sales": 2,
+        "total_reservations": 0,
+        "confirmed_sales": 3,
         "total_events": 3,
         "reservations_24h": 3,
         "reservations_7d": 3,
@@ -17,8 +17,20 @@
         "median_price": 27,
         "max_price": 28,
         "first_seen": "2026-04-23T19:47:30.951Z",
-        "last_seen": "2026-04-23T21:17:33.160Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
         "sample": [
+          {
+            "price": 28,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
+            "city": "Tomelloso"
+          },
+          {
+            "price": 24.8,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
+            "city": "A Coruña"
+          },
           {
             "price": 27,
             "title": "Super Mario Odyssey Nintendo Switch",
@@ -64,6 +76,181 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "carta pokemon #94 gengar",
+        "example_title": "Carta Pokémon #94 Gengar",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-94-gengar-1255455266",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-23T22:17:21.384Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Carta Pokémon #94 Gengar",
+            "url": "https://es.wallapop.com/item/carta-pokemon-94-gengar-1255455266",
+            "city": "Oñati"
+          }
+        ]
+      },
+      {
+        "model": "kirby star allies nintendo switch",
+        "example_title": "Kirby Star Allies Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/kirby-star-allies-nintendo-switch-1255455336",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 23,
+        "median_price": 23,
+        "max_price": 23,
+        "first_seen": "2026-04-23T22:17:21.384Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
+        "sample": [
+          {
+            "price": 23,
+            "title": "Kirby Star Allies Nintendo Switch",
+            "url": "https://es.wallapop.com/item/kirby-star-allies-nintendo-switch-1255455336",
+            "city": "Puigcerda"
+          }
+        ]
+      },
+      {
+        "model": "cargador coche cable iphone",
+        "example_title": "Cargador Coche y cable iPhone",
+        "example_url": "https://es.wallapop.com/item/cargador-coche-y-cable-iphone-1255455442",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 18,
+        "median_price": 18,
+        "max_price": 18,
+        "first_seen": "2026-04-23T22:17:21.384Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
+        "sample": [
+          {
+            "price": 18,
+            "title": "Cargador Coche y cable iPhone",
+            "url": "https://es.wallapop.com/item/cargador-coche-y-cable-iphone-1255455442",
+            "city": "Elx/Elche"
+          }
+        ]
+      },
+      {
+        "model": "pathfinder reglas tomos aventura",
+        "example_title": "Pathfinder Reglas y 3 Tomos Aventura",
+        "example_url": "https://es.wallapop.com/item/pathfinder-reglas-y-3-tomos-aventura-1255454892",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-23T22:17:21.384Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Pathfinder Reglas y 3 Tomos Aventura",
+            "url": "https://es.wallapop.com/item/pathfinder-reglas-y-3-tomos-aventura-1255454892",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "album laliga santander 2017 18 cromos",
+        "example_title": "Álbum LaLiga Santander 2017-18 + Cromos",
+        "example_url": "https://es.wallapop.com/item/album-laliga-santander-2017-18---cromos-1255430879",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-23T22:17:21.384Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Álbum LaLiga Santander 2017-18 + Cromos",
+            "url": "https://es.wallapop.com/item/album-laliga-santander-2017-18---cromos-1255430879",
+            "city": "Badalona"
+          }
+        ]
+      },
+      {
+        "model": "iphone 12 pro max apple pantalla trasera rota",
+        "example_title": "iPhone 12 Pro Max Apple con pantalla trasera rota",
+        "example_url": "https://es.wallapop.com/item/iphone-12-pro-max-apple-con-pantalla-trasera-rota-1255430909",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 120,
+        "median_price": 120,
+        "max_price": 120,
+        "first_seen": "2026-04-23T22:17:21.384Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
+        "sample": [
+          {
+            "price": 120,
+            "title": "iPhone 12 Pro Max Apple con pantalla trasera rota",
+            "url": "https://es.wallapop.com/item/iphone-12-pro-max-apple-con-pantalla-trasera-rota-1255430909",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "lp vinilo",
+        "example_title": "Lp vinilo",
+        "example_url": "https://es.wallapop.com/item/lp-vinilo-1255432263",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-23T22:17:21.384Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Lp vinilo",
+            "url": "https://es.wallapop.com/item/lp-vinilo-1255432263",
+            "city": "Santa Cruz de Bezana"
+          }
+        ]
+      },
       {
         "model": "lote cartas 151 raul",
         "example_title": "Lote de cartas 151 raul",
@@ -686,81 +873,6 @@
             "title": "Lote Nuria 2",
             "url": "https://es.wallapop.com/item/lote-nuria-2-1255431959",
             "city": "Vitoria-Gasteiz"
-          }
-        ]
-      },
-      {
-        "model": "album laliga santander 2017 18 cromos",
-        "example_title": "Álbum LaLiga Santander 2017-18 + Cromos",
-        "example_url": "https://es.wallapop.com/item/album-laliga-santander-2017-18---cromos-1255430879",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 12,
-        "median_price": 12,
-        "max_price": 12,
-        "first_seen": "2026-04-23T20:02:45.628Z",
-        "last_seen": "2026-04-23T20:02:45.628Z",
-        "sample": [
-          {
-            "price": 12,
-            "title": "Álbum LaLiga Santander 2017-18 + Cromos",
-            "url": "https://es.wallapop.com/item/album-laliga-santander-2017-18---cromos-1255430879",
-            "city": "Badalona"
-          }
-        ]
-      },
-      {
-        "model": "iphone 12 pro max apple pantalla trasera rota",
-        "example_title": "iPhone 12 Pro Max Apple con pantalla trasera rota",
-        "example_url": "https://es.wallapop.com/item/iphone-12-pro-max-apple-con-pantalla-trasera-rota-1255430909",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 120,
-        "median_price": 120,
-        "max_price": 120,
-        "first_seen": "2026-04-23T20:02:45.628Z",
-        "last_seen": "2026-04-23T20:02:45.628Z",
-        "sample": [
-          {
-            "price": 120,
-            "title": "iPhone 12 Pro Max Apple con pantalla trasera rota",
-            "url": "https://es.wallapop.com/item/iphone-12-pro-max-apple-con-pantalla-trasera-rota-1255430909",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "lp vinilo",
-        "example_title": "Lp vinilo",
-        "example_url": "https://es.wallapop.com/item/lp-vinilo-1255432263",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-23T20:02:45.628Z",
-        "last_seen": "2026-04-23T20:02:45.628Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Lp vinilo",
-            "url": "https://es.wallapop.com/item/lp-vinilo-1255432263",
-            "city": "Santa Cruz de Bezana"
           }
         ]
       },
@@ -2446,10 +2558,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 95,
-    "total_unique_models": 97,
+    "possible": 99,
+    "total_unique_models": 101,
     "total_reservations": 17,
-    "total_confirmed_sales": 83
+    "total_confirmed_sales": 87
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2460,5 +2572,54 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "p618m2x5dxz5",
+      "model": "album laliga santander 2017 18 cromos",
+      "title": "Álbum LaLiga Santander 2017-18 + Cromos",
+      "sold_price": 12,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/album-laliga-santander-2017-18---cromos-1255430879",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T20:02:45.628Z",
+      "last_seen": "2026-04-23T20:02:45.628Z",
+      "confirmed_at": "2026-04-23T22:17:21.384Z"
+    },
+    {
+      "id": "w67vnpqkk56x",
+      "model": "super mario odyssey nintendo switch",
+      "title": "Super Mario Odyssey Nintendo Switch",
+      "sold_price": 27,
+      "city": "Lasarte-Oria",
+      "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T20:02:45.628Z",
+      "last_seen": "2026-04-23T20:02:45.628Z",
+      "confirmed_at": "2026-04-23T22:17:21.384Z"
+    },
+    {
+      "id": "xzogwqexw2j9",
+      "model": "iphone 12 pro max apple pantalla trasera rota",
+      "title": "iPhone 12 Pro Max Apple con pantalla trasera rota",
+      "sold_price": 120,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/iphone-12-pro-max-apple-con-pantalla-trasera-rota-1255430909",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T20:02:45.628Z",
+      "last_seen": "2026-04-23T20:02:45.628Z",
+      "confirmed_at": "2026-04-23T22:17:21.384Z"
+    },
+    {
+      "id": "36e5mkqe2k6d",
+      "model": "lp vinilo",
+      "title": "Lp vinilo",
+      "sold_price": 15,
+      "city": "Santa Cruz de Bezana",
+      "url": "https://es.wallapop.com/item/lp-vinilo-1255432263",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-23T20:02:45.628Z",
+      "last_seen": "2026-04-23T20:02:45.628Z",
+      "confirmed_at": "2026-04-23T22:17:21.384Z"
+    }
+  ]
 }
