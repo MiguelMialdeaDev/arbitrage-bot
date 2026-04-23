@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-23T21:03:03.377Z",
+  "updated_at": "2026-04-23T21:17:33.161Z",
   "tiers": {
     "proven_seller": [
       {
         "model": "super mario odyssey nintendo switch",
         "example_title": "Super Mario Odyssey Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
-        "total_reservations": 2,
-        "confirmed_sales": 1,
+        "total_reservations": 1,
+        "confirmed_sales": 2,
         "total_events": 3,
         "reservations_24h": 3,
         "reservations_7d": 3,
@@ -16,15 +16,9 @@
         "min_price": 24.8,
         "median_price": 27,
         "max_price": 28,
-        "first_seen": "2026-04-23T19:17:24.569Z",
-        "last_seen": "2026-04-23T20:02:45.628Z",
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T21:17:33.160Z",
         "sample": [
-          {
-            "price": 24.8,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
-            "city": "A Coruña"
-          },
           {
             "price": 27,
             "title": "Super Mario Odyssey Nintendo Switch",
@@ -70,6 +64,131 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop bleach ichigo 1104 1820 1182",
+        "example_title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
+        "example_url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 53,
+        "median_price": 53,
+        "max_price": 53,
+        "first_seen": "2026-04-23T21:17:33.160Z",
+        "last_seen": "2026-04-23T21:17:33.160Z",
+        "sample": [
+          {
+            "price": 53,
+            "title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
+            "url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
+            "city": "Marbella"
+          }
+        ]
+      },
+      {
+        "model": "pokemon diamante brillante nintendo switch",
+        "example_title": "Pokemon Diamante Brillante Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-23T21:17:33.160Z",
+        "last_seen": "2026-04-23T21:17:33.160Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Pokemon Diamante Brillante Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
+            "city": "Puerto de Sagunto"
+          }
+        ]
+      },
+      {
+        "model": "coleccion cartas pokemon 151",
+        "example_title": "Colección Cartas Pokémon 151",
+        "example_url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T21:17:33.160Z",
+        "last_seen": "2026-04-23T21:17:33.160Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Colección Cartas Pokémon 151",
+            "url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
+            "city": "Terrassa"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas pokemon 151",
+        "example_title": "Lote Cartas Pokémon 151",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 26,
+        "median_price": 26,
+        "max_price": 26,
+        "first_seen": "2026-04-23T21:17:33.160Z",
+        "last_seen": "2026-04-23T21:17:33.160Z",
+        "sample": [
+          {
+            "price": 26,
+            "title": "Lote Cartas Pokémon 151",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
+            "city": "Zaragoza"
+          }
+        ]
+      },
+      {
+        "model": "consola ps5 mandos",
+        "example_title": "Consola PS5 + 2 mandos",
+        "example_url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 270,
+        "median_price": 270,
+        "max_price": 270,
+        "first_seen": "2026-04-23T21:17:33.160Z",
+        "last_seen": "2026-04-23T21:17:33.160Z",
+        "sample": [
+          {
+            "price": 270,
+            "title": "Consola PS5 + 2 mandos",
+            "url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
+            "city": "Peguera"
+          }
+        ]
+      },
       {
         "model": "lote maverick lego compatible",
         "example_title": "Lote Maverick Lego Compatible",
@@ -742,81 +861,6 @@
             "title": "Pack 4 Blu-ray: Crimen Ferpecto, El Color Púrpura,",
             "url": "https://es.wallapop.com/item/pack-4-blu-ray-crimen-ferpecto-el-color-purpura-1255382886",
             "city": "Calella"
-          }
-        ]
-      },
-      {
-        "model": "coleccion cartas pokemon 151",
-        "example_title": "Colección Cartas Pokémon 151",
-        "example_url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-23T19:03:31.474Z",
-        "last_seen": "2026-04-23T19:03:31.474Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Colección Cartas Pokémon 151",
-            "url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
-            "city": "Terrassa"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas pokemon 151",
-        "example_title": "Lote Cartas Pokémon 151",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 26,
-        "median_price": 26,
-        "max_price": 26,
-        "first_seen": "2026-04-23T19:03:31.474Z",
-        "last_seen": "2026-04-23T19:03:31.474Z",
-        "sample": [
-          {
-            "price": 26,
-            "title": "Lote Cartas Pokémon 151",
-            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
-            "city": "Zaragoza"
-          }
-        ]
-      },
-      {
-        "model": "consola ps5 mandos",
-        "example_title": "Consola PS5 + 2 mandos",
-        "example_url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 270,
-        "median_price": 270,
-        "max_price": 270,
-        "first_seen": "2026-04-23T19:03:31.474Z",
-        "last_seen": "2026-04-23T19:03:31.474Z",
-        "sample": [
-          {
-            "price": 270,
-            "title": "Consola PS5 + 2 mandos",
-            "url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
-            "city": "Peguera"
           }
         ]
       },
@@ -2352,10 +2396,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 91,
-    "total_unique_models": 93,
-    "total_reservations": 20,
-    "total_confirmed_sales": 76
+    "possible": 93,
+    "total_unique_models": 95,
+    "total_reservations": 18,
+    "total_confirmed_sales": 80
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2366,5 +2410,54 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "vjrem8n499zk",
+      "model": "coleccion cartas pokemon 151",
+      "title": "Colección Cartas Pokémon 151",
+      "sold_price": 40,
+      "city": "Terrassa",
+      "url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T19:03:31.474Z",
+      "last_seen": "2026-04-23T19:03:31.474Z",
+      "confirmed_at": "2026-04-23T21:17:33.160Z"
+    },
+    {
+      "id": "mzn37qr2pkjn",
+      "model": "lote cartas pokemon 151",
+      "title": "Lote Cartas Pokémon 151",
+      "sold_price": 26,
+      "city": "Zaragoza",
+      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T19:03:31.474Z",
+      "last_seen": "2026-04-23T19:03:31.474Z",
+      "confirmed_at": "2026-04-23T21:17:33.160Z"
+    },
+    {
+      "id": "wzvgd8wnyrzl",
+      "model": "consola ps5 mandos",
+      "title": "Consola PS5 + 2 mandos",
+      "sold_price": 270,
+      "city": "Peguera",
+      "url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T19:03:31.474Z",
+      "last_seen": "2026-04-23T19:03:31.474Z",
+      "confirmed_at": "2026-04-23T21:17:33.160Z"
+    },
+    {
+      "id": "nzxeg8199762",
+      "model": "super mario odyssey nintendo switch",
+      "title": "Super Mario Odyssey Nintendo Switch",
+      "sold_price": 24.8,
+      "city": "A Coruña",
+      "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T19:17:24.569Z",
+      "last_seen": "2026-04-23T19:17:24.569Z",
+      "confirmed_at": "2026-04-23T21:17:33.160Z"
+    }
+  ]
 }

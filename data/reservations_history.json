@@ -1,50 +1,6 @@
 {
   "reservations": [
     {
-      "id": "vjrem8n499zk",
-      "title": "Colección Cartas Pokémon 151",
-      "model": "coleccion cartas pokemon 151",
-      "price": 40,
-      "city": "Terrassa",
-      "url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T19:03:31.474Z",
-      "last_seen": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "mzn37qr2pkjn",
-      "title": "Lote Cartas Pokémon 151",
-      "model": "lote cartas pokemon 151",
-      "price": 26,
-      "city": "Zaragoza",
-      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T19:03:31.474Z",
-      "last_seen": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "wzvgd8wnyrzl",
-      "title": "Consola PS5 + 2 mandos",
-      "model": "consola ps5 mandos",
-      "price": 270,
-      "city": "Peguera",
-      "url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T19:03:31.474Z",
-      "last_seen": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "nzxeg8199762",
-      "title": "Super Mario Odyssey Nintendo Switch",
-      "model": "super mario odyssey nintendo switch",
-      "price": 24.8,
-      "city": "A Coruña",
-      "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T19:17:24.569Z",
-      "last_seen": "2026-04-23T19:17:24.569Z"
-    },
-    {
       "id": "8j38k97737z9",
       "title": "Lote de cartas 151 raul",
       "model": "lote cartas 151 raul",
@@ -219,6 +175,28 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-23T21:03:03.376Z",
       "last_seen": "2026-04-23T21:03:03.376Z"
+    },
+    {
+      "id": "3zlmpweko4jx",
+      "title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
+      "model": "funko pop bleach ichigo 1104 1820 1182",
+      "price": 53,
+      "city": "Marbella",
+      "url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T21:17:33.160Z",
+      "last_seen": "2026-04-23T21:17:33.160Z"
+    },
+    {
+      "id": "8z88pnv218z3",
+      "title": "Pokemon Diamante Brillante Nintendo Switch",
+      "model": "pokemon diamante brillante nintendo switch",
+      "price": 20,
+      "city": "Puerto de Sagunto",
+      "url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T21:17:33.160Z",
+      "last_seen": "2026-04-23T21:17:33.160Z"
     }
   ]
 }
