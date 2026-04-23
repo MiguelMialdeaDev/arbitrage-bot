@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T16:17:28.166Z",
+  "updated_at": "2026-04-23T16:33:04.792Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -38,6 +38,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "joy nintendo switch amiibo donkey kong",
+        "example_title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
+        "example_url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 21.99,
+        "median_price": 21.99,
+        "max_price": 21.99,
+        "first_seen": "2026-04-23T16:33:04.791Z",
+        "last_seen": "2026-04-23T16:33:04.791Z",
+        "sample": [
+          {
+            "price": 21.99,
+            "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
+            "url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
+            "city": "Almazora/Almassora"
+          }
+        ]
+      },
+      {
+        "model": "pack cajas deck case 100 ultimate guard",
+        "example_title": "Pack 6 Cajas Deck Case 100+ Ultimate Guard",
+        "example_url": "https://es.wallapop.com/item/pack-6-cajas-deck-case-100--ultimate-guard-1255306656",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 17.7,
+        "median_price": 17.7,
+        "max_price": 17.7,
+        "first_seen": "2026-04-23T16:33:04.791Z",
+        "last_seen": "2026-04-23T16:33:04.791Z",
+        "sample": [
+          {
+            "price": 17.7,
+            "title": "Pack 6 Cajas Deck Case 100+ Ultimate Guard",
+            "url": "https://es.wallapop.com/item/pack-6-cajas-deck-case-100--ultimate-guard-1255306656",
+            "city": "Burgos"
+          }
+        ]
+      },
       {
         "model": "lote funko pop",
         "example_title": "Lote Funko Pop",
@@ -635,31 +685,6 @@
             "title": "Lote Adrenalyn 2025-2026",
             "url": "https://es.wallapop.com/item/lote-adrenalyn-2025-2026-1255314004",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "pack cajas deck case 100 ultimate guard",
-        "example_title": "Pack 6 Cajas Deck Case 100+ Ultimate Guard",
-        "example_url": "https://es.wallapop.com/item/pack-6-cajas-deck-case-100--ultimate-guard-1255306656",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 17.7,
-        "median_price": 17.7,
-        "max_price": 17.7,
-        "first_seen": "2026-04-23T13:47:00.622Z",
-        "last_seen": "2026-04-23T13:47:00.622Z",
-        "sample": [
-          {
-            "price": 17.7,
-            "title": "Pack 6 Cajas Deck Case 100+ Ultimate Guard",
-            "url": "https://es.wallapop.com/item/pack-6-cajas-deck-case-100--ultimate-guard-1255306656",
-            "city": "Burgos"
           }
         ]
       },
@@ -1370,10 +1395,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 53,
-    "total_unique_models": 54,
+    "possible": 54,
+    "total_unique_models": 55,
     "total_reservations": 17,
-    "total_confirmed_sales": 38
+    "total_confirmed_sales": 39
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1383,70 +1408,19 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "lote cartas pokemon",
-      "from_tier": "possible",
-      "to_tier": "hot_24h",
-      "from_label": "💡 Posible",
-      "to_label": "🔥 Hot 24h",
-      "entry": {
-        "model": "lote cartas pokemon",
-        "example_title": "Lote de cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-        "total_reservations": 2,
-        "confirmed_sales": 0,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 35,
-        "median_price": 280,
-        "max_price": 280,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-23T16:17:28.164Z",
-        "sample": [
-          {
-            "price": 280,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
-            "city": "Aguilar de Campoo"
-          },
-          {
-            "price": 35,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-            "city": "Madrid"
-          }
-        ]
-      }
-    }
-  ],
+  "tier_ups": [],
   "new_sales": [
     {
-      "id": "w67vnpp8v56x",
-      "model": "princess peach showtime nintendo switch",
-      "title": "Princess Peach: Showtime! Nintendo Switch",
-      "sold_price": 30,
-      "city": "Alcobendas",
-      "url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T14:08:38.248Z",
-      "last_seen": "2026-04-23T14:08:38.248Z",
-      "confirmed_at": "2026-04-23T16:17:28.164Z"
-    },
-    {
-      "id": "8z88p0013dz3",
-      "model": "pack vinilos lp internacional pop rock",
-      "title": "Pack 2 Vinilos LP Internacional Pop Rock",
-      "sold_price": 65,
-      "city": "Eivissa-San Juan",
-      "url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-23T14:17:03.862Z",
-      "last_seen": "2026-04-23T14:17:03.862Z",
-      "confirmed_at": "2026-04-23T16:17:28.164Z"
+      "id": "qzmm08w7lgzv",
+      "model": "pack cajas deck case 100 ultimate guard",
+      "title": "Pack 6 Cajas Deck Case 100+ Ultimate Guard",
+      "sold_price": 17.7,
+      "city": "Burgos",
+      "url": "https://es.wallapop.com/item/pack-6-cajas-deck-case-100--ultimate-guard-1255306656",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T13:47:00.622Z",
+      "last_seen": "2026-04-23T13:47:00.622Z",
+      "confirmed_at": "2026-04-23T16:33:04.791Z"
     }
   ]
 }

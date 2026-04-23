@@ -1,17 +1,6 @@
 {
   "reservations": [
     {
-      "id": "qzmm08w7lgzv",
-      "title": "Pack 6 Cajas Deck Case 100+ Ultimate Guard",
-      "model": "pack cajas deck case 100 ultimate guard",
-      "price": 17.7,
-      "city": "Burgos",
-      "url": "https://es.wallapop.com/item/pack-6-cajas-deck-case-100--ultimate-guard-1255306656",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T13:47:00.622Z",
-      "last_seen": "2026-04-23T13:47:00.622Z"
-    },
-    {
       "id": "w67vnplwly6x",
       "title": "Lote Adrenalyn 2025-2026",
       "model": "lote adrenalyn 2025 2026",
@@ -186,6 +175,17 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-23T16:17:28.164Z",
       "last_seen": "2026-04-23T16:17:28.164Z"
+    },
+    {
+      "id": "v6gp3qwrl26e",
+      "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
+      "model": "joy nintendo switch amiibo donkey kong",
+      "price": 21.99,
+      "city": "Almazora/Almassora",
+      "url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T16:33:04.791Z",
+      "last_seen": "2026-04-23T16:33:04.791Z"
     }
   ]
 }
