@@ -14,7 +14,7 @@ const wallapop = require("./sources/wallapop");
 const ebay = require("./pricing/ebay");
 const storage = require("./storage");
 const { evaluate } = require("./evaluator");
-const { notify, notifyRunSummary } = require("./notifier");
+const { notify, notifyRunSummary, notifyTierUps } = require("./notifier");
 const opportunities = require("./opportunities");
 const config = require("../config");
 
@@ -56,6 +56,7 @@ async function run() {
   let runSignalsCount = 0;
   const byCat = {};
   const reservedThisRun = [];  // items reservados detectados para opportunities tracker
+  const allFetchedIds = new Set(); // TODOS los IDs fetched (reservados + activos) para detectar desapariciones
 
   for (const category of categories) {
     const keyword = category.name;  // alias para mantener forma del reporte
@@ -68,6 +69,9 @@ async function run() {
     });
 
     // Si IGNORE_SEEN_ITEMS=true, reprocesa todo cada run (útil mientras afinamos filtros)
+    // Registrar TODOS los IDs fetched (incluso ya vistos) para detectar desapariciones
+    for (const i of wpItems) allFetchedIds.add(i.id);
+
     const newItems = config.IGNORE_SEEN_ITEMS
       ? wpItems
       : wpItems.filter(i => !storage.isSeen(seen, i.id));
@@ -195,9 +199,20 @@ async function run() {
   // Tracker de oportunidades: acumula reservados vistos con timestamp,
   // agrupa por modelo y emite data/opportunities.json para el dashboard.
   try {
-    const opp = opportunities.updateFromRun(reservedThisRun);
+    const opp = opportunities.updateFromRun(reservedThisRun, allFetchedIds);
     const s = opp.stats;
-    console.log(`   🎯 Oportunidades: ${s.proven_seller}🚀 · ${s.hot_24h}🔥 · ${s.trending_7d}✨ · ${s.recurring}📈 · ${s.possible}💡 (${s.total_reservations} reservas trackadas, ${s.total_unique_models} modelos)`);
+    console.log(`   🎯 Oportunidades: ${s.proven_seller}🚀 · ${s.hot_24h}🔥 · ${s.trending_7d}✨ · ${s.recurring}📈 · ${s.possible}💡 (${s.total_reservations} reservas · ${s.total_confirmed_sales} ventas confirmadas · ${s.total_unique_models} modelos)`);
+    if (opp.new_sales && opp.new_sales.length) {
+      console.log(`   ✅ Ventas confirmadas en este run (${opp.new_sales.length}):`);
+      for (const sale of opp.new_sales.slice(0,5)) console.log(`      · ${sale.title.slice(0,55)} · ${sale.sold_price}€`);
+    }
+    // Notificar tier-ups a Telegram (máximo 1 mensaje agregado por run)
+    if (opp.tier_ups && opp.tier_ups.length) {
+      console.log(`   🆙 Tier-ups: ${opp.tier_ups.length}`);
+      for (const up of opp.tier_ups.slice(0,5)) console.log(`      · ${up.model.slice(0,50)} · ${up.from_tier} → ${up.to_tier}`);
+      try { await notifyTierUps(opp.tier_ups, config); }
+      catch (e) { console.warn(`[tier-ups notify] error: ${e.message}`); }
+    }
   } catch (e) {
     console.warn(`[opportunities] error: ${e.message}`);
   }

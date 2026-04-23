@@ -18,6 +18,31 @@ const path = require("path");
 const DATA_DIR = path.join(__dirname, "..", "data");
 const HISTORY_FILE = path.join(DATA_DIR, "reservations_history.json");
 const OPPORTUNITIES_FILE = path.join(DATA_DIR, "opportunities.json");
+const SALES_FILE = path.join(DATA_DIR, "confirmed_sales.json");
+const TIER_STATE_FILE = path.join(DATA_DIR, "tier_state.json");
+
+// Orden de tiers (ascendente de confianza): si un modelo sube a un tier
+// con mayor rank que el anterior, se emite tier_up.
+const TIER_RANK = {
+  none: 0,
+  possible: 1,
+  recurring: 2,
+  trending_7d: 3,
+  hot_24h: 4,
+  proven_seller: 5,
+};
+const TIER_LABEL = {
+  possible: "💡 Posible",
+  recurring: "📈 Recurring",
+  trending_7d: "✨ Trending 7d",
+  hot_24h: "🔥 Hot 24h",
+  proven_seller: "🚀 Proven seller",
+};
+
+// Grace period: si un item estuvo reservado y lleva >N horas sin aparecer
+// en ningún fetch, lo damos por VENDIDO. Tiempo corto confunde con glitches
+// de paginación API; demasiado largo retrasa el catálogo.
+const SALE_GRACE_MS = 2 * 60 * 60 * 1000;   // 2 horas
 
 const HORIZON_24H = 24 * 60 * 60 * 1000;
 const HORIZON_7D = 7 * 24 * 60 * 60 * 1000;
@@ -78,14 +103,46 @@ function saveHistory(h) {
   fs.writeFileSync(HISTORY_FILE, JSON.stringify(h, null, 2), "utf8");
 }
 
-// Registra los reservados vistos en este run. Retención: 30 días.
-function appendRun(reservedItems) {
+function loadSales() {
+  if (!fs.existsSync(SALES_FILE)) return { sales: [] };
+  try { return JSON.parse(fs.readFileSync(SALES_FILE, "utf8")); }
+  catch { return { sales: [] }; }
+}
+function saveSales(s) {
+  if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
+  fs.writeFileSync(SALES_FILE, JSON.stringify(s, null, 2), "utf8");
+}
+
+function loadTierState() {
+  if (!fs.existsSync(TIER_STATE_FILE)) return { models: {} };
+  try { return JSON.parse(fs.readFileSync(TIER_STATE_FILE, "utf8")); }
+  catch { return { models: {} }; }
+}
+function saveTierState(t) {
+  if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
+  fs.writeFileSync(TIER_STATE_FILE, JSON.stringify(t, null, 2), "utf8");
+}
+
+// Registra los reservados vistos en este run y detecta DESAPARICIONES
+// (reservados previos que ya no aparecen en ningún fetch → probable venta).
+//
+//   reservedItems  → items con reserved=true en este run
+//   allFetchedIds  → Set de TODOS los IDs fetched en este run (reservados + activos)
+//
+// Retorna { history, newSales: [...] } para que el caller pueda notificar.
+function appendRun(reservedItems, allFetchedIds = new Set()) {
   const history = loadHistory();
+  const sales = loadSales();
   const now = Date.now();
-  const existing = new Set(history.reservations.map(r => r.id));
+
+  // 1. Añadir o actualizar reservados vistos ahora
+  const existing = new Map(history.reservations.map(r => [r.id, r]));
   for (const it of reservedItems) {
-    if (existing.has(it.id)) continue;  // ya registrado en run previo, no duplicar
-    history.reservations.push({
+    if (existing.has(it.id)) {
+      existing.get(it.id).last_seen = new Date(now).toISOString();
+      continue;
+    }
+    const rec = {
       id: it.id,
       title: it.title,
       model: normalizeModel(it.title),
@@ -94,25 +151,73 @@ function appendRun(reservedItems) {
       url: it.url,
       category: it.category || null,
       first_seen: new Date(now).toISOString(),
-    });
+      last_seen: new Date(now).toISOString(),
+    };
+    history.reservations.push(rec);
+    existing.set(rec.id, rec);
   }
-  // Purge antiguos (>30 días)
+
+  // 2. Detectar desapariciones: items reservados previamente que NO aparecen
+  //    en este run (ni reservados ni activos) y llevan > SALE_GRACE_MS sin verse.
+  const newSales = [];
+  const kept = [];
+  for (const r of history.reservations) {
+    const seenNow = allFetchedIds.has(r.id);
+    const lastSeenMs = new Date(r.last_seen || r.first_seen).getTime();
+    const missingMs = now - lastSeenMs;
+    if (!seenNow && missingMs >= SALE_GRACE_MS) {
+      // VENTA CONFIRMADA (inferida)
+      const sale = {
+        id: r.id,
+        model: r.model,
+        title: r.title,
+        sold_price: r.price,
+        city: r.city,
+        url: r.url,
+        category: r.category,
+        first_reserved: r.first_seen,
+        last_seen: r.last_seen || r.first_seen,
+        confirmed_at: new Date(now).toISOString(),
+      };
+      sales.sales.push(sale);
+      newSales.push(sale);
+    } else {
+      kept.push(r);
+    }
+  }
+  history.reservations = kept;
+
+  // 3. Purge history antiguo (>30 días)
   const cutoff = now - RETENTION_30D;
   history.reservations = history.reservations.filter(r => new Date(r.first_seen).getTime() >= cutoff);
+  // Purge sales antiguas (>90 días, para catálogo)
+  const salesCutoff = now - 90 * 24 * 60 * 60 * 1000;
+  sales.sales = sales.sales.filter(s => new Date(s.confirmed_at).getTime() >= salesCutoff);
+
   saveHistory(history);
-  return history;
+  saveSales(sales);
+  return { history, sales, newSales };
 }
 
 // Agrupa por modelo normalizado y genera los tiers.
-function computeOpportunities(history) {
+// Combina reservas vistas + ventas confirmadas (desaparecidas tras reserva).
+function computeOpportunities(history, sales = { sales: [] }) {
   const now = Date.now();
   const T = pickThresholds(history);
   const groups = new Map();
   for (const r of history.reservations) {
     const key = r.model;
     if (!key) continue;
-    if (!groups.has(key)) groups.set(key, { model: key, items: [] });
+    if (!groups.has(key)) groups.set(key, { model: key, items: [], sales: [] });
     groups.get(key).items.push(r);
+  }
+  // Agregar ventas confirmadas al grupo correspondiente
+  for (const s of (sales.sales || [])) {
+    const key = s.model;
+    if (!key) continue;
+    if (!groups.has(key)) groups.set(key, { model: key, items: [], sales: [] });
+    groups.get(key).sales = groups.get(key).sales || [];
+    groups.get(key).sales.push(s);
   }
 
   const tiered = {
@@ -124,25 +229,41 @@ function computeOpportunities(history) {
   };
 
   for (const [key, group] of groups) {
-    const items = group.items.sort((a,b) => new Date(a.first_seen) - new Date(b.first_seen));
-    const last24h = items.filter(i => now - new Date(i.first_seen).getTime() <= HORIZON_24H);
-    const last7d  = items.filter(i => now - new Date(i.first_seen).getTime() <= HORIZON_7D);
-    const last30d = items.filter(i => now - new Date(i.first_seen).getTime() <= HORIZON_30D);
-    const prices = items.map(i => i.price).filter(p => p > 0).sort((a,b)=>a-b);
+    const items = (group.items || []).sort((a,b) => new Date(a.first_seen) - new Date(b.first_seen));
+    const salesArr = (group.sales || []).sort((a,b) => new Date(a.confirmed_at) - new Date(b.confirmed_at));
+
+    // Eventos totales = reservas activas + ventas confirmadas (más robusto)
+    const events = [
+      ...items.map(i => ({ ts: i.first_seen, kind: "reserved", price: i.price })),
+      ...salesArr.map(s => ({ ts: s.confirmed_at, kind: "sold", price: s.sold_price })),
+    ];
+    const last24h = events.filter(e => now - new Date(e.ts).getTime() <= HORIZON_24H);
+    const last7d  = events.filter(e => now - new Date(e.ts).getTime() <= HORIZON_7D);
+    const last30d = events.filter(e => now - new Date(e.ts).getTime() <= HORIZON_30D);
+    const prices = events.map(e => e.price).filter(p => p > 0).sort((a,b)=>a-b);
     const median = prices.length ? prices[Math.floor(prices.length/2)] : null;
     const min = prices[0] || null;
     const max = prices[prices.length-1] || null;
 
-    // Frecuencia: reservas por día dentro de la ventana en que existe el modelo
-    const spanMs = Math.max(1, new Date(items[items.length-1].first_seen) - new Date(items[0].first_seen));
+    // Frecuencia: eventos por día dentro de la ventana en que existe el modelo
+    const allEventsSorted = events.sort((a,b) => new Date(a.ts) - new Date(b.ts));
+    const firstEvent = allEventsSorted[0];
+    const lastEvent = allEventsSorted[allEventsSorted.length - 1];
+    const spanMs = Math.max(1, new Date(lastEvent.ts) - new Date(firstEvent.ts));
     const spanDays = spanMs / (24 * 60 * 60 * 1000);
-    const perDay = spanDays > 0 ? (items.length / Math.max(spanDays, 1)) : items.length;
+    const perDay = spanDays > 0 ? (events.length / Math.max(spanDays, 1)) : events.length;
+
+    // Ejemplo y muestra: priorizamos items activos (tienen URL funcional);
+    // si solo hay ventas, mostramos la última venta.
+    const exampleSource = items.length ? items[items.length-1] : salesArr[salesArr.length-1];
 
     const entry = {
       model: key,
-      example_title: items[items.length-1].title,
-      example_url: items[items.length-1].url,
+      example_title: exampleSource.title,
+      example_url: exampleSource.url,
       total_reservations: items.length,
+      confirmed_sales: salesArr.length,
+      total_events: events.length,              // reservas + ventas
       reservations_24h: last24h.length,
       reservations_7d: last7d.length,
       reservations_30d: last30d.length,
@@ -150,9 +271,14 @@ function computeOpportunities(history) {
       min_price: min,
       median_price: median,
       max_price: max,
-      first_seen: items[0].first_seen,
-      last_seen: items[items.length-1].first_seen,
-      sample: items.slice(-3).map(i => ({ price: i.price, title: i.title, url: i.url, city: i.city })),
+      first_seen: firstEvent.ts,
+      last_seen: lastEvent.ts,
+      sample: (items.length ? items.slice(-3) : salesArr.slice(-3)).map(i => ({
+        price: i.price || i.sold_price,
+        title: i.title,
+        url: i.url,
+        city: i.city,
+      })),
     };
 
     // Asignación de tier en orden descendente de confianza.
@@ -178,6 +304,40 @@ function computeOpportunities(history) {
     (new Date(b.last_seen) - new Date(a.last_seen));
   for (const key of Object.keys(tiered)) tiered[key].sort(byRelevance);
 
+  // Detectar TIER-UPS vs el estado guardado en el run anterior
+  const tierState = loadTierState();
+  const tierUps = [];
+  const currentTierByModel = new Map();
+  for (const [tierName, entries] of Object.entries(tiered)) {
+    for (const e of entries) currentTierByModel.set(e.model, { tier: tierName, entry: e });
+  }
+  for (const [model, { tier, entry }] of currentTierByModel) {
+    const prev = tierState.models[model];
+    const prevRank = prev ? (TIER_RANK[prev.tier] || 0) : 0;
+    const nowRank = TIER_RANK[tier] || 0;
+    // Solo notificar tier-ups a tier "útil" (≥ recurring).
+    // Un modelo nuevo que entra como 💡 possible NO es un evento notable:
+    // es el 95% del tráfico. Notificar solo cuando realmente empieza a
+    // mostrar patrón: recurring, trending, hot, proven.
+    if (nowRank > prevRank && nowRank >= TIER_RANK.recurring) {
+      tierUps.push({
+        model,
+        from_tier: prev ? prev.tier : "none",
+        to_tier: tier,
+        from_label: prev ? (TIER_LABEL[prev.tier] || prev.tier) : "nuevo",
+        to_label: TIER_LABEL[tier] || tier,
+        entry,
+      });
+    }
+    tierState.models[model] = { tier, updated_at: new Date(now).toISOString() };
+  }
+  // Purge state de modelos que ya no están en el history (ya ni en posible)
+  const livingModels = new Set(currentTierByModel.keys());
+  for (const key of Object.keys(tierState.models)) {
+    if (!livingModels.has(key)) delete tierState.models[key];
+  }
+  saveTierState(tierState);
+
   return {
     updated_at: new Date(now).toISOString(),
     tiers: tiered,
@@ -189,11 +349,13 @@ function computeOpportunities(history) {
       possible:      tiered.possible.length,
       total_unique_models: groups.size,
       total_reservations: history.reservations.length,
+      total_confirmed_sales: (sales.sales || []).length,
     },
     thresholds: {
       ...T,
       mode: (T === THRESHOLDS_INCUBATION) ? "incubation" : "mature",
     },
+    tier_ups: tierUps,
   };
 }
 
@@ -203,9 +365,12 @@ function saveOpportunities(opp) {
 }
 
 // Entry point usado por index.js al final del run.
-function updateFromRun(reservedItems) {
-  const history = appendRun(reservedItems);
-  const opp = computeOpportunities(history);
+//   reservedItems  → items con reserved=true detectados
+//   allFetchedIds  → Set de TODOS los IDs fetched (para detectar desapariciones)
+function updateFromRun(reservedItems, allFetchedIds = new Set()) {
+  const { history, sales, newSales } = appendRun(reservedItems, allFetchedIds);
+  const opp = computeOpportunities(history, sales);
+  opp.new_sales = newSales;       // expuesto al caller para notificar
   saveOpportunities(opp);
   return opp;
 }

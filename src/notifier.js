@@ -209,4 +209,39 @@ async function notifyRunSummary(summary, config) {
   await sendTelegram(text, { silent: true });
 }
 
-module.exports = { notify, notifyRunSummary, formatSignal };
+// Notificación cuando un modelo sube de tier (💡 → 📈 → ✨ → 🔥 → 🚀).
+// Un solo mensaje por run con todos los tier-ups detectados.
+async function notifyTierUps(tierUps, config) {
+  if (!tierUps || !tierUps.length) return { ok: true, skipped: true };
+
+  const lines = [`🎯 <b>${tierUps.length} modelo(s) subieron de tier</b>`, ""];
+  for (const up of tierUps.slice(0, 8)) {
+    const e = up.entry || {};
+    const title = escapeHtml(truncate(e.example_title || up.model, 60));
+    const priceLine = e.min_price && e.max_price
+      ? `${e.min_price === e.max_price ? e.min_price + "€" : e.min_price + "-" + e.max_price + "€"}`
+      : "";
+    const counts = [
+      e.reservations_24h ? `${e.reservations_24h}/24h` : null,
+      e.reservations_7d  ? `${e.reservations_7d}/7d`   : null,
+      e.reservations_30d ? `${e.reservations_30d}/30d` : null,
+      e.confirmed_sales  ? `${e.confirmed_sales} ventas` : null,
+    ].filter(Boolean).join(" · ");
+
+    lines.push(`${up.from_label} → <b>${up.to_label}</b>`);
+    lines.push(`📦 ${title}`);
+    if (priceLine) lines.push(`💰 ${priceLine}${counts ? " · " + counts : ""}`);
+    if (e.example_url) lines.push(`🔗 <a href="${e.example_url}">Ver en Wallapop</a>`);
+    lines.push("");
+  }
+  if (tierUps.length > 8) lines.push(`<i>+${tierUps.length - 8} más</i>`);
+
+  const msg = lines.join("\n");
+  if (config.DRY_RUN) {
+    console.log("[DRY TIER-UP]\n" + msg);
+    return { ok: true, dry: true };
+  }
+  return sendTelegram(msg, { silent: false });
+}
+
+module.exports = { notify, notifyRunSummary, notifyTierUps, formatSignal };
