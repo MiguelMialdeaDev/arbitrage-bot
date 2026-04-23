@@ -1,11 +1,61 @@
 {
-  "updated_at": "2026-04-23T14:40:40.820Z",
+  "updated_at": "2026-04-23T14:47:31.148Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop will stranger things",
+        "example_title": "Funko Pop Will Stranger Things",
+        "example_url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-23T14:47:31.147Z",
+        "last_seen": "2026-04-23T14:47:31.147Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Funko Pop Will Stranger Things",
+            "url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
+            "city": "Pinto"
+          }
+        ]
+      },
+      {
+        "model": "iphone 14 pro 128gb piezas",
+        "example_title": "iPhone 14 Pro 128GB para piezas",
+        "example_url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 110,
+        "median_price": 110,
+        "max_price": 110,
+        "first_seen": "2026-04-23T14:47:31.147Z",
+        "last_seen": "2026-04-23T14:47:31.147Z",
+        "sample": [
+          {
+            "price": 110,
+            "title": "iPhone 14 Pro 128GB para piezas",
+            "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
+            "city": "Castellón de la Plana/Castelló de la Plana"
+          }
+        ]
+      },
       {
         "model": "ps4 metro redux far cry",
         "example_title": "PS4: Metro Redux y Far Cry 5",
@@ -1038,9 +1088,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 41,
-    "total_unique_models": 41,
-    "total_reservations": 13,
+    "possible": 43,
+    "total_unique_models": 43,
+    "total_reservations": 15,
     "total_confirmed_sales": 28
   },
   "thresholds": {
