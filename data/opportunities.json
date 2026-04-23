@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T20:47:49.588Z",
+  "updated_at": "2026-04-23T21:03:03.377Z",
   "tiers": {
     "proven_seller": [
       {
@@ -70,6 +70,106 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote maverick lego compatible",
+        "example_title": "Lote Maverick Lego Compatible",
+        "example_url": "https://es.wallapop.com/item/lote-maverick-lego-compatible-1255442452",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 73.3,
+        "median_price": 73.3,
+        "max_price": 73.3,
+        "first_seen": "2026-04-23T21:03:03.376Z",
+        "last_seen": "2026-04-23T21:03:03.376Z",
+        "sample": [
+          {
+            "price": 73.3,
+            "title": "Lote Maverick Lego Compatible",
+            "url": "https://es.wallapop.com/item/lote-maverick-lego-compatible-1255442452",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "ultra pro toploader penny sleeves",
+        "example_title": "Ultra PRO Toploader y Penny Sleeves",
+        "example_url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4,
+        "median_price": 4,
+        "max_price": 4,
+        "first_seen": "2026-04-23T21:03:03.376Z",
+        "last_seen": "2026-04-23T21:03:03.376Z",
+        "sample": [
+          {
+            "price": 4,
+            "title": "Ultra PRO Toploader y Penny Sleeves",
+            "url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
+            "city": "Burgos"
+          }
+        ]
+      },
+      {
+        "model": "mega charizard ex 109 094 ambipom",
+        "example_title": "Mega Charizard X ex 109/094 y Ambipom",
+        "example_url": "https://es.wallapop.com/item/mega-charizard-x-ex-109-094-e-ambipom-1255443255",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-23T21:03:03.376Z",
+        "last_seen": "2026-04-23T21:03:03.376Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Mega Charizard X ex 109/094 y Ambipom",
+            "url": "https://es.wallapop.com/item/mega-charizard-x-ex-109-094-e-ambipom-1255443255",
+            "city": "Orzinuovi"
+          }
+        ]
+      },
+      {
+        "model": "playmobil coche carreras texaco ref 3520",
+        "example_title": "Playmobil Coche Carreras Texaco ref. 3520",
+        "example_url": "https://es.wallapop.com/item/playmobil-coche-carreras-texaco-ref-3520-1255442950",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 13,
+        "median_price": 13,
+        "max_price": 13,
+        "first_seen": "2026-04-23T21:03:03.376Z",
+        "last_seen": "2026-04-23T21:03:03.376Z",
+        "sample": [
+          {
+            "price": 13,
+            "title": "Playmobil Coche Carreras Texaco ref. 3520",
+            "url": "https://es.wallapop.com/item/playmobil-coche-carreras-texaco-ref-3520-1255442950",
+            "city": "Córdoba"
+          }
+        ]
+      },
       {
         "model": "mtg totem maldito campo fuerza",
         "example_title": "MTG Tótem Maldito + Campo de Fuerza",
@@ -2252,9 +2352,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 87,
-    "total_unique_models": 89,
-    "total_reservations": 16,
+    "possible": 91,
+    "total_unique_models": 93,
+    "total_reservations": 20,
     "total_confirmed_sales": 76
   },
   "thresholds": {
@@ -2266,30 +2366,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "9jdw1q3gwn6k",
-      "model": "funko pop marvel superior iron man 1568 reservado",
-      "title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
-      "sold_price": 30,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T18:45:30.539Z",
-      "last_seen": "2026-04-23T18:45:30.539Z",
-      "confirmed_at": "2026-04-23T20:47:49.587Z"
-    },
-    {
-      "id": "ejkmnqvg8yzx",
-      "model": "funko pop she ra masters of the universe #38",
-      "title": "Funko Pop She-Ra Masters of the Universe #38",
-      "sold_price": 10,
-      "city": "Marbella",
-      "url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T18:45:30.539Z",
-      "last_seen": "2026-04-23T18:45:30.539Z",
-      "confirmed_at": "2026-04-23T20:47:49.587Z"
-    }
-  ]
+  "new_sales": []
 }
