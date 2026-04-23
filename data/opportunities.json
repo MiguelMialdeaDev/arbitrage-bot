@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T16:03:36.516Z",
+  "updated_at": "2026-04-23T16:04:58.641Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
@@ -1327,18 +1327,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "3zlmpr7234jx",
-      "model": "mafia viejo continente ps5",
-      "title": "Mafia: El Viejo Continente PS5",
-      "sold_price": 10,
-      "city": "Donostia-San Sebastián",
-      "url": "https://es.wallapop.com/item/mafia-el-viejo-continente-ps5-1255312369",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T14:02:31.029Z",
-      "last_seen": "2026-04-23T14:02:31.029Z",
-      "confirmed_at": "2026-04-23T16:03:36.515Z"
-    }
-  ]
+  "new_sales": []
 }
