@@ -1,0 +1,1420 @@
+{
+  "timestamp": "2026-04-23T03:38:41.813Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 208,
+      "new_items": 27,
+      "items": [
+        {
+          "title": "Funko Pop Lionel Messi MLS Firmado",
+          "price": 18,
+          "city": "León",
+          "url": "https://es.wallapop.com/item/funko-pop-lionel-messi-mls-firmado-1255158668",
+          "reserved": true,
+          "profile": "funko",
+          "query_ebay": "Funko lionel messi mls firmado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko lionel messi mls firmado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! The Walking Dead T-Dog 495",
+          "price": 32.5,
+          "city": "Gafanha da Nazaré",
+          "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-t-dog-495-1255157913",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! the walking dead t-dog 495",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! the walking dead t-dog 495' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pack Funko Pop Gandalf y Gandalf el Blanco",
+          "price": 45,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/pack-funko-pop-gandalf-y-gandalf-el-blanco-1255157417",
+          "reserved": true,
+          "profile": "funko_lote",
+          "verdict": "skip",
+          "reason": "count=2 < 3, no es lote claro"
+        },
+        {
+          "title": "Lote Funko Pop Simpsons: Homer, Dolph, Jimbo, Nels",
+          "price": 200,
+          "city": "La Llagosta",
+          "url": "https://es.wallapop.com/item/lote-funko-pop-simpsons-homer-dolph-jimbo-nels-1255156239",
+          "reserved": false,
+          "profile": "funko_lote",
+          "query_ebay": "Funko Pop",
+          "verdict": "skip",
+          "reason": "perfil 'funko_lote' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Ubicollectibles Doc Rainbow Six Siege Funko Pop",
+          "price": 40,
+          "city": "Milano",
+          "url": "https://es.wallapop.com/item/ubicollectibles-doc-rainbow-six-siege-funko-pop-1255155566",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko ubicollectibles doc rainbow six siege",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko ubicollectibles doc rainbow six siege' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Álbumes Cromos LaLiga 2008-2018",
+          "price": 60,
+          "city": "Rota",
+          "url": "https://es.wallapop.com/item/lote-albumes-cromos-laliga-2008-2018-1255155125",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "albumes cromos laliga 2008-2018",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mega Dragonite EX Carta Pokémon",
+          "price": 200,
+          "city": "L' Eliana",
+          "url": "https://es.wallapop.com/item/mega-dragonite-ex-carta-pokemon-1255160504",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mega dragonite carta pokemon",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Carta Pokémon Mega Gengar EX 284/217 Heroes Ascend",
+          "price": 500,
+          "city": "L' Eliana",
+          "url": "https://es.wallapop.com/item/carta-pokemon-mega-gengar-ex-284-217-heroes-ascend-1255160407",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon mega gengar 284/217",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Carta Pokémon Rayquaza EX Holo #047/JPN",
+          "price": 90,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/carta-pokemon-rayquaza-ex-holo-047-jpn-1255159120",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "carta pokemon rayquaza holo #047/jpn",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Celebraciones Blastoise PSA 9 Holo",
+          "price": 75,
+          "city": "Spinea",
+          "url": "https://es.wallapop.com/item/blastoise-celebrations-psa-9-holo-1255158670",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "celebraciones blastoise psa holo",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Charizard V 154 Asta Lucenti",
+          "price": 80,
+          "city": "Spinea",
+          "url": "https://es.wallapop.com/item/charizard-v-154-asta-lucenti-1255158580",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "charizard asta lucenti",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Raichu 29/62 Fossil ita 1 Edizione",
+          "price": 9.99,
+          "city": "Altopascio",
+          "url": "https://es.wallapop.com/item/raichu-29-62-fossil-ita-1-edizione-1255157255",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Magneton 11/62 Holo Fossil Ita Prima Edizione",
+          "price": 19.99,
+          "city": "Altopascio",
+          "url": "https://es.wallapop.com/item/magneton-11-62-holo-fossil-ita-prima-edizione-1255157000",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Raichu 14/62 Fossil Ita Holo",
+          "price": 49.99,
+          "city": "Altopascio",
+          "url": "https://es.wallapop.com/item/raichu-14-62-fossil-ita-holo-1255156753",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Pack Cartas Pokémon Squirtle y Wartortle",
+          "price": 8,
+          "city": "Sangonera La Seca",
+          "url": "https://es.wallapop.com/item/pack-cartas-pokemon-squirtle-y-wartortle-1255156211",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Hipno 23/62 Fósil 1 Edición Ita",
+          "price": 9.99,
+          "city": "Altopascio",
+          "url": "https://es.wallapop.com/item/hypno-23-62-fossil-1-edizione-ita-1255156124",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Pack Cartas Pokémon Bulbasaur, Ivysaur, Venusaur",
+          "price": 6,
+          "city": "Sangonera La Seca",
+          "url": "https://es.wallapop.com/item/pack-cartas-pokemon-bulbasaur-ivysaur-venusaur-1255155969",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Fósil Gengar 20/64 1ª Edición Ita",
+          "price": 39.99,
+          "city": "Altopascio",
+          "url": "https://es.wallapop.com/item/gengar-20-64-fossil-1-edizione-ita-1255155723",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fosil gengar 20/64 edicion ita",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Muk 13/62 Fossil ita holo",
+          "price": 6.99,
+          "city": "Altopascio",
+          "url": "https://es.wallapop.com/item/muk-13-62-fossil-ita-holo-1255155275",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Fossil Lapras 10/62 Ita holo",
+          "price": 13.99,
+          "city": "Altopascio",
+          "url": "https://es.wallapop.com/item/lapras-10-62-fossil-ita-holo-1255154899",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: poor"
+        },
+        {
+          "title": "Kabutops 9/102 Fossil ita holo",
+          "price": 24.99,
+          "city": "Altopascio",
+          "url": "https://es.wallapop.com/item/kabutops-9-102-fossil-ita-holo-1255154665",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Colección Pokémon Zacian EX de Paul",
+          "price": 26,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/coleccion-pokemon-zacian-ex-de-paul-1255154167",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon zacian paul",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Deck Dragapult EX Completo de Pokémon TCG",
+          "price": 45,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/deck-dragapult-ex-completo-de-pokemon-tcg-1255153198",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Playmobil Hadas y Unicornios",
+          "price": 15,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/playmobil-hadas-y-unicornios-1255158445",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil hadas unicornios",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Playmobil familia y accesorios playa",
+          "price": 15,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/playmobil-familia-y-accesorios-playa-1255158325",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil familia accesorios playa",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Lote Playmobil Nieve y Navidad",
+          "price": 40,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/lote-playmobil-nieve-y-navidad-1255158227",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil nieve navidad",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Pareja de pequeños obreros.",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/pareja-de-pequenos-obreros-1255156016",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 215,
+      "new_items": 54,
+      "items": [
+        {
+          "title": "Zelda: Tears of the Kingdom Nintendo Switch",
+          "price": 32,
+          "city": "Malgrat de mar",
+          "url": "https://es.wallapop.com/item/zelda-tears-of-the-kingdom-nintendo-switch-1255161978",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "zelda: tears the kingdom nintendo",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Nintendo Switch OLED + 512GB",
+          "price": 235,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled---512gb-1255161662",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: amarillo"
+        },
+        {
+          "title": "Nintendo Switch OLED",
+          "price": 150,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled-1255161072",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Juego Jumanji El Videojuego Nintendo Switch",
+          "price": 12,
+          "city": "Bermeo",
+          "url": "https://es.wallapop.com/item/juego-jumanji-el-videojuego-nintendo-switch-1255159132",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "Leyendas Pokémon: Nintendo Switch 2 Ed.",
+          "price": 45,
+          "city": "Beniparrell",
+          "url": "https://es.wallapop.com/item/leyendas-pokemon-nintendo-switch-2-ed-1255157881",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "leyendas pokemon: nintendo switch ed.",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Nintendo Switch",
+          "price": 200,
+          "city": "Puente Genil",
+          "url": "https://es.wallapop.com/item/nintendo-switch-1255157611",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Funda de transporte DOBE para Nintendo Switch",
+          "price": 6,
+          "city": "Barriada Nova",
+          "url": "https://es.wallapop.com/item/funda-de-transporte-dobe-para-nintendo-switch-1255157402",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Funda Nintendo Switch OLED",
+          "price": 18,
+          "city": "Mengabril",
+          "url": "https://es.wallapop.com/item/funda-nintendo-switch-oled-1255157295",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Minecraft Story Mode Nintendo Switch Completa",
+          "price": 20,
+          "city": "Loeches",
+          "url": "https://es.wallapop.com/item/minecraft-story-mode-nintendo-switch-completa-1255156809",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "minecraft story mode nintendo switch",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Super Mario Party Nintendo Switch",
+          "price": 30,
+          "city": "Loeches",
+          "url": "https://es.wallapop.com/item/super-mario-party-nintendo-switch-1255156443",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario party nintendo switch",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Nintendo Switch 2",
+          "price": 370,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/nintendo-switch-2-1255154774",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "perfil 'videojuego_switch' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Pack 2X LEGO PS5 Lego 2K Drive Lego Brawls",
+          "price": 23,
+          "city": "Alcainça",
+          "url": "https://es.wallapop.com/item/pack-2x-lego-ps5-lego-2k-drive-lego-brawls-1255158501",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack lego ps5 lego drive",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mando DualSense PS5 en caja",
+          "price": 45,
+          "city": "Daya Nueva",
+          "url": "https://es.wallapop.com/item/mando-dualsense-ps5-en-caja-1255158360",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando dualsense ps5",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Base Carga DualSense PS5 PlayStation",
+          "price": 20,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/base-carga-dualsense-ps5-playstation-1255158142",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "base carga dualsense ps5 playstation",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "GUN PlayStation 2 PAL 🇪🇸 (LEER BIEN)",
+          "price": 7,
+          "city": "Barriada Nova",
+          "url": "https://es.wallapop.com/item/gun-playstation-2-pal-leer-bien-1255158063",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "2X Call of Duty Modern Warfare II III MW2 MW3 PS5",
+          "price": 35,
+          "city": "Alcainça",
+          "url": "https://es.wallapop.com/item/2x-call-of-duty-modern-warfare-ii-iii-mw2-mw3-ps5-1255157454",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "call duty modern warfare iii",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "No Man's Sky PS4 PS5 VR VR2 No Mans Sky",
+          "price": 16,
+          "city": "Alcainça",
+          "url": "https://es.wallapop.com/item/no-man-s-sky-ps4-ps5-vr-vr2-no-mans-sky-1255156731",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "man's sky ps4 ps5 vr2",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "GTA 5 PS4",
+          "price": 15,
+          "city": "Loeches",
+          "url": "https://es.wallapop.com/item/gta-5-ps4-1255156644",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gta ps4",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "PS5 Slim 1.5TB + Mando + Garantía (2028)",
+          "price": 550,
+          "city": "Estepona",
+          "url": "https://es.wallapop.com/item/ps5-slim-1-5tb---mando---garantia-2028-1255156480",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1.5tb mando garantia",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Consola PlayStation 5 Slim Blanca, 825 gb,4k,HDR",
+          "price": 350,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/consola-playstation-5-slim-blanca-825-gb-4k-hdr-1255156271",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola playstation slim blanca, gb,4k,hdr",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "PS5 Slim Disco De  1TB",
+          "price": 300,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/ps5-slim-disco-de-1tb-1255156207",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Mando DualSense PS5 y DualShock 4 PS4",
+          "price": 29.9,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/mando-dualsense-ps5-y-dualshock-4-ps4-1255154718",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: defecto"
+        },
+        {
+          "title": "Tekken 5 PS2 PAL ESP Nuevo",
+          "price": 121.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/tekken-5-ps2-pal-esp-nuevo-1255154555",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "tekken ps2 pal esp",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "PS5 Slim Disco 1TB Blanca + Spider-Man",
+          "price": 450,
+          "city": "Algeciras",
+          "url": "https://es.wallapop.com/item/ps5-slim-disco-1tb-blanca---spider-man-1255153302",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb blanca spider-man",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "PS4 Slim 1TB + Mando Negro",
+          "price": 95,
+          "city": "La Pobla de Vallbona",
+          "url": "https://es.wallapop.com/item/ps4-slim-1tb---mando-negro-1255156291",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 slim 1tb mando negro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Xbox Series S Negra con Mando",
+          "price": 50,
+          "city": "Puerto de Sagunto",
+          "url": "https://es.wallapop.com/item/xbox-series-s-negra-con-mando-1255159598",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series negra con mando",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Xbox Series S 512GB Blanca",
+          "price": 160,
+          "city": "Jerez de la Frontera",
+          "url": "https://es.wallapop.com/item/xbox-series-s-512gb-blanca-1255156972",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series 512gb blanca",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "AirPods Pro Originales Apple Nuevos",
+          "price": 65,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/airpods-pro-originales-apple-nuevos-1255157022",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro originales apple nuevos",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "AirPods Max Naranja",
+          "price": 50,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/airpods-max-naranja-1255155644",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods max naranja",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Airpods 4 ANC Apple Blancos",
+          "price": 110,
+          "city": "Viseu",
+          "url": "https://es.wallapop.com/item/airpods-4-anc-apple-brancos-1255155434",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods anc apple blancos",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Estuche Original Apple AirPods Pro 2 USB-C",
+          "price": 80,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/estuche-original-apple-airpods-pro-2-usb-c-1255153812",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "IPHONE 17 PRO 256GB AZUL PRECINTADO SIN ABRIR",
+          "price": 1149,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-256gb-azul-precintado-sin-abrir-1255161996",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb azul precintado",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "IPHONE 17 PRO 256GB NARANJA SEMI NUEVO",
+          "price": 1099,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-256gb-naranja-semi-nuevo-1255161748",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb naranja semi",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Iphone 14 Pro Max",
+          "price": 350,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-1255161715",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "IPHONE 17 256GB BLANCO PRECINTADO SIN ABRIR",
+          "price": 799,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-blanco-precintado-sin-abrir-1255161673",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb blanco precintado sin",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 15 Pro Max Plata",
+          "price": 380,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-plata-1255160362",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max plata",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 256 GB Naranja LEER DESCRIPCION!",
+          "price": 650,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-256-gb-naranja-leer-descripcion-1255160288",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max naranja leer",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Móvil iPhone Negro",
+          "price": 100,
+          "city": "Calahorra",
+          "url": "https://es.wallapop.com/item/movil-iphone-negro-1255159193",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "movil iphone negro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 17 Pro Max Naranja",
+          "price": 800,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-naranja-1255158821",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max naranja",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Samsung S22 Ultra 5G 256GB Negro",
+          "price": 399.99,
+          "city": "Palmanova",
+          "url": "https://es.wallapop.com/item/samsung-s22-ultra-5g-256gb-negro-1255158567",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "samsung s22 ultra 256gb negro",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 512GB Plata Precintado",
+          "price": 1486,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-512gb-plata-precintado-1255157763",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 512gb plata",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 17 pro Max",
+          "price": 720,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/piense-y-hagase-rico-napoleon-hill-1255157758",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 15 Pro Max E-sim( leer anuncio)",
+          "price": 400,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-1255157564",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "iphone pro max e-sim( leer",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 13",
+          "price": 240,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/iphone-13-1255157247",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 16 Pro Max Dorado 128gb",
+          "price": 500,
+          "city": "Biniagual",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-dorado-128gb-1255156380",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max dorado 128gb",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Funda móvil Apple iPhone 14 Pro Max 2€ cada una",
+          "price": 2,
+          "city": "Santa Perpètua de Mogoda",
+          "url": "https://es.wallapop.com/item/funda-movil-apple-iphone-14-pro-max-2-cada-una-1255156030",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Pack Original - Adaptador 20W + Cable USB-C",
+          "price": 14.99,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/pack-original-adaptador-20w---cable-usb-c-1255155962",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack adaptador 20w cable usb-c",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Cable USB-C a Lightning Apple 1m",
+          "price": 14.99,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/cable-usb-c-a-lightning-apple-1m-1255155569",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cable usb-c lightning apple",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iphone 13 pro max",
+          "price": 200,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/libro-boulevard-flor-m-salvador-1255155224",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iphone 13 pro max",
+          "price": 220,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/el-extranjero-albert-camus-novela-1255155002",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 11 128GB Blanco",
+          "price": 110,
+          "city": "Alovera",
+          "url": "https://es.wallapop.com/item/iphone-11-128gb-blanco-1255154947",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb blanco",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iphone 13 pro max",
+          "price": 240,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/las-mejores-historias-de-terror-vii-1255154759",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iphone 13 pro max",
+          "price": 260,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/libro-buenas-intenciones-de-anna-casanovas-1255154455",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "iPhone 14 Pro Max para piezas",
+          "price": 120,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-para-piezas-1255153474",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max para piezas",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 162,
+      "new_items": 45,
+      "items": [
+        {
+          "title": "Disco, Lp, Roxy Music, The High Road, 1983",
+          "price": 4.29,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-roxy-music-the-high-road-1983-1255158101",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, roxy music, the",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Lil Wayne I'm Music RSD 2LP Rojo",
+          "price": 60,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/lil-wayne-i-m-music-rsd-2lp-rojo-1255157645",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "vinilo problema: static"
+        },
+        {
+          "title": "disco Lp, vinilo, Chachipén – Tu Eres Mi Alegría , 1981, Spain",
+          "price": 12.1,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-chachipen-tu-eres-mi-alegria-1981-spain-1255157613",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, vinilo, chachipen eres alegria",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "disco LP vinilo Amancio Prada – Navegando La Noche, 1988, Spain",
+          "price": 9.9,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-amancio-prada-navegando-la-noche-1988-spain-1255157612",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "disco lp, vinilo Raimon – Campus De Bellaterra, 1975, Spain",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-raimon-campus-de-bellaterra-1975-spain-1255157608",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, raimon campus bellaterra, 1975,",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "disco, LP, vinilo,  Various - Motown Chartbusters Vol. 3 (LP, Album, Comp)",
+          "price": 14.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-various-motown-chartbusters-vol-3-lp-album-comp-1255157505",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "disco, LP, vinilo,  Earl Klugh - Key Notes (LP, Comp)",
+          "price": 4.29,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-earl-klugh-key-notes-lp-comp-1255157480",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "disco, LP, vinilo,  Roberta Kelly - Zodiac Lady (LP, Album), 1978",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-roberta-kelly-zodiac-lady-lp-album-1978-1255157469",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "disco LP, vinilo,  Brand X - Do They Hurt? (LP, Album) , edicion uk 1980",
+          "price": 18.7,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-brand-x-do-they-hurt-lp-album-edicion-uk-1980-1255157458",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "disco, LP, vinilo Martika – Martika's Kitchen , LP, Album 1991, Spain",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-martika-martika-s-kitchen-lp-album-1991-spain-1255157191",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "disco LP vinilo, Juanito Valderrama Y Dolores Abril – Juanito Valderrama Y Dolores Abril , Orlador – 1970, Spain",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-juanito-valderrama-y-dolores-abril-juanito-valderrama-y-dolores-abril-orlador-1970-spain-1255157002",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "vinilo, juanito valderrama dolores abril",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "disco, LP, 12 vinilos,  Various – Tesoros De La Musica Española ,Reader's Digest –12xLP, Comp + Box , 1967, Spain",
+          "price": 27.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-12-vinilos-various-tesoros-de-la-musica-espanola-reader-s-digest-12xlp-comp---box-1967-spain-1255156992",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, vinilos, various tesoros",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "disco, LP, vinilo, La Trinca – Trincameron , LP, Album 1975, Spain",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-la-trinca-trincameron-lp-album-1975-spain-1255156967",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, vinilo, trinca trincameron",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "disco LP vinilo, Peret – Peret , Ariola LP, Album 1971, Spain",
+          "price": 12.1,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-peret-peret-ariola-lp-album-1971-spain-1255156951",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "vinilo, peret peret ariola lp,",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco Lp, vinilo, Nat 'King' Cole – Cole Español - 1961 Capitol Records,",
+          "price": 6.6,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-nat-king-cole-cole-espanol-1961-capitol-records-1255156942",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, vinilo, nat 'king' cole",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "disco LP, vinilo, Nacha Guevara En Vivo Con Alberto Favero - Nacha De Noche (LP, Album)",
+          "price": 2.75,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-nacha-guevara-en-vivo-con-alberto-favero-nacha-de-noche-lp-album-1255156922",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "disco LP, vinilos , J.S.BACH ORATORIO DE NAVIDAD CAJA BOX 3LPS VINILOS, MADE IN SPAIN, 1981",
+          "price": 6.6,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilos-j-s-bach-oratorio-de-navidad-caja-box-3lps-vinilos-made-in-spain-1981-1255156814",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, vinilos j.s.bach oratorio navidad",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "lote 5 discos, vinilos, música clásica, Opera-Carmen, Don Giovanni, Montserrat caballe, shakespeare songs...",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/lote-5-discos-vinilos-musica-clasica-opera-carmen-don-giovanni-montserrat-caballe-shakespeare-songs-1255156381",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Disco, LP, vinilo,The Sandpipers - Spanish Album (LP, Album), 1977",
+          "price": 8.8,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-the-sandpipers-spanish-album-lp-album-1977-1255156263",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, vinilo,the sandpipers spanish",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "disco vinilo, LP, Dan Fogelberg - Souvenirs (LP, Album, Gat) 1975",
+          "price": 5.39,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-vinilo-lp-dan-fogelberg-souvenirs-lp-album-gat-1975-1255156238",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "Disco, LP, vinilo, Joe Jackson - Es Un Mundo Grande (= Big World) (LP + LP, S/Sided + Album)",
+          "price": 7.7,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-joe-jackson-es-un-mundo-grande-big-world-lp---lp-s-sided---album-1255156233",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "Disco, LP, vinilo, Theodorakis - With Love (LP)",
+          "price": 6.6,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-theodorakis-with-love-lp-1255155875",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "Disco, LP, vinilo, Gallo De Triana, Orchestre De Cadix - Viva España (2xLP)",
+          "price": 13.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-gallo-de-triana-orchestre-de-cadix-viva-espana-2xlp-1255155223",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "Disco, LP,  Sammy Davis Jr. – The Goin's Great ,  1968",
+          "price": 8.69,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-sammy-davis-jr-the-goin-s-great-1968-1255155214",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, sammy davis jr.",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Coctel Musical - Varios Artistas (Original Cuba)",
+          "price": 22,
+          "city": "Ontinyent",
+          "url": "https://es.wallapop.com/item/coctel-musical-varios-artistas-original-cuba-1255155028",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "coctel musical varios artistas (original",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco, LP,  Mantronix – This Should Move Ya , 1990",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-mantronix-this-should-move-ya-1990-1255154940",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, mantronix this should",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco, LP, vinilo, The Joe Ment Combo, Tops For Dancing, 1967",
+          "price": 6.49,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-the-joe-ment-combo-tops-for-dancing-1967-1255154892",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, vinilo, the joe",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco, LP, vinilo, Trini Lopez – Trini Lopez At PJ'S Recorded Live! Reprise Records, 1963",
+          "price": 3.19,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-trini-lopez-trini-lopez-at-pj-s-recorded-live-reprise-records-1963-1255154889",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, vinilo, trini lopez",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco, LP, vinilo, Tennessee Ernie Ford – Hymns, reedicion,  buen estado",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-tennessee-ernie-ford-hymns-reedicion-buen-estado-1255154868",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, vinilo, tennessee ernie",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Luis Carbonell - La Rumba y otros poemas",
+          "price": 25,
+          "city": "Ontinyent",
+          "url": "https://es.wallapop.com/item/luis-carbonell-la-rumba-y-otros-poemas-1255154861",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Disco, LP,  Video Kids – On Satellite , LP, Album 1985, Spain",
+          "price": 9.9,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-video-kids-on-satellite-lp-album-1985-spain-1255154859",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, video kids satellite",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco Lp, vinilo,  Sammy Davis Jr. – The Shelter Of Your Arms, 1967, UK",
+          "price": 7.59,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-sammy-davis-jr-the-shelter-of-your-arms-1967-uk-1255154604",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, vinilo, sammy davis jr.",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Disco, Lp, Orquesta De La Real Academia De Santa Cecilia, Franco Mannino – Muerte En Venecia (Banda Sonora Original Del Film)",
+          "price": 8.8,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-orquesta-de-la-real-academia-de-santa-cecilia-franco-mannino-muerte-en-venecia-banda-sonora-original-del-film-1255154598",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, orquesta real academia",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "box, vinilos, GUSTAV MAHLER - SINFONIA Nº 3 , club internacional del disco",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/box-vinilos-gustav-mahler-sinfonia-n-3-club-internacional-del-disco-1255154274",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "box, vinilos, gustav mahler sinfonia",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Lp Limeña _ Los violines de Lima. Fundas y vinilos VG+.",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/lp-limena-_-los-violines-de-lima-fundas-y-vinilos-vg--1255154239",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "grade malo: g+"
+        },
+        {
+          "title": "Lp Los cantores de Quilla Huasi. Funda VG+, vinilo NM.",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/lp-los-cantores-de-quilla-huasi-funda-vg--vinilo-nm-1255154230",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "2LP Megadeth 2026 opa blue ocean splatter",
+          "price": 65,
+          "city": "Ciudad Real",
+          "url": "https://es.wallapop.com/item/2lp-megadeth-2026-opa-blue-ocean-splatter-1255153380",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "2lp megadeth opa blue ocean",
+          "verdict": "skip",
+          "reason": "perfil 'vinilo' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Blu-ray La Conspiración del Pánico",
+          "price": 7,
+          "city": "Sant Esteve Sesrovires",
+          "url": "https://es.wallapop.com/item/blu-ray-la-conspiracion-del-panico-1255156863",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Transformers: La Era de la Extinción Blu-ray",
+          "price": 5,
+          "city": "Sant Esteve Sesrovires",
+          "url": "https://es.wallapop.com/item/transformers-la-era-de-la-extincion-blu-ray-1255156801",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Blu-Ray When we left earth + Dvd Earthlight special edition",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/blu-ray-when-we-left-earth---dvd-earthlight-special-edition-1255156585",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Blu-ray High Life",
+          "price": 18,
+          "city": "Sant Esteve Sesrovires",
+          "url": "https://es.wallapop.com/item/blu-ray-high-life-1255156538",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Terminator Génesis 3D Blu-ray + DVD",
+          "price": 8,
+          "city": "Sant Esteve Sesrovires",
+          "url": "https://es.wallapop.com/item/terminator-genesis-3d-blu-ray---dvd-1255156493",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "cómic, MANGA - Naruto,  30 tomos ,1 al 30, Masashi Kishimoto, Glenat, Shonen ,Manga anime cómic",
+          "price": 88,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/comic-manga-naruto-30-tomos-1-al-30-masashi-kishimoto-glenat-shonen-manga-anime-comic-1255156167",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "comic, manga naruto, tomos 30,",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "DVDs- X-Men + X-Men 2",
+          "price": 1.65,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/dvds-x-men---x-men-2-1255155362",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "LES LANGUES, FRANCOIS GOUIN, FIRMADO 1880 FRANCES",
+          "price": 250,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/les-langues-francois-gouin-firmado-1880-frances-1255148603",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: copia"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 89,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "JUEGO DE MESA como nuevo, EL JUEGO DEL LIGUE / FOURNIER COMPLETO",
+          "price": 16.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-como-nuevo-el-juego-del-ligue-fournier-completo-1255155237",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa como nuevo, juego",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        },
+        {
+          "title": "Gearworld The Borderlands Juego de Mesa",
+          "price": 28,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/gearworld-the-borderlands-juego-de-mesa-1255153548",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gearworld the borderlands juego mesa",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 31,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "mini double propeller helicopter HK-TF2008",
+          "price": 19.69,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/mini-double-propeller-helicopter-hk-tf2008-1255153707",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mini double propeller helicopter hk-tf2008",
+          "verdict": "skip",
+          "reason": "perfil 'generic' requiere eBay (desactivado temporalmente, solo funko activo)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 129,
+  "total_signals": 0,
+  "duration_s": 75
+}
