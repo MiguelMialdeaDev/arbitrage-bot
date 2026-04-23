@@ -1,83 +1,6 @@
 {
   "reservations": [
     {
-      "id": "8j38k9101lz9",
-      "title": "iPhone 15 Rosa",
-      "model": "iphone 15 rosa",
-      "price": 280,
-      "city": "Lugo",
-      "url": "https://es.wallapop.com/item/iphone-15-rosa-1255369982",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T16:47:18.316Z",
-      "last_seen": "2026-04-23T16:47:18.316Z"
-    },
-    {
-      "id": "qjwrg83elg6o",
-      "title": "TOMOS SUELTOS MANGA THE PROMISED NEVERLAND",
-      "model": "tomos sueltos manga the promised neverland",
-      "price": 18,
-      "city": "León",
-      "url": "https://es.wallapop.com/item/tomos-sueltos-manga-the-promised-neverland-1255371853",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-23T16:47:18.316Z",
-      "last_seen": "2026-04-23T16:47:18.316Z"
-    },
-    {
-      "id": "9jdw1qpo826k",
-      "title": "Heroquest El Despertar Juego de Mesa",
-      "model": "heroquest despertar juego mesa",
-      "price": 20,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/heroquest-el-despertar-juego-de-mesa-1255370284",
-      "category": "Deporte y ocio",
-      "first_seen": "2026-04-23T16:47:18.316Z",
-      "last_seen": "2026-04-23T16:47:18.316Z"
-    },
-    {
-      "id": "nz0813ey8r6o",
-      "title": "Funko Pop! Lord of the Rings Denethor 2",
-      "model": "funko pop lord of the rings denethor",
-      "price": 5,
-      "city": "Badalona",
-      "url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T17:02:51.920Z",
-      "last_seen": "2026-04-23T17:02:51.920Z"
-    },
-    {
-      "id": "p618m2g9x2z5",
-      "title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
-      "model": "funko pop ice cube 160 funko pop tupac funko snoo",
-      "price": 75,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T17:02:51.920Z",
-      "last_seen": "2026-04-23T17:02:51.920Z"
-    },
-    {
-      "id": "0j28odv40ejy",
-      "title": "Playmobil Marcelino",
-      "model": "playmobil marcelino",
-      "price": 15,
-      "city": "Carretera del Km. 17,500 Al 22,600 Madrid-Colmenar Viejo",
-      "url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T17:02:51.920Z",
-      "last_seen": "2026-04-23T17:02:51.920Z"
-    },
-    {
-      "id": "vjrem8w1x4zk",
-      "title": "iPhone 13 128 GB Negro",
-      "model": "iphone 13 128 gb negro",
-      "price": 150,
-      "city": "Valencia",
-      "url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T17:02:51.920Z",
-      "last_seen": "2026-04-23T17:02:51.920Z"
-    },
-    {
       "id": "9jdw1qyodd6k",
       "title": "Blu-ray La Llorona Steelbook Edición Limitada",
       "model": "blu ray llorona steelbook edicion limitada",
@@ -219,6 +142,39 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-23T18:45:30.539Z",
       "last_seen": "2026-04-23T18:45:30.539Z"
+    },
+    {
+      "id": "vjrem8n499zk",
+      "title": "Colección Cartas Pokémon 151",
+      "model": "coleccion cartas pokemon 151",
+      "price": 40,
+      "city": "Terrassa",
+      "url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T19:03:31.474Z",
+      "last_seen": "2026-04-23T19:03:31.474Z"
+    },
+    {
+      "id": "mzn37qr2pkjn",
+      "title": "Lote Cartas Pokémon 151",
+      "model": "lote cartas pokemon 151",
+      "price": 26,
+      "city": "Zaragoza",
+      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T19:03:31.474Z",
+      "last_seen": "2026-04-23T19:03:31.474Z"
+    },
+    {
+      "id": "wzvgd8wnyrzl",
+      "title": "Consola PS5 + 2 mandos",
+      "model": "consola ps5 mandos",
+      "price": 270,
+      "city": "Peguera",
+      "url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T19:03:31.474Z",
+      "last_seen": "2026-04-23T19:03:31.474Z"
     }
   ]
 }

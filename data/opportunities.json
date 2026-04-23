@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T18:45:30.540Z",
+  "updated_at": "2026-04-23T19:03:31.475Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -38,6 +38,256 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "coleccion cartas pokemon 151",
+        "example_title": "Colección Cartas Pokémon 151",
+        "example_url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Colección Cartas Pokémon 151",
+            "url": "https://es.wallapop.com/item/coleccion-cartas-pokemon-151-1255416843",
+            "city": "Terrassa"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas pokemon 151",
+        "example_title": "Lote Cartas Pokémon 151",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 26,
+        "median_price": 26,
+        "max_price": 26,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 26,
+            "title": "Lote Cartas Pokémon 151",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-151-1255415897",
+            "city": "Zaragoza"
+          }
+        ]
+      },
+      {
+        "model": "consola ps5 mandos",
+        "example_title": "Consola PS5 + 2 mandos",
+        "example_url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 270,
+        "median_price": 270,
+        "max_price": 270,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 270,
+            "title": "Consola PS5 + 2 mandos",
+            "url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
+            "city": "Peguera"
+          }
+        ]
+      },
+      {
+        "model": "iphone 15 rosa",
+        "example_title": "iPhone 15 Rosa",
+        "example_url": "https://es.wallapop.com/item/iphone-15-rosa-1255369982",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 280,
+        "median_price": 280,
+        "max_price": 280,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 280,
+            "title": "iPhone 15 Rosa",
+            "url": "https://es.wallapop.com/item/iphone-15-rosa-1255369982",
+            "city": "Lugo"
+          }
+        ]
+      },
+      {
+        "model": "tomos sueltos manga the promised neverland",
+        "example_title": "TOMOS SUELTOS MANGA THE PROMISED NEVERLAND",
+        "example_url": "https://es.wallapop.com/item/tomos-sueltos-manga-the-promised-neverland-1255371853",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 18,
+        "median_price": 18,
+        "max_price": 18,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 18,
+            "title": "TOMOS SUELTOS MANGA THE PROMISED NEVERLAND",
+            "url": "https://es.wallapop.com/item/tomos-sueltos-manga-the-promised-neverland-1255371853",
+            "city": "León"
+          }
+        ]
+      },
+      {
+        "model": "heroquest despertar juego mesa",
+        "example_title": "Heroquest El Despertar Juego de Mesa",
+        "example_url": "https://es.wallapop.com/item/heroquest-el-despertar-juego-de-mesa-1255370284",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Heroquest El Despertar Juego de Mesa",
+            "url": "https://es.wallapop.com/item/heroquest-el-despertar-juego-de-mesa-1255370284",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "funko pop lord of the rings denethor",
+        "example_title": "Funko Pop! Lord of the Rings Denethor 2",
+        "example_url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Funko Pop! Lord of the Rings Denethor 2",
+            "url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
+            "city": "Badalona"
+          }
+        ]
+      },
+      {
+        "model": "funko pop ice cube 160 funko pop tupac funko snoo",
+        "example_title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
+        "example_url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 75,
+        "median_price": 75,
+        "max_price": 75,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 75,
+            "title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
+            "url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "playmobil marcelino",
+        "example_title": "Playmobil Marcelino",
+        "example_url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Playmobil Marcelino",
+            "url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
+            "city": "Carretera del Km. 17,500 Al 22,600 Madrid-Colmenar Viejo"
+          }
+        ]
+      },
+      {
+        "model": "iphone 13 128 gb negro",
+        "example_title": "iPhone 13 128 GB Negro",
+        "example_url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 150,
+        "median_price": 150,
+        "max_price": 150,
+        "first_seen": "2026-04-23T19:03:31.474Z",
+        "last_seen": "2026-04-23T19:03:31.474Z",
+        "sample": [
+          {
+            "price": 150,
+            "title": "iPhone 13 128 GB Negro",
+            "url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
+            "city": "Valencia"
+          }
+        ]
+      },
       {
         "model": "funko pop marvel superior iron man 1568 reservado",
         "example_title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
@@ -639,106 +889,6 @@
         ]
       },
       {
-        "model": "funko pop lord of the rings denethor",
-        "example_title": "Funko Pop! Lord of the Rings Denethor 2",
-        "example_url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-23T17:02:51.920Z",
-        "last_seen": "2026-04-23T17:02:51.920Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Funko Pop! Lord of the Rings Denethor 2",
-            "url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
-            "city": "Badalona"
-          }
-        ]
-      },
-      {
-        "model": "funko pop ice cube 160 funko pop tupac funko snoo",
-        "example_title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
-        "example_url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 75,
-        "median_price": 75,
-        "max_price": 75,
-        "first_seen": "2026-04-23T17:02:51.920Z",
-        "last_seen": "2026-04-23T17:02:51.920Z",
-        "sample": [
-          {
-            "price": 75,
-            "title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
-            "url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "playmobil marcelino",
-        "example_title": "Playmobil Marcelino",
-        "example_url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-23T17:02:51.920Z",
-        "last_seen": "2026-04-23T17:02:51.920Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Playmobil Marcelino",
-            "url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
-            "city": "Carretera del Km. 17,500 Al 22,600 Madrid-Colmenar Viejo"
-          }
-        ]
-      },
-      {
-        "model": "iphone 13 128 gb negro",
-        "example_title": "iPhone 13 128 GB Negro",
-        "example_url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 150,
-        "median_price": 150,
-        "max_price": 150,
-        "first_seen": "2026-04-23T17:02:51.920Z",
-        "last_seen": "2026-04-23T17:02:51.920Z",
-        "sample": [
-          {
-            "price": 150,
-            "title": "iPhone 13 128 GB Negro",
-            "url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
-            "city": "Valencia"
-          }
-        ]
-      },
-      {
         "model": "funko pop will stranger things",
         "example_title": "Funko Pop Will Stranger Things",
         "example_url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
@@ -785,81 +935,6 @@
             "title": "iPhone 14 Pro 128GB para piezas",
             "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
             "city": "Castellón de la Plana/Castelló de la Plana"
-          }
-        ]
-      },
-      {
-        "model": "iphone 15 rosa",
-        "example_title": "iPhone 15 Rosa",
-        "example_url": "https://es.wallapop.com/item/iphone-15-rosa-1255369982",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 280,
-        "median_price": 280,
-        "max_price": 280,
-        "first_seen": "2026-04-23T16:47:18.316Z",
-        "last_seen": "2026-04-23T16:47:18.316Z",
-        "sample": [
-          {
-            "price": 280,
-            "title": "iPhone 15 Rosa",
-            "url": "https://es.wallapop.com/item/iphone-15-rosa-1255369982",
-            "city": "Lugo"
-          }
-        ]
-      },
-      {
-        "model": "tomos sueltos manga the promised neverland",
-        "example_title": "TOMOS SUELTOS MANGA THE PROMISED NEVERLAND",
-        "example_url": "https://es.wallapop.com/item/tomos-sueltos-manga-the-promised-neverland-1255371853",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 18,
-        "median_price": 18,
-        "max_price": 18,
-        "first_seen": "2026-04-23T16:47:18.316Z",
-        "last_seen": "2026-04-23T16:47:18.316Z",
-        "sample": [
-          {
-            "price": 18,
-            "title": "TOMOS SUELTOS MANGA THE PROMISED NEVERLAND",
-            "url": "https://es.wallapop.com/item/tomos-sueltos-manga-the-promised-neverland-1255371853",
-            "city": "León"
-          }
-        ]
-      },
-      {
-        "model": "heroquest despertar juego mesa",
-        "example_title": "Heroquest El Despertar Juego de Mesa",
-        "example_url": "https://es.wallapop.com/item/heroquest-el-despertar-juego-de-mesa-1255370284",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-23T16:47:18.316Z",
-        "last_seen": "2026-04-23T16:47:18.316Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Heroquest El Despertar Juego de Mesa",
-            "url": "https://es.wallapop.com/item/heroquest-el-despertar-juego-de-mesa-1255370284",
-            "city": "Madrid"
           }
         ]
       },
@@ -1895,10 +1970,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 74,
-    "total_unique_models": 75,
-    "total_reservations": 20,
-    "total_confirmed_sales": 56
+    "possible": 77,
+    "total_unique_models": 78,
+    "total_reservations": 16,
+    "total_confirmed_sales": 63
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1911,16 +1986,88 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "v6gp3qwrl26e",
-      "model": "joy nintendo switch amiibo donkey kong",
-      "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
-      "sold_price": 21.99,
-      "city": "Almazora/Almassora",
-      "url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
+      "id": "8j38k9101lz9",
+      "model": "iphone 15 rosa",
+      "title": "iPhone 15 Rosa",
+      "sold_price": 280,
+      "city": "Lugo",
+      "url": "https://es.wallapop.com/item/iphone-15-rosa-1255369982",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T16:33:04.791Z",
-      "last_seen": "2026-04-23T16:33:04.791Z",
-      "confirmed_at": "2026-04-23T18:45:30.539Z"
+      "first_reserved": "2026-04-23T16:47:18.316Z",
+      "last_seen": "2026-04-23T16:47:18.316Z",
+      "confirmed_at": "2026-04-23T19:03:31.474Z"
+    },
+    {
+      "id": "qjwrg83elg6o",
+      "model": "tomos sueltos manga the promised neverland",
+      "title": "TOMOS SUELTOS MANGA THE PROMISED NEVERLAND",
+      "sold_price": 18,
+      "city": "León",
+      "url": "https://es.wallapop.com/item/tomos-sueltos-manga-the-promised-neverland-1255371853",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-23T16:47:18.316Z",
+      "last_seen": "2026-04-23T16:47:18.316Z",
+      "confirmed_at": "2026-04-23T19:03:31.474Z"
+    },
+    {
+      "id": "9jdw1qpo826k",
+      "model": "heroquest despertar juego mesa",
+      "title": "Heroquest El Despertar Juego de Mesa",
+      "sold_price": 20,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/heroquest-el-despertar-juego-de-mesa-1255370284",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-23T16:47:18.316Z",
+      "last_seen": "2026-04-23T16:47:18.316Z",
+      "confirmed_at": "2026-04-23T19:03:31.474Z"
+    },
+    {
+      "id": "nz0813ey8r6o",
+      "model": "funko pop lord of the rings denethor",
+      "title": "Funko Pop! Lord of the Rings Denethor 2",
+      "sold_price": 5,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T17:02:51.920Z",
+      "last_seen": "2026-04-23T17:02:51.920Z",
+      "confirmed_at": "2026-04-23T19:03:31.474Z"
+    },
+    {
+      "id": "p618m2g9x2z5",
+      "model": "funko pop ice cube 160 funko pop tupac funko snoo",
+      "title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
+      "sold_price": 75,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T17:02:51.920Z",
+      "last_seen": "2026-04-23T17:02:51.920Z",
+      "confirmed_at": "2026-04-23T19:03:31.474Z"
+    },
+    {
+      "id": "0j28odv40ejy",
+      "model": "playmobil marcelino",
+      "title": "Playmobil Marcelino",
+      "sold_price": 15,
+      "city": "Carretera del Km. 17,500 Al 22,600 Madrid-Colmenar Viejo",
+      "url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T17:02:51.920Z",
+      "last_seen": "2026-04-23T17:02:51.920Z",
+      "confirmed_at": "2026-04-23T19:03:31.474Z"
+    },
+    {
+      "id": "vjrem8w1x4zk",
+      "model": "iphone 13 128 gb negro",
+      "title": "iPhone 13 128 GB Negro",
+      "sold_price": 150,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T17:02:51.920Z",
+      "last_seen": "2026-04-23T17:02:51.920Z",
+      "confirmed_at": "2026-04-23T19:03:31.474Z"
     }
   ]
 }
