@@ -1,11 +1,61 @@
 {
-  "updated_at": "2026-04-23T15:18:11.368Z",
+  "updated_at": "2026-04-23T15:29:32.684Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko stranger things kinder joy figuras",
+        "example_title": "Funko Stranger Things Kinder Joy Figuras",
+        "example_url": "https://es.wallapop.com/item/funko-stranger-things-kinder-joy-figuras-1255342299",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T15:29:32.683Z",
+        "last_seen": "2026-04-23T15:29:32.683Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Funko Stranger Things Kinder Joy Figuras",
+            "url": "https://es.wallapop.com/item/funko-stranger-things-kinder-joy-figuras-1255342299",
+            "city": "Azuqueca de Henares"
+          }
+        ]
+      },
+      {
+        "model": "cartas pokemon",
+        "example_title": "Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-1255339953",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 22.8,
+        "median_price": 22.8,
+        "max_price": 22.8,
+        "first_seen": "2026-04-23T15:29:32.683Z",
+        "last_seen": "2026-04-23T15:29:32.683Z",
+        "sample": [
+          {
+            "price": 22.8,
+            "title": "Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-1255339953",
+            "city": "Pastrana"
+          }
+        ]
+      },
       {
         "model": "lote cartas pokemon",
         "example_title": "Lote de cartas Pokémon",
@@ -1213,9 +1263,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 48,
-    "total_unique_models": 48,
-    "total_reservations": 18,
+    "possible": 50,
+    "total_unique_models": 50,
+    "total_reservations": 20,
     "total_confirmed_sales": 30
   },
   "thresholds": {
@@ -1227,18 +1277,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "0j28odo5lnjy",
-      "model": "lote funko pop stranger things",
-      "title": "Lote Funko Pop Stranger Things",
-      "sold_price": 5.5,
-      "city": "Arrasate/Mondragón",
-      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T13:16:27.501Z",
-      "last_seen": "2026-04-23T13:16:27.501Z",
-      "confirmed_at": "2026-04-23T15:18:11.367Z"
-    }
-  ]
+  "new_sales": []
 }
