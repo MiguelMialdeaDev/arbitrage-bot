@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T18:03:13.642Z",
+  "updated_at": "2026-04-23T18:18:18.325Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -7,8 +7,8 @@
         "model": "lote cartas pokemon",
         "example_title": "Lote de cartas Pokémon",
         "example_url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
+        "total_reservations": 0,
+        "confirmed_sales": 2,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -17,9 +17,15 @@
         "min_price": 35,
         "median_price": 280,
         "max_price": 280,
-        "first_seen": "2026-04-23T16:17:28.164Z",
-        "last_seen": "2026-04-23T17:33:09.995Z",
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-23T18:18:18.324Z",
         "sample": [
+          {
+            "price": 280,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+            "city": "Aguilar de Campoo"
+          },
           {
             "price": 35,
             "title": "Lote de cartas Pokémon",
@@ -32,6 +38,106 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote 26 vinilos rock heavy metal",
+        "example_title": "Lote 26 Vinilos Rock y Heavy Metal",
+        "example_url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 130,
+        "median_price": 130,
+        "max_price": 130,
+        "first_seen": "2026-04-23T18:18:18.324Z",
+        "last_seen": "2026-04-23T18:18:18.324Z",
+        "sample": [
+          {
+            "price": 130,
+            "title": "Lote 26 Vinilos Rock y Heavy Metal",
+            "url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
+            "city": "Elda"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon pikachu psa 10 sv 242 promo jp",
+        "example_title": "Carta Pokémon Pikachu PSA 10 SV-P 242 Promo JP",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-pikachu-psa-10-sv-p-242-promo-jp-1255352548",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 100,
+        "median_price": 100,
+        "max_price": 100,
+        "first_seen": "2026-04-23T18:18:18.324Z",
+        "last_seen": "2026-04-23T18:18:18.324Z",
+        "sample": [
+          {
+            "price": 100,
+            "title": "Carta Pokémon Pikachu PSA 10 SV-P 242 Promo JP",
+            "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-psa-10-sv-p-242-promo-jp-1255352548",
+            "city": "Alcalá de Henares"
+          }
+        ]
+      },
+      {
+        "model": "lote funko pop",
+        "example_title": "Lote Funko Pop",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8.5,
+        "median_price": 8.5,
+        "max_price": 8.5,
+        "first_seen": "2026-04-23T18:18:18.324Z",
+        "last_seen": "2026-04-23T18:18:18.324Z",
+        "sample": [
+          {
+            "price": 8.5,
+            "title": "Lote Funko Pop",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "llaveros cd mini battlefield ps4 ps5",
+        "example_title": "4 Llaveros CD Mini Battlefield 4 & 6 PS4/PS5",
+        "example_url": "https://es.wallapop.com/item/4-portachiavi-cd-mini-battlefield-4-6-ps4-ps5-1255359365",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T18:18:18.324Z",
+        "last_seen": "2026-04-23T18:18:18.324Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "4 Llaveros CD Mini Battlefield 4 & 6 PS4/PS5",
+            "url": "https://es.wallapop.com/item/4-portachiavi-cd-mini-battlefield-4-6-ps4-ps5-1255359365",
+            "city": "Bagnacavallo"
+          }
+        ]
+      },
       {
         "model": "kochi x3 correa ocean apple watch",
         "example_title": "(KOCHI) X3 Correa Ocean para Apple Watch",
@@ -708,56 +814,6 @@
         ]
       },
       {
-        "model": "lote funko pop",
-        "example_title": "Lote Funko Pop",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8.5,
-        "median_price": 8.5,
-        "max_price": 8.5,
-        "first_seen": "2026-04-23T16:17:28.164Z",
-        "last_seen": "2026-04-23T16:17:28.164Z",
-        "sample": [
-          {
-            "price": 8.5,
-            "title": "Lote Funko Pop",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "llaveros cd mini battlefield ps4 ps5",
-        "example_title": "4 Llaveros CD Mini Battlefield 4 & 6 PS4/PS5",
-        "example_url": "https://es.wallapop.com/item/4-portachiavi-cd-mini-battlefield-4-6-ps4-ps5-1255359365",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-23T16:17:28.164Z",
-        "last_seen": "2026-04-23T16:17:28.164Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "4 Llaveros CD Mini Battlefield 4 & 6 PS4/PS5",
-            "url": "https://es.wallapop.com/item/4-portachiavi-cd-mini-battlefield-4-6-ps4-ps5-1255359365",
-            "city": "Bagnacavallo"
-          }
-        ]
-      },
-      {
         "model": "princess peach showtime nintendo switch",
         "example_title": "Princess Peach: Showtime! Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
@@ -804,31 +860,6 @@
             "title": "Pack 2 Vinilos LP Internacional Pop Rock",
             "url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
             "city": "Eivissa-San Juan"
-          }
-        ]
-      },
-      {
-        "model": "carta pokemon pikachu psa 10 sv 242 promo jp",
-        "example_title": "Carta Pokémon Pikachu PSA 10 SV-P 242 Promo JP",
-        "example_url": "https://es.wallapop.com/item/carta-pokemon-pikachu-psa-10-sv-p-242-promo-jp-1255352548",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 100,
-        "median_price": 100,
-        "max_price": 100,
-        "first_seen": "2026-04-23T16:03:36.515Z",
-        "last_seen": "2026-04-23T16:03:36.515Z",
-        "sample": [
-          {
-            "price": 100,
-            "title": "Carta Pokémon Pikachu PSA 10 SV-P 242 Promo JP",
-            "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-psa-10-sv-p-242-promo-jp-1255352548",
-            "city": "Alcalá de Henares"
           }
         ]
       },
@@ -1739,10 +1770,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 68,
-    "total_unique_models": 69,
-    "total_reservations": 19,
-    "total_confirmed_sales": 51
+    "possible": 69,
+    "total_unique_models": 70,
+    "total_reservations": 16,
+    "total_confirmed_sales": 55
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1755,16 +1786,52 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "p618m20do5z5",
-      "model": "kochi x3 correa ocean apple watch",
-      "title": "(KOCHI) X3 Correa Ocean para Apple Watch",
-      "sold_price": 25,
-      "city": "Logroño",
-      "url": "https://es.wallapop.com/item/kochi-x3-correa-ocean-para-apple-watch-1255350007",
+      "id": "e65qd5152g6o",
+      "model": "carta pokemon pikachu psa 10 sv 242 promo jp",
+      "title": "Carta Pokémon Pikachu PSA 10 SV-P 242 Promo JP",
+      "sold_price": 100,
+      "city": "Alcalá de Henares",
+      "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-psa-10-sv-p-242-promo-jp-1255352548",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T16:03:36.515Z",
+      "last_seen": "2026-04-23T16:03:36.515Z",
+      "confirmed_at": "2026-04-23T18:18:18.324Z"
+    },
+    {
+      "id": "nzxeg874q762",
+      "model": "lote funko pop",
+      "title": "Lote Funko Pop",
+      "sold_price": 8.5,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T16:17:28.164Z",
+      "last_seen": "2026-04-23T16:17:28.164Z",
+      "confirmed_at": "2026-04-23T18:18:18.324Z"
+    },
+    {
+      "id": "3zlmpr390njx",
+      "model": "lote cartas pokemon",
+      "title": "Lote de cartas Pokémon",
+      "sold_price": 35,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T16:17:28.164Z",
+      "last_seen": "2026-04-23T16:17:28.164Z",
+      "confirmed_at": "2026-04-23T18:18:18.324Z"
+    },
+    {
+      "id": "wzvgd8pl04zl",
+      "model": "llaveros cd mini battlefield ps4 ps5",
+      "title": "4 Llaveros CD Mini Battlefield 4 & 6 PS4/PS5",
+      "sold_price": 40,
+      "city": "Bagnacavallo",
+      "url": "https://es.wallapop.com/item/4-portachiavi-cd-mini-battlefield-4-6-ps4-ps5-1255359365",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T15:47:39.863Z",
-      "last_seen": "2026-04-23T15:47:39.863Z",
-      "confirmed_at": "2026-04-23T18:03:13.641Z"
+      "first_reserved": "2026-04-23T16:17:28.164Z",
+      "last_seen": "2026-04-23T16:17:28.164Z",
+      "confirmed_at": "2026-04-23T18:18:18.324Z"
     }
   ]
 }

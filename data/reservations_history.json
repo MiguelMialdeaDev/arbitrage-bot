@@ -1,50 +1,6 @@
 {
   "reservations": [
     {
-      "id": "e65qd5152g6o",
-      "title": "Carta Pokémon Pikachu PSA 10 SV-P 242 Promo JP",
-      "model": "carta pokemon pikachu psa 10 sv 242 promo jp",
-      "price": 100,
-      "city": "Alcalá de Henares",
-      "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-psa-10-sv-p-242-promo-jp-1255352548",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T16:03:36.515Z",
-      "last_seen": "2026-04-23T16:03:36.515Z"
-    },
-    {
-      "id": "nzxeg874q762",
-      "title": "Lote Funko Pop",
-      "model": "lote funko pop",
-      "price": 8.5,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T16:17:28.164Z",
-      "last_seen": "2026-04-23T16:17:28.164Z"
-    },
-    {
-      "id": "3zlmpr390njx",
-      "title": "Lote de cartas Pokémon",
-      "model": "lote cartas pokemon",
-      "price": 35,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T16:17:28.164Z",
-      "last_seen": "2026-04-23T16:17:28.164Z"
-    },
-    {
-      "id": "wzvgd8pl04zl",
-      "title": "4 Llaveros CD Mini Battlefield 4 & 6 PS4/PS5",
-      "model": "llaveros cd mini battlefield ps4 ps5",
-      "price": 40,
-      "city": "Bagnacavallo",
-      "url": "https://es.wallapop.com/item/4-portachiavi-cd-mini-battlefield-4-6-ps4-ps5-1255359365",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T16:17:28.164Z",
-      "last_seen": "2026-04-23T16:17:28.164Z"
-    },
-    {
       "id": "v6gp3qwrl26e",
       "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
       "model": "joy nintendo switch amiibo donkey kong",
@@ -208,6 +164,17 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-23T17:47:00.148Z",
       "last_seen": "2026-04-23T17:47:00.148Z"
+    },
+    {
+      "id": "pzpkxqnrdmj3",
+      "title": "Lote 26 Vinilos Rock y Heavy Metal",
+      "model": "lote 26 vinilos rock heavy metal",
+      "price": 130,
+      "city": "Elda",
+      "url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
+      "category": "Cine, libros y música",
+      "first_seen": "2026-04-23T18:18:18.324Z",
+      "last_seen": "2026-04-23T18:18:18.324Z"
     }
   ]
 }
