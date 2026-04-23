@@ -224,6 +224,18 @@ function writeReport(report) {
   const reportsDir = path.join(__dirname, "..", "reports");
   if (!fs.existsSync(reportsDir)) fs.mkdirSync(reportsDir, { recursive: true });
 
+  // Retención: borrar reports > 7 días (el repo no tiene que crecer infinito)
+  const RETENTION_DAYS = 7;
+  const cutoff = Date.now() - RETENTION_DAYS * 24 * 60 * 60 * 1000;
+  try {
+    for (const f of fs.readdirSync(reportsDir)) {
+      if (!f.startsWith("run_")) continue;   // preservamos latest.md
+      const full = path.join(reportsDir, f);
+      const st = fs.statSync(full);
+      if (st.mtimeMs < cutoff) fs.unlinkSync(full);
+    }
+  } catch (e) { /* best-effort, no rompemos el run si falla */ }
+
   const stamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 16);
   const mdPath = path.join(reportsDir, `run_${stamp}.md`);
   const jsonPath = path.join(reportsDir, `run_${stamp}.json`);

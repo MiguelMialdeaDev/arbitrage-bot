@@ -27,11 +27,23 @@ const RETENTION_30D = HORIZON_30D;
 // Umbrales de tier (ajustables). La idea: priorizar volumen sostenido
 // (7d/30d) sobre picos puntuales (24h) para filtrar modelos que REALMENTE
 // se venden con regularidad, no solo los que tuvieron un día bueno.
-const TIER_PROVEN_7D = 5;    // ≥5 reservas en 7d = mercado vivo
-const TIER_PROVEN_30D = 10;  // ≥10 en 30d también cualifica como proven
-const TIER_HOT_24H = 3;      // pico de demanda hoy
-const TIER_TRENDING_7D = 3;  // demanda consistente en semana
-const TIER_RECURRING_30D = 2;// al menos repitió en el mes
+//
+// MODO INCUBACIÓN: durante los primeros 14 días desde que arrancó el
+// tracker, los umbrales son más relajados para que aparezcan resultados
+// tempranos. A partir de día 14 pasan a los valores "mature".
+// Se calcula automáticamente leyendo first_seen más antiguo del history.
+const INCUBATION_DAYS = 14;
+const THRESHOLDS_INCUBATION = { proven_7d: 3, proven_30d: 5,  hot_24h: 2, trending_7d: 2, recurring_30d: 2 };
+const THRESHOLDS_MATURE     = { proven_7d: 5, proven_30d: 10, hot_24h: 3, trending_7d: 3, recurring_30d: 2 };
+
+function pickThresholds(history) {
+  if (!history.reservations.length) return THRESHOLDS_INCUBATION;
+  const oldest = history.reservations
+    .map(r => new Date(r.first_seen).getTime())
+    .reduce((a,b) => Math.min(a,b), Date.now());
+  const ageDays = (Date.now() - oldest) / (24 * 60 * 60 * 1000);
+  return ageDays >= INCUBATION_DAYS ? THRESHOLDS_MATURE : THRESHOLDS_INCUBATION;
+}
 
 // Normaliza un título para agrupar items equivalentes.
 // - minúsculas, sin acentos
@@ -94,6 +106,7 @@ function appendRun(reservedItems) {
 // Agrupa por modelo normalizado y genera los tiers.
 function computeOpportunities(history) {
   const now = Date.now();
+  const T = pickThresholds(history);
   const groups = new Map();
   for (const r of history.reservations) {
     const key = r.model;
@@ -144,13 +157,13 @@ function computeOpportunities(history) {
 
     // Asignación de tier en orden descendente de confianza.
     // Cada modelo cae en EXACTAMENTE UN tier (el más alto que cumpla).
-    if (entry.reservations_7d >= TIER_PROVEN_7D || entry.reservations_30d >= TIER_PROVEN_30D) {
+    if (entry.reservations_7d >= T.proven_7d || entry.reservations_30d >= T.proven_30d) {
       tiered.proven_seller.push(entry);
-    } else if (entry.reservations_24h >= TIER_HOT_24H) {
+    } else if (entry.reservations_24h >= T.hot_24h) {
       tiered.hot_24h.push(entry);
-    } else if (entry.reservations_7d >= TIER_TRENDING_7D) {
+    } else if (entry.reservations_7d >= T.trending_7d) {
       tiered.trending_7d.push(entry);
-    } else if (entry.reservations_30d >= TIER_RECURRING_30D) {
+    } else if (entry.reservations_30d >= T.recurring_30d) {
       tiered.recurring.push(entry);
     } else {
       tiered.possible.push(entry);
@@ -178,11 +191,8 @@ function computeOpportunities(history) {
       total_reservations: history.reservations.length,
     },
     thresholds: {
-      proven_7d: TIER_PROVEN_7D,
-      proven_30d: TIER_PROVEN_30D,
-      hot_24h: TIER_HOT_24H,
-      trending_7d: TIER_TRENDING_7D,
-      recurring_30d: TIER_RECURRING_30D,
+      ...T,
+      mode: (T === THRESHOLDS_INCUBATION) ? "incubation" : "mature",
     },
   };
 }
