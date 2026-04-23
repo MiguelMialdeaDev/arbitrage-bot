@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T23:46:34.731Z",
+  "updated_at": "2026-04-23T23:56:55.480Z",
   "tiers": {
     "proven_seller": [
       {
@@ -76,6 +76,106 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "llavero funko gizmo",
+        "example_title": "Llavero Funko Gizmo",
+        "example_url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-23T23:56:55.479Z",
+        "last_seen": "2026-04-23T23:56:55.479Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Llavero Funko Gizmo",
+            "url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
+            "city": "Logroño"
+          }
+        ]
+      },
+      {
+        "model": "llavero funko castiel",
+        "example_title": "Llavero Funko Castiel",
+        "example_url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-23T23:56:55.479Z",
+        "last_seen": "2026-04-23T23:56:55.479Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Llavero Funko Castiel",
+            "url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
+            "city": "Logroño"
+          }
+        ]
+      },
+      {
+        "model": "funko the lost boys",
+        "example_title": "Funko The Lost Boys",
+        "example_url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T23:56:55.479Z",
+        "last_seen": "2026-04-23T23:56:55.479Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Funko The Lost Boys",
+            "url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
+            "city": "Logroño"
+          }
+        ]
+      },
+      {
+        "model": "20 sobres pokemon japoneses thrush combo",
+        "example_title": "20 Sobres Pokémon Japoneses ThRush D Combo",
+        "example_url": "https://es.wallapop.com/item/20-sobres-pokemon-japoneses-thrush-d-combo-1255450802",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 42.5,
+        "median_price": 42.5,
+        "max_price": 42.5,
+        "first_seen": "2026-04-23T23:56:55.479Z",
+        "last_seen": "2026-04-23T23:56:55.479Z",
+        "sample": [
+          {
+            "price": 42.5,
+            "title": "20 Sobres Pokémon Japoneses ThRush D Combo",
+            "url": "https://es.wallapop.com/item/20-sobres-pokemon-japoneses-thrush-d-combo-1255450802",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "lote productos magia",
         "example_title": "Lote de 5 productos de magia",
@@ -648,31 +748,6 @@
             "title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
             "url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
             "city": "Matalascañas"
-          }
-        ]
-      },
-      {
-        "model": "20 sobres pokemon japoneses thrush combo",
-        "example_title": "20 Sobres Pokémon Japoneses ThRush D Combo",
-        "example_url": "https://es.wallapop.com/item/20-sobres-pokemon-japoneses-thrush-d-combo-1255450802",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 42.5,
-        "median_price": 42.5,
-        "max_price": 42.5,
-        "first_seen": "2026-04-23T21:47:12.190Z",
-        "last_seen": "2026-04-23T21:47:12.190Z",
-        "sample": [
-          {
-            "price": 42.5,
-            "title": "20 Sobres Pokémon Japoneses ThRush D Combo",
-            "url": "https://es.wallapop.com/item/20-sobres-pokemon-japoneses-thrush-d-combo-1255450802",
-            "city": "Madrid"
           }
         ]
       },
@@ -2633,10 +2708,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 102,
-    "total_unique_models": 104,
-    "total_reservations": 10,
-    "total_confirmed_sales": 97
+    "possible": 105,
+    "total_unique_models": 107,
+    "total_reservations": 12,
+    "total_confirmed_sales": 98
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2649,16 +2724,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "wzyrgpepxe65",
-      "model": "lote productos magia",
-      "title": "Lote de 5 productos de magia",
-      "sold_price": 75,
-      "city": "Ciudad Real",
-      "url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-23T21:31:36.356Z",
-      "last_seen": "2026-04-23T21:31:36.356Z",
-      "confirmed_at": "2026-04-23T23:46:34.730Z"
+      "id": "pzpkxo8499j3",
+      "model": "20 sobres pokemon japoneses thrush combo",
+      "title": "20 Sobres Pokémon Japoneses ThRush D Combo",
+      "sold_price": 42.5,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/20-sobres-pokemon-japoneses-thrush-d-combo-1255450802",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T21:47:12.190Z",
+      "last_seen": "2026-04-23T21:47:12.190Z",
+      "confirmed_at": "2026-04-23T23:56:55.479Z"
     }
   ]
 }

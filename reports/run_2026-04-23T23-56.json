@@ -1,0 +1,681 @@
+{
+  "timestamp": "2026-04-23T23:55:18.218Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 204,
+      "new_items": 11,
+      "items": [
+        {
+          "title": "Funko Mini Duke Caboom",
+          "price": 2.5,
+          "city": "Aguain",
+          "url": "https://es.wallapop.com/item/funko-mini-duke-caboom-1255462549",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Funko Pop! Littlefoot 1845 - The Land Before Time",
+          "price": 40,
+          "city": "Santa Cruz de la Palma",
+          "url": "https://es.wallapop.com/item/funko-pop-littlefoot-1845-the-land-before-time-1255462487",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! littlefoot the land before 1845",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! littlefoot the land before 1845' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Llavero Funko Gizmo",
+          "price": 5,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
+          "reserved": true,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "Funko Pop Buzz Lightyear",
+          "price": 3.95,
+          "city": "Aguain",
+          "url": "https://es.wallapop.com/item/funko-pop-buzz-lightyear-1255462282",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "funko problema: sin caja"
+        },
+        {
+          "title": "Llavero Funko Castiel",
+          "price": 5,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
+          "reserved": true,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "Funko The Lost Boys",
+          "price": 10,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
+          "reserved": true,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "Lote Funko Pop Matrix",
+          "price": 6.95,
+          "city": "Aguain",
+          "url": "https://es.wallapop.com/item/pack-funko-pop-matrix-1255461965",
+          "reserved": false,
+          "profile": "funko_lote",
+          "verdict": "skip",
+          "reason": "count=2 < 3, no es lote claro"
+        },
+        {
+          "title": "Pikachu de Ash SM112 Carta Pokémon",
+          "price": 15,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/pikachu-de-ash-sm112-carta-pokemon-1255462454",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pikachu ash sm112 carta pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pikachu ash sm112 carta pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pikachu de Ash SM108 Carta Pokémon",
+          "price": 10,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/pikachu-de-ash-sm108-carta-pokemon-1255462260",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pikachu ash sm108 carta pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pikachu ash sm108 carta pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "2 Cartas Pokémon Brillantes Raras",
+          "price": 20,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/2-carte-pokemon-rare-brillanti-1255462060",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon brillantes raras",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon brillantes raras' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pikachu 26 Promo Pokémon Carta",
+          "price": 45,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/pikachu-26-promo-pokemon-carta-1255462033",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pikachu promo pokemon carta",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 4€ vs mín reservado 100€)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 254,
+      "new_items": 47,
+      "items": [
+        {
+          "title": "Inazuma Eleven Go Chrono Stones Llamarada 3DS",
+          "price": 29.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/inazuma-eleven-go-chrono-stones-llamarada-3ds-1255462623",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Metal Gear Solid Snake Eater Nintendo 3DS",
+          "price": 49.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/metal-gear-solid-snake-eater-nintendo-3ds-1255462570",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Inazuma Eleven 2 Tormenta de Fuego Nintendo DS",
+          "price": 39.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/inazuma-eleven-2-tormenta-de-fuego-nintendo-ds-1255462515",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Inazuma Eleven 2 Ventisca Eterna Nintendo DS",
+          "price": 44.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/inazuma-eleven-2-ventisca-eterna-nintendo-ds-1255462456",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Mario Luigi Viaje al Centro de Bowser Nintendo 3DS",
+          "price": 29.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/mario-luigi-viaje-al-centro-de-bowser-nintendo-3ds-1255462404",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Super Mario Sunshine Nintendo Gamecube",
+          "price": 19.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/super-mario-sunshine-nintendo-gamecube-1255462337",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Funda Nintendo Switch Azul",
+          "price": 15,
+          "city": "Vélez-Málaga",
+          "url": "https://es.wallapop.com/item/funda-nintendo-switch-azul-1255462332",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Zelda The Wind Waker Edición Limitada Gamecube",
+          "price": 64.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/zelda-the-wind-waker-edicion-limitada-gamecube-1255462276",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "TimeSplitters Futuro Perfecto Nintendo Gamecube",
+          "price": 24.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/timesplitters-futuro-perfecto-nintendo-gamecube-1255462204",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Pokemon Ranger Sombras de Almia Nintendo DS",
+          "price": 29.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/pokemon-ranger-sombras-de-almia-nintendo-ds-1255462131",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Pokemon Rubi Omega Nintendo 3DS",
+          "price": 44.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/pokemon-rubi-omega-nintendo-3ds-1255462058",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Pokémon Y Nintendo 3DS",
+          "price": 29.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/pokemon-y-nintendo-3ds-1255462002",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Pokemon Channel Nintendo Gamecube",
+          "price": 54.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/pokemon-channel-nintendo-gamecube-1255461951",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Disco Duro HGST 500GB SATA 6.0Gb/s",
+          "price": 35,
+          "city": "Gamarra Mayor",
+          "url": "https://es.wallapop.com/item/disco-duro-hgst-500gb-sata-6-0gb-s-1255462603",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: defectuoso"
+        },
+        {
+          "title": "diadema apple airpods max 2024",
+          "price": 390,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/diadema-apple-airpods-max-2024-1255462330",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "diadema apple airpods max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'diadema apple airpods max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carcasa móvil personalizada con tu foto",
+          "price": 18,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carcasa-movil-personalizada-con-tu-foto-1255462607",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carcasa movil personalizada con foto",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carcasa movil personalizada con foto' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 14 plus 128gb",
+          "price": 339,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-plus-128gb-1255462582",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "339€ vs mín reservado 310€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 12 128gb",
+          "price": 269,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-12-128gb-1255462558",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "apple iphone 17 pro 512gb",
+          "price": 1209,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-512gb-1255462539",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 512gb",
+          "verdict": "skip",
+          "reason": "1209€ vs mín reservado 800€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 14 plus 128gb",
+          "price": 399,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-plus-128gb-1255462519",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "399€ vs mín reservado 310€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 15 plus 128gb",
+          "price": 465,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-plus-128gb-1255462495",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "465€ vs mín reservado 310€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 15 pro 128gb",
+          "price": 575,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-128gb-1255462482",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "apple iphone 15 pro 128gb",
+          "price": 575,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-128gb-1255462458",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "apple iphone 16 pro max 256gb",
+          "price": 859,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-1255462451",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "859€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 16 pro max 256gb",
+          "price": 885,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-1255462428",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "885€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone air 256gb",
+          "price": 759,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-air-256gb-1255462427",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone air 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone air 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 16 pro max 256gb",
+          "price": 859,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-1255462410",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "859€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 17 morado",
+          "price": 0,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/iphone-17-morado-1255462392",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "iPhone 14 Morado Battery 82",
+          "price": 320,
+          "city": "Cerdanyola del Vallès",
+          "url": "https://es.wallapop.com/item/iphone-14-morado-battery-82-1255462285",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone morado battery",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone morado battery' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 15 pro 128gb",
+          "price": 519,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-128gb-1255462195",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "519€ vs mín reservado 100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Iphone 16 128gb",
+          "price": 700,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16-128gb-1255462138",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 15 128gb",
+          "price": 459,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-128gb-1255462092",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "Caja iPhone 11 Negra",
+          "price": 10,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/caja-iphone-11-negra-1255462079",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negra' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone se (2020) 64gb",
+          "price": 119,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/apple-iphone-se-2020-64gb-1255462071",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone (2020) 64gb",
+          "verdict": "skip",
+          "reason": "119€ vs mín reservado 60€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 14 128gb",
+          "price": 319,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-128gb-1255462066",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 13 mini 128gb",
+          "price": 259,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-mini-128gb-1255462059",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "apple iphone mini 128gb",
+          "verdict": "skip",
+          "reason": "259€ vs mín reservado 120€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 13 Pro Dorado/Plateado",
+          "price": 290,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-dorado-plateado-1255462053",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro dorado/plateado",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 190€ vs mín reservado 550€)"
+        },
+        {
+          "title": "apple iphone air 256gb",
+          "price": 725,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/apple-iphone-air-256gb-1255462049",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone air 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone air 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 pro 256gb",
+          "price": 1095,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-256gb-1255462048",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "1095€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone xr 64gb",
+          "price": 149,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/apple-iphone-xr-64gb-1255462036",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "apple iphone 64gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 64gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 pro 256gb",
+          "price": 1095,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-256gb-1255462031",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "1095€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 13 pro 128gb",
+          "price": 325,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-pro-128gb-1255461963",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "325€ vs mín reservado 100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 12 mini 128gb",
+          "price": 189,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-12-mini-128gb-1255461956",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone mini 128gb",
+          "verdict": "skip",
+          "reason": "189€ vs mín reservado 120€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple watch series 11 42mm (gps 5g) titanio",
+          "price": 655,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-watch-series-11-42mm-gps-5g-titanio-1255462450",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 42mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 42mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch series 9 45mm (gps 4g) acero inoxidable",
+          "price": 279,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-watch-series-9-45mm-gps-4g-acero-inoxidable-1255462422",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 45mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 45mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple apple watch se 3 2025 44mm (gps ) aluminio",
+          "price": 165,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-3-2025-44mm-gps-aluminio-1255462405",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 44mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 44mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple apple watch se 2022 44mm (gps ) aluminio",
+          "price": 145,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-2022-44mm-gps-aluminio-1255462394",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 44mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 44mm (gps' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 174,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Manga Bleach Tomos 1-20, 22-23, 26-31, 33-37 y 39",
+          "price": 5,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/manga-bleach-tomos-1-20-22-23-26-31-33-37-y-39-1255461961",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 77,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta Vintage Smasher Madera",
+          "price": 125,
+          "city": "Santander",
+          "url": "https://es.wallapop.com/item/raqueta-vintage-smasher-madera-1255462474",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta vintage smasher madera",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta vintage smasher madera' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 44,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 60,
+  "total_signals": 0,
+  "duration_s": 97
+}
