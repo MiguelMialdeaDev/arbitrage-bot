@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-04-23T19:03:31.475Z",
+  "updated_at": "2026-04-23T19:17:24.570Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
+      {
+        "model": "super mario odyssey nintendo switch",
+        "example_title": "Super Mario Odyssey Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
+        "total_reservations": 2,
+        "confirmed_sales": 0,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 24.8,
+        "median_price": 28,
+        "max_price": 28,
+        "first_seen": "2026-04-23T17:43:32.131Z",
+        "last_seen": "2026-04-23T19:17:24.569Z",
+        "sample": [
+          {
+            "price": 28,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
+            "city": "Tomelloso"
+          },
+          {
+            "price": 24.8,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
+            "city": "A Coruña"
+          }
+        ]
+      },
       {
         "model": "lote cartas pokemon",
         "example_title": "Lote de cartas Pokémon",
@@ -585,31 +616,6 @@
             "title": "Funko Pop marvel",
             "url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
             "city": "Getafe"
-          }
-        ]
-      },
-      {
-        "model": "super mario odyssey nintendo switch",
-        "example_title": "Super Mario Odyssey Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 28,
-        "median_price": 28,
-        "max_price": 28,
-        "first_seen": "2026-04-23T17:43:32.131Z",
-        "last_seen": "2026-04-23T17:43:32.131Z",
-        "sample": [
-          {
-            "price": 28,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
-            "city": "Tomelloso"
           }
         ]
       },
@@ -1967,12 +1973,12 @@
   },
   "stats": {
     "proven_seller": 0,
-    "hot_24h": 1,
+    "hot_24h": 2,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 77,
+    "possible": 76,
     "total_unique_models": 78,
-    "total_reservations": 16,
+    "total_reservations": 17,
     "total_confirmed_sales": 63
   },
   "thresholds": {
@@ -1983,91 +1989,45 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
-  "new_sales": [
+  "tier_ups": [
     {
-      "id": "8j38k9101lz9",
-      "model": "iphone 15 rosa",
-      "title": "iPhone 15 Rosa",
-      "sold_price": 280,
-      "city": "Lugo",
-      "url": "https://es.wallapop.com/item/iphone-15-rosa-1255369982",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T16:47:18.316Z",
-      "last_seen": "2026-04-23T16:47:18.316Z",
-      "confirmed_at": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "qjwrg83elg6o",
-      "model": "tomos sueltos manga the promised neverland",
-      "title": "TOMOS SUELTOS MANGA THE PROMISED NEVERLAND",
-      "sold_price": 18,
-      "city": "León",
-      "url": "https://es.wallapop.com/item/tomos-sueltos-manga-the-promised-neverland-1255371853",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-23T16:47:18.316Z",
-      "last_seen": "2026-04-23T16:47:18.316Z",
-      "confirmed_at": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "9jdw1qpo826k",
-      "model": "heroquest despertar juego mesa",
-      "title": "Heroquest El Despertar Juego de Mesa",
-      "sold_price": 20,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/heroquest-el-despertar-juego-de-mesa-1255370284",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-23T16:47:18.316Z",
-      "last_seen": "2026-04-23T16:47:18.316Z",
-      "confirmed_at": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "nz0813ey8r6o",
-      "model": "funko pop lord of the rings denethor",
-      "title": "Funko Pop! Lord of the Rings Denethor 2",
-      "sold_price": 5,
-      "city": "Badalona",
-      "url": "https://es.wallapop.com/item/funko-pop-lord-of-the-rings-denethor-2-1255376599",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T17:02:51.920Z",
-      "last_seen": "2026-04-23T17:02:51.920Z",
-      "confirmed_at": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "p618m2g9x2z5",
-      "model": "funko pop ice cube 160 funko pop tupac funko snoo",
-      "title": "Funko Pop Ice Cube 160 Funko pop tupac  Funko snoo",
-      "sold_price": 75,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/funko-pop-ice-cube-160-funko-pop-tupac-funko-snoo-1255371831",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T17:02:51.920Z",
-      "last_seen": "2026-04-23T17:02:51.920Z",
-      "confirmed_at": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "0j28odv40ejy",
-      "model": "playmobil marcelino",
-      "title": "Playmobil Marcelino",
-      "sold_price": 15,
-      "city": "Carretera del Km. 17,500 Al 22,600 Madrid-Colmenar Viejo",
-      "url": "https://es.wallapop.com/item/playmobil-marcelino-1255374683",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T17:02:51.920Z",
-      "last_seen": "2026-04-23T17:02:51.920Z",
-      "confirmed_at": "2026-04-23T19:03:31.474Z"
-    },
-    {
-      "id": "vjrem8w1x4zk",
-      "model": "iphone 13 128 gb negro",
-      "title": "iPhone 13 128 GB Negro",
-      "sold_price": 150,
-      "city": "Valencia",
-      "url": "https://es.wallapop.com/item/iphone-13-128-gb-negro-1255376719",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T17:02:51.920Z",
-      "last_seen": "2026-04-23T17:02:51.920Z",
-      "confirmed_at": "2026-04-23T19:03:31.474Z"
+      "model": "super mario odyssey nintendo switch",
+      "from_tier": "possible",
+      "to_tier": "hot_24h",
+      "from_label": "💡 Posible",
+      "to_label": "🔥 Hot 24h",
+      "entry": {
+        "model": "super mario odyssey nintendo switch",
+        "example_title": "Super Mario Odyssey Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
+        "total_reservations": 2,
+        "confirmed_sales": 0,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 24.8,
+        "median_price": 28,
+        "max_price": 28,
+        "first_seen": "2026-04-23T17:43:32.131Z",
+        "last_seen": "2026-04-23T19:17:24.569Z",
+        "sample": [
+          {
+            "price": 28,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
+            "city": "Tomelloso"
+          },
+          {
+            "price": 24.8,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
+            "city": "A Coruña"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "new_sales": []
 }
