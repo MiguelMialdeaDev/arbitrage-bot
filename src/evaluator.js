@@ -101,8 +101,8 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   const ebayEst = { price: 0, count: 0, confidence: "none" };
   const fromCache = false;
 
-  // 4.5. ANÁLISIS DE MERCADO WALLAPOP (SOLO funko por ahora)
-  //   Para cada Funko, miramos el mercado completo del MISMO producto:
+  // 4.5. ANÁLISIS DE MERCADO WALLAPOP (todos los perfiles).
+  //   Para cada item, miramos el mercado completo del MISMO producto:
   //     · ¿cuántos hay reservados? (demanda confirmada)
   //     · ¿a qué precio los reservados? (precio de venta real)
   //     · ¿cuántos activos? (oferta actual)
@@ -110,8 +110,13 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   //     · ¿cuántos vendedores únicos? (concentración del mercado)
   //     · ¿nuestro precio vs precio mínimo reservado? (si ganga real)
   //     · ¿nuestro precio vs precio mínimo activo? (competencia directa)
+  //
+  //   Antes esta lógica SOLO se aplicaba al perfil "funko". Ahora aplica a
+  //   TODOS, porque eBay está desactivado y Wallapop reservados es una
+  //   señal mejor que "precio mediano eBay" para nuestro caso.
   let wallapopCheck = null;
-  if (profile.name === "funko") {
+  const WALLAPOP_CHECK_PROFILES = new Set(["funko", "funko_lote", "videojuego_switch", "vinilo", "generic"]);
+  if (WALLAPOP_CHECK_PROFILES.has(profile.name)) {
     try {
       const market = await wallapopSource.searchSimilarItems(searchQuery, { pages: 3 });
 
@@ -201,10 +206,11 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
   }
 
   // 5. Score y margen
-  //    Modo Wallapop-only para Funko: usar mediana de reservados como precio target.
-  //    Para otros perfiles con eBay desactivado: skip (no pueden evaluar).
+  //    Modo Wallapop-only para TODOS los perfiles: mediana de reservados como
+  //    precio target. (eBay desactivado; si se reactivase, este bloque convivirá
+  //    con el scoreMargin del perfil.)
   let score;
-  if (profile.name === "funko" && wallapopCheck?.reserved_median) {
+  if (wallapopCheck?.reserved_median) {
     // Calcular margen Wallapop→Wallapop: compra a wpItem.price, revende al
     // precio mediano de los reservados. Envío nacional ~4.50€.
     const sellPrice = wallapopCheck.reserved_median;
@@ -233,13 +239,13 @@ async function evaluate(wpItem, ebay, cache, config, logger = console) {
       ebay_count: 0,
     };
   } else {
-    // Resto de perfiles dependen de eBay para estimar precio de venta.
-    // Con eBay desactivado, no podemos evaluarlos → descarte claro.
+    // Sin reservados del mismo modelo Y sin eBay → no podemos estimar.
     return {
       pass: false,
-      reason: `perfil '${profile.name}' requiere eBay (desactivado temporalmente, solo funko activo)`,
+      reason: `sin datos de mercado para evaluar (0 reservados + eBay off)`,
       profile: profile.name,
       query: searchQuery,
+      wallapop_check: wallapopCheck,
     };
   }
 
