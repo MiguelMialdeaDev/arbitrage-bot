@@ -86,7 +86,7 @@ jobs:
         run: |
           git config --local user.email "bot@arbitrage-bot"
           git config --local user.name "Arbitrage Bot"
-          git add -f seen_items.json price_cache.json stats.json signals.log reports/ 2>/dev/null || true
+          git add -f seen_items.json price_cache.json stats.json signals.log reports/ data/ 2>/dev/null || true
           git diff --staged --quiet || git commit -m "chore: update state + report [skip ci]"
           # Intentar push hasta 3 veces con pull --rebase en caso de conflicto
           for i in 1 2 3; do
