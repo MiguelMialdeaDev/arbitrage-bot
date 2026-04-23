@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T23:16:32.884Z",
+  "updated_at": "2026-04-23T23:29:12.522Z",
   "tiers": {
     "proven_seller": [
       {
@@ -76,6 +76,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cartas pokemon mega clefable talonflame",
+        "example_title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
+        "example_url": "https://es.wallapop.com/item/lote-6-cartas-pokemon-mega-clefable-talonflame-d-1255460579",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T23:29:12.521Z",
+        "last_seen": "2026-04-23T23:29:12.521Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
+            "url": "https://es.wallapop.com/item/lote-6-cartas-pokemon-mega-clefable-talonflame-d-1255460579",
+            "city": "L'Ametlla de Mar"
+          }
+        ]
+      },
+      {
+        "model": "funko pop bleach ichigo 1104 1820 1182",
+        "example_title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
+        "example_url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 53,
+        "median_price": 53,
+        "max_price": 53,
+        "first_seen": "2026-04-23T23:29:12.521Z",
+        "last_seen": "2026-04-23T23:29:12.521Z",
+        "sample": [
+          {
+            "price": 53,
+            "title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
+            "url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
+            "city": "Marbella"
+          }
+        ]
+      },
+      {
+        "model": "pokemon diamante brillante nintendo switch",
+        "example_title": "Pokemon Diamante Brillante Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-23T23:29:12.521Z",
+        "last_seen": "2026-04-23T23:29:12.521Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Pokemon Diamante Brillante Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
+            "city": "Puerto de Sagunto"
+          }
+        ]
+      },
       {
         "model": "lote maverick lego compatible",
         "example_title": "Lote Maverick Lego Compatible",
@@ -598,56 +673,6 @@
             "title": "Lote de 5 productos de magia",
             "url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
             "city": "Ciudad Real"
-          }
-        ]
-      },
-      {
-        "model": "funko pop bleach ichigo 1104 1820 1182",
-        "example_title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
-        "example_url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 53,
-        "median_price": 53,
-        "max_price": 53,
-        "first_seen": "2026-04-23T21:17:33.160Z",
-        "last_seen": "2026-04-23T21:17:33.160Z",
-        "sample": [
-          {
-            "price": 53,
-            "title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
-            "url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
-            "city": "Marbella"
-          }
-        ]
-      },
-      {
-        "model": "pokemon diamante brillante nintendo switch",
-        "example_title": "Pokemon Diamante Brillante Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-23T21:17:33.160Z",
-        "last_seen": "2026-04-23T21:17:33.160Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Pokemon Diamante Brillante Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
-            "city": "Puerto de Sagunto"
           }
         ]
       },
@@ -2608,10 +2633,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 101,
-    "total_unique_models": 103,
-    "total_reservations": 12,
-    "total_confirmed_sales": 94
+    "possible": 102,
+    "total_unique_models": 104,
+    "total_reservations": 11,
+    "total_confirmed_sales": 96
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2624,40 +2649,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "w67vn58gly6x",
-      "model": "lote maverick lego compatible",
-      "title": "Lote Maverick Lego Compatible",
-      "sold_price": 73.3,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-maverick-lego-compatible-1255442452",
+      "id": "3zlmpweko4jx",
+      "model": "funko pop bleach ichigo 1104 1820 1182",
+      "title": "Funko Pop! Bleach Ichigo 1104 1820 1182",
+      "sold_price": 53,
+      "city": "Marbella",
+      "url": "https://es.wallapop.com/item/funko-pop-bleach-ichigo-1104-1820-1182-1255445545",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T21:03:03.376Z",
-      "last_seen": "2026-04-23T21:03:03.376Z",
-      "confirmed_at": "2026-04-23T23:16:32.883Z"
+      "first_reserved": "2026-04-23T21:17:33.160Z",
+      "last_seen": "2026-04-23T21:17:33.160Z",
+      "confirmed_at": "2026-04-23T23:29:12.521Z"
     },
     {
-      "id": "p618m39yx2z5",
-      "model": "mega charizard ex 109 094 ambipom",
-      "title": "Mega Charizard X ex 109/094 y Ambipom",
-      "sold_price": 25,
-      "city": "Orzinuovi",
-      "url": "https://es.wallapop.com/item/mega-charizard-x-ex-109-094-e-ambipom-1255443255",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T21:03:03.376Z",
-      "last_seen": "2026-04-23T21:03:03.376Z",
-      "confirmed_at": "2026-04-23T23:16:32.883Z"
-    },
-    {
-      "id": "pzpkxo8r5lj3",
-      "model": "playmobil coche carreras texaco ref 3520",
-      "title": "Playmobil Coche Carreras Texaco ref. 3520",
-      "sold_price": 13,
-      "city": "Córdoba",
-      "url": "https://es.wallapop.com/item/playmobil-coche-carreras-texaco-ref-3520-1255442950",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T21:03:03.376Z",
-      "last_seen": "2026-04-23T21:03:03.376Z",
-      "confirmed_at": "2026-04-23T23:16:32.883Z"
+      "id": "8z88pnv218z3",
+      "model": "pokemon diamante brillante nintendo switch",
+      "title": "Pokemon Diamante Brillante Nintendo Switch",
+      "sold_price": 20,
+      "city": "Puerto de Sagunto",
+      "url": "https://es.wallapop.com/item/pokemon-diamante-brillante-nintendo-switch-1255445622",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T21:17:33.160Z",
+      "last_seen": "2026-04-23T21:17:33.160Z",
+      "confirmed_at": "2026-04-23T23:29:12.521Z"
     }
   ]
 }
