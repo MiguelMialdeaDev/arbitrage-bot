@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T21:31:36.357Z",
+  "updated_at": "2026-04-23T21:47:12.192Z",
   "tiers": {
     "proven_seller": [
       {
@@ -64,6 +64,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "20 sobres pokemon japoneses thrush combo",
+        "example_title": "20 Sobres Pokémon Japoneses ThRush D Combo",
+        "example_url": "https://es.wallapop.com/item/20-sobres-pokemon-japoneses-thrush-d-combo-1255450802",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 42.5,
+        "median_price": 42.5,
+        "max_price": 42.5,
+        "first_seen": "2026-04-23T21:47:12.190Z",
+        "last_seen": "2026-04-23T21:47:12.190Z",
+        "sample": [
+          {
+            "price": 42.5,
+            "title": "20 Sobres Pokémon Japoneses ThRush D Combo",
+            "url": "https://es.wallapop.com/item/20-sobres-pokemon-japoneses-thrush-d-combo-1255450802",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "lote productos magia",
         "example_title": "Lote de 5 productos de magia",
@@ -2421,9 +2446,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 94,
-    "total_unique_models": 96,
-    "total_reservations": 19,
+    "possible": 95,
+    "total_unique_models": 97,
+    "total_reservations": 20,
     "total_confirmed_sales": 80
   },
   "thresholds": {
