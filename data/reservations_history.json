@@ -1,50 +1,6 @@
 {
   "reservations": [
     {
-      "id": "pzpkxqnrdmj3",
-      "title": "Lote 26 Vinilos Rock y Heavy Metal",
-      "model": "lote 26 vinilos rock heavy metal",
-      "price": 130,
-      "city": "Elda",
-      "url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-23T18:18:18.324Z",
-      "last_seen": "2026-04-23T18:18:18.324Z"
-    },
-    {
-      "id": "v6gp3q9q156e",
-      "title": "Cromo Panini Maxi Momentum 2025-2026",
-      "model": "cromo panini maxi momentum 2025 2026",
-      "price": 26,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/cromo-panini-maxi-momentum-2025-2026-1255407640",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T18:32:42.729Z",
-      "last_seen": "2026-04-23T18:32:42.729Z"
-    },
-    {
-      "id": "x6qq18p3yo6y",
-      "title": "Pedido para Sergi",
-      "model": "pedido sergi",
-      "price": 23,
-      "city": "Palafolls",
-      "url": "https://es.wallapop.com/item/pedido-para-sergi-1255408190",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-23T18:32:42.729Z",
-      "last_seen": "2026-04-23T18:32:42.729Z"
-    },
-    {
-      "id": "nz0813530v6o",
-      "title": "Pedido para Santiago",
-      "model": "pedido santiago",
-      "price": 25,
-      "city": "Palafolls",
-      "url": "https://es.wallapop.com/item/pedido-para-santiago-1255407651",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-23T18:32:42.729Z",
-      "last_seen": "2026-04-23T18:32:42.729Z"
-    },
-    {
       "id": "9jdw1q3gwn6k",
       "title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
       "model": "funko pop marvel superior iron man 1568 reservado",
@@ -208,6 +164,17 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-23T20:17:39.227Z",
       "last_seen": "2026-04-23T20:17:39.227Z"
+    },
+    {
+      "id": "v6gp3q8yp56e",
+      "title": "Pragmata PS5",
+      "model": "pragmata ps5",
+      "price": 49,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T20:32:55.068Z",
+      "last_seen": "2026-04-23T20:32:55.068Z"
     }
   ]
 }

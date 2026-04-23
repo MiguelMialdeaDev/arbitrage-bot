@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T20:17:39.229Z",
+  "updated_at": "2026-04-23T20:32:55.069Z",
   "tiers": {
     "proven_seller": [
       {
@@ -70,6 +70,131 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "pragmata ps5",
+        "example_title": "Pragmata PS5",
+        "example_url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 49,
+        "median_price": 49,
+        "max_price": 49,
+        "first_seen": "2026-04-23T20:32:55.068Z",
+        "last_seen": "2026-04-23T20:32:55.068Z",
+        "sample": [
+          {
+            "price": 49,
+            "title": "Pragmata PS5",
+            "url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote 26 vinilos rock heavy metal",
+        "example_title": "Lote 26 Vinilos Rock y Heavy Metal",
+        "example_url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 130,
+        "median_price": 130,
+        "max_price": 130,
+        "first_seen": "2026-04-23T20:32:55.068Z",
+        "last_seen": "2026-04-23T20:32:55.068Z",
+        "sample": [
+          {
+            "price": 130,
+            "title": "Lote 26 Vinilos Rock y Heavy Metal",
+            "url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
+            "city": "Elda"
+          }
+        ]
+      },
+      {
+        "model": "cromo panini maxi momentum 2025 2026",
+        "example_title": "Cromo Panini Maxi Momentum 2025-2026",
+        "example_url": "https://es.wallapop.com/item/cromo-panini-maxi-momentum-2025-2026-1255407640",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 26,
+        "median_price": 26,
+        "max_price": 26,
+        "first_seen": "2026-04-23T20:32:55.068Z",
+        "last_seen": "2026-04-23T20:32:55.068Z",
+        "sample": [
+          {
+            "price": 26,
+            "title": "Cromo Panini Maxi Momentum 2025-2026",
+            "url": "https://es.wallapop.com/item/cromo-panini-maxi-momentum-2025-2026-1255407640",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "pedido sergi",
+        "example_title": "Pedido para Sergi",
+        "example_url": "https://es.wallapop.com/item/pedido-para-sergi-1255408190",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 23,
+        "median_price": 23,
+        "max_price": 23,
+        "first_seen": "2026-04-23T20:32:55.068Z",
+        "last_seen": "2026-04-23T20:32:55.068Z",
+        "sample": [
+          {
+            "price": 23,
+            "title": "Pedido para Sergi",
+            "url": "https://es.wallapop.com/item/pedido-para-sergi-1255408190",
+            "city": "Palafolls"
+          }
+        ]
+      },
+      {
+        "model": "pedido santiago",
+        "example_title": "Pedido para Santiago",
+        "example_url": "https://es.wallapop.com/item/pedido-para-santiago-1255407651",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-23T20:32:55.068Z",
+        "last_seen": "2026-04-23T20:32:55.068Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Pedido para Santiago",
+            "url": "https://es.wallapop.com/item/pedido-para-santiago-1255407651",
+            "city": "Palafolls"
+          }
+        ]
+      },
       {
         "model": "lote cromos futbol new master riquelme",
         "example_title": "Lote cromos fútbol New Master y Riquelme",
@@ -742,106 +867,6 @@
             "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
             "url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
             "city": "Almazora/Almassora"
-          }
-        ]
-      },
-      {
-        "model": "cromo panini maxi momentum 2025 2026",
-        "example_title": "Cromo Panini Maxi Momentum 2025-2026",
-        "example_url": "https://es.wallapop.com/item/cromo-panini-maxi-momentum-2025-2026-1255407640",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 26,
-        "median_price": 26,
-        "max_price": 26,
-        "first_seen": "2026-04-23T18:32:42.729Z",
-        "last_seen": "2026-04-23T18:32:42.729Z",
-        "sample": [
-          {
-            "price": 26,
-            "title": "Cromo Panini Maxi Momentum 2025-2026",
-            "url": "https://es.wallapop.com/item/cromo-panini-maxi-momentum-2025-2026-1255407640",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "pedido sergi",
-        "example_title": "Pedido para Sergi",
-        "example_url": "https://es.wallapop.com/item/pedido-para-sergi-1255408190",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 23,
-        "median_price": 23,
-        "max_price": 23,
-        "first_seen": "2026-04-23T18:32:42.729Z",
-        "last_seen": "2026-04-23T18:32:42.729Z",
-        "sample": [
-          {
-            "price": 23,
-            "title": "Pedido para Sergi",
-            "url": "https://es.wallapop.com/item/pedido-para-sergi-1255408190",
-            "city": "Palafolls"
-          }
-        ]
-      },
-      {
-        "model": "pedido santiago",
-        "example_title": "Pedido para Santiago",
-        "example_url": "https://es.wallapop.com/item/pedido-para-santiago-1255407651",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-23T18:32:42.729Z",
-        "last_seen": "2026-04-23T18:32:42.729Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Pedido para Santiago",
-            "url": "https://es.wallapop.com/item/pedido-para-santiago-1255407651",
-            "city": "Palafolls"
-          }
-        ]
-      },
-      {
-        "model": "lote 26 vinilos rock heavy metal",
-        "example_title": "Lote 26 Vinilos Rock y Heavy Metal",
-        "example_url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 130,
-        "median_price": 130,
-        "max_price": 130,
-        "first_seen": "2026-04-23T18:18:18.324Z",
-        "last_seen": "2026-04-23T18:18:18.324Z",
-        "sample": [
-          {
-            "price": 130,
-            "title": "Lote 26 Vinilos Rock y Heavy Metal",
-            "url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
-            "city": "Elda"
           }
         ]
       },
@@ -2177,10 +2202,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 84,
-    "total_unique_models": 86,
-    "total_reservations": 19,
-    "total_confirmed_sales": 70
+    "possible": 85,
+    "total_unique_models": 87,
+    "total_reservations": 16,
+    "total_confirmed_sales": 74
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2191,5 +2216,54 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "pzpkxqnrdmj3",
+      "model": "lote 26 vinilos rock heavy metal",
+      "title": "Lote 26 Vinilos Rock y Heavy Metal",
+      "sold_price": 130,
+      "city": "Elda",
+      "url": "https://es.wallapop.com/item/lote-26-vinilos-rock-y-heavy-metal-1255401398",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-23T18:18:18.324Z",
+      "last_seen": "2026-04-23T18:18:18.324Z",
+      "confirmed_at": "2026-04-23T20:32:55.068Z"
+    },
+    {
+      "id": "v6gp3q9q156e",
+      "model": "cromo panini maxi momentum 2025 2026",
+      "title": "Cromo Panini Maxi Momentum 2025-2026",
+      "sold_price": 26,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/cromo-panini-maxi-momentum-2025-2026-1255407640",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T18:32:42.729Z",
+      "last_seen": "2026-04-23T18:32:42.729Z",
+      "confirmed_at": "2026-04-23T20:32:55.068Z"
+    },
+    {
+      "id": "x6qq18p3yo6y",
+      "model": "pedido sergi",
+      "title": "Pedido para Sergi",
+      "sold_price": 23,
+      "city": "Palafolls",
+      "url": "https://es.wallapop.com/item/pedido-para-sergi-1255408190",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-23T18:32:42.729Z",
+      "last_seen": "2026-04-23T18:32:42.729Z",
+      "confirmed_at": "2026-04-23T20:32:55.068Z"
+    },
+    {
+      "id": "nz0813530v6o",
+      "model": "pedido santiago",
+      "title": "Pedido para Santiago",
+      "sold_price": 25,
+      "city": "Palafolls",
+      "url": "https://es.wallapop.com/item/pedido-para-santiago-1255407651",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-23T18:32:42.729Z",
+      "last_seen": "2026-04-23T18:32:42.729Z",
+      "confirmed_at": "2026-04-23T20:32:55.068Z"
+    }
+  ]
 }
