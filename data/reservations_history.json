@@ -1,61 +1,6 @@
 {
   "reservations": [
     {
-      "id": "nz0813q0we6o",
-      "title": "Oricorio EX y Piplup Pokémon Cards",
-      "model": "oricorio ex piplup pokemon cards",
-      "price": 25,
-      "city": "Vila-Real/Villarreal",
-      "url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T17:33:09.995Z",
-      "last_seen": "2026-04-23T17:33:09.995Z"
-    },
-    {
-      "id": "36e5mkledy6d",
-      "title": "Super Mario Party Jamboree Nintendo Switch",
-      "model": "super mario party jamboree nintendo switch",
-      "price": 30,
-      "city": "Móstoles",
-      "url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T17:33:09.995Z",
-      "last_seen": "2026-04-23T17:33:09.995Z"
-    },
-    {
-      "id": "p618m2rdydz5",
-      "title": "Super Mario Odyssey Nintendo Switch",
-      "model": "super mario odyssey nintendo switch",
-      "price": 28,
-      "city": "Tomelloso",
-      "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T17:43:32.131Z",
-      "last_seen": "2026-04-23T17:43:32.131Z"
-    },
-    {
-      "id": "4z4824p91ljy",
-      "title": "Dexter Temporadas 7 y 8 Blu-ray UK",
-      "model": "dexter temporadas blu ray uk",
-      "price": 7,
-      "city": "Mislata",
-      "url": "https://es.wallapop.com/item/dexter-temporadas-7-y-8-blu-ray-uk-1255394414",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-23T17:43:32.131Z",
-      "last_seen": "2026-04-23T17:43:32.131Z"
-    },
-    {
-      "id": "pj9407127o6e",
-      "title": "Funko Pop marvel",
-      "model": "funko pop marvel",
-      "price": 35,
-      "city": "Getafe",
-      "url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T17:47:00.148Z",
-      "last_seen": "2026-04-23T17:47:00.148Z"
-    },
-    {
       "id": "pzpkxqnrdmj3",
       "title": "Lote 26 Vinilos Rock y Heavy Metal",
       "model": "lote 26 vinilos rock heavy metal",
@@ -164,6 +109,39 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-23T19:17:24.569Z",
       "last_seen": "2026-04-23T19:17:24.569Z"
+    },
+    {
+      "id": "8j38k97737z9",
+      "title": "Lote de cartas 151 raul",
+      "model": "lote cartas 151 raul",
+      "price": 10,
+      "city": "Alzira",
+      "url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T19:47:30.951Z",
+      "last_seen": "2026-04-23T19:47:30.951Z"
+    },
+    {
+      "id": "xzogwqe84wj9",
+      "title": "Nintendo Switch Gris/Rojo",
+      "model": "nintendo switch gris rojo",
+      "price": 115,
+      "city": "Reus",
+      "url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T19:47:30.951Z",
+      "last_seen": "2026-04-23T19:47:30.951Z"
+    },
+    {
+      "id": "xzogwqyex2j9",
+      "title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
+      "model": "lote juegos mesa sub terra ii hobbit viaje ida",
+      "price": 40,
+      "city": "Matalascañas",
+      "url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
+      "category": "Deporte y ocio",
+      "first_seen": "2026-04-23T19:47:30.951Z",
+      "last_seen": "2026-04-23T19:47:30.951Z"
     }
   ]
 }

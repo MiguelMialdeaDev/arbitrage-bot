@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T19:31:59.410Z",
+  "updated_at": "2026-04-23T19:47:30.952Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -7,8 +7,8 @@
         "model": "super mario odyssey nintendo switch",
         "example_title": "Super Mario Odyssey Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
-        "total_reservations": 2,
-        "confirmed_sales": 0,
+        "total_reservations": 1,
+        "confirmed_sales": 1,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -17,15 +17,9 @@
         "min_price": 24.8,
         "median_price": 28,
         "max_price": 28,
-        "first_seen": "2026-04-23T17:43:32.131Z",
-        "last_seen": "2026-04-23T19:17:24.569Z",
+        "first_seen": "2026-04-23T19:17:24.569Z",
+        "last_seen": "2026-04-23T19:47:30.951Z",
         "sample": [
-          {
-            "price": 28,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
-            "city": "Tomelloso"
-          },
           {
             "price": 24.8,
             "title": "Super Mario Odyssey Nintendo Switch",
@@ -69,6 +63,181 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cartas 151 raul",
+        "example_title": "Lote de cartas 151 raul",
+        "example_url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T19:47:30.951Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote de cartas 151 raul",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
+            "city": "Alzira"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch gris rojo",
+        "example_title": "Nintendo Switch Gris/Rojo",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 115,
+        "median_price": 115,
+        "max_price": 115,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T19:47:30.951Z",
+        "sample": [
+          {
+            "price": 115,
+            "title": "Nintendo Switch Gris/Rojo",
+            "url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
+            "city": "Reus"
+          }
+        ]
+      },
+      {
+        "model": "lote juegos mesa sub terra ii hobbit viaje ida",
+        "example_title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
+        "example_url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T19:47:30.951Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
+            "url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
+            "city": "Matalascañas"
+          }
+        ]
+      },
+      {
+        "model": "oricorio ex piplup pokemon cards",
+        "example_title": "Oricorio EX y Piplup Pokémon Cards",
+        "example_url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T19:47:30.951Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Oricorio EX y Piplup Pokémon Cards",
+            "url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
+            "city": "Vila-Real/Villarreal"
+          }
+        ]
+      },
+      {
+        "model": "super mario party jamboree nintendo switch",
+        "example_title": "Super Mario Party Jamboree Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T19:47:30.951Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Super Mario Party Jamboree Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
+            "city": "Móstoles"
+          }
+        ]
+      },
+      {
+        "model": "dexter temporadas blu ray uk",
+        "example_title": "Dexter Temporadas 7 y 8 Blu-ray UK",
+        "example_url": "https://es.wallapop.com/item/dexter-temporadas-7-y-8-blu-ray-uk-1255394414",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T19:47:30.951Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Dexter Temporadas 7 y 8 Blu-ray UK",
+            "url": "https://es.wallapop.com/item/dexter-temporadas-7-y-8-blu-ray-uk-1255394414",
+            "city": "Mislata"
+          }
+        ]
+      },
+      {
+        "model": "funko pop marvel",
+        "example_title": "Funko Pop marvel",
+        "example_url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T19:47:30.951Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Funko Pop marvel",
+            "url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
+            "city": "Getafe"
+          }
+        ]
+      },
       {
         "model": "blu ray llorona steelbook edicion limitada",
         "example_title": "Blu-ray La Llorona Steelbook Edición Limitada",
@@ -641,106 +810,6 @@
             "title": "(KOCHI) X3 Correa Ocean para Apple Watch",
             "url": "https://es.wallapop.com/item/kochi-x3-correa-ocean-para-apple-watch-1255350007",
             "city": "Logroño"
-          }
-        ]
-      },
-      {
-        "model": "funko pop marvel",
-        "example_title": "Funko Pop marvel",
-        "example_url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-23T17:47:00.148Z",
-        "last_seen": "2026-04-23T17:47:00.148Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "Funko Pop marvel",
-            "url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
-            "city": "Getafe"
-          }
-        ]
-      },
-      {
-        "model": "dexter temporadas blu ray uk",
-        "example_title": "Dexter Temporadas 7 y 8 Blu-ray UK",
-        "example_url": "https://es.wallapop.com/item/dexter-temporadas-7-y-8-blu-ray-uk-1255394414",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 7,
-        "median_price": 7,
-        "max_price": 7,
-        "first_seen": "2026-04-23T17:43:32.131Z",
-        "last_seen": "2026-04-23T17:43:32.131Z",
-        "sample": [
-          {
-            "price": 7,
-            "title": "Dexter Temporadas 7 y 8 Blu-ray UK",
-            "url": "https://es.wallapop.com/item/dexter-temporadas-7-y-8-blu-ray-uk-1255394414",
-            "city": "Mislata"
-          }
-        ]
-      },
-      {
-        "model": "oricorio ex piplup pokemon cards",
-        "example_title": "Oricorio EX y Piplup Pokémon Cards",
-        "example_url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-23T17:33:09.995Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Oricorio EX y Piplup Pokémon Cards",
-            "url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
-            "city": "Vila-Real/Villarreal"
-          }
-        ]
-      },
-      {
-        "model": "super mario party jamboree nintendo switch",
-        "example_title": "Super Mario Party Jamboree Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-23T17:33:09.995Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "Super Mario Party Jamboree Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
-            "city": "Móstoles"
           }
         ]
       },
@@ -1976,10 +2045,10 @@
     "hot_24h": 2,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 76,
-    "total_unique_models": 78,
-    "total_reservations": 15,
-    "total_confirmed_sales": 65
+    "possible": 79,
+    "total_unique_models": 81,
+    "total_reservations": 13,
+    "total_confirmed_sales": 70
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1990,5 +2059,66 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "nz0813q0we6o",
+      "model": "oricorio ex piplup pokemon cards",
+      "title": "Oricorio EX y Piplup Pokémon Cards",
+      "sold_price": 25,
+      "city": "Vila-Real/Villarreal",
+      "url": "https://es.wallapop.com/item/oricorio-ex-y-piplup-pokemon-cards-1255387603",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T17:33:09.995Z",
+      "last_seen": "2026-04-23T17:33:09.995Z",
+      "confirmed_at": "2026-04-23T19:47:30.951Z"
+    },
+    {
+      "id": "36e5mkledy6d",
+      "model": "super mario party jamboree nintendo switch",
+      "title": "Super Mario Party Jamboree Nintendo Switch",
+      "sold_price": 30,
+      "city": "Móstoles",
+      "url": "https://es.wallapop.com/item/super-mario-party-jamboree-nintendo-switch-1255390315",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T17:33:09.995Z",
+      "last_seen": "2026-04-23T17:33:09.995Z",
+      "confirmed_at": "2026-04-23T19:47:30.951Z"
+    },
+    {
+      "id": "p618m2rdydz5",
+      "model": "super mario odyssey nintendo switch",
+      "title": "Super Mario Odyssey Nintendo Switch",
+      "sold_price": 28,
+      "city": "Tomelloso",
+      "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T17:43:32.131Z",
+      "last_seen": "2026-04-23T17:43:32.131Z",
+      "confirmed_at": "2026-04-23T19:47:30.951Z"
+    },
+    {
+      "id": "4z4824p91ljy",
+      "model": "dexter temporadas blu ray uk",
+      "title": "Dexter Temporadas 7 y 8 Blu-ray UK",
+      "sold_price": 7,
+      "city": "Mislata",
+      "url": "https://es.wallapop.com/item/dexter-temporadas-7-y-8-blu-ray-uk-1255394414",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-23T17:43:32.131Z",
+      "last_seen": "2026-04-23T17:43:32.131Z",
+      "confirmed_at": "2026-04-23T19:47:30.951Z"
+    },
+    {
+      "id": "pj9407127o6e",
+      "model": "funko pop marvel",
+      "title": "Funko Pop marvel",
+      "sold_price": 35,
+      "city": "Getafe",
+      "url": "https://es.wallapop.com/item/funko-pop-venom-363-marvel-1255395261",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T17:47:00.148Z",
+      "last_seen": "2026-04-23T17:47:00.148Z",
+      "confirmed_at": "2026-04-23T19:47:30.951Z"
+    }
+  ]
 }
