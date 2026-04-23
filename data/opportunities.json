@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T17:02:51.921Z",
+  "updated_at": "2026-04-23T17:04:23.368Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -38,6 +38,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop mini will",
+        "example_title": "Funko Pop Mini Will",
+        "example_url": "https://es.wallapop.com/item/funko-pop-mini-will-1255331912",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-23T17:04:23.367Z",
+        "last_seen": "2026-04-23T17:04:23.367Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Funko Pop Mini Will",
+            "url": "https://es.wallapop.com/item/funko-pop-mini-will-1255331912",
+            "city": "Villava"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch negra completa",
+        "example_title": "Nintendo Switch Negra Completa",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-negra-completa-1255333370",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 83,
+        "median_price": 83,
+        "max_price": 83,
+        "first_seen": "2026-04-23T17:04:23.367Z",
+        "last_seen": "2026-04-23T17:04:23.367Z",
+        "sample": [
+          {
+            "price": 83,
+            "title": "Nintendo Switch Negra Completa",
+            "url": "https://es.wallapop.com/item/nintendo-switch-negra-completa-1255333370",
+            "city": "Ajalvir"
+          }
+        ]
+      },
       {
         "model": "funko pop lord of the rings denethor",
         "example_title": "Funko Pop! Lord of the Rings Denethor 2",
@@ -789,56 +839,6 @@
         ]
       },
       {
-        "model": "funko pop mini will",
-        "example_title": "Funko Pop Mini Will",
-        "example_url": "https://es.wallapop.com/item/funko-pop-mini-will-1255331912",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9,
-        "median_price": 9,
-        "max_price": 9,
-        "first_seen": "2026-04-23T15:03:22.869Z",
-        "last_seen": "2026-04-23T15:03:22.869Z",
-        "sample": [
-          {
-            "price": 9,
-            "title": "Funko Pop Mini Will",
-            "url": "https://es.wallapop.com/item/funko-pop-mini-will-1255331912",
-            "city": "Villava"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch negra completa",
-        "example_title": "Nintendo Switch Negra Completa",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-negra-completa-1255333370",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 83,
-        "median_price": 83,
-        "max_price": 83,
-        "first_seen": "2026-04-23T15:03:22.869Z",
-        "last_seen": "2026-04-23T15:03:22.869Z",
-        "sample": [
-          {
-            "price": 83,
-            "title": "Nintendo Switch Negra Completa",
-            "url": "https://es.wallapop.com/item/nintendo-switch-negra-completa-1255333370",
-            "city": "Ajalvir"
-          }
-        ]
-      },
-      {
         "model": "pack cartas pokemon trainer gallery",
         "example_title": "Pack cartas pokemon trainer gallery",
         "example_url": "https://es.wallapop.com/item/pack-cartas-pokemon-trainer-gallery-1255294102",
@@ -1572,8 +1572,8 @@
     "recurring": 0,
     "possible": 61,
     "total_unique_models": 62,
-    "total_reservations": 20,
-    "total_confirmed_sales": 43
+    "total_reservations": 18,
+    "total_confirmed_sales": 45
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1586,28 +1586,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "wzyrg88mgp65",
-      "model": "funko pop will stranger things",
-      "title": "Funko Pop Will Stranger Things",
-      "sold_price": 8,
-      "city": "Pinto",
-      "url": "https://es.wallapop.com/item/funko-pop-will-stranger-things-1255328968",
+      "id": "9jdw1q959n6k",
+      "model": "funko pop mini will",
+      "title": "Funko Pop Mini Will",
+      "sold_price": 9,
+      "city": "Villava",
+      "url": "https://es.wallapop.com/item/funko-pop-mini-will-1255331912",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T14:47:31.147Z",
-      "last_seen": "2026-04-23T14:47:31.147Z",
-      "confirmed_at": "2026-04-23T17:02:51.920Z"
+      "first_reserved": "2026-04-23T15:03:22.869Z",
+      "last_seen": "2026-04-23T15:03:22.869Z",
+      "confirmed_at": "2026-04-23T17:04:23.367Z"
     },
     {
-      "id": "mzn37qqrekjn",
-      "model": "iphone 14 pro 128gb piezas",
-      "title": "iPhone 14 Pro 128GB para piezas",
-      "sold_price": 110,
-      "city": "Castellón de la Plana/Castelló de la Plana",
-      "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-para-piezas-1255328897",
+      "id": "8z88p0n8k1z3",
+      "model": "nintendo switch negra completa",
+      "title": "Nintendo Switch Negra Completa",
+      "sold_price": 83,
+      "city": "Ajalvir",
+      "url": "https://es.wallapop.com/item/nintendo-switch-negra-completa-1255333370",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T14:47:31.147Z",
-      "last_seen": "2026-04-23T14:47:31.147Z",
-      "confirmed_at": "2026-04-23T17:02:51.920Z"
+      "first_reserved": "2026-04-23T15:03:22.869Z",
+      "last_seen": "2026-04-23T15:03:22.869Z",
+      "confirmed_at": "2026-04-23T17:04:23.367Z"
     }
   ]
 }
