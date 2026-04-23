@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T20:02:45.629Z",
+  "updated_at": "2026-04-23T20:17:39.229Z",
   "tiers": {
     "proven_seller": [
       {
@@ -70,6 +70,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cromos futbol new master riquelme",
+        "example_title": "Lote cromos fútbol New Master y Riquelme",
+        "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-new-master-y-riquelme-1255433526",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-23T20:17:39.227Z",
+        "last_seen": "2026-04-23T20:17:39.227Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Lote cromos fútbol New Master y Riquelme",
+            "url": "https://es.wallapop.com/item/lote-cromos-futbol-new-master-y-riquelme-1255433526",
+            "city": "Xirivella"
+          }
+        ]
+      },
       {
         "model": "lote nuria",
         "example_title": "Lote Nuria 2",
@@ -2152,9 +2177,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 83,
-    "total_unique_models": 85,
-    "total_reservations": 18,
+    "possible": 84,
+    "total_unique_models": 86,
+    "total_reservations": 19,
     "total_confirmed_sales": 70
   },
   "thresholds": {
@@ -2165,45 +2190,6 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "super mario odyssey nintendo switch",
-      "from_tier": "hot_24h",
-      "to_tier": "proven_seller",
-      "from_label": "🔥 Hot 24h",
-      "to_label": "🚀 Proven seller",
-      "entry": {
-        "model": "super mario odyssey nintendo switch",
-        "example_title": "Super Mario Odyssey Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
-        "total_reservations": 2,
-        "confirmed_sales": 1,
-        "total_events": 3,
-        "reservations_24h": 3,
-        "reservations_7d": 3,
-        "reservations_30d": 3,
-        "reservations_per_day": 3,
-        "min_price": 24.8,
-        "median_price": 27,
-        "max_price": 28,
-        "first_seen": "2026-04-23T19:17:24.569Z",
-        "last_seen": "2026-04-23T20:02:45.628Z",
-        "sample": [
-          {
-            "price": 24.8,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
-            "city": "A Coruña"
-          },
-          {
-            "price": 27,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
-            "city": "Lasarte-Oria"
-          }
-        ]
-      }
-    }
-  ],
+  "tier_ups": [],
   "new_sales": []
 }
