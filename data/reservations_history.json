@@ -1,17 +1,6 @@
 {
   "reservations": [
     {
-      "id": "v6gp3qwrl26e",
-      "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
-      "model": "joy nintendo switch amiibo donkey kong",
-      "price": 21.99,
-      "city": "Almazora/Almassora",
-      "url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-23T16:33:04.791Z",
-      "last_seen": "2026-04-23T16:33:04.791Z"
-    },
-    {
       "id": "8j38k9101lz9",
       "title": "iPhone 15 Rosa",
       "model": "iphone 15 rosa",
@@ -208,6 +197,28 @@
       "category": "Cine, libros y música",
       "first_seen": "2026-04-23T18:32:42.729Z",
       "last_seen": "2026-04-23T18:32:42.729Z"
+    },
+    {
+      "id": "9jdw1q3gwn6k",
+      "title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
+      "model": "funko pop marvel superior iron man 1568 reservado",
+      "price": 30,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T18:45:30.539Z",
+      "last_seen": "2026-04-23T18:45:30.539Z"
+    },
+    {
+      "id": "ejkmnqvg8yzx",
+      "title": "Funko Pop She-Ra Masters of the Universe #38",
+      "model": "funko pop she ra masters of the universe #38",
+      "price": 10,
+      "city": "Marbella",
+      "url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T18:45:30.539Z",
+      "last_seen": "2026-04-23T18:45:30.539Z"
     }
   ]
 }

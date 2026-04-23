@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T18:32:42.730Z",
+  "updated_at": "2026-04-23T18:45:30.540Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [
@@ -38,6 +38,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop marvel superior iron man 1568 reservado",
+        "example_title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
+        "example_url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-23T18:45:30.539Z",
+        "last_seen": "2026-04-23T18:45:30.539Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Funko Pop! Marvel Superior Iron Man 1568 Reservado",
+            "url": "https://es.wallapop.com/item/funko-pop-marvel-superior-iron-man-1568-reservado-1255412312",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "funko pop she ra masters of the universe #38",
+        "example_title": "Funko Pop She-Ra Masters of the Universe #38",
+        "example_url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T18:45:30.539Z",
+        "last_seen": "2026-04-23T18:45:30.539Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Funko Pop She-Ra Masters of the Universe #38",
+            "url": "https://es.wallapop.com/item/funko-pop-she-ra-masters-of-the-universe-38-1255411723",
+            "city": "Marbella"
+          }
+        ]
+      },
+      {
+        "model": "joy nintendo switch amiibo donkey kong",
+        "example_title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
+        "example_url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 21.99,
+        "median_price": 21.99,
+        "max_price": 21.99,
+        "first_seen": "2026-04-23T18:45:30.539Z",
+        "last_seen": "2026-04-23T18:45:30.539Z",
+        "sample": [
+          {
+            "price": 21.99,
+            "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
+            "url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
+            "city": "Almazora/Almassora"
+          }
+        ]
+      },
       {
         "model": "cromo panini maxi momentum 2025 2026",
         "example_title": "Cromo Panini Maxi Momentum 2025-2026",
@@ -835,31 +910,6 @@
             "title": "PS4: Metro Redux y Far Cry 5",
             "url": "https://es.wallapop.com/item/ps4-metro-redux-y-far-cry-5-1255325579",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "joy nintendo switch amiibo donkey kong",
-        "example_title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
-        "example_url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 21.99,
-        "median_price": 21.99,
-        "max_price": 21.99,
-        "first_seen": "2026-04-23T16:33:04.791Z",
-        "last_seen": "2026-04-23T16:33:04.791Z",
-        "sample": [
-          {
-            "price": 21.99,
-            "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
-            "url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
-            "city": "Almazora/Almassora"
           }
         ]
       },
@@ -1845,10 +1895,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 72,
-    "total_unique_models": 73,
-    "total_reservations": 19,
-    "total_confirmed_sales": 55
+    "possible": 74,
+    "total_unique_models": 75,
+    "total_reservations": 20,
+    "total_confirmed_sales": 56
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1859,5 +1909,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "v6gp3qwrl26e",
+      "model": "joy nintendo switch amiibo donkey kong",
+      "title": "Joy-Con Nintendo Switch + Amiibo Donkey Kong",
+      "sold_price": 21.99,
+      "city": "Almazora/Almassora",
+      "url": "https://es.wallapop.com/item/joy-con-nintendo-switch---amiibo-donkey-kong-1255365988",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T16:33:04.791Z",
+      "last_seen": "2026-04-23T16:33:04.791Z",
+      "confirmed_at": "2026-04-23T18:45:30.539Z"
+    }
+  ]
 }
