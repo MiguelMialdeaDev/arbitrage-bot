@@ -1,0 +1,391 @@
+{
+  "timestamp": "2026-04-23T22:00:38.885Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 199,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Funko Pop Magneto Marvel",
+          "price": 10,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-magneto-marvel-1255454271",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko magneto marvel",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko magneto marvel' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Arid Mesa (Borderless) MTG Special Guest NM",
+          "price": 45,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/arid-mesa-borderless-mtg-special-guest-nm-1255454460",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "arid mesa (borderless) mtg special",
+          "verdict": "skip",
+          "reason": "0 reservados de 'arid mesa (borderless) mtg special' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pokemon First partner Vol.1 case",
+          "price": 143.9,
+          "city": "Fabraquer",
+          "url": "https://es.wallapop.com/item/pokemon-first-partner-vol-1-case-1255454622",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon first partner vol.1 case",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon first partner vol.1 case' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Pikachu VMAX Gigamax 044/185",
+          "price": 15,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-vmax-gigamax-044-185-1255454540",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon pikachu vmax gigamax",
+          "verdict": "skip",
+          "reason": "15€ vs mín reservado 14€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Toxtricity AR (Fusión Strike)",
+          "price": 2.75,
+          "city": "Residencia Nuestra Señora del Pilar",
+          "url": "https://es.wallapop.com/item/toxtricity-ar-fusion-strike-1255454462",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Zapdos EX 192/165 Carta Pokémon Inglesa",
+          "price": 13,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/zapdos-ex-192-165-carta-pokemon-inglesa-1255454250",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "zapdos 192/165 carta pokemon inglesa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'zapdos 192/165 carta pokemon inglesa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Zacian EX de Paul Full Art",
+          "price": 4.25,
+          "city": "Residencia Nuestra Señora del Pilar",
+          "url": "https://es.wallapop.com/item/zacian-ex-de-paul-full-art-1255454203",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Set 9 Sobres Pokémon",
+          "price": 25,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/set-9-sobres-pokemon-1255454053",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "set sobres pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'set sobres pokemon' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 267,
+      "new_items": 23,
+      "items": [
+        {
+          "title": "Cable alimentación Nintendo Switch",
+          "price": 5,
+          "city": "Beniajan",
+          "url": "https://es.wallapop.com/item/cable-alimentacion-nintendo-switch-1255454492",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Super Mario 3D All-Stars Nintendo Switch",
+          "price": 58,
+          "city": "Córdoba",
+          "url": "https://es.wallapop.com/item/super-mario-3d-all-stars-nintendo-switch-1255454439",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario all-stars nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'super mario all-stars nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Super Mario 3D All Stars Nintendo Switch Completo",
+          "price": 69,
+          "city": "San Giorgio Ionico",
+          "url": "https://es.wallapop.com/item/super-mario-3d-all-stars-nintendo-switch-completo-1255454130",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "FIFA 23 Legacy Edition Nintendo Switch",
+          "price": 8,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/fifa-23-legacy-edition-nintendo-switch-1255454112",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "fifa legacy edition nintendo switch",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "FC24 Nintendo Switch",
+          "price": 10,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/fc24-nintendo-switch-1255453957",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "Gran Turismo 7 Edición 25 Aniversario PS5 🇪🇸",
+          "price": 49.99,
+          "city": "Cártama",
+          "url": "https://es.wallapop.com/item/gran-turismo-7-edicion-25-aniversario-ps5-1255454593",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gran turismo edicion aniversario ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'gran turismo edicion aniversario ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Watch Dogs PS4 - Juego y Manual",
+          "price": 5,
+          "city": "Origgio",
+          "url": "https://es.wallapop.com/item/watch-dogs-ps4-gioco-e-manuale-1255454223",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Ghost of Yotei PS5",
+          "price": 45,
+          "city": "Lugo",
+          "url": "https://es.wallapop.com/item/ghost-of-tsushima-director-s-cut-ps5-1255454126",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ghost yotei ps5",
+          "verdict": "skip",
+          "reason": "45€ vs mín reservado 34.9€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "PS4 (PlayStation 4) con 2 mandos y 5 juegos",
+          "price": 140,
+          "city": "Carcer",
+          "url": "https://es.wallapop.com/item/ps4-playstation-4-con-2-mandos-y-5-juegos-1255454107",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 (playstation con mandos juegos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps4 (playstation con mandos juegos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego Ps5 Precintado",
+          "price": 20,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/juego-ps5-precintado-1255454095",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego ps5 precintado",
+          "verdict": "skip",
+          "reason": "20€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Daymare: 1994 Sandcastle PS5",
+          "price": 12.95,
+          "city": "Dos Hermanas",
+          "url": "https://es.wallapop.com/item/daymare-1994-sandcastle-ps5-1255454067",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: defecto"
+        },
+        {
+          "title": "PlayStation 5 con mando",
+          "price": 400,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/playstation-5-con-mando-1255453574",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation con mando",
+          "verdict": "skip",
+          "reason": "400€ vs mín reservado null€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Apple AirPods Pro",
+          "price": 35,
+          "city": "Huelva",
+          "url": "https://es.wallapop.com/item/apple-airpods-pro-1255453048",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple airpods pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple airpods pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro Max",
+          "price": 400,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-max-1255454623",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 325€ vs mín reservado 1100€)"
+        },
+        {
+          "title": "iPhone 17 Pro Plata",
+          "price": 849.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-plata-1255454587",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro plata",
+          "verdict": "skip",
+          "reason": "849.99€ vs mín reservado 200€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 17 256GB Blanco",
+          "price": 750,
+          "city": "Pazos",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-blanco-1255454573",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb blanco",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "iPhone 16 Pro 256GB Dorado",
+          "price": 850,
+          "city": "Mataró",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-256gb-dorado-1255454550",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb dorado",
+          "verdict": "skip",
+          "reason": "850€ vs mín reservado 550€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 15 128GB Azul.",
+          "price": 400,
+          "city": "Salou",
+          "url": "https://es.wallapop.com/item/iphone-15-128gb-azul-1255454415",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb azul.",
+          "verdict": "skip",
+          "reason": "400€ vs mín reservado 100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 17 Pro Max Naranja",
+          "price": 899.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-naranja-1255454343",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max naranja",
+          "verdict": "skip",
+          "reason": "899.99€ vs mín reservado 900€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 16 Pro Max 256GB",
+          "price": 789,
+          "city": "Alhama de Murcia",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-1255454285",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "789€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 13 Pro Max Dorado",
+          "price": 325,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-max-dorado-1255454204",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 8 Gold",
+          "price": 75,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/iphone-8-gold-1255454155",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rayones"
+        },
+        {
+          "title": "iPhone 4 16GB Negro para reparación o repuestos",
+          "price": 10,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/iphone-4-16gb-negro-para-reparacion-o-repuestos-1255454072",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 16gb negro para reparacion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 16gb negro para reparacion' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 174,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Pack 4 Películas X-Men Blu-ray",
+          "price": 18,
+          "city": "Alcobendas",
+          "url": "https://es.wallapop.com/item/pack-4-peliculas-x-men-blu-ray-1255454407",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack peliculas x-men blu-ray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pack peliculas x-men blu-ray' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 77,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 44,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 32,
+  "total_signals": 0,
+  "duration_s": 87
+}

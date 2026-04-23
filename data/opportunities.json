@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T21:56:42.375Z",
+  "updated_at": "2026-04-23T22:02:06.014Z",
   "tiers": {
     "proven_seller": [
       {
@@ -2460,42 +2460,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "8j38k97737z9",
-      "model": "lote cartas 151 raul",
-      "title": "Lote de cartas 151 raul",
-      "sold_price": 10,
-      "city": "Alzira",
-      "url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T19:47:30.951Z",
-      "last_seen": "2026-04-23T19:47:30.951Z",
-      "confirmed_at": "2026-04-23T21:56:42.374Z"
-    },
-    {
-      "id": "xzogwqe84wj9",
-      "model": "nintendo switch gris rojo",
-      "title": "Nintendo Switch Gris/Rojo",
-      "sold_price": 115,
-      "city": "Reus",
-      "url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T19:47:30.951Z",
-      "last_seen": "2026-04-23T19:47:30.951Z",
-      "confirmed_at": "2026-04-23T21:56:42.374Z"
-    },
-    {
-      "id": "xzogwqyex2j9",
-      "model": "lote juegos mesa sub terra ii hobbit viaje ida",
-      "title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
-      "sold_price": 40,
-      "city": "Matalascañas",
-      "url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-23T19:47:30.951Z",
-      "last_seen": "2026-04-23T19:47:30.951Z",
-      "confirmed_at": "2026-04-23T21:56:42.374Z"
-    }
-  ]
+  "new_sales": []
 }
