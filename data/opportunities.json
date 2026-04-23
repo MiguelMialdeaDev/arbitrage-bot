@@ -1,11 +1,34 @@
 {
-  "updated_at": "2026-04-23T12:46:26.247Z",
+  "updated_at": "2026-04-23T13:01:41.624Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack cartas pokemon trainer gallery",
+        "example_title": "Pack cartas pokemon trainer gallery",
+        "example_url": "https://es.wallapop.com/item/pack-cartas-pokemon-trainer-gallery-1255294102",
+        "total_reservations": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-23T13:01:41.624Z",
+        "last_seen": "2026-04-23T13:01:41.624Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Pack cartas pokemon trainer gallery",
+            "url": "https://es.wallapop.com/item/pack-cartas-pokemon-trainer-gallery-1255294102",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "funko pop stranger things kinder joy",
         "example_title": "Funko Pop Stranger Things Kinder Joy",
@@ -657,9 +680,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 28,
-    "total_unique_models": 28,
-    "total_reservations": 28
+    "possible": 29,
+    "total_unique_models": 29,
+    "total_reservations": 29
   },
   "thresholds": {
     "proven_7d": 5,
