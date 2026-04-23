@@ -1,11 +1,61 @@
 {
-  "updated_at": "2026-04-23T14:02:31.030Z",
+  "updated_at": "2026-04-23T14:08:38.249Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote adrenalyn 2025 2026",
+        "example_title": "Lote Adrenalyn 2025-2026",
+        "example_url": "https://es.wallapop.com/item/lote-adrenalyn-2025-2026-1255314004",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 70,
+        "median_price": 70,
+        "max_price": 70,
+        "first_seen": "2026-04-23T14:08:38.248Z",
+        "last_seen": "2026-04-23T14:08:38.248Z",
+        "sample": [
+          {
+            "price": 70,
+            "title": "Lote Adrenalyn 2025-2026",
+            "url": "https://es.wallapop.com/item/lote-adrenalyn-2025-2026-1255314004",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "princess peach showtime nintendo switch",
+        "example_title": "Princess Peach: Showtime! Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-23T14:08:38.248Z",
+        "last_seen": "2026-04-23T14:08:38.248Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Princess Peach: Showtime! Nintendo Switch",
+            "url": "https://es.wallapop.com/item/princess-peach-showtime-nintendo-switch-1255316128",
+            "city": "Alcobendas"
+          }
+        ]
+      },
       {
         "model": "mafia viejo continente ps5",
         "example_title": "Mafia: El Viejo Continente PS5",
@@ -938,9 +988,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 37,
-    "total_unique_models": 37,
-    "total_reservations": 9,
+    "possible": 39,
+    "total_unique_models": 39,
+    "total_reservations": 11,
     "total_confirmed_sales": 28
   },
   "thresholds": {
