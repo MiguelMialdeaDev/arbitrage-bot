@@ -1,16 +1,6 @@
 {
   "reservations": [
     {
-      "id": "pzpkxqx58lj3",
-      "title": "Pack cartas pokemon trainer gallery",
-      "model": "pack cartas pokemon trainer gallery",
-      "price": 15,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/pack-cartas-pokemon-trainer-gallery-1255294102",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T13:01:41.624Z"
-    },
-    {
       "id": "0j28odo5lnjy",
       "title": "Lote Funko Pop Stranger Things",
       "model": "lote funko pop stranger things",
@@ -162,6 +152,28 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-23T14:47:31.147Z",
       "last_seen": "2026-04-23T14:47:31.147Z"
+    },
+    {
+      "id": "9jdw1q959n6k",
+      "title": "Funko Pop Mini Will",
+      "model": "funko pop mini will",
+      "price": 9,
+      "city": "Villava",
+      "url": "https://es.wallapop.com/item/funko-pop-mini-will-1255331912",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T15:03:22.869Z",
+      "last_seen": "2026-04-23T15:03:22.869Z"
+    },
+    {
+      "id": "8z88p0n8k1z3",
+      "title": "Nintendo Switch Negra Completa",
+      "model": "nintendo switch negra completa",
+      "price": 83,
+      "city": "Ajalvir",
+      "url": "https://es.wallapop.com/item/nintendo-switch-negra-completa-1255333370",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T15:03:22.869Z",
+      "last_seen": "2026-04-23T15:03:22.869Z"
     }
   ]
 }
