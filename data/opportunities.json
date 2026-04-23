@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T21:47:12.192Z",
+  "updated_at": "2026-04-23T21:56:42.375Z",
   "tiers": {
     "proven_seller": [
       {
@@ -64,6 +64,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cartas 151 raul",
+        "example_title": "Lote de cartas 151 raul",
+        "example_url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-23T21:56:42.374Z",
+        "last_seen": "2026-04-23T21:56:42.374Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote de cartas 151 raul",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
+            "city": "Alzira"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch gris rojo",
+        "example_title": "Nintendo Switch Gris/Rojo",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 115,
+        "median_price": 115,
+        "max_price": 115,
+        "first_seen": "2026-04-23T21:56:42.374Z",
+        "last_seen": "2026-04-23T21:56:42.374Z",
+        "sample": [
+          {
+            "price": 115,
+            "title": "Nintendo Switch Gris/Rojo",
+            "url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
+            "city": "Reus"
+          }
+        ]
+      },
+      {
+        "model": "lote juegos mesa sub terra ii hobbit viaje ida",
+        "example_title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
+        "example_url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T21:56:42.374Z",
+        "last_seen": "2026-04-23T21:56:42.374Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
+            "url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
+            "city": "Matalascañas"
+          }
+        ]
+      },
       {
         "model": "20 sobres pokemon japoneses thrush combo",
         "example_title": "20 Sobres Pokémon Japoneses ThRush D Combo",
@@ -686,81 +761,6 @@
             "title": "Lp vinilo",
             "url": "https://es.wallapop.com/item/lp-vinilo-1255432263",
             "city": "Santa Cruz de Bezana"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas 151 raul",
-        "example_title": "Lote de cartas 151 raul",
-        "example_url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-23T19:47:30.951Z",
-        "last_seen": "2026-04-23T19:47:30.951Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Lote de cartas 151 raul",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
-            "city": "Alzira"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch gris rojo",
-        "example_title": "Nintendo Switch Gris/Rojo",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 115,
-        "median_price": 115,
-        "max_price": 115,
-        "first_seen": "2026-04-23T19:47:30.951Z",
-        "last_seen": "2026-04-23T19:47:30.951Z",
-        "sample": [
-          {
-            "price": 115,
-            "title": "Nintendo Switch Gris/Rojo",
-            "url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
-            "city": "Reus"
-          }
-        ]
-      },
-      {
-        "model": "lote juegos mesa sub terra ii hobbit viaje ida",
-        "example_title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
-        "example_url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-23T19:47:30.951Z",
-        "last_seen": "2026-04-23T19:47:30.951Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
-            "url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
-            "city": "Matalascañas"
           }
         ]
       },
@@ -2448,8 +2448,8 @@
     "recurring": 0,
     "possible": 95,
     "total_unique_models": 97,
-    "total_reservations": 20,
-    "total_confirmed_sales": 80
+    "total_reservations": 17,
+    "total_confirmed_sales": 83
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2460,5 +2460,42 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "8j38k97737z9",
+      "model": "lote cartas 151 raul",
+      "title": "Lote de cartas 151 raul",
+      "sold_price": 10,
+      "city": "Alzira",
+      "url": "https://es.wallapop.com/item/lote-de-cartas-151-raul-1255425982",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T19:47:30.951Z",
+      "last_seen": "2026-04-23T19:47:30.951Z",
+      "confirmed_at": "2026-04-23T21:56:42.374Z"
+    },
+    {
+      "id": "xzogwqe84wj9",
+      "model": "nintendo switch gris rojo",
+      "title": "Nintendo Switch Gris/Rojo",
+      "sold_price": 115,
+      "city": "Reus",
+      "url": "https://es.wallapop.com/item/nintendo-switch-gris-rojo-1255428133",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T19:47:30.951Z",
+      "last_seen": "2026-04-23T19:47:30.951Z",
+      "confirmed_at": "2026-04-23T21:56:42.374Z"
+    },
+    {
+      "id": "xzogwqyex2j9",
+      "model": "lote juegos mesa sub terra ii hobbit viaje ida",
+      "title": "Lote 2 Juegos Mesa Sub Terra II y Hobbit viaje ida",
+      "sold_price": 40,
+      "city": "Matalascañas",
+      "url": "https://es.wallapop.com/item/lote-2-juegos-mesa-sub-terra-ii-y-hobbit-viaje-ida-1255426157",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-23T19:47:30.951Z",
+      "last_seen": "2026-04-23T19:47:30.951Z",
+      "confirmed_at": "2026-04-23T21:56:42.374Z"
+    }
+  ]
 }
