@@ -1,11 +1,111 @@
 {
-  "updated_at": "2026-04-23T15:03:22.871Z",
+  "updated_at": "2026-04-23T15:18:11.368Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cartas pokemon",
+        "example_title": "Lote de cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 280,
+        "median_price": 280,
+        "max_price": 280,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-23T15:18:11.367Z",
+        "sample": [
+          {
+            "price": 280,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+            "city": "Aguilar de Campoo"
+          }
+        ]
+      },
+      {
+        "model": "pack juegos nintendo switch",
+        "example_title": "Pack 8 Juegos Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-23T15:18:11.367Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Pack 8 Juegos Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
+            "city": "Vic"
+          }
+        ]
+      },
+      {
+        "model": "mando sony playstation blanco",
+        "example_title": "Mando Sony Playstation 5 Blanco",
+        "example_url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-23T15:18:11.367Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Mando Sony Playstation 5 Blanco",
+            "url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote funko pop stranger things",
+        "example_title": "Lote Funko Pop Stranger Things",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5.5,
+        "median_price": 5.5,
+        "max_price": 5.5,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-23T15:18:11.367Z",
+        "sample": [
+          {
+            "price": 5.5,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
+            "city": "Arrasate/Mondragón"
+          }
+        ]
+      },
       {
         "model": "funko pop mini will",
         "example_title": "Funko Pop Mini Will",
@@ -1105,31 +1205,6 @@
             "city": "Alicante/Alacant"
           }
         ]
-      },
-      {
-        "model": "lote funko pop stranger things",
-        "example_title": "Lote Funko Pop Stranger Things",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5.5,
-        "median_price": 5.5,
-        "max_price": 5.5,
-        "first_seen": "2026-04-23T13:16:27.501Z",
-        "last_seen": "2026-04-23T13:16:27.501Z",
-        "sample": [
-          {
-            "price": 5.5,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
-            "city": "Arrasate/Mondragón"
-          }
-        ]
       }
     ]
   },
@@ -1138,10 +1213,10 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 45,
-    "total_unique_models": 45,
-    "total_reservations": 16,
-    "total_confirmed_sales": 29
+    "possible": 48,
+    "total_unique_models": 48,
+    "total_reservations": 18,
+    "total_confirmed_sales": 30
   },
   "thresholds": {
     "proven_7d": 3,
@@ -1154,16 +1229,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "pzpkxqx58lj3",
-      "model": "pack cartas pokemon trainer gallery",
-      "title": "Pack cartas pokemon trainer gallery",
-      "sold_price": 15,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/pack-cartas-pokemon-trainer-gallery-1255294102",
+      "id": "0j28odo5lnjy",
+      "model": "lote funko pop stranger things",
+      "title": "Lote Funko Pop Stranger Things",
+      "sold_price": 5.5,
+      "city": "Arrasate/Mondragón",
+      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T13:01:41.624Z",
-      "last_seen": "2026-04-23T13:01:41.624Z",
-      "confirmed_at": "2026-04-23T15:03:22.869Z"
+      "first_reserved": "2026-04-23T13:16:27.501Z",
+      "last_seen": "2026-04-23T13:16:27.501Z",
+      "confirmed_at": "2026-04-23T15:18:11.367Z"
     }
   ]
 }

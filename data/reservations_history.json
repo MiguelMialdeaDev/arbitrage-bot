@@ -1,16 +1,6 @@
 {
   "reservations": [
     {
-      "id": "0j28odo5lnjy",
-      "title": "Lote Funko Pop Stranger Things",
-      "model": "lote funko pop stranger things",
-      "price": 5.5,
-      "city": "Arrasate/Mondragón",
-      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T13:16:27.501Z"
-    },
-    {
       "id": "36e5mkr1dk6d",
       "title": "Muñecos Funko Pop Stranger Things",
       "model": "munecos funko pop stranger things",
@@ -174,6 +164,39 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-23T15:03:22.869Z",
       "last_seen": "2026-04-23T15:03:22.869Z"
+    },
+    {
+      "id": "v6gp3q5kvm6e",
+      "title": "Lote de cartas Pokémon",
+      "model": "lote cartas pokemon",
+      "price": 280,
+      "city": "Aguilar de Campoo",
+      "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-23T15:18:11.367Z",
+      "last_seen": "2026-04-23T15:18:11.367Z"
+    },
+    {
+      "id": "p618m23lk5z5",
+      "title": "Pack 8 Juegos Nintendo Switch",
+      "model": "pack juegos nintendo switch",
+      "price": 35,
+      "city": "Vic",
+      "url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T15:18:11.367Z",
+      "last_seen": "2026-04-23T15:18:11.367Z"
+    },
+    {
+      "id": "pzpkxqo58lj3",
+      "title": "Mando Sony Playstation 5 Blanco",
+      "model": "mando sony playstation blanco",
+      "price": 20,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-23T15:18:11.367Z",
+      "last_seen": "2026-04-23T15:18:11.367Z"
     }
   ]
 }
