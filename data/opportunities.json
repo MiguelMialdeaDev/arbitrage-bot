@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T22:46:47.951Z",
+  "updated_at": "2026-04-23T22:59:08.238Z",
   "tiers": {
     "proven_seller": [
       {
@@ -76,6 +76,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote peliculas blu ray dvd oli",
+        "example_title": "Lote Películas Blu-ray y DVD para Oli",
+        "example_url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-y-dvd-para-oli-1255439064",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-23T22:59:08.237Z",
+        "last_seen": "2026-04-23T22:59:08.237Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "Lote Películas Blu-ray y DVD para Oli",
+            "url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-y-dvd-para-oli-1255439064",
+            "city": "Alcobendas"
+          }
+        ]
+      },
       {
         "model": "pragmata ps5",
         "example_title": "Pragmata PS5",
@@ -748,31 +773,6 @@
             "title": "MTG Tótem Maldito + Campo de Fuerza",
             "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
             "city": "Vila Nova de Gaia"
-          }
-        ]
-      },
-      {
-        "model": "lote peliculas blu ray dvd oli",
-        "example_title": "Lote Películas Blu-ray y DVD para Oli",
-        "example_url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-y-dvd-para-oli-1255439064",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 27,
-        "median_price": 27,
-        "max_price": 27,
-        "first_seen": "2026-04-23T20:47:49.587Z",
-        "last_seen": "2026-04-23T20:47:49.587Z",
-        "sample": [
-          {
-            "price": 27,
-            "title": "Lote Películas Blu-ray y DVD para Oli",
-            "url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-y-dvd-para-oli-1255439064",
-            "city": "Alcobendas"
           }
         ]
       },
@@ -2610,8 +2610,8 @@
     "recurring": 0,
     "possible": 101,
     "total_unique_models": 103,
-    "total_reservations": 16,
-    "total_confirmed_sales": 90
+    "total_reservations": 15,
+    "total_confirmed_sales": 91
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2624,16 +2624,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "v6gp3q8yp56e",
-      "model": "pragmata ps5",
-      "title": "Pragmata PS5",
-      "sold_price": 49,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/pragmata-ps5-1255437664",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T20:32:55.068Z",
-      "last_seen": "2026-04-23T20:32:55.068Z",
-      "confirmed_at": "2026-04-23T22:46:47.950Z"
+      "id": "v6gp3q89xm6e",
+      "model": "lote peliculas blu ray dvd oli",
+      "title": "Lote Películas Blu-ray y DVD para Oli",
+      "sold_price": 27,
+      "city": "Alcobendas",
+      "url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-y-dvd-para-oli-1255439064",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-23T20:47:49.587Z",
+      "last_seen": "2026-04-23T20:47:49.587Z",
+      "confirmed_at": "2026-04-23T22:59:08.237Z"
     }
   ]
 }
