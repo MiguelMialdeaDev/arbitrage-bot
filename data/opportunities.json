@@ -1,11 +1,36 @@
 {
-  "updated_at": "2026-04-23T14:08:38.249Z",
+  "updated_at": "2026-04-23T14:17:03.863Z",
   "tiers": {
     "proven_seller": [],
     "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack vinilos lp internacional pop rock",
+        "example_title": "Pack 2 Vinilos LP Internacional Pop Rock",
+        "example_url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 65,
+        "median_price": 65,
+        "max_price": 65,
+        "first_seen": "2026-04-23T14:17:03.862Z",
+        "last_seen": "2026-04-23T14:17:03.862Z",
+        "sample": [
+          {
+            "price": 65,
+            "title": "Pack 2 Vinilos LP Internacional Pop Rock",
+            "url": "https://es.wallapop.com/item/pack-2-vinilos-lp-internacional-pop-rock-1255317546",
+            "city": "Eivissa-San Juan"
+          }
+        ]
+      },
       {
         "model": "lote adrenalyn 2025 2026",
         "example_title": "Lote Adrenalyn 2025-2026",
@@ -988,9 +1013,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 39,
-    "total_unique_models": 39,
-    "total_reservations": 11,
+    "possible": 40,
+    "total_unique_models": 40,
+    "total_reservations": 12,
     "total_confirmed_sales": 28
   },
   "thresholds": {
