@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-04-24T03:45:19.874Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 225,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "PlayStation 5 Slim Sony Negra/Blanca",
+          "price": 300,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/playstation-5-slim-sony-negra-blanca-1255482286",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation slim sony negra/blanca",
+          "verdict": "skip",
+          "reason": "300€ vs mín reservado 235€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Ps5 Slim De Disco De 1TB",
+          "price": 299,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/libro-quiero-saber-educacion-sexual-ninos-1255482229",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 slim 1tb' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 171,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 41,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 2,
+  "total_signals": 0,
+  "duration_s": 63
+}
