@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T20:31:42.325Z",
+  "updated_at": "2026-04-24T20:47:15.968Z",
   "tiers": {
     "proven_seller": [
       {
@@ -232,6 +232,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop the walking dead daryl dixon #14",
+        "example_title": "Funko Pop! The Walking Dead Daryl Dixon #14",
+        "example_url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-24T20:47:15.966Z",
+        "last_seen": "2026-04-24T20:47:15.966Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Funko Pop! The Walking Dead Daryl Dixon #14",
+            "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
+            "city": "Alicante/Alacant"
+          }
+        ]
+      },
       {
         "model": "lote cartas magic the gathering 3kg",
         "example_title": "Lote Cartas Magic the Gathering +3kg",
@@ -4014,7 +4039,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4039,7 +4064,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4064,7 +4089,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4089,7 +4114,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5739,9 +5764,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 220,
-    "total_unique_models": 227,
-    "total_reservations": 20,
+    "possible": 221,
+    "total_unique_models": 228,
+    "total_reservations": 21,
     "total_confirmed_sales": 216
   },
   "thresholds": {
