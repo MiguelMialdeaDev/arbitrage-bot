@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T18:16:33.102Z",
+  "updated_at": "2026-04-24T18:32:35.017Z",
   "tiers": {
     "proven_seller": [
       {
@@ -46,7 +46,7 @@
         "total_reservations": 0,
         "confirmed_sales": 3,
         "total_events": 3,
-        "reservations_24h": 2,
+        "reservations_24h": 1,
         "reservations_7d": 3,
         "reservations_30d": 3,
         "reservations_per_day": 3,
@@ -189,6 +189,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "dialga vstar origin forme gg79 cgc",
+        "example_title": "Dialga VSTAR Origin Forme GG79 CGC 9",
+        "example_url": "https://es.wallapop.com/item/dialga-vstar-origin-forme-gg79-cgc-9-1255671910",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 90,
+        "median_price": 90,
+        "max_price": 90,
+        "first_seen": "2026-04-24T18:32:35.016Z",
+        "last_seen": "2026-04-24T18:32:35.016Z",
+        "sample": [
+          {
+            "price": 90,
+            "title": "Dialga VSTAR Origin Forme GG79 CGC 9",
+            "url": "https://es.wallapop.com/item/dialga-vstar-origin-forme-gg79-cgc-9-1255671910",
+            "city": "Sabiñánigo"
+          }
+        ]
+      },
+      {
+        "model": "iphone xs 64gb gris cristal trasero roto",
+        "example_title": "iPhone XS 64GB Gris - Cristal Trasero Roto",
+        "example_url": "https://es.wallapop.com/item/iphone-xs-64gb-gris-cristal-trasero-roto-1255674422",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 45,
+        "median_price": 45,
+        "max_price": 45,
+        "first_seen": "2026-04-24T18:32:35.016Z",
+        "last_seen": "2026-04-24T18:32:35.016Z",
+        "sample": [
+          {
+            "price": 45,
+            "title": "iPhone XS 64GB Gris - Cristal Trasero Roto",
+            "url": "https://es.wallapop.com/item/iphone-xs-64gb-gris-cristal-trasero-roto-1255674422",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote blu ray nuevos",
+        "example_title": "Lote 3 blu ray como nuevos",
+        "example_url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 31,
+        "median_price": 31,
+        "max_price": 31,
+        "first_seen": "2026-04-24T18:32:35.016Z",
+        "last_seen": "2026-04-24T18:32:35.016Z",
+        "sample": [
+          {
+            "price": 31,
+            "title": "Lote 3 blu ray como nuevos",
+            "url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
+            "city": "Santander"
+          }
+        ]
+      },
       {
         "model": "nintendo switch pokemon escarlata",
         "example_title": "Nintendo Switch Pokémon Escarlata",
@@ -836,81 +911,6 @@
             "title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
             "url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "dialga vstar origin forme gg79 cgc",
-        "example_title": "Dialga VSTAR Origin Forme GG79 CGC 9",
-        "example_url": "https://es.wallapop.com/item/dialga-vstar-origin-forme-gg79-cgc-9-1255671910",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 90,
-        "median_price": 90,
-        "max_price": 90,
-        "first_seen": "2026-04-24T16:17:43.375Z",
-        "last_seen": "2026-04-24T16:17:43.375Z",
-        "sample": [
-          {
-            "price": 90,
-            "title": "Dialga VSTAR Origin Forme GG79 CGC 9",
-            "url": "https://es.wallapop.com/item/dialga-vstar-origin-forme-gg79-cgc-9-1255671910",
-            "city": "Sabiñánigo"
-          }
-        ]
-      },
-      {
-        "model": "iphone xs 64gb gris cristal trasero roto",
-        "example_title": "iPhone XS 64GB Gris - Cristal Trasero Roto",
-        "example_url": "https://es.wallapop.com/item/iphone-xs-64gb-gris-cristal-trasero-roto-1255674422",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 45,
-        "median_price": 45,
-        "max_price": 45,
-        "first_seen": "2026-04-24T16:17:43.375Z",
-        "last_seen": "2026-04-24T16:17:43.375Z",
-        "sample": [
-          {
-            "price": 45,
-            "title": "iPhone XS 64GB Gris - Cristal Trasero Roto",
-            "url": "https://es.wallapop.com/item/iphone-xs-64gb-gris-cristal-trasero-roto-1255674422",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "lote blu ray nuevos",
-        "example_title": "Lote 3 blu ray como nuevos",
-        "example_url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 31,
-        "median_price": 31,
-        "max_price": 31,
-        "first_seen": "2026-04-24T16:17:43.375Z",
-        "last_seen": "2026-04-24T16:17:43.375Z",
-        "sample": [
-          {
-            "price": 31,
-            "title": "Lote 3 blu ray como nuevos",
-            "url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
-            "city": "Santander"
           }
         ]
       },
@@ -4021,7 +4021,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4046,7 +4046,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4071,7 +4071,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5298,8 +5298,8 @@
     "recurring": 0,
     "possible": 204,
     "total_unique_models": 210,
-    "total_reservations": 17,
-    "total_confirmed_sales": 201
+    "total_reservations": 14,
+    "total_confirmed_sales": 204
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5310,5 +5310,42 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "8j38kddw77z9",
+      "model": "dialga vstar origin forme gg79 cgc",
+      "title": "Dialga VSTAR Origin Forme GG79 CGC 9",
+      "sold_price": 90,
+      "city": "Sabiñánigo",
+      "url": "https://es.wallapop.com/item/dialga-vstar-origin-forme-gg79-cgc-9-1255671910",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T16:17:43.375Z",
+      "last_seen": "2026-04-24T16:17:43.375Z",
+      "confirmed_at": "2026-04-24T18:32:35.016Z"
+    },
+    {
+      "id": "8z88pnno5lz3",
+      "model": "iphone xs 64gb gris cristal trasero roto",
+      "title": "iPhone XS 64GB Gris - Cristal Trasero Roto",
+      "sold_price": 45,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/iphone-xs-64gb-gris-cristal-trasero-roto-1255674422",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T16:17:43.375Z",
+      "last_seen": "2026-04-24T16:17:43.375Z",
+      "confirmed_at": "2026-04-24T18:32:35.016Z"
+    },
+    {
+      "id": "xzogwmm92lj9",
+      "model": "lote blu ray nuevos",
+      "title": "Lote 3 blu ray como nuevos",
+      "sold_price": 31,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T16:17:43.375Z",
+      "last_seen": "2026-04-24T16:17:43.375Z",
+      "confirmed_at": "2026-04-24T18:32:35.016Z"
+    }
+  ]
 }
