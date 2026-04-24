@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T11:18:30.738Z",
+  "updated_at": "2026-04-24T11:32:14.706Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,181 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cromos futbol panini",
+        "example_title": "Lote cromos fútbol Panini",
+        "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-24T11:32:14.704Z",
+        "last_seen": "2026-04-24T11:32:14.704Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Lote cromos fútbol Panini",
+            "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
+            "city": "Jaén"
+          }
+        ]
+      },
+      {
+        "model": "pokemon tcg sv6 twilight masquerade",
+        "example_title": "Pokémon TCG: SV6 Twilight Masquerade",
+        "example_url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-1255588442",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-24T11:32:14.704Z",
+        "last_seen": "2026-04-24T11:32:14.704Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Pokémon TCG: SV6 Twilight Masquerade",
+            "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-1255588442",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
+        "model": "playmobil aventura historia lote anna",
+        "example_title": "Playmobil La Aventura de la Historia Lote Anna.",
+        "example_url": "https://es.wallapop.com/item/playmobil-la-aventura-de-la-historia-lote-1255586292",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-24T11:32:14.704Z",
+        "last_seen": "2026-04-24T11:32:14.704Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Playmobil La Aventura de la Historia Lote Anna.",
+            "url": "https://es.wallapop.com/item/playmobil-la-aventura-de-la-historia-lote-1255586292",
+            "city": "Alhaurín de la Torre"
+          }
+        ]
+      },
+      {
+        "model": "set figuras gormiti",
+        "example_title": "Set de figuras Gormiti",
+        "example_url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-24T11:32:14.704Z",
+        "last_seen": "2026-04-24T11:32:14.704Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Set de figuras Gormiti",
+            "url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
+            "city": "Sassuolo"
+          }
+        ]
+      },
+      {
+        "model": "funko pop joey tribbiani friends",
+        "example_title": "Funko Pop! Joey Tribbiani Friends",
+        "example_url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-24T11:32:14.704Z",
+        "last_seen": "2026-04-24T11:32:14.704Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Funko Pop! Joey Tribbiani Friends",
+            "url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote personalizado abilia",
+        "example_title": "Lote personalizado para Abilia",
+        "example_url": "https://es.wallapop.com/item/lote-personalizado-para-abilia-1255543141",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T11:32:14.704Z",
+        "last_seen": "2026-04-24T11:32:14.704Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Lote personalizado para Abilia",
+            "url": "https://es.wallapop.com/item/lote-personalizado-para-abilia-1255543141",
+            "city": "Málaga"
+          }
+        ]
+      },
+      {
+        "model": "lote 2x pokemon 151 mega dream ex",
+        "example_title": "Lote 2x Pokémon 151 + Mega Dream Ex",
+        "example_url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 609.99,
+        "median_price": 609.99,
+        "max_price": 609.99,
+        "first_seen": "2026-04-24T11:32:14.704Z",
+        "last_seen": "2026-04-24T11:32:14.704Z",
+        "sample": [
+          {
+            "price": 609.99,
+            "title": "Lote 2x Pokémon 151 + Mega Dream Ex",
+            "url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
+            "city": "Valdemoro"
+          }
+        ]
+      },
       {
         "model": "funko pop star wars batman",
         "example_title": "Funko Pop Star Wars y Batman",
@@ -960,81 +1135,6 @@
             "title": "Pack 4 Juegos NBA Live PS2",
             "url": "https://es.wallapop.com/item/pack-4-juegos-nba-live-ps2-1255546469",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "funko pop joey tribbiani friends",
-        "example_title": "Funko Pop! Joey Tribbiani Friends",
-        "example_url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 7,
-        "median_price": 7,
-        "max_price": 7,
-        "first_seen": "2026-04-24T09:32:08.579Z",
-        "last_seen": "2026-04-24T09:32:08.579Z",
-        "sample": [
-          {
-            "price": 7,
-            "title": "Funko Pop! Joey Tribbiani Friends",
-            "url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "lote personalizado abilia",
-        "example_title": "Lote personalizado para Abilia",
-        "example_url": "https://es.wallapop.com/item/lote-personalizado-para-abilia-1255543141",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-24T09:32:08.579Z",
-        "last_seen": "2026-04-24T09:32:08.579Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Lote personalizado para Abilia",
-            "url": "https://es.wallapop.com/item/lote-personalizado-para-abilia-1255543141",
-            "city": "Málaga"
-          }
-        ]
-      },
-      {
-        "model": "lote 2x pokemon 151 mega dream ex",
-        "example_title": "Lote 2x Pokémon 151 + Mega Dream Ex",
-        "example_url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 609.99,
-        "median_price": 609.99,
-        "max_price": 609.99,
-        "first_seen": "2026-04-24T09:32:08.579Z",
-        "last_seen": "2026-04-24T09:32:08.579Z",
-        "sample": [
-          {
-            "price": 609.99,
-            "title": "Lote 2x Pokémon 151 + Mega Dream Ex",
-            "url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
-            "city": "Valdemoro"
           }
         ]
       },
@@ -3870,10 +3970,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 150,
-    "total_unique_models": 153,
-    "total_reservations": 25,
-    "total_confirmed_sales": 133
+    "possible": 154,
+    "total_unique_models": 157,
+    "total_reservations": 26,
+    "total_confirmed_sales": 136
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3886,52 +3986,40 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "9jdw198xe96k",
-      "model": "pack juegos nintendo switch pokemon diamante",
-      "title": "Pack 3 Juegos Nintendo Switch: Pokémon Diamante, M",
-      "sold_price": 82,
-      "city": "Castellbisbal",
-      "url": "https://es.wallapop.com/item/pack-3-juegos-nintendo-switch-pokemon-diamante-m-1255537960",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T09:08:05.274Z",
-      "last_seen": "2026-04-24T09:08:05.274Z",
-      "confirmed_at": "2026-04-24T11:18:30.736Z"
-    },
-    {
-      "id": "x6qq13vkde6y",
-      "model": "pokemon escarlata nintendo switch rpg",
-      "title": "Pokémon Escarlata Nintendo Switch RPG",
-      "sold_price": 50,
-      "city": "La Garriga",
-      "url": "https://es.wallapop.com/item/pokemon-escarlata-nintendo-switch-rpg-1255537842",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T09:08:05.274Z",
-      "last_seen": "2026-04-24T09:08:05.274Z",
-      "confirmed_at": "2026-04-24T11:18:30.736Z"
-    },
-    {
-      "id": "mzn371wv10jn",
-      "model": "lote jhon fabio",
-      "title": "Lote para Jhon Fabio",
-      "sold_price": 9,
-      "city": "La Vilavella",
-      "url": "https://es.wallapop.com/item/lote-para-jhon-fabio-1255539273",
+      "id": "pj940pneev6e",
+      "model": "funko pop joey tribbiani friends",
+      "title": "Funko Pop! Joey Tribbiani Friends",
+      "sold_price": 7,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T09:16:47.426Z",
-      "last_seen": "2026-04-24T09:16:47.426Z",
-      "confirmed_at": "2026-04-24T11:18:30.736Z"
+      "first_reserved": "2026-04-24T09:32:08.579Z",
+      "last_seen": "2026-04-24T09:32:08.579Z",
+      "confirmed_at": "2026-04-24T11:32:14.704Z"
     },
     {
-      "id": "36e5m48px86d",
-      "model": "lote peliculas blu ray",
-      "title": "Lote Películas Blu-ray",
-      "sold_price": 60,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-1255541863",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T09:16:47.426Z",
-      "last_seen": "2026-04-24T09:16:47.426Z",
-      "confirmed_at": "2026-04-24T11:18:30.736Z"
+      "id": "wzvgde2kqdzl",
+      "model": "lote personalizado abilia",
+      "title": "Lote personalizado para Abilia",
+      "sold_price": 20,
+      "city": "Málaga",
+      "url": "https://es.wallapop.com/item/lote-personalizado-para-abilia-1255543141",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T09:32:08.579Z",
+      "last_seen": "2026-04-24T09:32:08.579Z",
+      "confirmed_at": "2026-04-24T11:32:14.704Z"
+    },
+    {
+      "id": "e65qdk7emp6o",
+      "model": "lote 2x pokemon 151 mega dream ex",
+      "title": "Lote 2x Pokémon 151 + Mega Dream Ex",
+      "sold_price": 609.99,
+      "city": "Valdemoro",
+      "url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T09:32:08.579Z",
+      "last_seen": "2026-04-24T09:32:08.579Z",
+      "confirmed_at": "2026-04-24T11:32:14.704Z"
     }
   ]
 }
