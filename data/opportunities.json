@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T16:03:22.761Z",
+  "updated_at": "2026-04-24T16:17:43.377Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "dialga vstar origin forme gg79 cgc",
+        "example_title": "Dialga VSTAR Origin Forme GG79 CGC 9",
+        "example_url": "https://es.wallapop.com/item/dialga-vstar-origin-forme-gg79-cgc-9-1255671910",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 90,
+        "median_price": 90,
+        "max_price": 90,
+        "first_seen": "2026-04-24T16:17:43.375Z",
+        "last_seen": "2026-04-24T16:17:43.375Z",
+        "sample": [
+          {
+            "price": 90,
+            "title": "Dialga VSTAR Origin Forme GG79 CGC 9",
+            "url": "https://es.wallapop.com/item/dialga-vstar-origin-forme-gg79-cgc-9-1255671910",
+            "city": "Sabiñánigo"
+          }
+        ]
+      },
+      {
+        "model": "iphone xs 64gb gris cristal trasero roto",
+        "example_title": "iPhone XS 64GB Gris - Cristal Trasero Roto",
+        "example_url": "https://es.wallapop.com/item/iphone-xs-64gb-gris-cristal-trasero-roto-1255674422",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 45,
+        "median_price": 45,
+        "max_price": 45,
+        "first_seen": "2026-04-24T16:17:43.375Z",
+        "last_seen": "2026-04-24T16:17:43.375Z",
+        "sample": [
+          {
+            "price": 45,
+            "title": "iPhone XS 64GB Gris - Cristal Trasero Roto",
+            "url": "https://es.wallapop.com/item/iphone-xs-64gb-gris-cristal-trasero-roto-1255674422",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote blu ray nuevos",
+        "example_title": "Lote 3 blu ray como nuevos",
+        "example_url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 31,
+        "median_price": 31,
+        "max_price": 31,
+        "first_seen": "2026-04-24T16:17:43.375Z",
+        "last_seen": "2026-04-24T16:17:43.375Z",
+        "sample": [
+          {
+            "price": 31,
+            "title": "Lote 3 blu ray como nuevos",
+            "url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
+            "city": "Santander"
+          }
+        ]
+      },
       {
         "model": "nintendo switch pokemon escarlata",
         "example_title": "Nintendo Switch Pokémon Escarlata",
@@ -4020,7 +4095,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4045,7 +4120,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4070,7 +4145,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4970,9 +5045,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 194,
-    "total_unique_models": 197,
-    "total_reservations": 17,
+    "possible": 197,
+    "total_unique_models": 200,
+    "total_reservations": 20,
     "total_confirmed_sales": 185
   },
   "thresholds": {
@@ -4984,30 +5059,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "nzxegngx5762",
-      "model": "funko pop kinder joy stranger things",
-      "title": "Funko Pop! Kinder Joy Stranger Things",
-      "sold_price": 6,
-      "city": "Esplugues de Llobregat",
-      "url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255629954",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T14:02:00.122Z",
-      "last_seen": "2026-04-24T14:02:00.122Z",
-      "confirmed_at": "2026-04-24T16:03:22.760Z"
-    },
-    {
-      "id": "pj940p09rv6e",
-      "model": "red dead redemption nintendo switch",
-      "title": "Red Dead Redemption 1 Nintendo Switch",
-      "sold_price": 20,
-      "city": "Fonteculler",
-      "url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T14:02:00.122Z",
-      "last_seen": "2026-04-24T14:02:00.122Z",
-      "confirmed_at": "2026-04-24T16:03:22.760Z"
-    }
-  ]
+  "new_sales": []
 }
