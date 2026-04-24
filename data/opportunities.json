@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T16:47:43.121Z",
+  "updated_at": "2026-04-24T17:03:30.964Z",
   "tiers": {
     "proven_seller": [
       {
@@ -164,6 +164,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote juegos ps3 assassin creed ii killzone",
+        "example_title": "Lote 6 Juegos PS3: Assassin's Creed II, Killzone 2",
+        "example_url": "https://es.wallapop.com/item/lote-6-juegos-ps3-assassin-s-creed-ii-killzone-2-1255687664",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-24T17:03:30.962Z",
+        "last_seen": "2026-04-24T17:03:30.962Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Lote 6 Juegos PS3: Assassin's Creed II, Killzone 2",
+            "url": "https://es.wallapop.com/item/lote-6-juegos-ps3-assassin-s-creed-ii-killzone-2-1255687664",
+            "city": "Móstoles"
+          }
+        ]
+      },
+      {
+        "model": "lote ferran",
+        "example_title": "Lote  FERRAN",
+        "example_url": "https://es.wallapop.com/item/lote-playmobil-1255647590",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 70,
+        "median_price": 70,
+        "max_price": 70,
+        "first_seen": "2026-04-24T17:03:30.962Z",
+        "last_seen": "2026-04-24T17:03:30.962Z",
+        "sample": [
+          {
+            "price": 70,
+            "title": "Lote  FERRAN",
+            "url": "https://es.wallapop.com/item/lote-playmobil-1255647590",
+            "city": "Tolosa"
+          }
+        ]
+      },
+      {
+        "model": "pack cartas reservado david",
+        "example_title": "Pack 5 Cartas Reservado David",
+        "example_url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T17:03:30.962Z",
+        "last_seen": "2026-04-24T17:03:30.962Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Pack 5 Cartas Reservado David",
+            "url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
+            "city": "Jaén"
+          }
+        ]
+      },
       {
         "model": "lote cartas magic",
         "example_title": "Lote cartas Magic",
@@ -886,56 +961,6 @@
             "title": "Cartas Pokémon M.Angel",
             "url": "https://es.wallapop.com/item/cartas-pokemon-m-angel-1255611997",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "pack cartas reservado david",
-        "example_title": "Pack 5 Cartas Reservado David",
-        "example_url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-24T15:02:17.875Z",
-        "last_seen": "2026-04-24T15:02:17.875Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Pack 5 Cartas Reservado David",
-            "url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
-            "city": "Jaén"
-          }
-        ]
-      },
-      {
-        "model": "lote ferran",
-        "example_title": "Lote  FERRAN",
-        "example_url": "https://es.wallapop.com/item/lote-playmobil-1255647590",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 70,
-        "median_price": 70,
-        "max_price": 70,
-        "first_seen": "2026-04-24T14:57:01.841Z",
-        "last_seen": "2026-04-24T14:57:01.841Z",
-        "sample": [
-          {
-            "price": 70,
-            "title": "Lote  FERRAN",
-            "url": "https://es.wallapop.com/item/lote-playmobil-1255647590",
-            "city": "Tolosa"
           }
         ]
       },
@@ -4071,7 +4096,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4096,7 +4121,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5121,10 +5146,10 @@
     "hot_24h": 2,
     "trending_7d": 1,
     "recurring": 0,
-    "possible": 198,
-    "total_unique_models": 203,
-    "total_reservations": 22,
-    "total_confirmed_sales": 188
+    "possible": 199,
+    "total_unique_models": 204,
+    "total_reservations": 21,
+    "total_confirmed_sales": 190
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5135,5 +5160,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "x6qq13orgo6y",
+      "model": "lote ferran",
+      "title": "Lote  FERRAN",
+      "sold_price": 70,
+      "city": "Tolosa",
+      "url": "https://es.wallapop.com/item/lote-playmobil-1255647590",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T14:57:01.841Z",
+      "last_seen": "2026-04-24T14:57:01.841Z",
+      "confirmed_at": "2026-04-24T17:03:30.962Z"
+    },
+    {
+      "id": "pj940p7g7m6e",
+      "model": "pack cartas reservado david",
+      "title": "Pack 5 Cartas Reservado David",
+      "sold_price": 10,
+      "city": "Jaén",
+      "url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T15:02:17.875Z",
+      "last_seen": "2026-04-24T15:02:17.875Z",
+      "confirmed_at": "2026-04-24T17:03:30.962Z"
+    }
+  ]
 }

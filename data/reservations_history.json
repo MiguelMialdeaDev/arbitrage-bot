@@ -45,28 +45,6 @@
       "last_seen": "2026-04-24T14:18:07.704Z"
     },
     {
-      "id": "x6qq13orgo6y",
-      "title": "Lote  FERRAN",
-      "model": "lote ferran",
-      "price": 70,
-      "city": "Tolosa",
-      "url": "https://es.wallapop.com/item/lote-playmobil-1255647590",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T14:57:01.841Z",
-      "last_seen": "2026-04-24T14:57:01.841Z"
-    },
-    {
-      "id": "pj940p7g7m6e",
-      "title": "Pack 5 Cartas Reservado David",
-      "model": "pack cartas reservado david",
-      "price": 10,
-      "city": "Jaén",
-      "url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T15:02:17.875Z",
-      "last_seen": "2026-04-24T15:02:17.875Z"
-    },
-    {
       "id": "v6gp35qkw26e",
       "title": "Lote de 9 cartas Charizard Pokémon",
       "model": "lote cartas charizard pokemon",
@@ -241,6 +219,17 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-24T16:47:43.119Z",
       "last_seen": "2026-04-24T16:47:43.119Z"
+    },
+    {
+      "id": "v6gp35x9o76e",
+      "title": "Lote 6 Juegos PS3: Assassin's Creed II, Killzone 2",
+      "model": "lote juegos ps3 assassin creed ii killzone",
+      "price": 60,
+      "city": "Móstoles",
+      "url": "https://es.wallapop.com/item/lote-6-juegos-ps3-assassin-s-creed-ii-killzone-2-1255687664",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-24T17:03:30.962Z",
+      "last_seen": "2026-04-24T17:03:30.962Z"
     }
   ]
 }

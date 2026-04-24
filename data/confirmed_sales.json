@@ -2255,6 +2255,30 @@
       "first_reserved": "2026-04-24T14:33:24.347Z",
       "last_seen": "2026-04-24T14:33:24.347Z",
       "confirmed_at": "2026-04-24T16:36:14.096Z"
+    },
+    {
+      "id": "x6qq13orgo6y",
+      "model": "lote ferran",
+      "title": "Lote  FERRAN",
+      "sold_price": 70,
+      "city": "Tolosa",
+      "url": "https://es.wallapop.com/item/lote-playmobil-1255647590",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T14:57:01.841Z",
+      "last_seen": "2026-04-24T14:57:01.841Z",
+      "confirmed_at": "2026-04-24T17:03:30.962Z"
+    },
+    {
+      "id": "pj940p7g7m6e",
+      "model": "pack cartas reservado david",
+      "title": "Pack 5 Cartas Reservado David",
+      "sold_price": 10,
+      "city": "Jaén",
+      "url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T15:02:17.875Z",
+      "last_seen": "2026-04-24T15:02:17.875Z",
+      "confirmed_at": "2026-04-24T17:03:30.962Z"
     }
   ]
 }
