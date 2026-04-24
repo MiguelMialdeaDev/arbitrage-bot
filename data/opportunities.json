@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T22:25:48.209Z",
+  "updated_at": "2026-04-24T22:31:43.465Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pokemon escarlata purpura evoluciones paldea",
+        "example_title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
+        "example_url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-evoluciones-en-paldea-1255742282",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 80,
+        "median_price": 80,
+        "max_price": 80,
+        "first_seen": "2026-04-24T22:31:43.463Z",
+        "last_seen": "2026-04-24T22:31:43.463Z",
+        "sample": [
+          {
+            "price": 80,
+            "title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
+            "url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-evoluciones-en-paldea-1255742282",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas magic the gathering 3kg",
+        "example_title": "Lote Cartas Magic the Gathering +3kg",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T22:31:43.463Z",
+        "last_seen": "2026-04-24T22:31:43.463Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote Cartas Magic the Gathering +3kg",
+            "url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
+            "city": "Vilariño"
+          }
+        ]
+      },
       {
         "model": "caballero zodiaco figura",
         "example_title": "Caballero del Zodiaco Figura",
@@ -785,56 +835,6 @@
             "title": "Funko Pop! The Walking Dead Daryl Dixon #14",
             "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
             "city": "Alicante/Alacant"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas magic the gathering 3kg",
-        "example_title": "Lote Cartas Magic the Gathering +3kg",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-24T20:31:42.324Z",
-        "last_seen": "2026-04-24T20:31:42.324Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Lote Cartas Magic the Gathering +3kg",
-            "url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
-            "city": "Vilariño"
-          }
-        ]
-      },
-      {
-        "model": "pokemon escarlata purpura evoluciones paldea",
-        "example_title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
-        "example_url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-evoluciones-en-paldea-1255742282",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 80,
-        "median_price": 80,
-        "max_price": 80,
-        "first_seen": "2026-04-24T20:27:20.709Z",
-        "last_seen": "2026-04-24T20:27:20.709Z",
-        "sample": [
-          {
-            "price": 80,
-            "title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
-            "url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-evoluciones-en-paldea-1255742282",
-            "city": "Valencia"
           }
         ]
       },
@@ -5922,8 +5922,8 @@
     "recurring": 0,
     "possible": 227,
     "total_unique_models": 234,
-    "total_reservations": 11,
-    "total_confirmed_sales": 232
+    "total_reservations": 9,
+    "total_confirmed_sales": 234
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5936,16 +5936,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "wzvgde18ydzl",
-      "model": "funko pop harry potter rubeus hagrid remuslupin",
-      "title": "Funko Pop! Harry Potter Rubeus Hagrid y RemusLupin",
-      "sold_price": 20,
-      "city": "Ourense",
-      "url": "https://es.wallapop.com/item/funko-pop-harry-potter-rubeus-hagrid-y-remuslupin-1255739389",
+      "id": "8j38kd0nxyz9",
+      "model": "pokemon escarlata purpura evoluciones paldea",
+      "title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
+      "sold_price": 80,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-evoluciones-en-paldea-1255742282",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T20:17:05.740Z",
-      "last_seen": "2026-04-24T20:17:05.740Z",
-      "confirmed_at": "2026-04-24T22:25:48.207Z"
+      "first_reserved": "2026-04-24T20:27:20.709Z",
+      "last_seen": "2026-04-24T20:27:20.709Z",
+      "confirmed_at": "2026-04-24T22:31:43.463Z"
+    },
+    {
+      "id": "v6gp359dql6e",
+      "model": "lote cartas magic the gathering 3kg",
+      "title": "Lote Cartas Magic the Gathering +3kg",
+      "sold_price": 10,
+      "city": "Vilariño",
+      "url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T20:31:42.324Z",
+      "last_seen": "2026-04-24T20:31:42.324Z",
+      "confirmed_at": "2026-04-24T22:31:43.463Z"
     }
   ]
 }

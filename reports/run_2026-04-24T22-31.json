@@ -1,0 +1,390 @@
+{
+  "timestamp": "2026-04-24T22:30:30.388Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 215,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Pack Funko Pop Attack on Titan Christa Ymir Kenny",
+          "price": 30,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/pack-funko-pop-attack-on-titan-christa-ymir-kenny-1255762204",
+          "reserved": false,
+          "profile": "funko_lote",
+          "verdict": "skip",
+          "reason": "count=2 < 3, no es lote claro"
+        },
+        {
+          "title": "Lamine Yamal Panini Extra Gold Balón de Oro",
+          "price": 20,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lamine-yamal-panini-extra-gold-balon-de-oro-1255762412",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lamine yamal panini extra gold",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lamine yamal panini extra gold' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lamine Yamal - Panini Copa Mundial FIFA 2026",
+          "price": 15,
+          "city": "Mafra",
+          "url": "https://es.wallapop.com/item/lamine-yamal-panini-fifa-world-cup-2026-1255762139",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lamine yamal panini copa mundial",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lamine yamal panini copa mundial' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Dialga Origen V-ASTRO 280 PS Carta Pokémon",
+          "price": 30,
+          "city": "Cheste",
+          "url": "https://es.wallapop.com/item/dialga-origen-v-astro-280-ps-carta-pokemon-1255762460",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "dialga origen v-astro carta pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dialga origen v-astro carta pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pokemon TCG Silvally GX 119/111 Rainbow Rare",
+          "price": 20,
+          "city": "Cheste",
+          "url": "https://es.wallapop.com/item/pokemon-tcg-silvally-gx-119-111-rainbow-rare-1255762148",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon tcg silvally 119/111 rainbow",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon tcg silvally 119/111 rainbow' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 265,
+      "new_items": 18,
+      "items": [
+        {
+          "title": "Mario vs Donkey Kong Nintendo Switch #A2581",
+          "price": 28,
+          "city": "Arbus",
+          "url": "https://es.wallapop.com/item/mario-vs-donkey-kong-nintendo-switch-a2581-1255762614",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mario donkey kong nintendo switch",
+          "verdict": "skip",
+          "reason": "28€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch Completa + SD 256GB",
+          "price": 195,
+          "city": "Puerto de Sagunto",
+          "url": "https://es.wallapop.com/item/nintendo-switch-completa---sd-256gb-1255762504",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch completa 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch completa 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mario & Luigi Fraternauti Nintendo Switch #A2579",
+          "price": 33,
+          "city": "Arbus",
+          "url": "https://es.wallapop.com/item/mario-luigi-fraternauti-nintendo-switch-a2579-1255762269",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mario luigi fraternauti nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mario luigi fraternauti nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Labo Robot Kit 6+",
+          "price": 75,
+          "city": "Getxo",
+          "url": "https://es.wallapop.com/item/nintendo-labo-robot-kit-6-1255762170",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo labo robot kit",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo labo robot kit' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Blazblue Cross Tag Battle Special Edition PS4",
+          "price": 19.99,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/blazblue-cross-tag-battle-special-edition-ps4-1255762471",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "blazblue cross tag battle special",
+          "verdict": "skip",
+          "reason": "0 reservados de 'blazblue cross tag battle special' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Resident Evil: Requiem PS5 Juego",
+          "price": 50,
+          "city": "Navalmoral de la Mata",
+          "url": "https://es.wallapop.com/item/resident-evil-requiem-ps5-juego-1255762409",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "resident evil: requiem ps5 juego",
+          "verdict": "skip",
+          "reason": "0 reservados de 'resident evil: requiem ps5 juego' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 25 juegos PS3",
+          "price": 60.87,
+          "city": "Pamplona/Iruña",
+          "url": "https://es.wallapop.com/item/lote-25-juegos-ps3-1255762326",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juegos ps3",
+          "verdict": "skip",
+          "reason": "60.87€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Consola PS5 con lector de disco",
+          "price": 200,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/consola-ps5-con-lector-de-disco-1255762224",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 con lector",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": 134.5,
+          "margin_pct": 67,
+          "score": 80,
+          "from_cache": false,
+          "verdict": "SIGNAL"
+        },
+        {
+          "title": "Stalker 2: Heart of Chornobyl PS5 Day One Edition",
+          "price": 45,
+          "city": "Pamplona/Iruña",
+          "url": "https://es.wallapop.com/item/stalker-2-heart-of-chornobyl-ps5-day-one-edition-1255762188",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "stalker heart chornobyl ps5 day",
+          "verdict": "skip",
+          "reason": "45€ vs mín reservado 40€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Mando DualSense PS5 Fortnite Edición Limitada",
+          "price": 75,
+          "city": "Miranda de Ebro",
+          "url": "https://es.wallapop.com/item/mando-dualsense-ps5-fortnite-edicion-limitada-1255762122",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando dualsense ps5 fortnite edicion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando dualsense ps5 fortnite edicion' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando PDP Xbox / PC RGB",
+          "price": 26,
+          "city": "Fuente Vaqueros",
+          "url": "https://es.wallapop.com/item/mando-pdp-xbox-pc-rgb-1255762127",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando pdp xbox rgb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando pdp xbox rgb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda iPhone 15 marron y Transparente",
+          "price": 5,
+          "city": "Ehari",
+          "url": "https://es.wallapop.com/item/funda-iphone-15-marron-y-transparente-1255762544",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 15 Pro Max",
+          "price": 730,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-1255762531",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Max Morado",
+          "price": 545,
+          "city": "Benalmádena",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-morado-1255762473",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max morado",
+          "verdict": "skip",
+          "reason": "545€ vs mín reservado 400€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 12 Pro Max Space Gray",
+          "price": 90,
+          "city": "El Tablero",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-max-space-gray-1255762404",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max space gray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max space gray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pantalla iPhone 12 / 12 Pro (Hard OLED)",
+          "price": 33,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-pro-max-negro-128gb-1255762266",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pantalla iphone pro (hard oled)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pantalla iphone pro (hard oled)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 Pro",
+          "price": 260,
+          "city": "El Arenal",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-1255762198",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 256GB Negro",
+          "price": 559,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/iphone-15-256gb-negro-1255762126",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "iphone 256gb negro",
+          "verdict": "skip",
+          "reason": "559€ vs mín reservado 120€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 1
+    },
+    "Cine, libros y música": {
+      "total_items": 162,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Crowded House - The Very Best Of CD Doble",
+          "price": 4.5,
+          "city": "Alcoi/Alcoy",
+          "url": "https://es.wallapop.com/item/crowded-house-the-very-best-of-cd-doble-1255762286",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Bon Jovi - New Jersey",
+          "price": 4,
+          "city": "Alcoi/Alcoy",
+          "url": "https://es.wallapop.com/item/bon-jovi-new-jersey-1255762208",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Bruce Springsteen - The Rising",
+          "price": 4,
+          "city": "Alcoi/Alcoy",
+          "url": "https://es.wallapop.com/item/bruce-springsteen-the-rising-1255762135",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Asilo Arkham: Año Uno",
+          "price": 27,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/asilo-arkham-ano-uno-1255762666",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "asilo arkham: ano uno",
+          "verdict": "skip",
+          "reason": "0 reservados de 'asilo arkham: ano uno' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 89,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Perdidos en R'lyeh Juego de Mesa",
+          "price": 10,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/perdidos-en-r-lyeh-juego-de-mesa-1255762422",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "perdidos r'lyeh juego mesa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'perdidos r'lyeh juego mesa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego de Mesa Cyanide & Happiness - Tranvía Mortal",
+          "price": 20,
+          "city": "Eivissa",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-cyanide-happiness-tranvia-mortal-1255762102",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa cyanide happiness tranvia",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego mesa cyanide happiness tranvia' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Circuito Scalextric SuperSlot Desafío Total",
+          "price": 56,
+          "city": "Torrejón del Rey",
+          "url": "https://es.wallapop.com/item/circuito-scalextric-superslot-desafio-total-1255762873",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "circuito scalextric superslot desafio total",
+          "verdict": "skip",
+          "reason": "0 reservados de 'circuito scalextric superslot desafio total' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Figura de acción de Spiderman con brazos amarillos",
+          "price": 3,
+          "city": "Reggio Calabria",
+          "url": "https://es.wallapop.com/item/action-figure-spiderman-con-bracci-gialli-1255762697",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 31,
+  "total_signals": 1,
+  "duration_s": 73
+}
