@@ -1,0 +1,384 @@
+{
+  "timestamp": "2026-04-24T23:21:49.975Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 209,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Álbum Panini Adrenalyn XL 2016-17",
+          "price": 25,
+          "city": "Robledo de La Valdoncina",
+          "url": "https://es.wallapop.com/item/album-panini-adrenalyn-xl-2016-17-1255768180",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "album panini adrenalyn 2016-17",
+          "verdict": "skip",
+          "reason": "0 reservados de 'album panini adrenalyn 2016-17' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pack 2 Cartas Pokémon Chikorita",
+          "price": 5,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/pack-2-cartas-pokemon-chikorita-1255768580",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Pikachu & Zekrom GX 240 HP",
+          "price": 120,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-zekrom-gx-240-hp-1255768503",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon pikachu zekrom",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon pikachu zekrom' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pokémon Primer Compañero Serie 1 Español",
+          "price": 34.9,
+          "city": "Tavernes de la Valldigna",
+          "url": "https://es.wallapop.com/item/pokemon-primer-companero-serie-1-espanol-1255768192",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon primer companero serie espanol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon primer companero serie espanol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pack 4 Cartas Pokémon Clefairy",
+          "price": 38,
+          "city": "Alaquas",
+          "url": "https://es.wallapop.com/item/pack-4-cartas-pokemon-clefairy-1255768079",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack cartas pokemon clefairy",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pack cartas pokemon clefairy' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pack 2 Cartas Pokémon Gengar",
+          "price": 10,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/pack-2-cartas-pokemon-gengar-1255767585",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack cartas pokemon gengar",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pack cartas pokemon gengar' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil Set Fiesta Navideña",
+          "price": 10,
+          "city": "Algemesí",
+          "url": "https://es.wallapop.com/item/playmobil-set-fiesta-navidena-1255768527",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil set fiesta navidena",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playmobil set fiesta navidena' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 254,
+      "new_items": 20,
+      "items": [
+        {
+          "title": "Juego Nintendo Switch 2 Pokémon Pokopia",
+          "price": 65,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/juego-nintendo-switch-2-pokemon-pokopia-1255768452",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch pokemon pokopia",
+          "verdict": "skip",
+          "reason": "65€ vs mín reservado 55€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch OLED T.O.K. + Splatoon 3",
+          "price": 300,
+          "city": "Rende",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled-t-o-k---splatoon-3-1255767717",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Emio el sonriente (Famicom detective club)",
+          "price": 50,
+          "city": "Cartagena",
+          "url": "https://es.wallapop.com/item/emio-el-sonriente-famicom-detective-club-1255767641",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "emio sonriente (famicom detective club) Nintendo Switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'emio sonriente (famicom detective club) Nintendo Switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Super Mario 3D World + Bowser's Fury Switch",
+          "price": 30,
+          "city": "Motril",
+          "url": "https://es.wallapop.com/item/super-mario-3d-world---bowser-s-fury-switch-1255767555",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario world bowser's fury",
+          "verdict": "skip",
+          "reason": "30€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Ps5 Disco fat 825gb",
+          "price": 390,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/ps5-disco-fat-825gb-1255768617",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 fat 825gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 fat 825gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS3 Gran Turismo 5 Academy Edition",
+          "price": 10,
+          "city": "Mazo",
+          "url": "https://es.wallapop.com/item/ps3-gran-turismo-5-academy-edition-1255768586",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps3 gran turismo academy edition",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps3 gran turismo academy edition' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Scars Above PS5 Precintado",
+          "price": 16,
+          "city": "Pineda de Mar",
+          "url": "https://es.wallapop.com/item/scars-above-ps5-precintado-1255768399",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "scars above ps5 precintado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'scars above ps5 precintado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Rogue Flight PS5 Precintado",
+          "price": 48,
+          "city": "Pineda de Mar",
+          "url": "https://es.wallapop.com/item/rogue-flight-ps5-precintado-1255768111",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "rogue flight ps5 precintado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'rogue flight ps5 precintado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Scarlet Nexus PS5 Precintado",
+          "price": 48,
+          "city": "Pineda de Mar",
+          "url": "https://es.wallapop.com/item/scarlet-nexus-ps5-precintado-1255767799",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "scarlet nexus ps5 precintado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'scarlet nexus ps5 precintado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Max Batería 5000mAh",
+          "price": 300,
+          "city": "Mirandilla",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-bateria-5000mah-1255768529",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max bateria 5000mah",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max bateria 5000mah' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro negro",
+          "price": 600,
+          "city": "Talavera de la Reina",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-negro-1255768460",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro negro",
+          "verdict": "skip",
+          "reason": "600€ vs mín reservado 90€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Caja iPhone XR Roja",
+          "price": 4,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/caja-iphone-xr-roja-1255768320",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 16e 128GB sin estrenar",
+          "price": 399.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16e-128gb-sin-estrenar-1255768220",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 16e 128gb sin estrenar",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 16e 128gb sin estrenar' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Conector de Carga Negro iPhone XS Max Original...",
+          "price": 6.5,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/conector-de-carga-negro-iphone-xs-max-original-1255768170",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 14 Pro de 256GB",
+          "price": 450,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-de-256gb-1255768110",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 8 64GB nuevo",
+          "price": 110,
+          "city": "Azurva",
+          "url": "https://es.wallapop.com/item/iphone-8-64gb-novo-1255767881",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 64gb",
+          "verdict": "skip",
+          "reason": "110€ vs mín reservado 50€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 13",
+          "price": 60,
+          "city": "Noviales",
+          "url": "https://es.wallapop.com/item/iphone-13-1255767863",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Batería iPhone X Alta Capacidad",
+          "price": 10,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/bateria-iphone-x-alta-capacidad-1255767785",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bateria iphone alta capacidad",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "iPhone 14 Plus 128GB 84% Salud",
+          "price": 290,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-14-plus-128gb-84-salud-1255767665",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus 128gb 84% salud",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus 128gb 84% salud' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro 128GB Negro espectacular",
+          "price": 318,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-128gb-negro-espectacular-1255767494",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 128gb negro espectacular",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 128gb negro espectacular' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 163,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Vinilos LP Hardcore Punk Screamo",
+          "price": 31,
+          "city": "Torrelavega",
+          "url": "https://es.wallapop.com/item/vinilos-lp-hardcore-punk-screamo-1255767554",
+          "reserved": true,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "PROXIMAMENTE Crisis in Six Scenes (Blu-ray)",
+          "price": 22,
+          "city": "Palafolls",
+          "url": "https://es.wallapop.com/item/proximamente-crisis-in-six-scenes-blu-ray-1255768266",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "proximamente crisis six scenes (blu-ray)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'proximamente crisis six scenes (blu-ray)' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 83,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Juego de mesa Los Simpson Parchís",
+          "price": 10,
+          "city": "La Papiola",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-los-simpson-parchis-1255768494",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa los simpson parchis",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego mesa los simpson parchis' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Raqueta Tenis Niños Artengo Talla 21",
+          "price": 13,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/raqueta-tenis-ninos-artengo-talla-21-1255767764",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta tenis ninos artengo talla",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta tenis ninos artengo talla' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 34,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 31,
+  "total_signals": 0,
+  "duration_s": 67
+}

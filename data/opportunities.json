@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T23:16:34.192Z",
+  "updated_at": "2026-04-24T23:22:57.182Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "vinilos lp hardcore punk screamo",
+        "example_title": "Vinilos LP Hardcore Punk Screamo",
+        "example_url": "https://es.wallapop.com/item/vinilos-lp-hardcore-punk-screamo-1255767554",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 31,
+        "median_price": 31,
+        "max_price": 31,
+        "first_seen": "2026-04-24T23:22:57.179Z",
+        "last_seen": "2026-04-24T23:22:57.179Z",
+        "sample": [
+          {
+            "price": 31,
+            "title": "Vinilos LP Hardcore Punk Screamo",
+            "url": "https://es.wallapop.com/item/vinilos-lp-hardcore-punk-screamo-1255767554",
+            "city": "Torrelavega"
+          }
+        ]
+      },
+      {
+        "model": "funko pop homer simpson maggie",
+        "example_title": "Funko Pop Homer Simpson y Maggie",
+        "example_url": "https://es.wallapop.com/item/funko-pop-homer-simpson-y-maggie-1255749865",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T23:22:57.179Z",
+        "last_seen": "2026-04-24T23:22:57.179Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Funko Pop Homer Simpson y Maggie",
+            "url": "https://es.wallapop.com/item/funko-pop-homer-simpson-y-maggie-1255749865",
+            "city": "Requena"
+          }
+        ]
+      },
+      {
+        "model": "garchomp ex eevee pokemon tcg ingles",
+        "example_title": "Garchomp ex y Eevee Pokémon TCG Inglés",
+        "example_url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 23,
+        "median_price": 23,
+        "max_price": 23,
+        "first_seen": "2026-04-24T23:22:57.179Z",
+        "last_seen": "2026-04-24T23:22:57.179Z",
+        "sample": [
+          {
+            "price": 23,
+            "title": "Garchomp ex y Eevee Pokémon TCG Inglés",
+            "url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "pack funko pop silent hill heather james",
         "example_title": "Pack Funko Pop! Silent Hill Heather & James",
@@ -660,56 +735,6 @@
             "title": "Lote cartas Magic",
             "url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
             "city": "Altea"
-          }
-        ]
-      },
-      {
-        "model": "funko pop homer simpson maggie",
-        "example_title": "Funko Pop Homer Simpson y Maggie",
-        "example_url": "https://es.wallapop.com/item/funko-pop-homer-simpson-y-maggie-1255749865",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-24T21:17:30.661Z",
-        "last_seen": "2026-04-24T21:17:30.661Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Funko Pop Homer Simpson y Maggie",
-            "url": "https://es.wallapop.com/item/funko-pop-homer-simpson-y-maggie-1255749865",
-            "city": "Requena"
-          }
-        ]
-      },
-      {
-        "model": "garchomp ex eevee pokemon tcg ingles",
-        "example_title": "Garchomp ex y Eevee Pokémon TCG Inglés",
-        "example_url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 23,
-        "median_price": 23,
-        "max_price": 23,
-        "first_seen": "2026-04-24T21:17:30.661Z",
-        "last_seen": "2026-04-24T21:17:30.661Z",
-        "sample": [
-          {
-            "price": 23,
-            "title": "Garchomp ex y Eevee Pokémon TCG Inglés",
-            "url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
-            "city": "Madrid"
           }
         ]
       },
@@ -5970,10 +5995,10 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 229,
-    "total_unique_models": 236,
-    "total_reservations": 10,
-    "total_confirmed_sales": 235
+    "possible": 230,
+    "total_unique_models": 237,
+    "total_reservations": 9,
+    "total_confirmed_sales": 237
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5984,5 +6009,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzvgdewq2rzl",
+      "model": "funko pop homer simpson maggie",
+      "title": "Funko Pop Homer Simpson y Maggie",
+      "sold_price": 20,
+      "city": "Requena",
+      "url": "https://es.wallapop.com/item/funko-pop-homer-simpson-y-maggie-1255749865",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T21:17:30.661Z",
+      "last_seen": "2026-04-24T21:17:30.661Z",
+      "confirmed_at": "2026-04-24T23:22:57.179Z"
+    },
+    {
+      "id": "4z4829wrnwjy",
+      "model": "garchomp ex eevee pokemon tcg ingles",
+      "title": "Garchomp ex y Eevee Pokémon TCG Inglés",
+      "sold_price": 23,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T21:17:30.661Z",
+      "last_seen": "2026-04-24T21:17:30.661Z",
+      "confirmed_at": "2026-04-24T23:22:57.179Z"
+    }
+  ]
 }
