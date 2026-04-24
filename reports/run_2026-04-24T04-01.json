@@ -1,0 +1,184 @@
+{
+  "timestamp": "2026-04-24T04:00:38.180Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Cromos del  Mundial 2026",
+          "price": 22,
+          "city": "San Bizenti-Barakaldo",
+          "url": "https://es.wallapop.com/item/cromos-del-mundial-2026-1255483065",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromos del mundial",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromos del mundial' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cartas 2x Toxtricity PFLB 068/094 ★ Pokémon TCG",
+          "price": 2,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/cartas-2x-toxtricity-pflb-068-094-pokemon-tcg-1255483398",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 225,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "Ps5 Slim De Disco De 1TB",
+          "price": 297,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/libro-frin-de-luis-maria-pescetti-1255483068",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 slim 1tb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cajas Apple iPhone, Pencil y AirPods Pro",
+          "price": 1,
+          "city": "Las Palmas de Gran Canaria",
+          "url": "https://es.wallapop.com/item/cajas-apple-iphone-pencil-y-airpods-pro-1255483213",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "iPhone 12 Pro Max 256GB Gris",
+          "price": 300,
+          "city": "Baldatika",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-max-256gb-gris-1255483511",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb gris",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb gris' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 512GB Naranja",
+          "price": 1375,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-512gb-naranja-1255483463",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 512gb naranja",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 512gb naranja' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 Negro con Caja",
+          "price": 390,
+          "city": "Elizmendi",
+          "url": "https://es.wallapop.com/item/iphone-11-negro-con-caja-1255483435",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro con",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro con' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 128GB Azul Medianoche",
+          "price": 170,
+          "city": "Elx/Elche",
+          "url": "https://es.wallapop.com/item/iphone-13-128gb-azul-medianoche-1255483418",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 171,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "SEPULTURA CHAOS A.D. DOBLE LP VINILO NUEVO",
+          "price": 40,
+          "city": "Cádiz",
+          "url": "https://es.wallapop.com/item/sepultura-chaos-a-d-doble-lp-vinilo-nuevo-1255483582",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "sepultura chaos a.d. doble",
+          "verdict": "skip",
+          "reason": "0 reservados de 'sepultura chaos a.d. doble' (sin evidencia de demanda)"
+        },
+        {
+          "title": "LP de Bob Dylan Highway 61 Revisited",
+          "price": 32,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/bob-dylan-highway-61-revisited-lp-1255483403",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "bob dylan highway revisited",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bob dylan highway revisited' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Swing Out Sister - It's Better to Travel LP",
+          "price": 15,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/swing-out-sister-it-s-better-to-travel-lp-1255483001",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "swing out sister it's better",
+          "verdict": "skip",
+          "reason": "0 reservados de 'swing out sister it's better' (sin evidencia de demanda)"
+        },
+        {
+          "title": "The Host Blu-ray",
+          "price": 5,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/the-host-blu-ray-1255483606",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Wonder Woman Blu-ray",
+          "price": 4,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/wonder-woman-blu-ray-1255483542",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 41,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 13,
+  "total_signals": 0,
+  "duration_s": 75
+}
