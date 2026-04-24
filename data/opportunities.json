@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T22:31:43.465Z",
+  "updated_at": "2026-04-24T22:46:44.974Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cartas pokemon variadas",
+        "example_title": "Lote Cartas Pokémon Variadas",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-24T22:46:44.972Z",
+        "last_seen": "2026-04-24T22:46:44.972Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Lote Cartas Pokémon Variadas",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
+            "city": "Manresa"
+          }
+        ]
+      },
       {
         "model": "pokemon escarlata purpura evoluciones paldea",
         "example_title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
@@ -3870,7 +3895,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5920,9 +5945,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 227,
-    "total_unique_models": 234,
-    "total_reservations": 9,
+    "possible": 228,
+    "total_unique_models": 235,
+    "total_reservations": 10,
     "total_confirmed_sales": 234
   },
   "thresholds": {
@@ -5934,30 +5959,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "8j38kd0nxyz9",
-      "model": "pokemon escarlata purpura evoluciones paldea",
-      "title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
-      "sold_price": 80,
-      "city": "Valencia",
-      "url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-evoluciones-en-paldea-1255742282",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T20:27:20.709Z",
-      "last_seen": "2026-04-24T20:27:20.709Z",
-      "confirmed_at": "2026-04-24T22:31:43.463Z"
-    },
-    {
-      "id": "v6gp359dql6e",
-      "model": "lote cartas magic the gathering 3kg",
-      "title": "Lote Cartas Magic the Gathering +3kg",
-      "sold_price": 10,
-      "city": "Vilariño",
-      "url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T20:31:42.324Z",
-      "last_seen": "2026-04-24T20:31:42.324Z",
-      "confirmed_at": "2026-04-24T22:31:43.463Z"
-    }
-  ]
+  "new_sales": []
 }
