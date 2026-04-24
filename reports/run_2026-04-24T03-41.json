@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-04-24T03:40:23.159Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 224,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "PlayStation 5 Pro",
+          "price": 450,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/playstation-5-pro-1255482052",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playstation pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 256GB Rosa Factura+Garantia3añosOficial",
+          "price": 760,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-16-256gb-rosa-1255482131",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb rosa factura+garantia3anosoficial",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb rosa factura+garantia3anosoficial' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Max Space Gray",
+          "price": 430,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-space-gray-1255482672",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max space gray",
+          "verdict": "skip",
+          "reason": "430€ vs mín reservado 260€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 171,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "King Crimson Discipline LP",
+          "price": 28,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/king-crimson-discipline-lp-1255482172",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "king crimson discipline",
+          "verdict": "skip",
+          "reason": "0 reservados de 'king crimson discipline' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 41,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 4,
+  "total_signals": 0,
+  "duration_s": 65
+}
