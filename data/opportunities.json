@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T01:02:31.223Z",
+  "updated_at": "2026-04-24T01:13:18.858Z",
   "tiers": {
     "proven_seller": [
       {
@@ -69,6 +69,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "pathfinder reglas tomos aventura",
+        "example_title": "Pathfinder Reglas y 3 Tomos Aventura",
+        "example_url": "https://es.wallapop.com/item/pathfinder-reglas-y-3-tomos-aventura-1255454892",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T01:13:18.857Z",
+        "last_seen": "2026-04-24T01:13:18.857Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Pathfinder Reglas y 3 Tomos Aventura",
+            "url": "https://es.wallapop.com/item/pathfinder-reglas-y-3-tomos-aventura-1255454892",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "carta pokemon #94 gengar",
         "example_title": "Carta Pokémon #94 Gengar",
@@ -566,31 +591,6 @@
             "title": "Lote Nuria 2",
             "url": "https://es.wallapop.com/item/lote-nuria-2-1255431959",
             "city": "Vitoria-Gasteiz"
-          }
-        ]
-      },
-      {
-        "model": "pathfinder reglas tomos aventura",
-        "example_title": "Pathfinder Reglas y 3 Tomos Aventura",
-        "example_url": "https://es.wallapop.com/item/pathfinder-reglas-y-3-tomos-aventura-1255454892",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-23T22:17:21.384Z",
-        "last_seen": "2026-04-23T22:17:21.384Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "Pathfinder Reglas y 3 Tomos Aventura",
-            "url": "https://es.wallapop.com/item/pathfinder-reglas-y-3-tomos-aventura-1255454892",
-            "city": "Madrid"
           }
         ]
       },
@@ -2703,8 +2703,8 @@
     "recurring": 0,
     "possible": 105,
     "total_unique_models": 107,
-    "total_reservations": 8,
-    "total_confirmed_sales": 103
+    "total_reservations": 7,
+    "total_confirmed_sales": 104
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2715,5 +2715,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzyrgpll5v65",
+      "model": "pathfinder reglas tomos aventura",
+      "title": "Pathfinder Reglas y 3 Tomos Aventura",
+      "sold_price": 35,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/pathfinder-reglas-y-3-tomos-aventura-1255454892",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-23T22:17:21.384Z",
+      "last_seen": "2026-04-23T22:17:21.384Z",
+      "confirmed_at": "2026-04-24T01:13:18.857Z"
+    }
+  ]
 }
