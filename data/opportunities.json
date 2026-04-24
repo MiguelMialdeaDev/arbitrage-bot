@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T06:01:59.986Z",
+  "updated_at": "2026-04-24T06:16:43.184Z",
   "tiers": {
     "proven_seller": [
       {
@@ -81,6 +81,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote videojuegos ps2",
+        "example_title": "Lote 5 Videojuegos PS2",
+        "example_url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T06:16:43.183Z",
+        "last_seen": "2026-04-24T06:16:43.183Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Lote 5 Videojuegos PS2",
+            "url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
+            "city": "Zaragoza"
+          }
+        ]
+      },
       {
         "model": "llavero funko gizmo",
         "example_title": "Llavero Funko Gizmo",
@@ -2763,9 +2788,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 107,
-    "total_unique_models": 109,
-    "total_reservations": 4,
+    "possible": 108,
+    "total_unique_models": 110,
+    "total_reservations": 5,
     "total_confirmed_sales": 109
   },
   "thresholds": {
@@ -2777,54 +2802,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "8z88pnqlg1z3",
-      "model": "llavero funko gizmo",
-      "title": "Llavero Funko Gizmo",
-      "sold_price": 5,
-      "city": "Logroño",
-      "url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T23:56:55.479Z",
-      "last_seen": "2026-04-23T23:56:55.479Z",
-      "confirmed_at": "2026-04-24T06:01:59.985Z"
-    },
-    {
-      "id": "ejkmn7xn3yzx",
-      "model": "llavero funko castiel",
-      "title": "Llavero Funko Castiel",
-      "sold_price": 5,
-      "city": "Logroño",
-      "url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T23:56:55.479Z",
-      "last_seen": "2026-04-23T23:56:55.479Z",
-      "confirmed_at": "2026-04-24T06:01:59.985Z"
-    },
-    {
-      "id": "4z4829y2l8jy",
-      "model": "funko the lost boys",
-      "title": "Funko The Lost Boys",
-      "sold_price": 10,
-      "city": "Logroño",
-      "url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T23:56:55.479Z",
-      "last_seen": "2026-04-23T23:56:55.479Z",
-      "confirmed_at": "2026-04-24T06:01:59.985Z"
-    },
-    {
-      "id": "qjwrg5ye746o",
-      "model": "lote cartas pokemon",
-      "title": "Lote Cartas Pokémon",
-      "sold_price": 40,
-      "city": "Parla",
-      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T00:46:58.202Z",
-      "last_seen": "2026-04-24T00:46:58.202Z",
-      "confirmed_at": "2026-04-24T06:01:59.985Z"
-    }
-  ]
+  "new_sales": []
 }
