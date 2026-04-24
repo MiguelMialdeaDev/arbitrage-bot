@@ -1,0 +1,223 @@
+{
+  "timestamp": "2026-04-24T05:15:21.556Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 198,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Funko Pop K-Pop Demon Hunters",
+          "price": 78.5,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-k-pop-demon-hunters-1255486611",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko k-pop demon hunters",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko k-pop demon hunters' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Magearna holo 120/193 m2a jap Pokémon",
+          "price": 3,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/carta-magearna-holo-120-193-m2a-jap-pokemon-1255486528",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 238,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Nintendo Switch Negra",
+          "price": 65,
+          "city": "Eitzaga",
+          "url": "https://es.wallapop.com/item/nintendo-switch-negra-1255487163",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "consola <80€ sospechoso"
+        },
+        {
+          "title": "Borderlands 4 PS5 playstation español precintado",
+          "price": 25,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/borderlands-4-ps5-playstation-espanol-precintado-1255487037",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "borderlands ps5 playstation espanol precintado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'borderlands ps5 playstation espanol precintado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Ghost of Yotei PS5 Juego",
+          "price": 40,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/ghost-of-yotei-ps5-juego-1255486645",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ghost yotei ps5 juego",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado 34.9€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Iphone 17 pro max",
+          "price": 740,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/el-camino-del-artista-julia-cameron-1255486934",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 13 pro max",
+          "price": 321,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/jung-y-la-astrologia-claves-para-una-lectura-inte-1255487119",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Fundas iPhone 14 Varias",
+          "price": 20,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/fundas-iphone-14-varias-1255487102",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fundas iphone varias",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fundas iphone varias' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Fundas iPhone 15 Pro Max Marvel y Disney",
+          "price": 10,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/fundas-iphone-15-pro-max-marvel-y-disney-1255487068",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fundas iphone pro max marvel",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fundas iphone pro max marvel' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 167,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "David Bowie Heroes LP 1977",
+          "price": 25,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/david-bowie-heroes-lp-1977-1255487010",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "david bowie heroes",
+          "verdict": "skip",
+          "reason": "0 reservados de 'david bowie heroes' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vinilo YES 9012 Live The Solos",
+          "price": 9.8,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/vinilo-yes-9012-live-the-solos-1255486786",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "yes live the solos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'yes live the solos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vinilo Dio Dream Evil Heavy Metal",
+          "price": 28,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/vinilo-dio-dream-evil-heavy-metal-1255486721",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "dio dream evil heavy metal",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dio dream evil heavy metal' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vinilo Mike Bloomfield",
+          "price": 7,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/vinilo-mike-bloomfield-1255486663",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "mike bloomfield",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mike bloomfield' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 8 DVDs Cine Fantástico y Terror",
+          "price": 36,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/lote-8-dvds-cine-fantastico-y-terror-1255486933",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "dvds cine fantastico terror",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dvds cine fantastico terror' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 91,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Juego de mesa Winter Kingdoms",
+          "price": 15,
+          "city": "Daganzo de Arriba",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-winter-kingdoms-1255486974",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa winter kingdoms",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego mesa winter kingdoms' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Portal of Morth Juego de Mesa",
+          "price": 15,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/portal-of-morth-juego-de-mesa-1255486854",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "portal morth juego mesa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'portal morth juego mesa' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 39,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 16,
+  "total_signals": 0,
+  "duration_s": 73
+}
