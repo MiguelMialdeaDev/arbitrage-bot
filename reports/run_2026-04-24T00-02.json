@@ -1,0 +1,245 @@
+{
+  "timestamp": "2026-04-24T00:00:40.953Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 205,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Giovanni's Meowth 74/132 Pokémon Card",
+          "price": 13,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/giovanni-s-meowth-74-132-pokemon-card-1255462902",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "giovanni's meowth 74/132 pokemon card",
+          "verdict": "skip",
+          "reason": "0 reservados de 'giovanni's meowth 74/132 pokemon card' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pikachu de Lt. Surge - Base Set",
+          "price": 40,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/pikachu-de-lt-surge-base-set-1255462722",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pikachu lt. surge base set",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pikachu lt. surge base set' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil Western Oeste Figuras",
+          "price": 12,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/playmobil-western-oeste-figuras-1255462714",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil western oeste figuras",
+          "verdict": "skip",
+          "reason": "12€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 251,
+      "new_items": 12,
+      "items": [
+        {
+          "title": "Zelda Twilight Princess Nintendo Gamecube",
+          "price": 199.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/zelda-twilight-princess-nintendo-gamecube-1255462744",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Metroid Prime 2 Echoes Nintendo Gamecube",
+          "price": 59.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/metroid-prime-2-echoes-nintendo-gamecube-1255462672",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Consola PS4 (PlayStation 4) Negra + 2 Mandos",
+          "price": 110,
+          "city": "Mataró",
+          "url": "https://es.wallapop.com/item/consola-ps4-playstation-4-negra---2-mandos-1255462685",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps4 (playstation negra mandos",
+          "verdict": "skip",
+          "reason": "110€ vs mín reservado 90€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "in-ear apple airpods pro 3",
+          "price": 169,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-pro-3-1255462875",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Max Dorado",
+          "price": 550,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-dorado-1255462810",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 pro max 256gb",
+          "price": 1269,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-256gb-1255462786",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "1269€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 14 128gb",
+          "price": 319,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-128gb-1255462767",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone nuevo",
+          "price": 1200,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/iphone-nuevo-1255462752",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 11 128gb",
+          "price": 179,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/apple-iphone-11-128gb-1255462706",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 13 256gb",
+          "price": 315,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-256gb-1255462693",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 13 pro 128gb",
+          "price": 325,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-pro-128gb-1255462675",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 11 64gb",
+          "price": 159,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/apple-iphone-11-64gb-1255462648",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 64gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 64gb' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 174,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Berserk Edición Coleccionista Blu-ray + DVD",
+          "price": 35,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/berserk-edicion-coleccionista-blu-ray---dvd-1255462665",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "berserk edicion coleccionista blu-ray dvd",
+          "verdict": "skip",
+          "reason": "0 reservados de 'berserk edicion coleccionista blu-ray dvd' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Betrayal at House on the Hill Juego de Mesa",
+          "price": 22,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/betrayal-at-house-on-the-hill-juego-de-mesa-1255462851",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "betrayal house the hill juego",
+          "verdict": "skip",
+          "reason": "0 reservados de 'betrayal house the hill juego' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña specialized pitch (2018)",
+          "price": 309,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-specialized-pitch-2018-1255462836",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana specialized pitch (2018)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana specialized pitch (2018)' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 44,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 18,
+  "total_signals": 0,
+  "duration_s": 86
+}
