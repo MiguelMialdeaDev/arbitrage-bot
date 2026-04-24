@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T17:03:30.964Z",
+  "updated_at": "2026-04-24T17:10:41.344Z",
   "tiers": {
     "proven_seller": [
       {
@@ -4046,7 +4046,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4071,7 +4071,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5160,30 +5160,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "x6qq13orgo6y",
-      "model": "lote ferran",
-      "title": "Lote  FERRAN",
-      "sold_price": 70,
-      "city": "Tolosa",
-      "url": "https://es.wallapop.com/item/lote-playmobil-1255647590",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T14:57:01.841Z",
-      "last_seen": "2026-04-24T14:57:01.841Z",
-      "confirmed_at": "2026-04-24T17:03:30.962Z"
-    },
-    {
-      "id": "pj940p7g7m6e",
-      "model": "pack cartas reservado david",
-      "title": "Pack 5 Cartas Reservado David",
-      "sold_price": 10,
-      "city": "Jaén",
-      "url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T15:02:17.875Z",
-      "last_seen": "2026-04-24T15:02:17.875Z",
-      "confirmed_at": "2026-04-24T17:03:30.962Z"
-    }
-  ]
+  "new_sales": []
 }
