@@ -1,0 +1,157 @@
+{
+  "timestamp": "2026-04-24T04:41:08.690Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 200,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 226,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "Juego Nintendo Switch Ai: Shredder's Revenge",
+          "price": 20,
+          "city": "Elx/Elche",
+          "url": "https://es.wallapop.com/item/juego-nintendo-switch-ai-shredder-s-revenge-1255485081",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch ai: shredder's revenge",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch ai: shredder's revenge' (sin evidencia de demanda)"
+        },
+        {
+          "title": "DOOM The Dark Ages PS5",
+          "price": 43,
+          "city": "Petrer",
+          "url": "https://es.wallapop.com/item/doom-the-dark-ages-ps5-1255485199",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "doom the dark ages ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'doom the dark ages ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 8 Plus y iPhone XR Negros",
+          "price": 70,
+          "city": "Almería",
+          "url": "https://es.wallapop.com/item/iphone-8-plus-y-iphone-xr-negros-1255485514",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        },
+        {
+          "title": "iphone 13 pro max",
+          "price": 250,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/instrucciones-para-enamorarse-nicola-yoon-1255485410",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Samsung Galaxy Watch 6 Negro",
+          "price": 80,
+          "city": "Pontevedra",
+          "url": "https://es.wallapop.com/item/samsung-galaxy-watch-6-negro-1255485303",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "samsung galaxy watch negro",
+          "verdict": "skip",
+          "reason": "80€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iphone 17 pro max",
+          "price": 930,
+          "city": "Zamora",
+          "url": "https://es.wallapop.com/item/martillo-de-una-krain-8-oz-1255483908",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 168,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "2Lp Vinilo Wishbone Ash Double Live Dates",
+          "price": 30,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/2lp-vinilo-wishbone-ash-double-live-dates-1255485512",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "2lp wishbone ash double live",
+          "verdict": "skip",
+          "reason": "0 reservados de '2lp wishbone ash double live' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vinilo Lee Ritenour Color Rit Jazz",
+          "price": 18.5,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/vinilo-lee-ritenour-color-rit-jazz-1255485446",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lee ritenour color rit jazz",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lee ritenour color rit jazz' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Michael Jackson Bad LP Vinilo",
+          "price": 30,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/michael-jackson-bad-lp-vinile-1255485308",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "michael jackson bad",
+          "verdict": "skip",
+          "reason": "30€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Miniaturas Gorkamorka (Warhammer) para Marcos",
+          "price": 50,
+          "city": "Sant Cugat del Vallès",
+          "url": "https://es.wallapop.com/item/miniaturas-gorkamorka-warhammer-para-marcos-1255485082",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "miniaturas gorkamorka (warhammer) para marcos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'miniaturas gorkamorka (warhammer) para marcos' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 39,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 10,
+  "total_signals": 0,
+  "duration_s": 64
+}
