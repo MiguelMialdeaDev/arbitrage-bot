@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T21:30:09.043Z",
+  "updated_at": "2026-04-24T21:31:24.314Z",
   "tiers": {
     "proven_seller": [
       {
@@ -5884,18 +5884,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "pj940p2rv26e",
-      "model": "lote cartas magic",
-      "title": "Lote cartas Magic",
-      "sold_price": 315,
-      "city": "Altea",
-      "url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T16:47:43.119Z",
-      "last_seen": "2026-04-24T16:47:43.119Z",
-      "confirmed_at": "2026-04-24T21:30:09.042Z"
-    }
-  ]
+  "new_sales": []
 }

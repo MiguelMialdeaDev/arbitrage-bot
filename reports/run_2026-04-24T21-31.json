@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-04-24T21:30:31.304Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 220,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 269,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 164,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 89,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "2 Raquetas Wilson y Mochila Babolat",
+          "price": 80,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/2-raquetas-wilson-y-mochila-babolat-1255754515",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 29,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 1,
+  "total_signals": 0,
+  "duration_s": 53
+}
