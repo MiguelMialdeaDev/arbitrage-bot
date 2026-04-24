@@ -1,0 +1,114 @@
+{
+  "timestamp": "2026-04-24T03:30:27.208Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Funko Pop! Hello Kitty 99",
+          "price": 5,
+          "city": "Sant Pere de Ribes",
+          "url": "https://es.wallapop.com/item/funko-pop-hello-kitty-99-1255481573",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! hello kitty 99",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! hello kitty 99' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 222,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Ps5 Slim De Disco De 1TB",
+          "price": 295,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/libro-infantil-las-hierbas-magicas-1255481746",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 slim 1tb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "AirPods 4 ANC",
+          "price": 70,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/airpods-4-anc-1255481650",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods anc",
+          "verdict": "skip",
+          "reason": "0 reservados de 'airpods anc' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Plus 512GB Azul Marino bateria 100%",
+          "price": 720,
+          "city": "Talavera de la Reina",
+          "url": "https://es.wallapop.com/item/iphone-14-plus-512gb-azul-marino-bateria-100-1255481964",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus 512gb azul marino",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus 512gb azul marino' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Max 256GB Space Gray",
+          "price": 510,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-space-gray-1255481783",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb space",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb space' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 171,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "LP Supertramp Famous Last Words...",
+          "price": 15,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/lp-supertramp-famous-last-words-1255481741",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "supertramp famous last words...",
+          "verdict": "skip",
+          "reason": "0 reservados de 'supertramp famous last words...' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 42,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 6,
+  "total_signals": 0,
+  "duration_s": 65
+}
