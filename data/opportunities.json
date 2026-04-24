@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T17:10:41.344Z",
+  "updated_at": "2026-04-24T17:17:21.551Z",
   "tiers": {
     "proven_seller": [
       {
@@ -164,6 +164,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "patrulla",
+        "example_title": "Patrulla X",
+        "example_url": "https://es.wallapop.com/item/patrulla-x-1255618520",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-24T17:17:21.549Z",
+        "last_seen": "2026-04-24T17:17:21.549Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Patrulla X",
+            "url": "https://es.wallapop.com/item/patrulla-x-1255618520",
+            "city": "Zaragoza"
+          }
+        ]
+      },
       {
         "model": "lote juegos ps3 assassin creed ii killzone",
         "example_title": "Lote 6 Juegos PS3: Assassin's Creed II, Killzone 2",
@@ -1411,31 +1436,6 @@
             "title": "Set de figuras Gormiti",
             "url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
             "city": "Sassuolo"
-          }
-        ]
-      },
-      {
-        "model": "patrulla",
-        "example_title": "Patrulla X",
-        "example_url": "https://es.wallapop.com/item/patrulla-x-1255618520",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8,
-        "median_price": 8,
-        "max_price": 8,
-        "first_seen": "2026-04-24T13:17:33.679Z",
-        "last_seen": "2026-04-24T13:17:33.679Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "Patrulla X",
-            "url": "https://es.wallapop.com/item/patrulla-x-1255618520",
-            "city": "Zaragoza"
           }
         ]
       },
@@ -5148,8 +5148,8 @@
     "recurring": 0,
     "possible": 199,
     "total_unique_models": 204,
-    "total_reservations": 21,
-    "total_confirmed_sales": 190
+    "total_reservations": 20,
+    "total_confirmed_sales": 191
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5160,5 +5160,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzyrgpv3rx65",
+      "model": "patrulla",
+      "title": "Patrulla X",
+      "sold_price": 8,
+      "city": "Zaragoza",
+      "url": "https://es.wallapop.com/item/patrulla-x-1255618520",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T13:17:33.679Z",
+      "last_seen": "2026-04-24T13:17:33.679Z",
+      "confirmed_at": "2026-04-24T17:17:21.549Z"
+    }
+  ]
 }
