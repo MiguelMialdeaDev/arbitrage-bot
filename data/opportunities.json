@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T06:16:43.184Z",
+  "updated_at": "2026-04-24T06:19:08.888Z",
   "tiers": {
     "proven_seller": [
       {
@@ -81,6 +81,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "cartas magic the gathering imanol",
+        "example_title": "Cartas Magic: The Gathering para Imanol",
+        "example_url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 29.5,
+        "median_price": 29.5,
+        "max_price": 29.5,
+        "first_seen": "2026-04-24T06:19:08.887Z",
+        "last_seen": "2026-04-24T06:19:08.887Z",
+        "sample": [
+          {
+            "price": 29.5,
+            "title": "Cartas Magic: The Gathering para Imanol",
+            "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
+            "city": "Parla"
+          }
+        ]
+      },
+      {
+        "model": "mtg totem maldito campo fuerza",
+        "example_title": "MTG Tótem Maldito + Campo de Fuerza",
+        "example_url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-24T06:19:08.887Z",
+        "last_seen": "2026-04-24T06:19:08.887Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "MTG Tótem Maldito + Campo de Fuerza",
+            "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
+            "city": "Vila Nova de Gaia"
+          }
+        ]
+      },
       {
         "model": "lote videojuegos ps2",
         "example_title": "Lote 5 Videojuegos PS2",
@@ -928,31 +978,6 @@
             "title": "Ultra PRO Toploader y Penny Sleeves",
             "url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
             "city": "Burgos"
-          }
-        ]
-      },
-      {
-        "model": "mtg totem maldito campo fuerza",
-        "example_title": "MTG Tótem Maldito + Campo de Fuerza",
-        "example_url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-23T20:47:49.587Z",
-        "last_seen": "2026-04-23T20:47:49.587Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "MTG Tótem Maldito + Campo de Fuerza",
-            "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
-            "city": "Vila Nova de Gaia"
           }
         ]
       },
@@ -2788,10 +2813,10 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 108,
-    "total_unique_models": 110,
+    "possible": 109,
+    "total_unique_models": 111,
     "total_reservations": 5,
-    "total_confirmed_sales": 109
+    "total_confirmed_sales": 110
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2802,5 +2827,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "ejkmn7224qzx",
+      "model": "mtg totem maldito campo fuerza",
+      "title": "MTG Tótem Maldito + Campo de Fuerza",
+      "sold_price": 40,
+      "city": "Vila Nova de Gaia",
+      "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T20:47:49.587Z",
+      "last_seen": "2026-04-23T20:47:49.587Z",
+      "confirmed_at": "2026-04-24T06:19:08.887Z"
+    }
+  ]
 }

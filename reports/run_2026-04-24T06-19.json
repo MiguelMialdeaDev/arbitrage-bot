@@ -1,0 +1,230 @@
+{
+  "timestamp": "2026-04-24T06:17:55.847Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 204,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "Funko Pop! One Piece Smoker 2328 Netflix",
+          "price": 35,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funko-pop-one-piece-smoker-2328-netflix-1255493489",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! one piece smoker netflix 2328",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! one piece smoker netflix 2328' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Stranger Things Kinder Joy",
+          "price": 12,
+          "city": "Sant Feliu de Llobregat",
+          "url": "https://es.wallapop.com/item/funko-pop-stranger-things-kinder-joy-1255493428",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "CROMOS TOTALMENTE NUEVOS, LIGA 25-26. HAGO ENVÍOS.",
+          "price": 1,
+          "city": "Rivas-Vaciamadrid",
+          "url": "https://es.wallapop.com/item/cromos-totalmente-nuevos-liga-25-26-hago-envios-1255492951",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "PACK 4 Mazos Pauper Cartas Magic The Gathering MTG",
+          "price": 20,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/pack-4-mazos-pauper-cartas-magic-the-gathering-mtg-1255493758",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack mazos pauper cartas magic",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pack mazos pauper cartas magic' (sin evidencia de demanda)"
+        },
+        {
+          "title": "MTG Infrecuentes sin repetir Cartas Magic comander",
+          "price": 8,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/mtg-infrecuentes-sin-repetir-cartas-magic-comander-1255493460",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cartas Magic: The Gathering para Imanol",
+          "price": 29.5,
+          "city": "Parla",
+          "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "cartas magic: the gathering para",
+          "verdict": "skip",
+          "reason": "29.5€ vs mín reservado 40€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 258,
+      "new_items": 11,
+      "items": [
+        {
+          "title": "Mario Rabbids + Kingdom Battle",
+          "price": 15,
+          "city": "Premià de Dalt",
+          "url": "https://es.wallapop.com/item/mario-rabbids---kingdom-battle-1255493591",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mario rabbids kingdom battle",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "Xbox One S con control y juegos",
+          "price": 75,
+          "city": "Creva",
+          "url": "https://es.wallapop.com/item/xbox-one-s-con-controller-e-giochi-1255493564",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox one con control juegos",
+          "verdict": "skip",
+          "reason": "75€ vs mín reservado 90€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Celeste Edición Deluxe Nintendo Switch",
+          "price": 65,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/celeste-edicion-deluxe-nintendo-switch-1255493324",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "celeste deluxe nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'celeste deluxe nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collec",
+          "price": 20,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/teenage-mutant-ninja-turtles-the-cowabunga-collec-1255493600",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "teenage mutant ninja turtles: the",
+          "verdict": "skip",
+          "reason": "0 reservados de 'teenage mutant ninja turtles: the' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Need for Speed Unbound PS5",
+          "price": 20,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/need-for-speed-unbound-ps5-1255493288",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "need for speed unbound ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'need for speed unbound ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "F1 24 PS5 EA Sports",
+          "price": 22,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/f1-24-ps5-ea-sports-1255493122",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 sports",
+          "verdict": "skip",
+          "reason": "22€ vs mín reservado 5€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Consola PS5 Digital Edition Sony",
+          "price": 230,
+          "city": "Vecindario",
+          "url": "https://es.wallapop.com/item/consola-ps5-digital-edition-sony-1255492981",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 digital edition sony",
+          "verdict": "skip",
+          "reason": "230€ vs mín reservado 310€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Xbox Series S + 2 Controles + Cargador",
+          "price": 225,
+          "city": "Frank Espinos",
+          "url": "https://es.wallapop.com/item/xbox-series-s---2-controles---cargador-1255493363",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series controles cargador",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox series controles cargador' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Rosa",
+          "price": 150,
+          "city": "Camas",
+          "url": "https://es.wallapop.com/item/iphone-14-rosa-1255493804",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone rosa",
+          "verdict": "skip",
+          "reason": "150€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone SE (2020) 64 Gb - Negro - Libre",
+          "price": 45,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-se-2020-64-gb-negro-libre-1255493514",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone (2020) negro libre",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone (2020) negro libre' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Blanco a estrenar",
+          "price": 780,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-blanco-a-estrenar-1255493261",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone blanco estrenar",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone blanco estrenar' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 163,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 82,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 36,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 17,
+  "total_signals": 0,
+  "duration_s": 73
+}

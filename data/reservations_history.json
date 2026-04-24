@@ -1,17 +1,6 @@
 {
   "reservations": [
     {
-      "id": "ejkmn7224qzx",
-      "title": "MTG Tótem Maldito + Campo de Fuerza",
-      "model": "mtg totem maldito campo fuerza",
-      "price": 40,
-      "city": "Vila Nova de Gaia",
-      "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-23T20:47:49.587Z",
-      "last_seen": "2026-04-23T20:47:49.587Z"
-    },
-    {
       "id": "vjrem2y92lzk",
       "title": "Ultra PRO Toploader y Penny Sleeves",
       "model": "ultra pro toploader penny sleeves",
@@ -54,6 +43,17 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-24T06:16:43.183Z",
       "last_seen": "2026-04-24T06:16:43.183Z"
+    },
+    {
+      "id": "pzpkxo10vlj3",
+      "title": "Cartas Magic: The Gathering para Imanol",
+      "model": "cartas magic the gathering imanol",
+      "price": 29.5,
+      "city": "Parla",
+      "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T06:19:08.887Z",
+      "last_seen": "2026-04-24T06:19:08.887Z"
     }
   ]
 }
