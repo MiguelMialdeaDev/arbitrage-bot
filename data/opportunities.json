@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T20:27:20.710Z",
+  "updated_at": "2026-04-24T20:31:42.325Z",
   "tiers": {
     "proven_seller": [
       {
@@ -232,6 +232,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cartas magic the gathering 3kg",
+        "example_title": "Lote Cartas Magic the Gathering +3kg",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T20:31:42.324Z",
+        "last_seen": "2026-04-24T20:31:42.324Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote Cartas Magic the Gathering +3kg",
+            "url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
+            "city": "Vilariño"
+          }
+        ]
+      },
       {
         "model": "pokemon escarlata purpura evoluciones paldea",
         "example_title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
@@ -5714,9 +5739,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 219,
-    "total_unique_models": 226,
-    "total_reservations": 19,
+    "possible": 220,
+    "total_unique_models": 227,
+    "total_reservations": 20,
     "total_confirmed_sales": 216
   },
   "thresholds": {

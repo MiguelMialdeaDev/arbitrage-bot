@@ -1,0 +1,425 @@
+{
+  "timestamp": "2026-04-24T20:30:33.068Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 219,
+      "new_items": 9,
+      "items": [
+        {
+          "title": "Funko Pop! Bigfoot Snowy 15 Flocked",
+          "price": 125,
+          "city": "Potríes",
+          "url": "https://es.wallapop.com/item/funko-pop-bigfoot-snowy-15-flocked-1255743659",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! bigfoot snowy flocked 15",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! bigfoot snowy flocked 15' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja Funko Pop! #633 El Señor de los Anillos",
+          "price": 6,
+          "city": "Arroyo de la Encomienda",
+          "url": "https://es.wallapop.com/item/caja-funko-pop-633-el-senor-de-los-anillos-1255743276",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! #633 senor los anillos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! #633 senor los anillos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Halo Master Chief con MA40",
+          "price": 11,
+          "city": "Cornella de Llobregat",
+          "url": "https://es.wallapop.com/item/funko-pop-halo-master-chief-con-ma40-1255743053",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko halo master chief con ma40",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko halo master chief con ma40' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Panini Álbum FIFA World Cup 2026 + Sobres",
+          "price": 5,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/panini-album-fifa-world-cup-2026---sobres-1255743294",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "WWE 2026 Topps Chrome Trading Cards Value Box",
+          "price": 40,
+          "city": "Chiclana de la Frontera",
+          "url": "https://es.wallapop.com/item/wwe-2026-topps-chrome-trading-cards-value-box-1255743236",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "wwe topps chrome trading cards",
+          "verdict": "skip",
+          "reason": "0 reservados de 'wwe topps chrome trading cards' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Cartas Magic the Gathering +3kg",
+          "price": 10,
+          "city": "Vilariño",
+          "url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "cartas magic the gathering +3kg",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas magic the gathering +3kg' (sin evidencia de demanda)"
+        },
+        {
+          "title": "FORCE OF WILL MTG",
+          "price": 100,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/force-of-will-mtg-1255743523",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "force will mtg",
+          "verdict": "skip",
+          "reason": "0 reservados de 'force will mtg' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mtg Vínculo de agonía",
+          "price": 1,
+          "city": "Aranda de Duero",
+          "url": "https://es.wallapop.com/item/mtg-vinculo-de-agonia-1255743373",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Playmobil figura de policía edición limitada",
+          "price": 3.5,
+          "city": "Napoli",
+          "url": "https://es.wallapop.com/item/playmobil-figura-poliziotto-edizione-limitata-1255743419",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 276,
+      "new_items": 20,
+      "items": [
+        {
+          "title": "Cargador compatible Nintendo Switch 1 y 2",
+          "price": 6.5,
+          "city": "Sutri",
+          "url": "https://es.wallapop.com/item/caricatore-compatibile-nintendo-switch-1-e-2-1255744796",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Juegos Nintendo Switch PAL 🇪🇦 alguno Precintado",
+          "price": 15.95,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/juegos-nintendo-switch-pal-alguno-precintado-1255744485",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch pal 🇪🇦 alguno",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch pal 🇪🇦 alguno' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch Azul y Naranja con videojuegos",
+          "price": 210,
+          "city": "Brunete",
+          "url": "https://es.wallapop.com/item/nintendo-switch-azul-y-naranja-con-videojuegos-1255744148",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch azul naranja",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch azul naranja' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Marvel Ultimate Alliance 3 Nintendo Switch",
+          "price": 14,
+          "city": "Tomelloso",
+          "url": "https://es.wallapop.com/item/marvel-ultimate-alliance-3-nintendo-switch-1255743449",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "🆕-PRECINTADOS- 5 juegos Nintendo switch 🇪🇦",
+          "price": 17.95,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/precintados-5-juegos-nintendo-switch-1255743421",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "🆕-precintados- nintendo switch 🇪🇦",
+          "verdict": "skip",
+          "reason": "0 reservados de '🆕-precintados- nintendo switch 🇪🇦' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Videojuego Golvellius Valley of Doom master system",
+          "price": 50,
+          "city": "L'Hospitalet de Llobregat",
+          "url": "https://es.wallapop.com/item/videojuego-golvellius-valley-of-doom-master-system-1255743032",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "videojuego golvellius valley doom master",
+          "verdict": "skip",
+          "reason": "0 reservados de 'videojuego golvellius valley doom master' (sin evidencia de demanda)"
+        },
+        {
+          "title": "The Plucky Squire Deluxe Edition PS5",
+          "price": 30,
+          "city": "Alcalá de Guadaíra",
+          "url": "https://es.wallapop.com/item/the-plucky-squire-deluxe-edition-ps5-1255744769",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "the plucky squire deluxe edition",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the plucky squire deluxe edition' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PlayStation 5 (PS5) + Mando Azul",
+          "price": 379,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/playstation-5-ps5---mando-azul-1255744420",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation (ps5) mando azul",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playstation (ps5) mando azul' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PS5 Slim Blanca + Mando",
+          "price": 300,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/consola-ps5-slim-blanca---mando-1255744386",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 slim blanca mando",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps5 slim blanca mando' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PlayStation 5 pro NUEVA",
+          "price": 750,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/playstation-5-pro-nueva-1255744240",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation pro nueva",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playstation pro nueva' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PS5 con Lector",
+          "price": 380,
+          "city": "Girona",
+          "url": "https://es.wallapop.com/item/consola-ps5-con-lector-1255744130",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 con lector",
+          "verdict": "skip",
+          "reason": "380€ vs mín reservado 310€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Devil May Cry 5 Special Edition PS5",
+          "price": 10,
+          "city": "Barbera del Valles",
+          "url": "https://es.wallapop.com/item/devil-may-cry-5-special-edition-ps5-1255744076",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "devil may cry special edition",
+          "verdict": "skip",
+          "reason": "0 reservados de 'devil may cry special edition' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Auriculares RIG 300 PRO HX para Xbox",
+          "price": 15,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/auriculares-rig-300-pro-hx-para-xbox-1255743807",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "auriculares rig pro para xbox",
+          "verdict": "skip",
+          "reason": "0 reservados de 'auriculares rig pro para xbox' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Death Stranding Director's Cut PS5",
+          "price": 15,
+          "city": "Barbera del Valles",
+          "url": "https://es.wallapop.com/item/death-stranding-director-s-cut-ps5-1255743785",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "death stranding director's cut ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'death stranding director's cut ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PS5 Digital 1TB Blanca",
+          "price": 350,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/consola-ps5-digital-1tb-blanca-1255743694",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 digital 1tb blanca",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps5 digital 1tb blanca' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Elden Ring PS5 Bandai Namco",
+          "price": 25,
+          "city": "Barbera del Valles",
+          "url": "https://es.wallapop.com/item/elden-ring-ps5-bandai-namco-1255743603",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "elden ring ps5 bandai namco",
+          "verdict": "skip",
+          "reason": "25€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "PS5 con base de carga y 2 mandos",
+          "price": 355,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/ps5-con-base-de-carga-y-2-mandos-1255743472",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 con base carga mandos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 con base carga mandos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Ps5 Slim De Disco De 1TB",
+          "price": 295,
+          "city": "Atarfe",
+          "url": "https://es.wallapop.com/item/libro-frin-de-luis-maria-pescetti-1255743381",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 slim 1tb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego PS4 Alfred Hitchcock Vertigo",
+          "price": 10,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/juego-ps4-alfred-hitchcock-vertigo-1255743252",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego ps4 alfred hitchcock vertigo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego ps4 alfred hitchcock vertigo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch Series 5 Nike Edition 44MM",
+          "price": 89,
+          "city": "Padul",
+          "url": "https://es.wallapop.com/item/apple-watch-series-5-nike-edition-44mm-1255744157",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 175,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Mario Tessuto Lisa dagli occhi blu LP",
+          "price": 9,
+          "city": "Lodi",
+          "url": "https://es.wallapop.com/item/mario-tessuto-lisa-dagli-occhi-blu-lp-1255744957",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "mario tessuto lisa dagli occhi",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mario tessuto lisa dagli occhi' (sin evidencia de demanda)"
+        },
+        {
+          "title": "LP Mecano Entre el cielo y el suelo y mas grupos",
+          "price": 1,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/lp-mecano-entre-el-cielo-y-el-suelo-y-mas-grupos-1255744908",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 78,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Juego de mesa vintage Kismet",
+          "price": 10,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/gioco-da-tavolo-vintage-kismet-1255744410",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa vintage kismet",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego mesa vintage kismet' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Puzzle 1000 piezas High Quality",
+          "price": 6,
+          "city": "L' Alcudia",
+          "url": "https://es.wallapop.com/item/puzzle-1000-piezas-high-quality-1255744253",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 35,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "LEGO Star Wars 75387 Tantive IV",
+          "price": 43,
+          "city": "Ceutí",
+          "url": "https://es.wallapop.com/item/lego-star-wars-75387-tantive-iv-1255744284",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lego star wars tantive",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lego star wars tantive' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Camiseta K-Pop Estampada",
+          "price": 15,
+          "city": "Yuncos",
+          "url": "https://es.wallapop.com/item/camiseta-k-pop-estampada-1255744426",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "camiseta k-pop estampada",
+          "verdict": "skip",
+          "reason": "0 reservados de 'camiseta k-pop estampada' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 35,
+  "total_signals": 0,
+  "duration_s": 69
+}
