@@ -12,17 +12,6 @@
       "last_seen": "2026-04-24T08:02:30.011Z"
     },
     {
-      "id": "mzn371m0r7jn",
-      "title": "Cartas Pokémon M.Angel",
-      "model": "cartas pokemon angel",
-      "price": 15.5,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/cartas-pokemon-m-angel-1255611997",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T13:02:49.952Z",
-      "last_seen": "2026-04-24T13:02:49.952Z"
-    },
-    {
       "id": "v6gp3534w76e",
       "title": "4 Cromos Lamine Yamal Panini Instant",
       "model": "cromos lamine yamal panini instant",
@@ -230,6 +219,50 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-24T15:02:17.875Z",
       "last_seen": "2026-04-24T15:02:17.875Z"
+    },
+    {
+      "id": "v6gp35qkw26e",
+      "title": "Lote de 9 cartas Charizard Pokémon",
+      "model": "lote cartas charizard pokemon",
+      "price": 460,
+      "city": "Subiaco",
+      "url": "https://es.wallapop.com/item/lotto-9-carte-charizard-pokemon-1255653940",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T15:17:32.103Z",
+      "last_seen": "2026-04-24T15:17:32.103Z"
+    },
+    {
+      "id": "e65qdk5r2g6o",
+      "title": "2 Mandos DualSense PS5 (Fallo Drift)",
+      "model": "mandos dualsense ps5 fallo drift",
+      "price": 50,
+      "city": "Montcada i Reixac",
+      "url": "https://es.wallapop.com/item/2-mandos-dualsense-ps5-falla-drift-1255653796",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-24T15:17:32.103Z",
+      "last_seen": "2026-04-24T15:17:32.103Z"
+    },
+    {
+      "id": "ejkmn7q0lpzx",
+      "title": "El Destino Final Blu-ray 3D (Terror)",
+      "model": "destino final blu ray 3d terror",
+      "price": 8,
+      "city": "Cádiz",
+      "url": "https://es.wallapop.com/item/el-destino-final-blu-ray-3d-terror-1255656295",
+      "category": "Cine, libros y música",
+      "first_seen": "2026-04-24T15:17:32.103Z",
+      "last_seen": "2026-04-24T15:17:32.103Z"
+    },
+    {
+      "id": "qzmm0x87kgzv",
+      "title": "Tapete de batalla Citadel",
+      "model": "tapete batalla citadel",
+      "price": 60,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/tapete-de-batalla-citadel-1255652208",
+      "category": "Deporte y ocio",
+      "first_seen": "2026-04-24T15:17:32.103Z",
+      "last_seen": "2026-04-24T15:17:32.103Z"
     }
   ]
 }
