@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T16:36:14.098Z",
+  "updated_at": "2026-04-24T16:47:43.121Z",
   "tiers": {
     "proven_seller": [
       {
@@ -164,6 +164,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cartas magic",
+        "example_title": "Lote cartas Magic",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 315,
+        "median_price": 315,
+        "max_price": 315,
+        "first_seen": "2026-04-24T16:47:43.119Z",
+        "last_seen": "2026-04-24T16:47:43.119Z",
+        "sample": [
+          {
+            "price": 315,
+            "title": "Lote cartas Magic",
+            "url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
+            "city": "Altea"
+          }
+        ]
+      },
       {
         "model": "lote articuno dark blastoise pokemon",
         "example_title": "Lote 2 Articuno y Dark Blastoise Pokémon",
@@ -4096,7 +4121,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4121,7 +4146,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5096,9 +5121,9 @@
     "hot_24h": 2,
     "trending_7d": 1,
     "recurring": 0,
-    "possible": 197,
-    "total_unique_models": 202,
-    "total_reservations": 21,
+    "possible": 198,
+    "total_unique_models": 203,
+    "total_reservations": 22,
     "total_confirmed_sales": 188
   },
   "thresholds": {
@@ -5110,18 +5135,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "wzyrgp0yn265",
-      "model": "lote articuno dark blastoise pokemon",
-      "title": "Lote 2 Articuno y Dark Blastoise Pokémon",
-      "sold_price": 55,
-      "city": "Castello/Castellon de La Plana",
-      "url": "https://es.wallapop.com/item/lote-2-articuno-y-dark-blastoise-pokemon-1255638020",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T14:33:24.347Z",
-      "last_seen": "2026-04-24T14:33:24.347Z",
-      "confirmed_at": "2026-04-24T16:36:14.096Z"
-    }
-  ]
+  "new_sales": []
 }
