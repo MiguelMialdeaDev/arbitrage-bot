@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T19:34:46.444Z",
+  "updated_at": "2026-04-24T19:47:00.648Z",
   "tiers": {
     "proven_seller": [
       {
@@ -232,6 +232,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "vinilo def leppard hysteria lp",
+        "example_title": "Vinilo Def Leppard Hysteria LP",
+        "example_url": "https://es.wallapop.com/item/vinilo-def-leppard-hysteria-lp-1255733288",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-24T19:47:00.647Z",
+        "last_seen": "2026-04-24T19:47:00.647Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Vinilo Def Leppard Hysteria LP",
+            "url": "https://es.wallapop.com/item/vinilo-def-leppard-hysteria-lp-1255733288",
+            "city": "Urbanizacion Ermita"
+          }
+        ]
+      },
+      {
+        "model": "vinilo lp siniestro total beneficio todos",
+        "example_title": "Vinilo LP Siniestro Total En Beneficio De Todos",
+        "example_url": "https://es.wallapop.com/item/vinilo-lp-siniestro-total-en-beneficio-de-todos-1255732650",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-24T19:47:00.647Z",
+        "last_seen": "2026-04-24T19:47:00.647Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Vinilo LP Siniestro Total En Beneficio De Todos",
+            "url": "https://es.wallapop.com/item/vinilo-lp-siniestro-total-en-beneficio-de-todos-1255732650",
+            "city": "Urbanizacion Ermita"
+          }
+        ]
+      },
+      {
+        "model": "elite trainer box mega evolucion pokemon",
+        "example_title": "Elite Trainer Box Mega Evolución Pokémon",
+        "example_url": "https://es.wallapop.com/item/elite-trainer-box-mega-evolucion-pokemon-1255700107",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 120,
+        "median_price": 120,
+        "max_price": 120,
+        "first_seen": "2026-04-24T19:47:00.647Z",
+        "last_seen": "2026-04-24T19:47:00.647Z",
+        "sample": [
+          {
+            "price": 120,
+            "title": "Elite Trainer Box Mega Evolución Pokémon",
+            "url": "https://es.wallapop.com/item/elite-trainer-box-mega-evolucion-pokemon-1255700107",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "funko pop zazu disney 499",
         "example_title": "Funko Pop Zazu Disney 499",
@@ -879,31 +954,6 @@
             "title": "Cromos Adrenalyn XL Mundial Panini",
             "url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
             "city": "Mataró"
-          }
-        ]
-      },
-      {
-        "model": "elite trainer box mega evolucion pokemon",
-        "example_title": "Elite Trainer Box Mega Evolución Pokémon",
-        "example_url": "https://es.wallapop.com/item/elite-trainer-box-mega-evolucion-pokemon-1255700107",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 120,
-        "median_price": 120,
-        "max_price": 120,
-        "first_seen": "2026-04-24T17:34:55.267Z",
-        "last_seen": "2026-04-24T17:34:55.267Z",
-        "sample": [
-          {
-            "price": 120,
-            "title": "Elite Trainer Box Mega Evolución Pokémon",
-            "url": "https://es.wallapop.com/item/elite-trainer-box-mega-evolucion-pokemon-1255700107",
-            "city": "Barcelona"
           }
         ]
       },
@@ -5589,10 +5639,10 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 214,
-    "total_unique_models": 221,
-    "total_reservations": 19,
-    "total_confirmed_sales": 211
+    "possible": 216,
+    "total_unique_models": 223,
+    "total_reservations": 20,
+    "total_confirmed_sales": 212
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5603,5 +5653,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "p618m3wwngz5",
+      "model": "elite trainer box mega evolucion pokemon",
+      "title": "Elite Trainer Box Mega Evolución Pokémon",
+      "sold_price": 120,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/elite-trainer-box-mega-evolucion-pokemon-1255700107",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T17:34:55.267Z",
+      "last_seen": "2026-04-24T17:34:55.267Z",
+      "confirmed_at": "2026-04-24T19:47:00.647Z"
+    }
+  ]
 }
