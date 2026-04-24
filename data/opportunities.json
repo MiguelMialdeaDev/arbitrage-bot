@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T21:31:24.314Z",
+  "updated_at": "2026-04-24T21:46:59.056Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "naruto myhtos trading card game eng",
+        "example_title": "Naruto Myhtos Trading Card Game ENG",
+        "example_url": "https://es.wallapop.com/item/naruto-myhtos-trading-card-game-eng-1255755307",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 180,
+        "median_price": 180,
+        "max_price": 180,
+        "first_seen": "2026-04-24T21:46:59.053Z",
+        "last_seen": "2026-04-24T21:46:59.053Z",
+        "sample": [
+          {
+            "price": 180,
+            "title": "Naruto Myhtos Trading Card Game ENG",
+            "url": "https://es.wallapop.com/item/naruto-myhtos-trading-card-game-eng-1255755307",
+            "city": "Santa Margarida de Montbui"
+          }
+        ]
+      },
+      {
+        "model": "funko pop zazu disney 499",
+        "example_title": "Funko Pop Zazu Disney 499",
+        "example_url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T21:46:59.053Z",
+        "last_seen": "2026-04-24T21:46:59.053Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Funko Pop Zazu Disney 499",
+            "url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
+            "city": "Elx/Elche"
+          }
+        ]
+      },
+      {
+        "model": "iphone 14 pro max negro",
+        "example_title": "iPhone 14 Pro Max negro",
+        "example_url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T21:46:59.053Z",
+        "last_seen": "2026-04-24T21:46:59.053Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "iPhone 14 Pro Max negro",
+            "url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
+            "city": "Medina de Pomar"
+          }
+        ]
+      },
       {
         "model": "funko pop one piece nico robin brook franky",
         "example_title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
@@ -835,56 +910,6 @@
             "title": "Elite Trainer Box Mega Evolución Pokémon",
             "url": "https://es.wallapop.com/item/elite-trainer-box-mega-evolucion-pokemon-1255700107",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "funko pop zazu disney 499",
-        "example_title": "Funko Pop Zazu Disney 499",
-        "example_url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T19:32:53.581Z",
-        "last_seen": "2026-04-24T19:32:53.581Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Funko Pop Zazu Disney 499",
-            "url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
-            "city": "Elx/Elche"
-          }
-        ]
-      },
-      {
-        "model": "iphone 14 pro max negro",
-        "example_title": "iPhone 14 Pro Max negro",
-        "example_url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 50,
-        "median_price": 50,
-        "max_price": 50,
-        "first_seen": "2026-04-24T19:32:53.581Z",
-        "last_seen": "2026-04-24T19:32:53.581Z",
-        "sample": [
-          {
-            "price": 50,
-            "title": "iPhone 14 Pro Max negro",
-            "url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
-            "city": "Medina de Pomar"
           }
         ]
       },
@@ -5870,10 +5895,10 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 225,
-    "total_unique_models": 232,
-    "total_reservations": 16,
-    "total_confirmed_sales": 225
+    "possible": 226,
+    "total_unique_models": 233,
+    "total_reservations": 15,
+    "total_confirmed_sales": 227
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5884,5 +5909,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "mzn37155wyjn",
+      "model": "funko pop zazu disney 499",
+      "title": "Funko Pop Zazu Disney 499",
+      "sold_price": 25,
+      "city": "Elx/Elche",
+      "url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T19:32:53.581Z",
+      "last_seen": "2026-04-24T19:32:53.581Z",
+      "confirmed_at": "2026-04-24T21:46:59.053Z"
+    },
+    {
+      "id": "xzogwm5k3lj9",
+      "model": "iphone 14 pro max negro",
+      "title": "iPhone 14 Pro Max negro",
+      "sold_price": 50,
+      "city": "Medina de Pomar",
+      "url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T19:32:53.581Z",
+      "last_seen": "2026-04-24T19:32:53.581Z",
+      "confirmed_at": "2026-04-24T21:46:59.053Z"
+    }
+  ]
 }
