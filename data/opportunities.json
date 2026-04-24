@@ -1,44 +1,7 @@
 {
-  "updated_at": "2026-04-24T17:32:18.788Z",
+  "updated_at": "2026-04-24T17:34:55.269Z",
   "tiers": {
     "proven_seller": [
-      {
-        "model": "lote cartas pokemon",
-        "example_title": "Lote Cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
-        "total_reservations": 0,
-        "confirmed_sales": 3,
-        "total_events": 3,
-        "reservations_24h": 3,
-        "reservations_7d": 3,
-        "reservations_30d": 3,
-        "reservations_per_day": 3,
-        "min_price": 35,
-        "median_price": 40,
-        "max_price": 280,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-24T06:01:59.985Z",
-        "sample": [
-          {
-            "price": 280,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
-            "city": "Aguilar de Campoo"
-          },
-          {
-            "price": 35,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-            "city": "Madrid"
-          },
-          {
-            "price": 40,
-            "title": "Lote Cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
-            "city": "Parla"
-          }
-        ]
-      },
       {
         "model": "super mario odyssey nintendo switch",
         "example_title": "Super Mario Odyssey Nintendo Switch",
@@ -75,34 +38,46 @@
             "city": "Lasarte-Oria"
           }
         ]
+      },
+      {
+        "model": "lote cartas pokemon",
+        "example_title": "Lote Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+        "total_reservations": 0,
+        "confirmed_sales": 3,
+        "total_events": 3,
+        "reservations_24h": 2,
+        "reservations_7d": 3,
+        "reservations_30d": 3,
+        "reservations_per_day": 3,
+        "min_price": 35,
+        "median_price": 40,
+        "max_price": 280,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-24T06:01:59.985Z",
+        "sample": [
+          {
+            "price": 280,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+            "city": "Aguilar de Campoo"
+          },
+          {
+            "price": 35,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
+            "city": "Madrid"
+          },
+          {
+            "price": 40,
+            "title": "Lote Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+            "city": "Parla"
+          }
+        ]
       }
     ],
     "hot_24h": [
-      {
-        "model": "pack juegos nintendo switch",
-        "example_title": "Pack 2 Juegos Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 35,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-24T17:32:18.787Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Pack 2 Juegos Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
-            "city": "Soto de La Moraleja"
-          }
-        ]
-      },
       {
         "model": "nintendo switch sports",
         "example_title": "Nintendo Switch Sports",
@@ -162,6 +137,31 @@
     ],
     "trending_7d": [
       {
+        "model": "pack juegos nintendo switch",
+        "example_title": "Pack 2 Juegos Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 1,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 35,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Pack 2 Juegos Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+            "city": "Soto de La Moraleja"
+          }
+        ]
+      },
+      {
         "model": "lote funko pop stranger things",
         "example_title": "Lote Funko Pop Stranger Things",
         "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
@@ -189,6 +189,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "elite trainer box mega evolucion pokemon",
+        "example_title": "Elite Trainer Box Mega Evolución Pokémon",
+        "example_url": "https://es.wallapop.com/item/elite-trainer-box-mega-evolucion-pokemon-1255700107",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 120,
+        "median_price": 120,
+        "max_price": 120,
+        "first_seen": "2026-04-24T17:34:55.267Z",
+        "last_seen": "2026-04-24T17:34:55.267Z",
+        "sample": [
+          {
+            "price": 120,
+            "title": "Elite Trainer Box Mega Evolución Pokémon",
+            "url": "https://es.wallapop.com/item/elite-trainer-box-mega-evolucion-pokemon-1255700107",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "iphone 14 pro space negro",
+        "example_title": "iPhone 14 Pro Space negro",
+        "example_url": "https://es.wallapop.com/item/iphone-14-pro-space-negro-1255658740",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 310,
+        "median_price": 310,
+        "max_price": 310,
+        "first_seen": "2026-04-24T17:34:55.267Z",
+        "last_seen": "2026-04-24T17:34:55.267Z",
+        "sample": [
+          {
+            "price": 310,
+            "title": "iPhone 14 Pro Space negro",
+            "url": "https://es.wallapop.com/item/iphone-14-pro-space-negro-1255658740",
+            "city": "Eivissa"
+          }
+        ]
+      },
       {
         "model": "elite trainer box pokemon scarlet violet",
         "example_title": "Elite Trainer Box Pokémon Scarlet & Violet",
@@ -911,31 +961,6 @@
             "title": "Pathfinder Adventure Card Game: Core y expansion",
             "url": "https://es.wallapop.com/item/pathfinder-adventure-card-game-core-y-expansion-1255627891",
             "city": "Colmenar Viejo"
-          }
-        ]
-      },
-      {
-        "model": "iphone 14 pro space negro",
-        "example_title": "iPhone 14 Pro Space negro",
-        "example_url": "https://es.wallapop.com/item/iphone-14-pro-space-negro-1255658740",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 310,
-        "median_price": 310,
-        "max_price": 310,
-        "first_seen": "2026-04-24T15:32:28.188Z",
-        "last_seen": "2026-04-24T15:32:28.188Z",
-        "sample": [
-          {
-            "price": 310,
-            "title": "iPhone 14 Pro Space negro",
-            "url": "https://es.wallapop.com/item/iphone-14-pro-space-negro-1255658740",
-            "city": "Eivissa"
           }
         ]
       },
@@ -3996,7 +4021,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4021,7 +4046,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4046,7 +4071,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5168,13 +5193,13 @@
   },
   "stats": {
     "proven_seller": 2,
-    "hot_24h": 3,
-    "trending_7d": 1,
+    "hot_24h": 2,
+    "trending_7d": 2,
     "recurring": 0,
-    "possible": 199,
-    "total_unique_models": 205,
+    "possible": 200,
+    "total_unique_models": 206,
     "total_reservations": 17,
-    "total_confirmed_sales": 196
+    "total_confirmed_sales": 197
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5184,100 +5209,19 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "pack juegos nintendo switch",
-      "from_tier": "possible",
-      "to_tier": "hot_24h",
-      "from_label": "💡 Posible",
-      "to_label": "🔥 Hot 24h",
-      "entry": {
-        "model": "pack juegos nintendo switch",
-        "example_title": "Pack 2 Juegos Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 35,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-24T17:32:18.787Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Pack 2 Juegos Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
-            "city": "Soto de La Moraleja"
-          }
-        ]
-      }
-    }
-  ],
+  "tier_ups": [],
   "new_sales": [
     {
-      "id": "3zlmpwp1ypjx",
-      "model": "ferran",
-      "title": "PARA FERRAN",
-      "sold_price": 35,
-      "city": "Leganés",
-      "url": "https://es.wallapop.com/item/para-ferran-1255622869",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z",
-      "confirmed_at": "2026-04-24T17:32:18.787Z"
-    },
-    {
-      "id": "v6gp35qkw26e",
-      "model": "lote cartas charizard pokemon",
-      "title": "Lote de 9 cartas Charizard Pokémon",
-      "sold_price": 460,
-      "city": "Subiaco",
-      "url": "https://es.wallapop.com/item/lotto-9-carte-charizard-pokemon-1255653940",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T15:17:32.103Z",
-      "last_seen": "2026-04-24T15:17:32.103Z",
-      "confirmed_at": "2026-04-24T17:32:18.787Z"
-    },
-    {
-      "id": "e65qdk5r2g6o",
-      "model": "mandos dualsense ps5 fallo drift",
-      "title": "2 Mandos DualSense PS5 (Fallo Drift)",
-      "sold_price": 50,
-      "city": "Montcada i Reixac",
-      "url": "https://es.wallapop.com/item/2-mandos-dualsense-ps5-falla-drift-1255653796",
+      "id": "v6gp35qy426e",
+      "model": "iphone 14 pro space negro",
+      "title": "iPhone 14 Pro Space negro",
+      "sold_price": 310,
+      "city": "Eivissa",
+      "url": "https://es.wallapop.com/item/iphone-14-pro-space-negro-1255658740",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T15:17:32.103Z",
-      "last_seen": "2026-04-24T15:17:32.103Z",
-      "confirmed_at": "2026-04-24T17:32:18.787Z"
-    },
-    {
-      "id": "ejkmn7q0lpzx",
-      "model": "destino final blu ray 3d terror",
-      "title": "El Destino Final Blu-ray 3D (Terror)",
-      "sold_price": 8,
-      "city": "Cádiz",
-      "url": "https://es.wallapop.com/item/el-destino-final-blu-ray-3d-terror-1255656295",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T15:17:32.103Z",
-      "last_seen": "2026-04-24T15:17:32.103Z",
-      "confirmed_at": "2026-04-24T17:32:18.787Z"
-    },
-    {
-      "id": "qzmm0x87kgzv",
-      "model": "tapete batalla citadel",
-      "title": "Tapete de batalla Citadel",
-      "sold_price": 60,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/tapete-de-batalla-citadel-1255652208",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-24T15:17:32.103Z",
-      "last_seen": "2026-04-24T15:17:32.103Z",
-      "confirmed_at": "2026-04-24T17:32:18.787Z"
+      "first_reserved": "2026-04-24T15:32:28.188Z",
+      "last_seen": "2026-04-24T15:32:28.188Z",
+      "confirmed_at": "2026-04-24T17:34:55.267Z"
     }
   ]
 }
