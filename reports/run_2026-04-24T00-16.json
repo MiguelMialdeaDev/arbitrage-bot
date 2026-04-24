@@ -1,0 +1,541 @@
+{
+  "timestamp": "2026-04-24T00:15:20.165Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 205,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "Funko Pop! WWE Main Event Jey Uso #194",
+          "price": 50,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/funko-pop-wwe-main-event-jey-uso-194-1255464761",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! wwe main event jey 194",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! wwe main event jey 194' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop WWE Cody Rhodes #179",
+          "price": 45,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/funko-pop-wwe-cody-rhodes-179-1255464377",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko wwe cody rhodes #179",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko wwe cody rhodes #179' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Miles Morales 4 Pack",
+          "price": 45,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/funko-pop-miles-morales-4-pack-1255464318",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! miles morales pack",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! miles morales pack' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Cajas Pokémon: Paldea, Shrouded Fable, Fuego",
+          "price": 140,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/lote-cajas-pokemon-paldea-shrouded-fable-fuego-1255464898",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas pokemon: paldea, shrouded fable,",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas pokemon: paldea, shrouded fable,' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cartas Pokémon RR",
+          "price": 25,
+          "city": "Reus",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-rr-1255463489",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon",
+          "verdict": "skip",
+          "reason": "25€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Lote Cartas Pokémon Variadas Vintage",
+          "price": 34,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-vintage-1255463423",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon variadas vintage",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon variadas vintage' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 242,
+      "new_items": 38,
+      "items": [
+        {
+          "title": "Pokémon Ultra Sol Edición Especial Nintendo 3DS",
+          "price": 89.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/pokemon-ultra-sol-edicion-especial-nintendo-3ds-1255464667",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Pack Joy-Con Nintendo Switch Rojo.",
+          "price": 35,
+          "city": "El Puerto de Santa María",
+          "url": "https://es.wallapop.com/item/pack-joy-con-nintendo-switch-rojo-1255464633",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "pack joy-con nintendo switch rojo.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pack joy-con nintendo switch rojo.' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja Pokemon Edicion Perla Nintendo DS",
+          "price": 14.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/caja-pokemon-edicion-perla-nintendo-ds-1255464470",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Pokewalker Pokemon Heartgold Soulsilver DS",
+          "price": 64.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/pokewalker-pokemon-heartgold-soulsilver-ds-1255464341",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Pokemon Edicion Blanco Nintendo DS",
+          "price": 79.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/pokemon-edicion-blanco-nintendo-ds-1255463564",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Nintendo Gameboy Advance SP Negra",
+          "price": 89.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/nintendo-gameboy-advance-sp-negra-1255463404",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Boktai Nintendo GBA",
+          "price": 164.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/boktai-nintendo-gba-1255463137",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "The Legend of Zelda: Tears of the Kingdom Switch",
+          "price": 15,
+          "city": "Aranjuez",
+          "url": "https://es.wallapop.com/item/the-legend-of-zelda-tears-of-the-kingdom-switch-1255463001",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "the legend zelda: tears the",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "Zelda The Minish Cap Nintendo GBA",
+          "price": 159.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/zelda-the-minish-cap-nintendo-gba-1255462974",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Disney Dreamlight Valley Cozy Edition PS4 Precinta",
+          "price": 35,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/disney-dreamlight-valley-cozy-edition-ps4-precinta-1255464573",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "disney dreamlight valley cozy edition",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disney dreamlight valley cozy edition' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Greedfall: The Dying World PS5",
+          "price": 36.99,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/greedfall-the-dying-world-ps5-1255462980",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "greedfall: the dying world ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'greedfall: the dying world ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PC Gaming Ryzen 5 GTX 1660 Super",
+          "price": 350,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/pc-gaming-ryzen-5-gtx-1660-super-1255462816",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gaming ryzen gtx super",
+          "verdict": "skip",
+          "reason": "0 reservados de 'gaming ryzen gtx super' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PS4 1TB FW11.52",
+          "price": 75,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/consola-sony-ps4-1tb-fw11-52-1255464797",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps4 1tb fw11.52",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola sony ps4 1tb fw11.52' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PS4 500Gb FW12.00",
+          "price": 80,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/consola-sony-ps4-500gb-fw12-00-1255464665",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps4 500gb fw12.00",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola sony ps4 500gb fw12.00' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PS4 500Gb FW13.02",
+          "price": 80,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/consola-sony-ps4-500gb-fw13-02-1255464652",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps4 500gb fw13.02",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola sony ps4 500gb fw13.02' (sin evidencia de demanda)"
+        },
+        {
+          "title": "A Plague Tale Collection Xbox Series X",
+          "price": 49.9,
+          "city": "Ourense",
+          "url": "https://es.wallapop.com/item/a-plague-tale-collection-xbox-series-x-1255464482",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "plague tale collection xbox series",
+          "verdict": "skip",
+          "reason": "0 reservados de 'plague tale collection xbox series' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods pro 2 gen",
+          "price": 149,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-pro-2-gen-1255464504",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods pro gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods pro gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods 4 gen",
+          "price": 99,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-4-gen-1255463463",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods 4 gen",
+          "price": 99,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-4-gen-1255463436",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods pro 3",
+          "price": 185,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-pro-3-1255463021",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods 4 gen",
+          "price": 99,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-4-gen-1255462992",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods pro 3",
+          "price": 204.6,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-pro-3-1255462971",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 12 pro 128gb",
+          "price": 319,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-12-pro-128gb-1255464874",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16e NUEVO 28 ciclos GARANTÍA",
+          "price": 449,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16e-nuevo-28-ciclos-garantia-1255464702",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 16e ciclos garantia",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 16e ciclos garantia' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Max Naranja",
+          "price": 1100,
+          "city": "Basauri",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-naranja-1255464457",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max naranja",
+          "verdict": "skip",
+          "reason": "1100€ vs mín reservado 1250€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 14 Pro Negro  Batería al 86%",
+          "price": 525,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-negro-bateria-al-86-1255463769",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro negro bateria 86%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro negro bateria 86%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 16 Pro 128GB Black Titanium  (Negro)",
+          "price": 719,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-128gb-black-titanium-negro-1255463639",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 128gb black titanium",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 128gb black titanium' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPhone 15 Pro Max 256Gb Blue Titanium   (Azul)",
+          "price": 609,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-blue-titanium-azul-1255463633",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb blue",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb blue' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 15 Pro Max 256GB Natural Titanium  (Natural)",
+          "price": 659,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-natural-titanium-natural-1255463620",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb natural",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb natural' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 15 Pro Max 256GB White Titanium  (Blanco)",
+          "price": 659,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-white-titanium-blanco-1255463612",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb white",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "Iphone 15 Pro Max 256GB Black Titanium  (Negro)",
+          "price": 659,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-black-titanium-negro-1255463610",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb black",
+          "verdict": "skip",
+          "reason": "659€ vs mín reservado 680€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "IPhone 15 Pro Max 256Gb Blue Titanium  (Azul)",
+          "price": 659,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-blue-titanium-azul-1255463602",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb blue",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb blue' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 8 Plus (PRODUCT)RED para piezas",
+          "price": 30,
+          "city": "Torres Vedras",
+          "url": "https://es.wallapop.com/item/iphone-8-plus-product-red-para-pecas-1255463503",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "apple iphone 14 plus 128gb",
+          "price": 445,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-plus-128gb-1255463305",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone plus 128gb",
+          "verdict": "skip",
+          "reason": "445€ vs mín reservado 310€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 16e 512gb",
+          "price": 585,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/apple-iphone-16e-512gb-1255463281",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 16e 512gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 16e 512gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 14 512gb",
+          "price": 505,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-512gb-1255463267",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 512gb",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": 289.5,
+          "margin_pct": 57,
+          "score": 60,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=289.5€, pct=57%, score=60)"
+        },
+        {
+          "title": "iPhone Naranja",
+          "price": 1250,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/iphone-naranja-1255463031",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone naranja",
+          "verdict": "skip",
+          "reason": "1250€ vs mín reservado 1250€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple apple watch se 2022 40mm (gps 4g) aluminio",
+          "price": 145,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-2022-40mm-gps-4g-aluminio-1255464268",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 40mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 40mm (gps' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 174,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Disco, Lp, Smokie, Smokies Greatest Hits Volume 2, 1980",
+          "price": 8.69,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-smokie-smokies-greatest-hits-volume-2-1980-1255464651",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, smokie, smokies greatest",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, smokie, smokies greatest' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 44,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 45,
+  "total_signals": 0,
+  "duration_s": 85
+}
