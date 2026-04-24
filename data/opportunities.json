@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T07:46:59.190Z",
+  "updated_at": "2026-04-24T08:02:30.013Z",
   "tiers": {
     "proven_seller": [
       {
@@ -81,6 +81,106 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote figuras playmobil juan",
+        "example_title": "Lote  Figuras Playmobil Juan",
+        "example_url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T08:02:30.011Z",
+        "last_seen": "2026-04-24T08:02:30.011Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Lote  Figuras Playmobil Juan",
+            "url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
+            "city": "Badajoz"
+          }
+        ]
+      },
+      {
+        "model": "matrimelee lona 50x70cm",
+        "example_title": "Matrimelee lona 50x70cm",
+        "example_url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T08:02:30.011Z",
+        "last_seen": "2026-04-24T08:02:30.011Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Matrimelee lona 50x70cm",
+            "url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
+            "city": "L' Ametlla del Valles"
+          }
+        ]
+      },
+      {
+        "model": "genki cover dock cargador dock 65w",
+        "example_title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
+        "example_url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-24T08:02:30.011Z",
+        "last_seen": "2026-04-24T08:02:30.011Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
+            "url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
+            "city": "Huétor Vega"
+          }
+        ]
+      },
+      {
+        "model": "puzzle 1000 trefl",
+        "example_title": "Puzzle 1000 Trefl",
+        "example_url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-24T08:02:30.011Z",
+        "last_seen": "2026-04-24T08:02:30.011Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Puzzle 1000 Trefl",
+            "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
+            "city": "Gijón"
+          }
+        ]
+      },
       {
         "model": "pokemon let go eevee nintendo switch",
         "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
@@ -2938,9 +3038,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 114,
-    "total_unique_models": 116,
-    "total_reservations": 7,
+    "possible": 118,
+    "total_unique_models": 120,
+    "total_reservations": 11,
     "total_confirmed_sales": 113
   },
   "thresholds": {
