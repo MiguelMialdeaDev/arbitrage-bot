@@ -1,44 +1,7 @@
 {
-  "updated_at": "2026-04-24T21:17:30.662Z",
+  "updated_at": "2026-04-24T21:30:09.043Z",
   "tiers": {
     "proven_seller": [
-      {
-        "model": "super mario odyssey nintendo switch",
-        "example_title": "Super Mario Odyssey Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
-        "total_reservations": 0,
-        "confirmed_sales": 3,
-        "total_events": 3,
-        "reservations_24h": 2,
-        "reservations_7d": 3,
-        "reservations_30d": 3,
-        "reservations_per_day": 3,
-        "min_price": 24.8,
-        "median_price": 27,
-        "max_price": 28,
-        "first_seen": "2026-04-23T19:47:30.951Z",
-        "last_seen": "2026-04-23T22:17:21.384Z",
-        "sample": [
-          {
-            "price": 28,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
-            "city": "Tomelloso"
-          },
-          {
-            "price": 24.8,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
-            "city": "A Coruña"
-          },
-          {
-            "price": 27,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
-            "city": "Lasarte-Oria"
-          }
-        ]
-      },
       {
         "model": "lote cartas pokemon",
         "example_title": "Lote Cartas Pokémon",
@@ -73,6 +36,43 @@
             "title": "Lote Cartas Pokémon",
             "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
             "city": "Parla"
+          }
+        ]
+      },
+      {
+        "model": "super mario odyssey nintendo switch",
+        "example_title": "Super Mario Odyssey Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
+        "total_reservations": 0,
+        "confirmed_sales": 3,
+        "total_events": 3,
+        "reservations_24h": 1,
+        "reservations_7d": 3,
+        "reservations_30d": 3,
+        "reservations_per_day": 3,
+        "min_price": 24.8,
+        "median_price": 27,
+        "max_price": 28,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-23T22:17:21.384Z",
+        "sample": [
+          {
+            "price": 28,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
+            "city": "Tomelloso"
+          },
+          {
+            "price": 24.8,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
+            "city": "A Coruña"
+          },
+          {
+            "price": 27,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
+            "city": "Lasarte-Oria"
           }
         ]
       }
@@ -238,6 +238,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop one piece nico robin brook franky",
+        "example_title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
+        "example_url": "https://es.wallapop.com/item/funko-pop-one-piece-nico-robin-brook-franky-1255752593",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40.5,
+        "median_price": 40.5,
+        "max_price": 40.5,
+        "first_seen": "2026-04-24T21:30:09.042Z",
+        "last_seen": "2026-04-24T21:30:09.042Z",
+        "sample": [
+          {
+            "price": 40.5,
+            "title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
+            "url": "https://es.wallapop.com/item/funko-pop-one-piece-nico-robin-brook-franky-1255752593",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "lote magic the gathering victor",
+        "example_title": "Lote Magic: The Gathering para Víctor",
+        "example_url": "https://es.wallapop.com/item/lote-magic-the-gathering-1255753792",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T21:30:09.042Z",
+        "last_seen": "2026-04-24T21:30:09.042Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "Lote Magic: The Gathering para Víctor",
+            "url": "https://es.wallapop.com/item/lote-magic-the-gathering-1255753792",
+            "city": "Castello/Castellon de La Plana"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas magic",
+        "example_title": "Lote cartas Magic",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 315,
+        "median_price": 315,
+        "max_price": 315,
+        "first_seen": "2026-04-24T21:30:09.042Z",
+        "last_seen": "2026-04-24T21:30:09.042Z",
+        "sample": [
+          {
+            "price": 315,
+            "title": "Lote cartas Magic",
+            "url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
+            "city": "Altea"
+          }
+        ]
+      },
       {
         "model": "funko pop homer simpson maggie",
         "example_title": "Funko Pop Homer Simpson y Maggie",
@@ -1360,31 +1435,6 @@
             "title": "Pack 5 Cartas Reservado David",
             "url": "https://es.wallapop.com/item/pack-5-cartas-reservado-david-1255649837",
             "city": "Jaén"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas magic",
-        "example_title": "Lote cartas Magic",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 315,
-        "median_price": 315,
-        "max_price": 315,
-        "first_seen": "2026-04-24T16:47:43.119Z",
-        "last_seen": "2026-04-24T16:47:43.119Z",
-        "sample": [
-          {
-            "price": 315,
-            "title": "Lote cartas Magic",
-            "url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
-            "city": "Altea"
           }
         ]
       },
@@ -3970,7 +4020,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3995,7 +4045,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4020,7 +4070,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5820,10 +5870,10 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 223,
-    "total_unique_models": 230,
-    "total_reservations": 15,
-    "total_confirmed_sales": 224
+    "possible": 225,
+    "total_unique_models": 232,
+    "total_reservations": 16,
+    "total_confirmed_sales": 225
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5836,88 +5886,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "p618m3r5mxz5",
-      "model": "alberto funko pop henry stranger things",
-      "title": "PARA ALBERTO Funko Pop! Henry Stranger Things",
-      "sold_price": 16.15,
-      "city": "Torrejón de Ardoz",
-      "url": "https://es.wallapop.com/item/para-alberto-funko-pop-henry-stranger-things-1255721231",
+      "id": "pj940p2rv26e",
+      "model": "lote cartas magic",
+      "title": "Lote cartas Magic",
+      "sold_price": 315,
+      "city": "Altea",
+      "url": "https://es.wallapop.com/item/lote-cartas-magic-1255681385",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T19:03:03.770Z",
-      "last_seen": "2026-04-24T19:03:03.770Z",
-      "confirmed_at": "2026-04-24T21:17:30.661Z"
-    },
-    {
-      "id": "wzyrgp24r565",
-      "model": "funko pop lotr denethor 1991",
-      "title": "Funko Pop! LOTR - Denethor # 1991",
-      "sold_price": 38,
-      "city": "Granada",
-      "url": "https://es.wallapop.com/item/funko-pop-lotr-denethor-1991-1255719892",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T19:03:03.770Z",
-      "last_seen": "2026-04-24T19:03:03.770Z",
-      "confirmed_at": "2026-04-24T21:17:30.661Z"
-    },
-    {
-      "id": "e65qdk072k6o",
-      "model": "marvel champions duende verde pack escenarios",
-      "title": "Marvel Champions: El Duende Verde Pack Escenarios",
-      "sold_price": 40,
-      "city": "Carretera de San Martin de La Vega",
-      "url": "https://es.wallapop.com/item/marvel-champions-el-duende-verde-pack-escenarios-1255721200",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-24T19:03:03.770Z",
-      "last_seen": "2026-04-24T19:03:03.770Z",
-      "confirmed_at": "2026-04-24T21:17:30.661Z"
-    },
-    {
-      "id": "8z88pnx9r8z3",
-      "model": "iphone 16 pro max 256gb 99",
-      "title": "iPhone 16 Pro Max 256GB 99%",
-      "sold_price": 750,
-      "city": "Beniel",
-      "url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-99-1255724022",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T19:08:04.042Z",
-      "last_seen": "2026-04-24T19:08:04.042Z",
-      "confirmed_at": "2026-04-24T21:17:30.661Z"
-    },
-    {
-      "id": "qjwrg5o08g6o",
-      "model": "lote cromos futbol panini",
-      "title": "Lote de cromos de fútbol Panini",
-      "sold_price": 17,
-      "city": "Viladecavalls",
-      "url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T19:16:52.901Z",
-      "last_seen": "2026-04-24T19:16:52.901Z",
-      "confirmed_at": "2026-04-24T21:17:30.661Z"
-    },
-    {
-      "id": "4z4829px3mjy",
-      "model": "mando nintendo switch2 pro controller",
-      "title": "Mando Nintendo Switch2 Pro Controller",
-      "sold_price": 45,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/mando-nintendo-switch2-pro-controller-1255726962",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T19:16:52.901Z",
-      "last_seen": "2026-04-24T19:16:52.901Z",
-      "confirmed_at": "2026-04-24T21:17:30.661Z"
-    },
-    {
-      "id": "8z88pnx3ylz3",
-      "model": "iphone 15 pro piezas",
-      "title": "iPhone 15 Pro para piezas",
-      "sold_price": 230,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/iphone-15-pro-para-piezas-1255727222",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T19:16:52.901Z",
-      "last_seen": "2026-04-24T19:16:52.901Z",
-      "confirmed_at": "2026-04-24T21:17:30.661Z"
+      "first_reserved": "2026-04-24T16:47:43.119Z",
+      "last_seen": "2026-04-24T16:47:43.119Z",
+      "confirmed_at": "2026-04-24T21:30:09.042Z"
     }
   ]
 }
