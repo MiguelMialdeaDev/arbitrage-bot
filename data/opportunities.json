@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T10:53:18.542Z",
+  "updated_at": "2026-04-24T11:02:39.052Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "mesa billar verde tacos",
+        "example_title": "Mesa de billar verde con tacos",
+        "example_url": "https://es.wallapop.com/item/mesa-de-billar-verde-con-tacos-1255578738",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 65,
+        "median_price": 65,
+        "max_price": 65,
+        "first_seen": "2026-04-24T11:02:39.050Z",
+        "last_seen": "2026-04-24T11:02:39.050Z",
+        "sample": [
+          {
+            "price": 65,
+            "title": "Mesa de billar verde con tacos",
+            "url": "https://es.wallapop.com/item/mesa-de-billar-verde-con-tacos-1255578738",
+            "city": "Pontevedra"
+          }
+        ]
+      },
+      {
+        "model": "honor magic v2 512gb 16gb ram morado precintado",
+        "example_title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
+        "example_url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 599,
+        "median_price": 599,
+        "max_price": 599,
+        "first_seen": "2026-04-24T11:02:39.050Z",
+        "last_seen": "2026-04-24T11:02:39.050Z",
+        "sample": [
+          {
+            "price": 599,
+            "title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
+            "url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
+            "city": "Valencia"
+          }
+        ]
+      },
       {
         "model": "apple earpods lightning originales",
         "example_title": "Apple EarPods Lightning Originales",
@@ -1010,31 +1060,6 @@
             "title": "Pack Dei Shop",
             "url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "honor magic v2 512gb 16gb ram morado precintado",
-        "example_title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
-        "example_url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 599,
-        "median_price": 599,
-        "max_price": 599,
-        "first_seen": "2026-04-24T09:02:20.261Z",
-        "last_seen": "2026-04-24T09:02:20.261Z",
-        "sample": [
-          {
-            "price": 599,
-            "title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
-            "url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
-            "city": "Valencia"
           }
         ]
       },
@@ -3820,10 +3845,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 148,
-    "total_unique_models": 151,
+    "possible": 149,
+    "total_unique_models": 152,
     "total_reservations": 28,
-    "total_confirmed_sales": 128
+    "total_confirmed_sales": 129
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3836,16 +3861,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "8j38kd8rwlz9",
-      "model": "the legend of zelda breath of the wild",
-      "title": "The Legend of Zelda: Breath of the Wild",
-      "sold_price": 45,
-      "city": "Viladecans",
-      "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
+      "id": "pj940p48qo6e",
+      "model": "honor magic v2 512gb 16gb ram morado precintado",
+      "title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
+      "sold_price": 599,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T08:47:38.597Z",
-      "last_seen": "2026-04-24T08:47:38.597Z",
-      "confirmed_at": "2026-04-24T10:53:18.541Z"
+      "first_reserved": "2026-04-24T09:02:20.261Z",
+      "last_seen": "2026-04-24T09:02:20.261Z",
+      "confirmed_at": "2026-04-24T11:02:39.050Z"
     }
   ]
 }
