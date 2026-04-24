@@ -1,0 +1,198 @@
+{
+  "timestamp": "2026-04-24T02:45:19.794Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Funko Pop Rumi Chase KPOP Demon Hunters 2430",
+          "price": 25,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/funko-pop-rumi-chase-kpop-demon-hunters-2430-1255480349",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko rumi chase kpop demon hunters 2430",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko rumi chase kpop demon hunters 2430' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Tapu Koko VMAX 051/163",
+          "price": 10,
+          "city": "El Cantiillo",
+          "url": "https://es.wallapop.com/item/carta-pokemon-tapu-koko-vmax-051-163-1255480551",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon tapu koko vmax",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon tapu koko vmax' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 219,
+      "new_items": 11,
+      "items": [
+        {
+          "title": "LEGO Marvel Super Heroes Nintendo Switch",
+          "price": 11.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/lego-marvel-super-heroes-nintendo-switch-1255480652",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: reserva"
+        },
+        {
+          "title": "(PRECINTADO)Animal Crossing: New Horizons Nintendo",
+          "price": 49.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/precintado-animal-crossing-new-horizons-nintendo-1255480637",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: reserva"
+        },
+        {
+          "title": "(PRECINTADO)Pokémon Pokopia",
+          "price": 64.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/precintado-pokemon-pokopia-1255480594",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: reserva"
+        },
+        {
+          "title": "(PRECINTADO)Mario Kart World",
+          "price": 57.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/precintado-mario-kart-world-1255480573",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: reserva"
+        },
+        {
+          "title": "Tony Hawk's Pro Skater 1+2 PS4",
+          "price": 20,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/tony-hawk-s-pro-skater-1-2-ps4-1255480456",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "tony hawk's pro skater 1+2",
+          "verdict": "skip",
+          "reason": "0 reservados de 'tony hawk's pro skater 1+2' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando DualSense PS5 Rojo",
+          "price": 55,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/mando-dualsense-ps5-rojo-1255480535",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando dualsense ps5 rojo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando dualsense ps5 rojo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple AirPods 4 ANC Blancos",
+          "price": 81,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-airpods-4-anc-blancos-1255480627",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple airpods anc blancos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple airpods anc blancos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 256GB negro",
+          "price": 950,
+          "city": "Massa Lubrense",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-nero-1255480630",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb negro",
+          "verdict": "skip",
+          "reason": "950€ vs mín reservado 600€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 14 Pro Max 256Gb",
+          "price": 525,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-256gb-1255480511",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Max Plata",
+          "price": 870,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-plata-1255480405",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max plata",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max plata' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 17 pro max",
+          "price": 860,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/libro-infantil-a-dormir-con-ted-1255480050",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 172,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Juego de mesa Bajo el mismo techo",
+          "price": 20,
+          "city": "Solsona",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-bajo-el-mismo-techo-1255480269",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa bajo mismo techo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego mesa bajo mismo techo' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 42,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 14,
+  "total_signals": 0,
+  "duration_s": 75
+}
