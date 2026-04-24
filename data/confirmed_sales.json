@@ -1463,6 +1463,30 @@
       "first_reserved": "2026-04-24T08:02:30.011Z",
       "last_seen": "2026-04-24T08:02:30.011Z",
       "confirmed_at": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "x6qq13md0y6y",
+      "model": "legos exin west castillos bcn line bros",
+      "title": "Legos de Exin West Castillos BCN Line Bros",
+      "sold_price": 180,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T08:17:11.472Z",
+      "last_seen": "2026-04-24T08:17:11.472Z",
+      "confirmed_at": "2026-04-24T10:18:25.763Z"
+    },
+    {
+      "id": "mzn37122x2jn",
+      "model": "pokemon let go eevee nintendo switch",
+      "title": "Pokémon Let's Go Eevee Nintendo Switch",
+      "sold_price": 20,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T08:17:11.472Z",
+      "last_seen": "2026-04-24T08:17:11.472Z",
+      "confirmed_at": "2026-04-24T10:18:25.763Z"
     }
   ]
 }

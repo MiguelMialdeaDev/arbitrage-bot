@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T10:03:08.592Z",
+  "updated_at": "2026-04-24T10:18:25.765Z",
   "tiers": {
     "proven_seller": [
       {
@@ -82,8 +82,8 @@
         "model": "pokemon let go eevee nintendo switch",
         "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
+        "total_reservations": 0,
+        "confirmed_sales": 2,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -92,9 +92,15 @@
         "min_price": 15,
         "median_price": 20,
         "max_price": 20,
-        "first_seen": "2026-04-24T08:17:11.472Z",
-        "last_seen": "2026-04-24T09:48:03.321Z",
+        "first_seen": "2026-04-24T09:48:03.321Z",
+        "last_seen": "2026-04-24T10:18:25.763Z",
         "sample": [
+          {
+            "price": 15,
+            "title": "Pokémon Let's Go Eevee Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
+            "city": "Badalona"
+          },
           {
             "price": 20,
             "title": "Pokémon Let's Go Eevee Nintendo Switch",
@@ -107,6 +113,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "poltergeist di xenic magic the gathering",
+        "example_title": "Poltergeist di Xenic - Magic The Gathering",
+        "example_url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4.5,
+        "median_price": 4.5,
+        "max_price": 4.5,
+        "first_seen": "2026-04-24T10:18:25.763Z",
+        "last_seen": "2026-04-24T10:18:25.763Z",
+        "sample": [
+          {
+            "price": 4.5,
+            "title": "Poltergeist di Xenic - Magic The Gathering",
+            "url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
+            "city": "Castellón de la Plana/Castelló de la Plana"
+          }
+        ]
+      },
+      {
+        "model": "mando dualsense ps5",
+        "example_title": "Mando DualSense PS5",
+        "example_url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T10:18:25.763Z",
+        "last_seen": "2026-04-24T10:18:25.763Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Mando DualSense PS5",
+            "url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
+            "city": "San Lorenzo de El Escorial"
+          }
+        ]
+      },
+      {
+        "model": "legos exin west castillos bcn line bros",
+        "example_title": "Legos de Exin West Castillos BCN Line Bros",
+        "example_url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 180,
+        "median_price": 180,
+        "max_price": 180,
+        "first_seen": "2026-04-24T10:18:25.763Z",
+        "last_seen": "2026-04-24T10:18:25.763Z",
+        "sample": [
+          {
+            "price": 180,
+            "title": "Legos de Exin West Castillos BCN Line Bros",
+            "url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "coleccion cromos",
         "example_title": "Colección cromos",
@@ -779,31 +860,6 @@
             "title": "Lote Pokémon Phantasmal Flames Inglés",
             "url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "legos exin west castillos bcn line bros",
-        "example_title": "Legos de Exin West Castillos BCN Line Bros",
-        "example_url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 180,
-        "median_price": 180,
-        "max_price": 180,
-        "first_seen": "2026-04-24T08:17:11.472Z",
-        "last_seen": "2026-04-24T08:17:11.472Z",
-        "sample": [
-          {
-            "price": 180,
-            "title": "Legos de Exin West Castillos BCN Line Bros",
-            "url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
-            "city": "Madrid"
           }
         ]
       },
@@ -3564,10 +3620,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 138,
-    "total_unique_models": 141,
+    "possible": 140,
+    "total_unique_models": 143,
     "total_reservations": 24,
-    "total_confirmed_sales": 122
+    "total_confirmed_sales": 124
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3580,52 +3636,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "8j38kdeq78z9",
-      "model": "lote salvador",
-      "title": "Lote para Salvador",
-      "sold_price": 77,
-      "city": "Málaga",
-      "url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T07:46:59.188Z",
-      "last_seen": "2026-04-24T07:46:59.188Z",
-      "confirmed_at": "2026-04-24T10:03:08.590Z"
-    },
-    {
-      "id": "8z88pnkvolz3",
-      "model": "lote figuras playmobil juan",
-      "title": "Lote  Figuras Playmobil Juan",
-      "sold_price": 35,
-      "city": "Badajoz",
-      "url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
+      "id": "x6qq13md0y6y",
+      "model": "legos exin west castillos bcn line bros",
+      "title": "Legos de Exin West Castillos BCN Line Bros",
+      "sold_price": 180,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T08:02:30.011Z",
-      "last_seen": "2026-04-24T08:02:30.011Z",
-      "confirmed_at": "2026-04-24T10:03:08.590Z"
+      "first_reserved": "2026-04-24T08:17:11.472Z",
+      "last_seen": "2026-04-24T08:17:11.472Z",
+      "confirmed_at": "2026-04-24T10:18:25.763Z"
     },
     {
-      "id": "nz081o07o36o",
-      "model": "matrimelee lona 50x70cm",
-      "title": "Matrimelee lona 50x70cm",
-      "sold_price": 25,
-      "city": "L' Ametlla del Valles",
-      "url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
+      "id": "mzn37122x2jn",
+      "model": "pokemon let go eevee nintendo switch",
+      "title": "Pokémon Let's Go Eevee Nintendo Switch",
+      "sold_price": 20,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T08:02:30.011Z",
-      "last_seen": "2026-04-24T08:02:30.011Z",
-      "confirmed_at": "2026-04-24T10:03:08.590Z"
-    },
-    {
-      "id": "9jdw1923gn6k",
-      "model": "genki cover dock cargador dock 65w",
-      "title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
-      "sold_price": 60,
-      "city": "Huétor Vega",
-      "url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T08:02:30.011Z",
-      "last_seen": "2026-04-24T08:02:30.011Z",
-      "confirmed_at": "2026-04-24T10:03:08.590Z"
+      "first_reserved": "2026-04-24T08:17:11.472Z",
+      "last_seen": "2026-04-24T08:17:11.472Z",
+      "confirmed_at": "2026-04-24T10:18:25.763Z"
     }
   ]
 }
