@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T22:01:53.151Z",
+  "updated_at": "2026-04-24T22:17:02.516Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "vinilo def leppard hysteria lp",
+        "example_title": "Vinilo Def Leppard Hysteria LP",
+        "example_url": "https://es.wallapop.com/item/vinilo-def-leppard-hysteria-lp-1255733288",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-24T22:17:02.515Z",
+        "last_seen": "2026-04-24T22:17:02.515Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Vinilo Def Leppard Hysteria LP",
+            "url": "https://es.wallapop.com/item/vinilo-def-leppard-hysteria-lp-1255733288",
+            "city": "Urbanizacion Ermita"
+          }
+        ]
+      },
       {
         "model": "vinilo lp iron maiden powerslave heavy metal",
         "example_title": "Vinilo LP Iron Maiden Powerslave Heavy Metal",
@@ -885,31 +910,6 @@
             "title": "The Smiths - \"You never walk alone\" LP.",
             "url": "https://es.wallapop.com/item/the-smiths-you-never-walk-alone-lp-1255701682",
             "city": "Alcalá de Henares"
-          }
-        ]
-      },
-      {
-        "model": "vinilo def leppard hysteria lp",
-        "example_title": "Vinilo Def Leppard Hysteria LP",
-        "example_url": "https://es.wallapop.com/item/vinilo-def-leppard-hysteria-lp-1255733288",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8,
-        "median_price": 8,
-        "max_price": 8,
-        "first_seen": "2026-04-24T19:47:00.647Z",
-        "last_seen": "2026-04-24T19:47:00.647Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "Vinilo Def Leppard Hysteria LP",
-            "url": "https://es.wallapop.com/item/vinilo-def-leppard-hysteria-lp-1255733288",
-            "city": "Urbanizacion Ermita"
           }
         ]
       },
@@ -5897,8 +5897,8 @@
     "recurring": 0,
     "possible": 226,
     "total_unique_models": 233,
-    "total_reservations": 12,
-    "total_confirmed_sales": 230
+    "total_reservations": 11,
+    "total_confirmed_sales": 231
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5911,40 +5911,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "p618m3nogdz5",
-      "model": "vinilo lp iron maiden powerslave heavy metal",
-      "title": "Vinilo LP Iron Maiden Powerslave Heavy Metal",
+      "id": "v6gp3592n76e",
+      "model": "vinilo def leppard hysteria lp",
+      "title": "Vinilo Def Leppard Hysteria LP",
       "sold_price": 8,
       "city": "Urbanizacion Ermita",
-      "url": "https://es.wallapop.com/item/vinilo-lp-iron-maiden-powerslave-heavy-metal-1255732307",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T19:32:53.581Z",
-      "last_seen": "2026-04-24T19:32:53.581Z",
-      "confirmed_at": "2026-04-24T22:01:53.150Z"
-    },
-    {
-      "id": "pzpkxon1w4j3",
-      "model": "vinilo lp siniestro total beneficio todos",
-      "title": "Vinilo LP Siniestro Total En Beneficio De Todos",
-      "sold_price": 8,
-      "city": "Urbanizacion Ermita",
-      "url": "https://es.wallapop.com/item/vinilo-lp-siniestro-total-en-beneficio-de-todos-1255732650",
+      "url": "https://es.wallapop.com/item/vinilo-def-leppard-hysteria-lp-1255733288",
       "category": "Cine, libros y música",
       "first_reserved": "2026-04-24T19:47:00.647Z",
       "last_seen": "2026-04-24T19:47:00.647Z",
-      "confirmed_at": "2026-04-24T22:01:53.150Z"
-    },
-    {
-      "id": "wzyrgp3ogx65",
-      "model": "gran turismo ps5",
-      "title": "Gran Turismo 7 PS5",
-      "sold_price": 25,
-      "city": "Rubí",
-      "url": "https://es.wallapop.com/item/gran-turismo-7-ps5-1255736768",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T19:59:19.633Z",
-      "last_seen": "2026-04-24T19:59:19.633Z",
-      "confirmed_at": "2026-04-24T22:01:53.150Z"
+      "confirmed_at": "2026-04-24T22:17:02.515Z"
     }
   ]
 }
