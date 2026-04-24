@@ -1,0 +1,609 @@
+{
+  "timestamp": "2026-04-24T00:45:23.613Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 206,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Lote Cartas Pokémon",
+          "price": 40,
+          "city": "Parla",
+          "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 231,
+      "new_items": 40,
+      "items": [
+        {
+          "title": "Base Carga InnoAura para N-Switch Joy-Con",
+          "price": 15,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/base-carga-innoaura-para-n-switch-joy-con-1255468088",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Cable Link Nintendo Gameboy Advance",
+          "price": 4.99,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/cable-link-nintendo-gameboy-advance-1255467718",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Resident Evil Requiem PS5",
+          "price": 47,
+          "city": "Palencia",
+          "url": "https://es.wallapop.com/item/resident-evil-requiem-ps5-1255468849",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "resident evil requiem ps5",
+          "verdict": "skip",
+          "reason": "47€ vs mín reservado 45€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Mando Xbox Elite Series 2 Core Blanco",
+          "price": 42,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/mando-xbox-elite-series-2-core-blanco-1255467937",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando xbox elite series core",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando xbox elite series core' (sin evidencia de demanda)"
+        },
+        {
+          "title": "diadema apple airpods max",
+          "price": 239,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/diadema-apple-airpods-max-1255469207",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "diadema apple airpods max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'diadema apple airpods max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods 4 gen",
+          "price": 99,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-4-gen-1255468242",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods 4 gen",
+          "price": 85,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-4-gen-1255467707",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple AirPods Pro 2ª Generación",
+          "price": 50,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/apple-airpods-pro-2-generacion-1255466596",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple airpods pro generacion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple airpods pro generacion' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Flash iPhone 13",
+          "price": 10,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/flash-iphone-13-1255469264",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "flash iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'flash iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 16 128gb",
+          "price": 639,
+          "city": "La Cerruda",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-128gb-1255469255",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cámara frontal iPhone 13",
+          "price": 15,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/camara-frontal-iphone-13-1255469104",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "camara frontal iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'camara frontal iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Altavoz Auricular iPhone 13 Apple",
+          "price": 10,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/altavoz-auricular-iphone-13-apple-1255468878",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "altavoz auricular iphone apple",
+          "verdict": "skip",
+          "reason": "0 reservados de 'altavoz auricular iphone apple' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone XR Negro",
+          "price": 149.99,
+          "city": "Benifaió",
+          "url": "https://es.wallapop.com/item/iphone-xr-negro-1255468495",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cámara iPhone 13",
+          "price": 20,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/camara-iphone-13-1255468439",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "camara iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'camara iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 6 32gb",
+          "price": 40,
+          "city": "San Cristóbal de La Laguna",
+          "url": "https://es.wallapop.com/item/apple-iphone-6-32gb-1255468278",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 32gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 32gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 12 mini 256gb",
+          "price": 130,
+          "city": "Alzira",
+          "url": "https://es.wallapop.com/item/iphone-12-mini-256gb-1255468263",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        },
+        {
+          "title": "Pantalla iPhone 13 Rota",
+          "price": 45,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/pantalla-iphone-13-rota-1255468149",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Fundas iPhone 16",
+          "price": 10,
+          "city": "Jadraque",
+          "url": "https://es.wallapop.com/item/fundas-iphone-16-1255467891",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fundas iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fundas iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 16 128gb",
+          "price": 599,
+          "city": "Parla",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-128gb-1255467751",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 128Gb Red",
+          "price": 199,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-13-128gb-red-1255467568",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb red",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb red' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 16 pro max 512gb",
+          "price": 889,
+          "city": "Parla",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-512gb-1255467512",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 512gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 512gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro 256GB Gris",
+          "price": 280,
+          "city": "Avilés",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-256gb-gris-1255470355",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: defecto"
+        },
+        {
+          "title": "Chasis iPhone 13 Roto",
+          "price": 15,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/chasis-iphone-13-roto-1255470348",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        },
+        {
+          "title": "Módulo de Carga iPhone 13",
+          "price": 15,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/modulo-de-carga-iphone-13-1255470130",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "modulo carga iphone",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 7.99€ vs mín reservado 60€)"
+        },
+        {
+          "title": "apple iphone 15 pro max 256gb",
+          "price": 715,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-15-pro-max-256gb-1255469982",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": 529.5,
+          "margin_pct": 74,
+          "score": 80,
+          "from_cache": false,
+          "verdict": "SIGNAL"
+        },
+        {
+          "title": "Altavoz iPhone 13",
+          "price": 10,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/altavoz-iphone-13-1255469948",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "altavoz iphone",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 3€ vs mín reservado 200€)"
+        },
+        {
+          "title": "apple iphone 17 pro max 256gb",
+          "price": 1269,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-256gb-1255469879",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "Altavoz inferior iPhone XS",
+          "price": 3,
+          "city": "Lagos",
+          "url": "https://es.wallapop.com/item/alto-falante-inferior-iphone-xs-1255469858",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Módulo SIM iPhone 13",
+          "price": 15,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/modulo-sim-iphone-13-1255469627",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "modulo sim iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'modulo sim iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vibrador Taptic Engine iPhone 13",
+          "price": 10,
+          "city": "Sant Carles de La Rapita",
+          "url": "https://es.wallapop.com/item/vibrador-taptic-engine-iphone-13-1255469440",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "vibrador taptic engine iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'vibrador taptic engine iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch series 10 42mm (gps) aluminio",
+          "price": 199,
+          "city": "Parla",
+          "url": "https://es.wallapop.com/item/apple-watch-series-10-42mm-gps-aluminio-1255469971",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 42mm (gps)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 42mm (gps)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch se (3 generacion) 44mm (a3328) (gps + cellular)",
+          "price": 249,
+          "city": "Parla",
+          "url": "https://es.wallapop.com/item/apple-watch-se-3-generacion-44mm-a3328-gps---cellular-1255469909",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch generacion) 44mm (a3328)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch generacion) 44mm (a3328)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch ultra 2 49mm (gps 4g) titanio",
+          "price": 435,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-watch-ultra-2-49mm-gps-4g-titanio-1255469851",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch ultra 49mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch ultra 49mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple apple watch se 3 2025 44mm (gps 5g) aluminio",
+          "price": 219,
+          "city": "Parla",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-3-2025-44mm-gps-5g-aluminio-1255469579",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 44mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 44mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch se 40mm (gps) (a2351) aluminio",
+          "price": 69,
+          "city": "Elx/Elche",
+          "url": "https://es.wallapop.com/item/apple-watch-se-40mm-gps-a2351-aluminio-1255469498",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch 40mm (gps) (a2351)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch 40mm (gps) (a2351)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch series 11 46mm (gps 5g) aluminio",
+          "price": 375,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-watch-series-11-46mm-gps-5g-aluminio-1255469337",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 46mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 46mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch nike series 5 44mm (gps) (a2093)",
+          "price": 69,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-watch-nike-series-5-44mm-gps-a2093-1255469231",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch nike series 44mm",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch nike series 44mm' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch series 11 42mm (gps) aluminio",
+          "price": 285,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-watch-series-11-42mm-gps-aluminio-1255469188",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 42mm (gps)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 42mm (gps)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch series 8 45mm (gps) aluminio",
+          "price": 125,
+          "city": "Parla",
+          "url": "https://es.wallapop.com/item/apple-watch-series-8-45mm-gps-aluminio-1255469173",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 45mm (gps)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 45mm (gps)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple apple watch se 2022 40mm (gps 4g) aluminio",
+          "price": 99,
+          "city": "San Cristóbal de La Laguna",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-2022-40mm-gps-4g-aluminio-1255468804",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 40mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 40mm (gps' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 1
+    },
+    "Cine, libros y música": {
+      "total_items": 172,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Bluray – The Purge – La Noche De Las bestias, EDICIÓN ITALIANA, IDIOMA EN ESPAÑOL",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/bluray-the-purge-la-noche-de-las-bestias-edicion-italiana-idioma-en-espanol-1255470287",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "blu ray , LA CASA DEL FIN DE LOS TIEMPOS - BLU-RAY",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/blu-ray-la-casa-del-fin-de-los-tiempos-blu-ray-1255470237",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "blu ray , LAS TRIBULACIONES DE UN CHINO EN CHINA",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/blu-ray-las-tribulaciones-de-un-chino-en-china-1255470196",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "BLU-RAY - BLANCANIEVES Y LA LEYENDA DEL CAZADOR",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/blu-ray-blancanieves-y-la-leyenda-del-cazador-1255470168",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "blu ray  LA SEMANA DEL ASESINO (1972), CON EMMA COHEN, DE ELOY DE LA IGLESIA",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/blu-ray-la-semana-del-asesino-1972-con-emma-cohen-de-eloy-de-la-iglesia-1255470146",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "blu ray , SCAR - KYRBY BLISS BLANTON - DIRIGIDA POR JED WEINTROB - BLU-RAY",
+          "price": 4.29,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/blu-ray-scar-kyrby-bliss-blanton-dirigida-por-jed-weintrob-blu-ray-1255470124",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Novela Assassin's Creed La Cruzada Secreta Español",
+          "price": 3.5,
+          "city": "Los Dolores",
+          "url": "https://es.wallapop.com/item/novela-assassin-s-creed-la-cruzada-secreta-espanol-1255468211",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 80,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "bicicleta montaña radon zr team",
+          "price": 299,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-radon-zr-team-1255468493",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana radon team",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana radon team' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña peugeot delicat m02",
+          "price": 349.95,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-peugeot-delicat-m02-1255468393",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana peugeot delicat m02",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana peugeot delicat m02' (sin evidencia de demanda)"
+        },
+        {
+          "title": "raqueta artengo squash",
+          "price": 6,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/raqueta-artengo-squash-1255468660",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "raqueta artengo squash",
+          "price": 6,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/raqueta-artengo-squash-1255468620",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 43,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 52,
+  "total_signals": 1,
+  "duration_s": 95
+}

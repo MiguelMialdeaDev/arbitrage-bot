@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-04-24T00:32:16.056Z",
+  "updated_at": "2026-04-24T00:46:58.203Z",
   "tiers": {
     "proven_seller": [
+      {
+        "model": "lote cartas pokemon",
+        "example_title": "Lote Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+        "total_reservations": 1,
+        "confirmed_sales": 2,
+        "total_events": 3,
+        "reservations_24h": 3,
+        "reservations_7d": 3,
+        "reservations_30d": 3,
+        "reservations_per_day": 3,
+        "min_price": 35,
+        "median_price": 40,
+        "max_price": 280,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-24T00:46:58.202Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Lote Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+            "city": "Parla"
+          }
+        ]
+      },
       {
         "model": "super mario odyssey nintendo switch",
         "example_title": "Super Mario Odyssey Nintendo Switch",
@@ -40,39 +65,7 @@
         ]
       }
     ],
-    "hot_24h": [
-      {
-        "model": "lote cartas pokemon",
-        "example_title": "Lote de cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-        "total_reservations": 0,
-        "confirmed_sales": 2,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 35,
-        "median_price": 280,
-        "max_price": 280,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-23T18:18:18.324Z",
-        "sample": [
-          {
-            "price": 280,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
-            "city": "Aguilar de Campoo"
-          },
-          {
-            "price": 35,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-            "city": "Madrid"
-          }
-        ]
-      }
-    ],
+    "hot_24h": [],
     "trending_7d": [],
     "recurring": [],
     "possible": [
@@ -2704,13 +2697,13 @@
     ]
   },
   "stats": {
-    "proven_seller": 1,
-    "hot_24h": 1,
+    "proven_seller": 2,
+    "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
     "possible": 105,
     "total_unique_models": 107,
-    "total_reservations": 7,
+    "total_reservations": 8,
     "total_confirmed_sales": 103
   },
   "thresholds": {
@@ -2721,67 +2714,39 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
-  "new_sales": [
+  "tier_ups": [
     {
-      "id": "x6qq13kk0y6y",
-      "model": "carta pokemon #94 gengar",
-      "title": "Carta Pokémon #94 Gengar",
-      "sold_price": 5,
-      "city": "Oñati",
-      "url": "https://es.wallapop.com/item/carta-pokemon-94-gengar-1255455266",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T22:17:21.384Z",
-      "last_seen": "2026-04-23T22:17:21.384Z",
-      "confirmed_at": "2026-04-24T00:32:16.055Z"
-    },
-    {
-      "id": "9jdw19xxgd6k",
-      "model": "kirby star allies nintendo switch",
-      "title": "Kirby Star Allies Nintendo Switch",
-      "sold_price": 23,
-      "city": "Puigcerda",
-      "url": "https://es.wallapop.com/item/kirby-star-allies-nintendo-switch-1255455336",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T22:17:21.384Z",
-      "last_seen": "2026-04-23T22:17:21.384Z",
-      "confirmed_at": "2026-04-24T00:32:16.055Z"
-    },
-    {
-      "id": "x6qq13ky9n6y",
-      "model": "cargador coche cable iphone",
-      "title": "Cargador Coche y cable iPhone",
-      "sold_price": 18,
-      "city": "Elx/Elche",
-      "url": "https://es.wallapop.com/item/cargador-coche-y-cable-iphone-1255455442",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T22:17:21.384Z",
-      "last_seen": "2026-04-23T22:17:21.384Z",
-      "confirmed_at": "2026-04-24T00:32:16.055Z"
-    },
-    {
-      "id": "qjwrg5ed2e6o",
-      "model": "lote funko pops anime",
-      "title": "Lote 4 Funko Pops Anime",
-      "sold_price": 29,
-      "city": "Parque Boadilla",
-      "url": "https://es.wallapop.com/item/lote-4-funko-pops-anime-1255456105",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T22:25:05.621Z",
-      "last_seen": "2026-04-23T22:25:05.621Z",
-      "confirmed_at": "2026-04-24T00:32:16.055Z"
-    },
-    {
-      "id": "nzxegnlyge62",
-      "model": "iphone plus rosa",
-      "title": "iPhone 7 Plus Rosa",
-      "sold_price": 30,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-23T22:25:05.621Z",
-      "last_seen": "2026-04-23T22:25:05.621Z",
-      "confirmed_at": "2026-04-24T00:32:16.055Z"
+      "model": "lote cartas pokemon",
+      "from_tier": "hot_24h",
+      "to_tier": "proven_seller",
+      "from_label": "🔥 Hot 24h",
+      "to_label": "🚀 Proven seller",
+      "entry": {
+        "model": "lote cartas pokemon",
+        "example_title": "Lote Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+        "total_reservations": 1,
+        "confirmed_sales": 2,
+        "total_events": 3,
+        "reservations_24h": 3,
+        "reservations_7d": 3,
+        "reservations_30d": 3,
+        "reservations_per_day": 3,
+        "min_price": 35,
+        "median_price": 40,
+        "max_price": 280,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-24T00:46:58.202Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Lote Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+            "city": "Parla"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "new_sales": []
 }
