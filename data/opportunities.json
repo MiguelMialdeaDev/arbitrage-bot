@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T20:47:15.968Z",
+  "updated_at": "2026-04-24T21:02:26.642Z",
   "tiers": {
     "proven_seller": [
       {
@@ -232,6 +232,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop will eddie kinder",
+        "example_title": "Funko Pop! Will y Eddie Kinder",
+        "example_url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-24T21:02:26.641Z",
+        "last_seen": "2026-04-24T21:02:26.641Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Funko Pop! Will y Eddie Kinder",
+            "url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
+            "city": "Ponteareas"
+          }
+        ]
+      },
       {
         "model": "funko pop the walking dead daryl dixon #14",
         "example_title": "Funko Pop! The Walking Dead Daryl Dixon #14",
@@ -829,31 +854,6 @@
             "title": "Marvel Champions: El Duende Verde Pack Escenarios",
             "url": "https://es.wallapop.com/item/marvel-champions-el-duende-verde-pack-escenarios-1255721200",
             "city": "Carretera de San Martin de La Vega"
-          }
-        ]
-      },
-      {
-        "model": "funko pop will eddie kinder",
-        "example_title": "Funko Pop! Will y Eddie Kinder",
-        "example_url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 24,
-        "median_price": 24,
-        "max_price": 24,
-        "first_seen": "2026-04-24T18:47:26.269Z",
-        "last_seen": "2026-04-24T18:47:26.269Z",
-        "sample": [
-          {
-            "price": 24,
-            "title": "Funko Pop! Will y Eddie Kinder",
-            "url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
-            "city": "Ponteareas"
           }
         ]
       },
@@ -3989,7 +3989,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4014,7 +4014,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5766,8 +5766,8 @@
     "recurring": 0,
     "possible": 221,
     "total_unique_models": 228,
-    "total_reservations": 21,
-    "total_confirmed_sales": 216
+    "total_reservations": 20,
+    "total_confirmed_sales": 217
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5778,5 +5778,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "qjwrg5opwe6o",
+      "model": "funko pop will eddie kinder",
+      "title": "Funko Pop! Will y Eddie Kinder",
+      "sold_price": 24,
+      "city": "Ponteareas",
+      "url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T18:47:26.269Z",
+      "last_seen": "2026-04-24T18:47:26.269Z",
+      "confirmed_at": "2026-04-24T21:02:26.641Z"
+    }
+  ]
 }
