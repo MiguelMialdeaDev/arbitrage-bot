@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T17:34:55.269Z",
+  "updated_at": "2026-04-24T17:48:24.923Z",
   "tiers": {
     "proven_seller": [
       {
@@ -189,6 +189,106 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "the smiths you never walk alone lp",
+        "example_title": "The Smiths - \"You never walk alone\" LP.",
+        "example_url": "https://es.wallapop.com/item/the-smiths-you-never-walk-alone-lp-1255701682",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 22,
+        "median_price": 22,
+        "max_price": 22,
+        "first_seen": "2026-04-24T17:48:24.921Z",
+        "last_seen": "2026-04-24T17:48:24.921Z",
+        "sample": [
+          {
+            "price": 22,
+            "title": "The Smiths - \"You never walk alone\" LP.",
+            "url": "https://es.wallapop.com/item/the-smiths-you-never-walk-alone-lp-1255701682",
+            "city": "Alcalá de Henares"
+          }
+        ]
+      },
+      {
+        "model": "puzzle 1000 trefl",
+        "example_title": "Puzzle 1000 Trefl",
+        "example_url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-24T17:48:24.921Z",
+        "last_seen": "2026-04-24T17:48:24.921Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Puzzle 1000 Trefl",
+            "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
+            "city": "Gijón"
+          }
+        ]
+      },
+      {
+        "model": "funko pop star wars princess leia 595",
+        "example_title": "Funko Pop! Star Wars Princess Leia 595",
+        "example_url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T17:48:24.921Z",
+        "last_seen": "2026-04-24T17:48:24.921Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Funko Pop! Star Wars Princess Leia 595",
+            "url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
+            "city": "San Fernando"
+          }
+        ]
+      },
+      {
+        "model": "cromos adrenalyn xl mundial panini",
+        "example_title": "Cromos Adrenalyn XL Mundial Panini",
+        "example_url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T17:48:24.921Z",
+        "last_seen": "2026-04-24T17:48:24.921Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Cromos Adrenalyn XL Mundial Panini",
+            "url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
+            "city": "Mataró"
+          }
+        ]
+      },
       {
         "model": "elite trainer box mega evolucion pokemon",
         "example_title": "Elite Trainer Box Mega Evolución Pokémon",
@@ -786,56 +886,6 @@
             "title": "Red Dead Redemption 1 Nintendo Switch",
             "url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
             "city": "Fonteculler"
-          }
-        ]
-      },
-      {
-        "model": "funko pop star wars princess leia 595",
-        "example_title": "Funko Pop! Star Wars Princess Leia 595",
-        "example_url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-24T15:47:38.091Z",
-        "last_seen": "2026-04-24T15:47:38.091Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "Funko Pop! Star Wars Princess Leia 595",
-            "url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
-            "city": "San Fernando"
-          }
-        ]
-      },
-      {
-        "model": "cromos adrenalyn xl mundial panini",
-        "example_title": "Cromos Adrenalyn XL Mundial Panini",
-        "example_url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-24T15:47:38.091Z",
-        "last_seen": "2026-04-24T15:47:38.091Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Cromos Adrenalyn XL Mundial Panini",
-            "url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
-            "city": "Mataró"
           }
         ]
       },
@@ -2536,31 +2586,6 @@
             "title": "Lote 5 Videojuegos PS2",
             "url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
             "city": "Zaragoza"
-          }
-        ]
-      },
-      {
-        "model": "puzzle 1000 trefl",
-        "example_title": "Puzzle 1000 Trefl",
-        "example_url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 7,
-        "median_price": 7,
-        "max_price": 7,
-        "first_seen": "2026-04-24T08:02:30.011Z",
-        "last_seen": "2026-04-24T08:02:30.011Z",
-        "sample": [
-          {
-            "price": 7,
-            "title": "Puzzle 1000 Trefl",
-            "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
-            "city": "Gijón"
           }
         ]
       },
@@ -5196,10 +5221,10 @@
     "hot_24h": 2,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 200,
-    "total_unique_models": 206,
-    "total_reservations": 17,
-    "total_confirmed_sales": 197
+    "possible": 201,
+    "total_unique_models": 207,
+    "total_reservations": 15,
+    "total_confirmed_sales": 200
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5212,16 +5237,40 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "v6gp35qy426e",
-      "model": "iphone 14 pro space negro",
-      "title": "iPhone 14 Pro Space negro",
-      "sold_price": 310,
-      "city": "Eivissa",
-      "url": "https://es.wallapop.com/item/iphone-14-pro-space-negro-1255658740",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T15:32:28.188Z",
-      "last_seen": "2026-04-24T15:32:28.188Z",
-      "confirmed_at": "2026-04-24T17:34:55.267Z"
+      "id": "e65qdkgxep6o",
+      "model": "puzzle 1000 trefl",
+      "title": "Puzzle 1000 Trefl",
+      "sold_price": 7,
+      "city": "Gijón",
+      "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T08:02:30.011Z",
+      "last_seen": "2026-04-24T08:02:30.011Z",
+      "confirmed_at": "2026-04-24T17:48:24.921Z"
+    },
+    {
+      "id": "36e5m4k33y6d",
+      "model": "funko pop star wars princess leia 595",
+      "title": "Funko Pop! Star Wars Princess Leia 595",
+      "sold_price": 35,
+      "city": "San Fernando",
+      "url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T15:47:38.091Z",
+      "last_seen": "2026-04-24T15:47:38.091Z",
+      "confirmed_at": "2026-04-24T17:48:24.921Z"
+    },
+    {
+      "id": "mzn3711v80jn",
+      "model": "cromos adrenalyn xl mundial panini",
+      "title": "Cromos Adrenalyn XL Mundial Panini",
+      "sold_price": 10,
+      "city": "Mataró",
+      "url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T15:47:38.091Z",
+      "last_seen": "2026-04-24T15:47:38.091Z",
+      "confirmed_at": "2026-04-24T17:48:24.921Z"
     }
   ]
 }

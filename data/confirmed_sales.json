@@ -2363,6 +2363,42 @@
       "first_reserved": "2026-04-24T15:32:28.188Z",
       "last_seen": "2026-04-24T15:32:28.188Z",
       "confirmed_at": "2026-04-24T17:34:55.267Z"
+    },
+    {
+      "id": "e65qdkgxep6o",
+      "model": "puzzle 1000 trefl",
+      "title": "Puzzle 1000 Trefl",
+      "sold_price": 7,
+      "city": "Gijón",
+      "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T08:02:30.011Z",
+      "last_seen": "2026-04-24T08:02:30.011Z",
+      "confirmed_at": "2026-04-24T17:48:24.921Z"
+    },
+    {
+      "id": "36e5m4k33y6d",
+      "model": "funko pop star wars princess leia 595",
+      "title": "Funko Pop! Star Wars Princess Leia 595",
+      "sold_price": 35,
+      "city": "San Fernando",
+      "url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T15:47:38.091Z",
+      "last_seen": "2026-04-24T15:47:38.091Z",
+      "confirmed_at": "2026-04-24T17:48:24.921Z"
+    },
+    {
+      "id": "mzn3711v80jn",
+      "model": "cromos adrenalyn xl mundial panini",
+      "title": "Cromos Adrenalyn XL Mundial Panini",
+      "sold_price": 10,
+      "city": "Mataró",
+      "url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T15:47:38.091Z",
+      "last_seen": "2026-04-24T15:47:38.091Z",
+      "confirmed_at": "2026-04-24T17:48:24.921Z"
     }
   ]
 }
