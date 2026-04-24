@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-04-24T04:15:22.887Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 227,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Nintendo Switch V1/primera versión con accesorios",
+          "price": 139.9,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/nintendo-switch-v1-prima-versione-con-accessori-1255483877",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "Kirby Air Riders Nintendo Switch",
+          "price": 50,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/kirby-air-riders-nintendo-switch-1255483694",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "kirby air riders nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'kirby air riders nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Hyrule Warriors: La era del destierro Nintendo Swi",
+          "price": 50,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/hyrule-warriors-la-era-del-destierro-nintendo-swi-1255483660",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "hyrule warriors: era del destierro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hyrule warriors: era del destierro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Ps5 Slim De Disco De 1TB",
+          "price": 305,
+          "city": "Almería",
+          "url": "https://es.wallapop.com/item/libro-plaza-sesamo-los-oficios-de-elmo-1255483578",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 slim 1tb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando Elite Series 2 Blanco Xbox/PC",
+          "price": 75,
+          "city": "Paterna",
+          "url": "https://es.wallapop.com/item/mando-elite-series-2-blanco-xbox-pc-1255484233",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando elite series blanco xbox/pc",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando elite series blanco xbox/pc' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple AirPods Pro (2021) Blancos 1a generación.",
+          "price": 70,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-airpods-pro-2021-blancos-1a-generacion-1255483850",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple airpods pro (2021) blancos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple airpods pro (2021) blancos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 13 pro max",
+          "price": 240,
+          "city": "Valladolid",
+          "url": "https://es.wallapop.com/item/el-codigo-de-las-mentes-extraordinarias-1255484128",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 170,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Eurythmics LP promocional",
+          "price": 18,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/eurythmics-lp-promo-1255484012",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "eurythmics promocional",
+          "verdict": "skip",
+          "reason": "0 reservados de 'eurythmics promocional' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 91,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 40,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 8,
+  "total_signals": 0,
+  "duration_s": 63
+}
