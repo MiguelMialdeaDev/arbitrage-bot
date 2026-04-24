@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T10:18:25.765Z",
+  "updated_at": "2026-04-24T10:32:59.630Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,181 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "manipolatore magic the gathering",
+        "example_title": "Manipolatore - Magic The Gathering",
+        "example_url": "https://es.wallapop.com/item/manipolatore-magic-the-gathering-1255564983",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 3,
+        "median_price": 3,
+        "max_price": 3,
+        "first_seen": "2026-04-24T10:32:59.629Z",
+        "last_seen": "2026-04-24T10:32:59.629Z",
+        "sample": [
+          {
+            "price": 3,
+            "title": "Manipolatore - Magic The Gathering",
+            "url": "https://es.wallapop.com/item/manipolatore-magic-the-gathering-1255564983",
+            "city": "Castellón de la Plana/Castelló de la Plana"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon zapdos ex 192 165",
+        "example_title": "Carta Pokémon Zapdos EX 192/165",
+        "example_url": "https://es.wallapop.com/item/carte-pokemon-zapdos-ex-192-165-1255564917",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8.8,
+        "median_price": 8.8,
+        "max_price": 8.8,
+        "first_seen": "2026-04-24T10:32:59.629Z",
+        "last_seen": "2026-04-24T10:32:59.629Z",
+        "sample": [
+          {
+            "price": 8.8,
+            "title": "Carta Pokémon Zapdos EX 192/165",
+            "url": "https://es.wallapop.com/item/carte-pokemon-zapdos-ex-192-165-1255564917",
+            "city": "Bellaria"
+          }
+        ]
+      },
+      {
+        "model": "juegos ps5 terror fobia maid of sker tormente",
+        "example_title": "4 Juegos PS5 Terror: Fobia, Maid of Sker, Tormente",
+        "example_url": "https://es.wallapop.com/item/4-juegos-ps5-terror-fobia-maid-of-sker-tormente-1255563792",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T10:32:59.629Z",
+        "last_seen": "2026-04-24T10:32:59.629Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "4 Juegos PS5 Terror: Fobia, Maid of Sker, Tormente",
+            "url": "https://es.wallapop.com/item/4-juegos-ps5-terror-fobia-maid-of-sker-tormente-1255563792",
+            "city": "Córdoba"
+          }
+        ]
+      },
+      {
+        "model": "spider ham marvel champions david",
+        "example_title": "Spider-Ham Marvel Champions para David",
+        "example_url": "https://es.wallapop.com/item/spider-ham-marvel-champions-para-david-1255566076",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T10:32:59.629Z",
+        "last_seen": "2026-04-24T10:32:59.629Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Spider-Ham Marvel Champions para David",
+            "url": "https://es.wallapop.com/item/spider-ham-marvel-champions-para-david-1255566076",
+            "city": "Alcalá de Guadaíra"
+          }
+        ]
+      },
+      {
+        "model": "lote cromos futbol panini hugo",
+        "example_title": "Lote cromos fútbol Panini Hugo",
+        "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-hugo-1255521311",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9.5,
+        "median_price": 9.5,
+        "max_price": 9.5,
+        "first_seen": "2026-04-24T10:32:59.629Z",
+        "last_seen": "2026-04-24T10:32:59.629Z",
+        "sample": [
+          {
+            "price": 9.5,
+            "title": "Lote cromos fútbol Panini Hugo",
+            "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-hugo-1255521311",
+            "city": "Cerceda"
+          }
+        ]
+      },
+      {
+        "model": "3x pokemon tcg charizard ultra premium collection",
+        "example_title": "3x Pokémon TCG Charizard Ultra Premium Collection",
+        "example_url": "https://es.wallapop.com/item/3x-pokemon-tcg-charizard-ultra-premium-collection-1255523764",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 510,
+        "median_price": 510,
+        "max_price": 510,
+        "first_seen": "2026-04-24T10:32:59.629Z",
+        "last_seen": "2026-04-24T10:32:59.629Z",
+        "sample": [
+          {
+            "price": 510,
+            "title": "3x Pokémon TCG Charizard Ultra Premium Collection",
+            "url": "https://es.wallapop.com/item/3x-pokemon-tcg-charizard-ultra-premium-collection-1255523764",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote pokemon phantasmal flames ingles",
+        "example_title": "Lote Pokémon Phantasmal Flames Inglés",
+        "example_url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 62.5,
+        "median_price": 62.5,
+        "max_price": 62.5,
+        "first_seen": "2026-04-24T10:32:59.629Z",
+        "last_seen": "2026-04-24T10:32:59.629Z",
+        "sample": [
+          {
+            "price": 62.5,
+            "title": "Lote Pokémon Phantasmal Flames Inglés",
+            "url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "poltergeist di xenic magic the gathering",
         "example_title": "Poltergeist di Xenic - Magic The Gathering",
@@ -785,81 +960,6 @@
             "title": "The Legend of Zelda: Breath of the Wild",
             "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
             "city": "Viladecans"
-          }
-        ]
-      },
-      {
-        "model": "lote cromos futbol panini hugo",
-        "example_title": "Lote cromos fútbol Panini Hugo",
-        "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-hugo-1255521311",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9.5,
-        "median_price": 9.5,
-        "max_price": 9.5,
-        "first_seen": "2026-04-24T08:32:53.508Z",
-        "last_seen": "2026-04-24T08:32:53.508Z",
-        "sample": [
-          {
-            "price": 9.5,
-            "title": "Lote cromos fútbol Panini Hugo",
-            "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-hugo-1255521311",
-            "city": "Cerceda"
-          }
-        ]
-      },
-      {
-        "model": "3x pokemon tcg charizard ultra premium collection",
-        "example_title": "3x Pokémon TCG Charizard Ultra Premium Collection",
-        "example_url": "https://es.wallapop.com/item/3x-pokemon-tcg-charizard-ultra-premium-collection-1255523764",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 510,
-        "median_price": 510,
-        "max_price": 510,
-        "first_seen": "2026-04-24T08:32:53.508Z",
-        "last_seen": "2026-04-24T08:32:53.508Z",
-        "sample": [
-          {
-            "price": 510,
-            "title": "3x Pokémon TCG Charizard Ultra Premium Collection",
-            "url": "https://es.wallapop.com/item/3x-pokemon-tcg-charizard-ultra-premium-collection-1255523764",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "lote pokemon phantasmal flames ingles",
-        "example_title": "Lote Pokémon Phantasmal Flames Inglés",
-        "example_url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 62.5,
-        "median_price": 62.5,
-        "max_price": 62.5,
-        "first_seen": "2026-04-24T08:32:53.508Z",
-        "last_seen": "2026-04-24T08:32:53.508Z",
-        "sample": [
-          {
-            "price": 62.5,
-            "title": "Lote Pokémon Phantasmal Flames Inglés",
-            "url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
-            "city": "Barcelona"
           }
         ]
       },
@@ -3620,10 +3720,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 140,
-    "total_unique_models": 143,
-    "total_reservations": 24,
-    "total_confirmed_sales": 124
+    "possible": 144,
+    "total_unique_models": 147,
+    "total_reservations": 25,
+    "total_confirmed_sales": 127
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3636,28 +3736,40 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "x6qq13md0y6y",
-      "model": "legos exin west castillos bcn line bros",
-      "title": "Legos de Exin West Castillos BCN Line Bros",
-      "sold_price": 180,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
+      "id": "0j28o245emjy",
+      "model": "lote cromos futbol panini hugo",
+      "title": "Lote cromos fútbol Panini Hugo",
+      "sold_price": 9.5,
+      "city": "Cerceda",
+      "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-hugo-1255521311",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T08:17:11.472Z",
-      "last_seen": "2026-04-24T08:17:11.472Z",
-      "confirmed_at": "2026-04-24T10:18:25.763Z"
+      "first_reserved": "2026-04-24T08:32:53.508Z",
+      "last_seen": "2026-04-24T08:32:53.508Z",
+      "confirmed_at": "2026-04-24T10:32:59.629Z"
     },
     {
-      "id": "mzn37122x2jn",
-      "model": "pokemon let go eevee nintendo switch",
-      "title": "Pokémon Let's Go Eevee Nintendo Switch",
-      "sold_price": 20,
-      "city": "Badalona",
-      "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T08:17:11.472Z",
-      "last_seen": "2026-04-24T08:17:11.472Z",
-      "confirmed_at": "2026-04-24T10:18:25.763Z"
+      "id": "v6gp35pmw26e",
+      "model": "3x pokemon tcg charizard ultra premium collection",
+      "title": "3x Pokémon TCG Charizard Ultra Premium Collection",
+      "sold_price": 510,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/3x-pokemon-tcg-charizard-ultra-premium-collection-1255523764",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T08:32:53.508Z",
+      "last_seen": "2026-04-24T08:32:53.508Z",
+      "confirmed_at": "2026-04-24T10:32:59.629Z"
+    },
+    {
+      "id": "e65qdk8x3m6o",
+      "model": "lote pokemon phantasmal flames ingles",
+      "title": "Lote Pokémon Phantasmal Flames Inglés",
+      "sold_price": 62.5,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T08:32:53.508Z",
+      "last_seen": "2026-04-24T08:32:53.508Z",
+      "confirmed_at": "2026-04-24T10:32:59.629Z"
     }
   ]
 }
