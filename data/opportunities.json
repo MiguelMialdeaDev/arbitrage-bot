@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T10:44:40.759Z",
+  "updated_at": "2026-04-24T10:46:54.660Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "mando nintendo switch pro controller negro",
+        "example_title": "Mando Nintendo Switch 2 Pro Controller Negro",
+        "example_url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-controller-negro-1255574752",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T10:46:54.659Z",
+        "last_seen": "2026-04-24T10:46:54.659Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "Mando Nintendo Switch 2 Pro Controller Negro",
+            "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-controller-negro-1255574752",
+            "city": "Toledo"
+          }
+        ]
+      },
       {
         "model": "funko pop iron man am iron man",
         "example_title": "Funko POP! Iron Man (I am Iron Man)",
@@ -3770,9 +3795,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 146,
-    "total_unique_models": 149,
-    "total_reservations": 27,
+    "possible": 147,
+    "total_unique_models": 150,
+    "total_reservations": 28,
     "total_confirmed_sales": 127
   },
   "thresholds": {
