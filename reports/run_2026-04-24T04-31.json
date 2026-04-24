@@ -1,0 +1,317 @@
+{
+  "timestamp": "2026-04-24T04:30:27.347Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Funko Bitty Pop Stranger Things Barb Chase",
+          "price": 16.95,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/funko-bitty-pop-stranger-things-barb-chase-1255484345",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "Funko Bitty Pop Sanrio Kuromi Chase",
+          "price": 16.95,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/funko-bitty-pop-sanrio-kuromi-chase-1255484153",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "Cromo Panini Adrenalyn Vinicius Balón de Oro",
+          "price": 10,
+          "city": "Arnedo",
+          "url": "https://es.wallapop.com/item/cromo-panini-adrenalyn-vinicius-balon-de-oro-1255484175",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromo panini adrenalyn vinicius balon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromo panini adrenalyn vinicius balon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "2023-24 Megacracks Master Rookie #514 Nico Paz",
+          "price": 20,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/2023-24-megacracks-master-rookie-514-nico-paz-1255484074",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "2023-24 megacracks master rookie #514",
+          "verdict": "skip",
+          "reason": "0 reservados de '2023-24 megacracks master rookie #514' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Xenagos, Dios del Deleite - Magic The Gathering",
+          "price": 11,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/xenagos-dios-del-deleite-magic-the-gathering-1255484298",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xenagos, dios del deleite magic",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xenagos, dios del deleite magic' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 228,
+      "new_items": 15,
+      "items": [
+        {
+          "title": "Patrulla Canina: Rescue Wheels Switch",
+          "price": 30,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/patrulla-canina-rescue-wheels-switch-1255484659",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "patrulla canina: rescue wheels switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'patrulla canina: rescue wheels switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch 2",
+          "price": 371,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/libro-ritual-x-the-book-of-the-concourse-of-the-1255484220",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch 2",
+          "price": 380,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/el-psicologia-del-dinero-morgan-housel-1255484853",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Stranger of Paradise: Final Fantasy Origin PS4",
+          "price": 20,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/stranger-of-paradise-final-fantasy-origin-ps4-1255484904",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "stranger paradise: final fantasy origin",
+          "verdict": "skip",
+          "reason": "0 reservados de 'stranger paradise: final fantasy origin' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mortal Kombat 11 PS4",
+          "price": 15,
+          "city": "Los Arenales del Sol",
+          "url": "https://es.wallapop.com/item/mortal-kombat-11-ps4-1255484351",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mortal kombat ps4",
+          "verdict": "skip",
+          "reason": "15€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Juego Ark Survival Evolved PS4",
+          "price": 12,
+          "city": "Los Arenales del Sol",
+          "url": "https://es.wallapop.com/item/juego-ark-survival-evolved-ps4-1255484640",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego ark survival evolved ps4",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego ark survival evolved ps4' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Plus Como Nuevo",
+          "price": 480,
+          "city": "Cartaya",
+          "url": "https://es.wallapop.com/item/iphone-15-plus-como-nuevo-1255485013",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "iPhone 17 256GB Negro 1 mes",
+          "price": 820,
+          "city": "Torre del Mar",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-negro-1-mes-1255484946",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb negro mes",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb negro mes' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 256GB Naranja *NUEVO*LEE TODO",
+          "price": 1.25,
+          "city": "Caudiel",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-naranja-dorado-nuevo-1255484796",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "iphone 13 pro max",
+          "price": 260,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/libro-la-chica-del-tren-paula-hawkins-1255484517",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 13 pro max",
+          "price": 230,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/el-fuego-invisible-javier-sierra-1255484308",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 17 pro max 256gb",
+          "price": 900,
+          "city": "Cuenca",
+          "url": "https://es.wallapop.com/item/tijeras-de-peluqueria-red-7-5-acero-inox-1255483678",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 17 pro max",
+          "price": 900,
+          "city": "Cartagena",
+          "url": "https://es.wallapop.com/item/arbol-de-navidad-de-madera-decorado-1255483476",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 pro max",
+          "price": 900,
+          "city": "Toledo",
+          "url": "https://es.wallapop.com/item/martillo-de-bola-tramontina-pro-1255483111",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja Apple Watch Ultra 2",
+          "price": 10,
+          "city": "Cornella de Llobregat",
+          "url": "https://es.wallapop.com/item/caja-apple-watch-ultra-2-1255484676",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch ultra",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 168,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Hotel California LP de Eagles en vinilo",
+          "price": 30,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/eagles-hotel-california-lp-vinile-1255484921",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "hotel california eagles",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hotel california eagles' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mac Miller - Watching Movies With The Sound Off LP",
+          "price": 40,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/mac-miller-watching-movies-with-the-sound-off-lp-1255484440",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "estado: rasgado"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Juego Preguntas y Respuestas Coca-Cola",
+          "price": 5,
+          "city": "Arnedo",
+          "url": "https://es.wallapop.com/item/juego-preguntas-y-respuestas-coca-cola-1255484861",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Patchwork 10 Aniversario",
+          "price": 40,
+          "city": "Toledo",
+          "url": "https://es.wallapop.com/item/patchwork-10-aniversario-1255484837",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "patchwork aniversario",
+          "verdict": "skip",
+          "reason": "0 reservados de 'patchwork aniversario' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Raqueta Babolat Boost Drive",
+          "price": 30,
+          "city": "Cesenatico",
+          "url": "https://es.wallapop.com/item/racchetta-babolat-boost-drive-1255484735",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta babolat boost drive",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta babolat boost drive' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 39,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 25,
+  "total_signals": 0,
+  "duration_s": 70
+}
