@@ -1,0 +1,570 @@
+{
+  "timestamp": "2026-04-24T23:15:20.594Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 210,
+      "new_items": 23,
+      "items": [
+        {
+          "title": "Pack Funko Pop! Silent Hill Heather & James",
+          "price": 30.9,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
+          "reserved": true,
+          "profile": "funko_lote",
+          "query_ebay": "Funko Pop",
+          "verdict": "skip",
+          "reason": "30.9€ vs mín reservado 16€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Carta Pokémon Drapion V - FASE 1",
+          "price": 10,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-drapion-v-fase-1-1255767244",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon drapion fase",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon drapion fase' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Staks Pokémon 2006 Panini",
+          "price": 30,
+          "city": "Salamanca",
+          "url": "https://es.wallapop.com/item/staks-pokemon-2006-panini-1255767110",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "staks pokemon panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'staks pokemon panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Ceniza Sagrada Entrenador 115/088",
+          "price": 6,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/ceniza-sagrada-entrenador-115-088-1255767071",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Bosque Vitalidad Entrenador",
+          "price": 20,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-bosque-vitalidad-entrenador-1255766907",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon bosque vitalidad entrenador",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon bosque vitalidad entrenador' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Dragonite V",
+          "price": 2.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-dragonite-v-1255766750",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Tyrunt FASE 1",
+          "price": 15,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-tyrunt-fase-1-1255766683",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon tyrunt fase",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon tyrunt fase' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mini Tin Pokémon",
+          "price": 1,
+          "city": "Cremona",
+          "url": "https://es.wallapop.com/item/mini-tin-pokemon-1255766670",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Terapagos EX Dorada",
+          "price": 9.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-terapagos-ex-dorada-1255766663",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Terapagos EX",
+          "price": 14.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-terapagos-ex-1255766603",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon terapagos",
+          "verdict": "skip",
+          "reason": "14.95€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Carta Pokémon Magcargo EX Teracristal 191/167",
+          "price": 1.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-magcargo-ex-teracristal-191-167-1255766481",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Serperior EX Carta Pokémon",
+          "price": 1.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/serperior-ex-carta-pokemon-1255766404",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Kyurem EX Carta Pokémon",
+          "price": 1.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/kyurem-ex-carta-pokemon-1255766349",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Pack 3 Energías Crecientes + 2 Telepáticas",
+          "price": 5,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/pack-3-energias-crecientes---2-telepaticas-1255766316",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Espeon EX Teracristal Carta Pokémon",
+          "price": 17.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/espeon-ex-teracristal-carta-pokemon-1255766293",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "espeon teracristal carta pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'espeon teracristal carta pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Salamence EX",
+          "price": 2.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-salamence-ex-1255766225",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Serperior Fase 2 160 PS",
+          "price": 3,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-serperior-fase-2-160-ps-1255766191",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Ogerpon Mascara Turquesa Carta Pokémon",
+          "price": 2.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/ogerpon-mascara-turquesa-carta-pokemon-1255766171",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Snover",
+          "price": 2.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-snover-1255766104",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "8 Cartas Pokémon Full Arts y Trainers",
+          "price": 50,
+          "city": "Castelldefels",
+          "url": "https://es.wallapop.com/item/8-cartas-pokemon-full-arts-y-trainers-1255766045",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon full arts trainers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon full arts trainers' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Charcadet",
+          "price": 2.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-charcadet-1255766021",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Gumshoos",
+          "price": 3.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-gumshoos-1255765963",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Ancient Mew",
+          "price": 59,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-ancient-mew-1255765926",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon ancient mew",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon ancient mew' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 254,
+      "new_items": 24,
+      "items": [
+        {
+          "title": "Juegos Nintendo Switch",
+          "price": 100,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/juegos-nintendo-switch-1255767405",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Remothered Saga Nintendo Switch Precintada",
+          "price": 300,
+          "city": "Pineda de Mar",
+          "url": "https://es.wallapop.com/item/remothered-saga-nintendo-switch-precintada-1255767404",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "remothered saga nintendo switch precintada",
+          "verdict": "skip",
+          "reason": "0 reservados de 'remothered saga nintendo switch precintada' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Donkey Kong Bananza - Nintendo Switch 2",
+          "price": 50,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/donkey-kong-bananza-nintendo-switch-2-1255767175",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "donkey kong bananza nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'donkey kong bananza nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Super Mario Odyssey Nintendo Switch",
+          "price": 25,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255767102",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario odyssey nintendo switch",
+          "verdict": "skip",
+          "reason": "25€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Assassin's Creed The Rebel Collection Switch",
+          "price": 10,
+          "city": "Alguazas",
+          "url": "https://es.wallapop.com/item/assassin-s-creed-the-rebel-collection-switch-1255766885",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "Tarjeta MicroSDXC Sandisk 128 GB Nintendo",
+          "price": 20,
+          "city": "Picassent",
+          "url": "https://es.wallapop.com/item/tarjeta-microsdxc-sandisk-128-gb-nintendo-1255766477",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "tarjeta microsdxc sandisk nintendo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'tarjeta microsdxc sandisk nintendo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Overcooked Special Edition Nintendo Switch #A2833",
+          "price": 20,
+          "city": "Arbus",
+          "url": "https://es.wallapop.com/item/overcooked-special-edition-nintendo-switch-a2833-1255766446",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "overcooked special edition nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'overcooked special edition nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Dragon Ball Xenoverse 2 Switch (JAP) Acción",
+          "price": 5,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/dragon-ball-xenoverse-2-switch-jap-accion-1255766334",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "Mario Sparks of Hope Nintendo Switch #A2608",
+          "price": 14,
+          "city": "Arbus",
+          "url": "https://es.wallapop.com/item/mario-sparks-of-hope-nintendo-switch-a2608-1255766168",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mario sparks hope nintendo switch",
+          "verdict": "skip",
+          "reason": "14€ vs mín reservado 14€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Pokemon Leyendas Arceus Switch JAP",
+          "price": 25,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/pokemon-leyendas-arceus-switch-jap-1255766070",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "pokemon leyendas arceus switch jap",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon leyendas arceus switch jap' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Darksiders II Deathinitive Edition PS5",
+          "price": 25,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/darksiders-ii-deathinitive-edition-ps5-1255767158",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "darksiders deathinitive edition ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'darksiders deathinitive edition ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "GTA V PS5",
+          "price": 20,
+          "city": "Gandía",
+          "url": "https://es.wallapop.com/item/gta-v-ps5-1255767107",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gta ps5",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 11.95€ vs mín reservado 420€)"
+        },
+        {
+          "title": "Ps5 portal negra acepto cambios",
+          "price": 190,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/ps5-portal-negra-acepto-cambios-1255766946",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 portal negra acepto cambios",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 portal negra acepto cambios' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando Scuf Gaming Reflex FPS Optic Edition",
+          "price": 150,
+          "city": "Huelva",
+          "url": "https://es.wallapop.com/item/mando-scuf-gaming-reflex-fps-optic-edition-1255766380",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando scuf gaming reflex fps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando scuf gaming reflex fps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pragmata PS5",
+          "price": 50,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/pragmata-ps5-1255766142",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pragmata ps5",
+          "verdict": "skip",
+          "reason": "50€ vs mín reservado 40€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 16e GARANTÍA PRECINTADO",
+          "price": 499,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16e-garantia-precintado-1255767389",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 16e garantia precintado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 16e garantia precintado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 256GB",
+          "price": 285,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-13-256gb-1255766863",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Plus 128GB Morado",
+          "price": 250,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/iphone-14-plus-128gb-morado-1255766740",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus 128gb morado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus 128gb morado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro Max Verde",
+          "price": 400,
+          "city": "Algorfa",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-max-verde-1255766699",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max verde",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max verde' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro (para piezas)",
+          "price": 250,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-para-piezas-1255766651",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro (para piezas)",
+          "verdict": "skip",
+          "reason": "250€ vs mín reservado 12.6€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 16 Negro Sin Abrir",
+          "price": 620,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/iphone-16-negro-sin-abrir-1255766621",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro sin abrir",
+          "verdict": "skip",
+          "reason": "620€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 17 256GB Blanco",
+          "price": 900,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-blanco-1255766312",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: defecto"
+        },
+        {
+          "title": "iPhone 15 Verde 128GB 85%",
+          "price": 350,
+          "city": "El Prat de Llobregat",
+          "url": "https://es.wallapop.com/item/iphone-15-verde-128gb-85-1255766268",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone verde 128gb 85%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone verde 128gb 85%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Verde 256GB",
+          "price": 750,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/iphone-17-verde-256gb-1255766108",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone verde 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone verde 256gb' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 162,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "GORILAS EN LA NIEBLA DVD Sigourney Weaver",
+          "price": 8.9,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/gorilas-en-la-niebla-dvd-sigourney-weaver-1255767303",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "AVATAR BLURAY VERSION EXTENDIDA ED. COLECCIONISTA",
+          "price": 14.9,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/avatar-bluray-version-extendida-ed-coleccionista-1255766617",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "avatar bluray version extendida ed.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'avatar bluray version extendida ed.' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 84,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta junior Tenis HEAD Coco T21",
+          "price": 14,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/raqueta-junior-tenis-head-coco-t21-1255767302",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 34,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 50,
+  "total_signals": 0,
+  "duration_s": 74
+}

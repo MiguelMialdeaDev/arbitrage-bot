@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T23:02:00.801Z",
+  "updated_at": "2026-04-24T23:16:34.192Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack funko pop silent hill heather james",
+        "example_title": "Pack Funko Pop! Silent Hill Heather & James",
+        "example_url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30.9,
+        "median_price": 30.9,
+        "max_price": 30.9,
+        "first_seen": "2026-04-24T23:16:34.190Z",
+        "last_seen": "2026-04-24T23:16:34.190Z",
+        "sample": [
+          {
+            "price": 30.9,
+            "title": "Pack Funko Pop! Silent Hill Heather & James",
+            "url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "funko pop the walking dead daryl dixon #14",
         "example_title": "Funko Pop! The Walking Dead Daryl Dixon #14",
@@ -3770,7 +3795,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3795,7 +3820,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3820,7 +3845,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5945,9 +5970,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 228,
-    "total_unique_models": 235,
-    "total_reservations": 9,
+    "possible": 229,
+    "total_unique_models": 236,
+    "total_reservations": 10,
     "total_confirmed_sales": 235
   },
   "thresholds": {
