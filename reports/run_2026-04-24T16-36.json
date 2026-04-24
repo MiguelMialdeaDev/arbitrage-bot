@@ -1,0 +1,623 @@
+{
+  "timestamp": "2026-04-24T16:34:54.263Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 195,
+      "new_items": 13,
+      "items": [
+        {
+          "title": "Funko Pop! Disney Villanos Lady Tremaine 1080",
+          "price": 10,
+          "city": "Chiclana de la Frontera",
+          "url": "https://es.wallapop.com/item/funko-pop-disney-villanos-lady-tremaine-1080-1255680773",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! disney villanos lady tremaine 1080",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! disney villanos lady tremaine 1080' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Batman",
+          "price": 5,
+          "city": "Las Rozas de Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-batman-1255680728",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko batman",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 10€ vs mín reservado 40€)"
+        },
+        {
+          "title": "Pack 4 Figuras Funko Pop",
+          "price": 18,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/pack-4-figuras-funko-pop-1255680650",
+          "reserved": false,
+          "profile": "funko_lote",
+          "query_ebay": "Funko Pop",
+          "verdict": "skip",
+          "reason": "18€ vs mín reservado 7.5€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funko Pop Stranger Things Kinder Joy",
+          "price": 30,
+          "city": "Pontevedra",
+          "url": "https://es.wallapop.com/item/funko-pop-stranger-things-kinder-joy-1255680047",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "Funko Pop! Demon Slayer 1308 Kyojuro Rengoku",
+          "price": 18,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-demon-slayer-1308-kyojuro-rengoku-1255679437",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! demon slayer kyojuro rengoku 1308",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! demon slayer kyojuro rengoku 1308' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lamine Yamal Topps Merlin Carta Fútbol",
+          "price": 7,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/lamine-yamal-topps-merlin-carta-futbol-1255680193",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cromo Messi Mundial 2026 Argentina",
+          "price": 13,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/cromo-messi-mundial-2026-argentina-1255680097",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromo messi mundial argentina",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromo messi mundial argentina' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Meowth EX POR 107 ES",
+          "price": 25,
+          "city": "Sant Celoni",
+          "url": "https://es.wallapop.com/item/meowth-ex-por-107-es-1255680618",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "meowth por",
+          "verdict": "skip",
+          "reason": "25€ vs mín reservado 8€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Clefairy POR 94/88 ES",
+          "price": 18,
+          "city": "Sant Celoni",
+          "url": "https://es.wallapop.com/item/clefairy-por-94-88-es-1255679774",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "clefairy por 94/88",
+          "verdict": "skip",
+          "reason": "0 reservados de 'clefairy por 94/88' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote +700 Cartas Magic The Gathering",
+          "price": 50,
+          "city": "Donostia-San Sebastián",
+          "url": "https://es.wallapop.com/item/lote--700-cartas-magic-the-gathering-1255679431",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "+700 cartas magic the gathering",
+          "verdict": "skip",
+          "reason": "0 reservados de '+700 cartas magic the gathering' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Venasaur ex sv2a 184  Coreano",
+          "price": 9,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/venasaur-ex-sv2a-184-coreano-1255679805",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Tyrunt FASE 1",
+          "price": 14,
+          "city": "Toledo",
+          "url": "https://es.wallapop.com/item/carta-pokemon-tyrunt-fase-1-1255679731",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon tyrunt fase",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon tyrunt fase' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Chandelure VMAX Metalica",
+          "price": 5,
+          "city": "Ourense",
+          "url": "https://es.wallapop.com/item/carta-pokemon-chandelure-vmax-metalica-1255679726",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 264,
+      "new_items": 40,
+      "items": [
+        {
+          "title": "Nintendo Switch Super Mario Party Jamboree",
+          "price": 35,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/nintendo-switch-super-mario-party-jamboree-1255680798",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch super mario party",
+          "verdict": "skip",
+          "reason": "35€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Super Mario Odyssey Nintendo Switch",
+          "price": 35,
+          "city": "La Roda",
+          "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255680703",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario odyssey nintendo switch",
+          "verdict": "skip",
+          "reason": "35€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch Azul/Rojo + Accesorios",
+          "price": 140,
+          "city": "Tona",
+          "url": "https://es.wallapop.com/item/nintendo-switch-azul-rojo---accesorios-1255680189",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch azul/rojo accesorios",
+          "verdict": "skip",
+          "reason": "140€ vs mín reservado 150€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Just Dance 2019 Nintendo Switch",
+          "price": 10,
+          "city": "Casillas",
+          "url": "https://es.wallapop.com/item/just-dance-2019-nintendo-switch-1255680156",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "just dance nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'just dance nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch OLED Mario Red Edition",
+          "price": 200,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled-mario-red-edition-1255680048",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Leyendas Pokémon: Z-A Nintendo Switch 2 Edition",
+          "price": 40,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/leyendas-pokemon-z-a-nintendo-switch-2-edition-1255679913",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "leyendas pokemon: z-a nintendo switch",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Just Dance 2020 Nintendo Switch",
+          "price": 10,
+          "city": "Casillas",
+          "url": "https://es.wallapop.com/item/just-dance-2020-nintendo-switch-1255679824",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "just dance nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'just dance nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "The Legend of Zelda: Tears of the Kingdom Switch",
+          "price": 35.8,
+          "city": "Sant Pere de Ribes",
+          "url": "https://es.wallapop.com/item/the-legend-of-zelda-tears-of-the-kingdom-switch-1255679505",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "the legend zelda: tears the",
+          "verdict": "skip",
+          "reason": "35.8€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Teclado, teclado numérico y trackpad Apple",
+          "price": 70,
+          "city": "La Gangosa",
+          "url": "https://es.wallapop.com/item/teclado-teclado-numerico-y-trackpad-apple-1255679459",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "teclado, teclado numerico trackpad apple Nintendo Switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'teclado, teclado numerico trackpad apple Nintendo Switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote de 8 Videojuegos PS4, PS5,swicht y swicht 2",
+          "price": 118,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/lote-de-8-videojuegos-ps4-ps5-swicht-y-swicht-2-1255680089",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Five Nights at Freddy's: Security Breach PS4",
+          "price": 15,
+          "city": "San Roque",
+          "url": "https://es.wallapop.com/item/five-nights-at-freddy-s-security-breach-ps4-1255679996",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "five nights freddy's: security breach",
+          "verdict": "skip",
+          "reason": "0 reservados de 'five nights freddy's: security breach' (sin evidencia de demanda)"
+        },
+        {
+          "title": "FC 24 PS5 EA Sports",
+          "price": 10,
+          "city": "Gavà",
+          "url": "https://es.wallapop.com/item/fc-24-ps5-ea-sports-1255679695",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 sports",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 7€ vs mín reservado 25€)"
+        },
+        {
+          "title": "Revistas antiguas de consolas y videojuegos",
+          "price": 120,
+          "city": "Corbera",
+          "url": "https://es.wallapop.com/item/revistas-antiguas-de-consolas-y-videojuegos-1255680579",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "revistas antiguas consolas videojuegos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'revistas antiguas consolas videojuegos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Xbox Series S Blanca - En Garantía",
+          "price": 180,
+          "city": "Tres Cantos",
+          "url": "https://es.wallapop.com/item/xbox-series-s-blanca-en-garantia-1255680718",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series blanca garantia",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox series blanca garantia' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Airpods 4 Blancos",
+          "price": 120,
+          "city": "Girona",
+          "url": "https://es.wallapop.com/item/airpods-4-blancos-1255680004",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods blancos",
+          "verdict": "skip",
+          "reason": "120€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Pack de 4 productos",
+          "price": 42,
+          "city": "Elgoibar",
+          "url": "https://es.wallapop.com/item/pack-de-4-productos-1255679345",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack productos",
+          "verdict": "skip",
+          "reason": "42€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "AirPods Pro 2",
+          "price": 45,
+          "city": "El Masnou",
+          "url": "https://es.wallapop.com/item/airpods-pro-2-1255678652",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro",
+          "verdict": "skip",
+          "reason": "45€ vs mín reservado 60€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Auriculares Blancos ANC",
+          "price": 40,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/auriculares-blancos-anc-1255669829",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "auriculares blancos anc",
+          "verdict": "skip",
+          "reason": "0 reservados de 'auriculares blancos anc' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Negro 128GB",
+          "price": 1212,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/iphone-16-negro-128gb-1255680690",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16e 128GB Blanco",
+          "price": 399,
+          "city": "Girona",
+          "url": "https://es.wallapop.com/item/iphone-16e-128gb-blanco-1255680551",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 16e 128gb blanco",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 16e 128gb blanco' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17e 256GB Blanco Precintado",
+          "price": 629,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17e-256gb-blanco-precintado-1255680541",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 17e 256gb blanco precintado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 17e 256gb blanco precintado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 512GB Verde ✨PRECINTADO✨",
+          "price": 1039,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-512gb-verde-precintado-1255680360",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 512gb verde ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 512gb verde ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 512GB Lavanda ✨PRECINTADO✨",
+          "price": 1039,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-512gb-lavanda-precintado-1255680324",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 512gb lavanda ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 512gb lavanda ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 512GB Blanco ✨PRECINTADO✨",
+          "price": 1039,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-512gb-blanco-precintado-1255680288",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 512gb blanco ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 512gb blanco ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 512GB Azul ✨PRECINTADO✨",
+          "price": 1039,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-512gb-azul-precintado-1255680263",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 512gb azul ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 512gb azul ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 512GB Negro ✨PRECINTADO✨",
+          "price": 1039,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-512gb-negro-precintado-1255680232",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 512gb negro ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 512gb negro ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 256GB Blanco ✨PRECINTADO✨",
+          "price": 789,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-blanco-precintado-1255680198",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb blanco ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb blanco ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 256GB Lavanda ✨PRECINTADO✨",
+          "price": 789,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-lavanda-precintado-1255680168",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb lavanda ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb lavanda ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 256GB Verde ✨PRECINTADO✨",
+          "price": 789,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-verde-precintado-1255680121",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb verde ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb verde ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 256GB Azul ✨PRECINTADO✨",
+          "price": 789,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-azul-precintado-1255680083",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb azul ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb azul ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17 256GB Negro ✨PRECINTADO✨",
+          "price": 789,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-negro-precintado-1255680030",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb negro ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb negro ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Batería iPhone 15 Compatible en perfecto estado",
+          "price": 20,
+          "city": "Consuegra",
+          "url": "https://es.wallapop.com/item/bateria-iphone-15-compatible-en-perfecto-estado-1255680011",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "iPhone 15 Pro Azul Titanio",
+          "price": 1212,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-azul-titanio-1255679968",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro azul titanio",
+          "verdict": "skip",
+          "reason": "1212€ vs mín reservado 500€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 15 128GB Azul",
+          "price": 350,
+          "city": "San Juan de Aznalfarache",
+          "url": "https://es.wallapop.com/item/iphone-15-128gb-azul-1255679847",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb azul",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb azul' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17e 512GB Rosa ✨PRECINTADO✨",
+          "price": 849,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17e-512gb-rosa-precintado-1255679638",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 17e 512gb rosa ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 17e 512gb rosa ✨precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 128GB Negro",
+          "price": 145,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/iphone-11-128gb-negro-1255679453",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17e 512GB Blanco ✨ PRECINTADO✨",
+          "price": 849,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17e-512gb-blanco-precintado-1255679435",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 17e 512gb blanco precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 17e 512gb blanco precintado✨' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Max 1TB",
+          "price": 500,
+          "city": "Sutullena",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-1tb-1255679398",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 1tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 1tb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 Blanco",
+          "price": 120,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-11-blanco-1255679367",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone blanco",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone blanco' (sin evidencia de demanda)"
+        },
+        {
+          "title": "↪️ iPhone 17e 512GB Negro ✨PRECINTADO✨",
+          "price": 849,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17e-512gb-negro-precintado-1255679353",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 17e 512gb negro ✨precintado✨",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 17e 512gb negro ✨precintado✨' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 178,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 82,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 30,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 53,
+  "total_signals": 0,
+  "duration_s": 80
+}

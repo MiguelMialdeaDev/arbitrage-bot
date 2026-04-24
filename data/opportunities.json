@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T16:32:40.886Z",
+  "updated_at": "2026-04-24T16:36:14.098Z",
   "tiers": {
     "proven_seller": [
       {
@@ -164,6 +164,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote articuno dark blastoise pokemon",
+        "example_title": "Lote 2 Articuno y Dark Blastoise Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-2-articuno-y-dark-blastoise-pokemon-1255638020",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 55,
+        "median_price": 55,
+        "max_price": 55,
+        "first_seen": "2026-04-24T16:36:14.096Z",
+        "last_seen": "2026-04-24T16:36:14.096Z",
+        "sample": [
+          {
+            "price": 55,
+            "title": "Lote 2 Articuno y Dark Blastoise Pokémon",
+            "url": "https://es.wallapop.com/item/lote-2-articuno-y-dark-blastoise-pokemon-1255638020",
+            "city": "Castello/Castellon de La Plana"
+          }
+        ]
+      },
       {
         "model": "animal crossing new horizons switch",
         "example_title": "Animal Crossing: New Horizons Switch",
@@ -986,31 +1011,6 @@
             "title": "LEGO Ninjago: 2 sobres y 1 caja metálica",
             "url": "https://es.wallapop.com/item/lego-ninjago-2-sobres-y-1-caja-metalica-1255610060",
             "city": "A Ribeira do Freixo"
-          }
-        ]
-      },
-      {
-        "model": "lote articuno dark blastoise pokemon",
-        "example_title": "Lote 2 Articuno y Dark Blastoise Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-2-articuno-y-dark-blastoise-pokemon-1255638020",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 55,
-        "median_price": 55,
-        "max_price": 55,
-        "first_seen": "2026-04-24T14:33:24.347Z",
-        "last_seen": "2026-04-24T14:33:24.347Z",
-        "sample": [
-          {
-            "price": 55,
-            "title": "Lote 2 Articuno y Dark Blastoise Pokémon",
-            "url": "https://es.wallapop.com/item/lote-2-articuno-y-dark-blastoise-pokemon-1255638020",
-            "city": "Castello/Castellon de La Plana"
           }
         ]
       },
@@ -4146,7 +4146,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5098,8 +5098,8 @@
     "recurring": 0,
     "possible": 197,
     "total_unique_models": 202,
-    "total_reservations": 22,
-    "total_confirmed_sales": 187
+    "total_reservations": 21,
+    "total_confirmed_sales": 188
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5109,96 +5109,19 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "nintendo switch sports",
-      "from_tier": "possible",
-      "to_tier": "hot_24h",
-      "from_label": "💡 Posible",
-      "to_label": "🔥 Hot 24h",
-      "entry": {
-        "model": "nintendo switch sports",
-        "example_title": "Nintendo Switch Sports",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 20,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T14:18:07.704Z",
-        "last_seen": "2026-04-24T16:32:40.885Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Nintendo Switch Sports",
-            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
-            "city": "Berga"
-          }
-        ]
-      }
-    },
-    {
-      "model": "lote funko pop stranger things",
-      "from_tier": "possible",
-      "to_tier": "trending_7d",
-      "from_label": "💡 Posible",
-      "to_label": "✨ Trending 7d",
-      "entry": {
-        "model": "lote funko pop stranger things",
-        "example_title": "Lote Funko Pop Stranger Things",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 1,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 1.9,
-        "min_price": 5.5,
-        "median_price": 7.5,
-        "max_price": 7.5,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-24T16:32:40.885Z",
-        "sample": [
-          {
-            "price": 7.5,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
-            "city": "Santa Coloma de Gramenet"
-          }
-        ]
-      }
-    }
-  ],
+  "tier_ups": [],
   "new_sales": [
     {
-      "id": "8z88pnlq41z3",
-      "model": "funko david",
-      "title": "Funko David",
-      "sold_price": 26.5,
-      "city": "Carpihuelo",
-      "url": "https://es.wallapop.com/item/funko-david-1255634594",
+      "id": "wzyrgp0yn265",
+      "model": "lote articuno dark blastoise pokemon",
+      "title": "Lote 2 Articuno y Dark Blastoise Pokémon",
+      "sold_price": 55,
+      "city": "Castello/Castellon de La Plana",
+      "url": "https://es.wallapop.com/item/lote-2-articuno-y-dark-blastoise-pokemon-1255638020",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T14:18:07.704Z",
-      "last_seen": "2026-04-24T14:18:07.704Z",
-      "confirmed_at": "2026-04-24T16:32:40.885Z"
-    },
-    {
-      "id": "nz081o1n1e6o",
-      "model": "lote cromos futbol panini lamine yamal messi",
-      "title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
-      "sold_price": 50,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T14:18:07.704Z",
-      "last_seen": "2026-04-24T14:18:07.704Z",
-      "confirmed_at": "2026-04-24T16:32:40.885Z"
+      "first_reserved": "2026-04-24T14:33:24.347Z",
+      "last_seen": "2026-04-24T14:33:24.347Z",
+      "confirmed_at": "2026-04-24T16:36:14.096Z"
     }
   ]
 }
