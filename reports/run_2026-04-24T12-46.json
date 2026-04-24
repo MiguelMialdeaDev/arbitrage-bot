@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-04-24T12:45:25.252Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 203,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "LEGO Ninjago: 2 sobres y 1 caja metálica",
+          "price": 25,
+          "city": "A Ribeira do Freixo",
+          "url": "https://es.wallapop.com/item/lego-ninjago-2-sobres-y-1-caja-metalica-1255610060",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "lego ninjago: sobres metalica",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lego ninjago: sobres metalica' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cromo Panini Adrenalyn XL Lamine Yamal 2023-24",
+          "price": 20,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/cromo-panini-adrenalyn-xl-lamine-yamal-2023-24-1255610116",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromo panini adrenalyn lamine yamal",
+          "verdict": "skip",
+          "reason": "20€ vs mín reservado 3.5€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 267,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 166,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 35,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 2,
+  "total_signals": 0,
+  "duration_s": 53
+}
