@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T20:01:37.269Z",
+  "updated_at": "2026-04-24T20:17:05.742Z",
   "tiers": {
     "proven_seller": [
       {
@@ -232,6 +232,106 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop harry potter rubeus hagrid remuslupin",
+        "example_title": "Funko Pop! Harry Potter Rubeus Hagrid y RemusLupin",
+        "example_url": "https://es.wallapop.com/item/funko-pop-harry-potter-rubeus-hagrid-y-remuslupin-1255739389",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T20:17:05.740Z",
+        "last_seen": "2026-04-24T20:17:05.740Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Funko Pop! Harry Potter Rubeus Hagrid y RemusLupin",
+            "url": "https://es.wallapop.com/item/funko-pop-harry-potter-rubeus-hagrid-y-remuslupin-1255739389",
+            "city": "Ourense"
+          }
+        ]
+      },
+      {
+        "model": "mario party superstars nintendo switch",
+        "example_title": "Mario Party Superstars Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-24T20:17:05.740Z",
+        "last_seen": "2026-04-24T20:17:05.740Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Mario Party Superstars Nintendo Switch",
+            "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
+            "city": "Torredembarra"
+          }
+        ]
+      },
+      {
+        "model": "pack juegos switch 180519",
+        "example_title": "PACK 2 JUEGOS SWITCH (180519)",
+        "example_url": "https://es.wallapop.com/item/pack-2-juegos-switch-180519-1255706087",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 39.9,
+        "median_price": 39.9,
+        "max_price": 39.9,
+        "first_seen": "2026-04-24T20:17:05.740Z",
+        "last_seen": "2026-04-24T20:17:05.740Z",
+        "sample": [
+          {
+            "price": 39.9,
+            "title": "PACK 2 JUEGOS SWITCH (180519)",
+            "url": "https://es.wallapop.com/item/pack-2-juegos-switch-180519-1255706087",
+            "city": "Elda"
+          }
+        ]
+      },
+      {
+        "model": "pack steelbooks 4k uhd blu ray",
+        "example_title": "Pack 2 Steelbooks 4K UHD Blu-ray",
+        "example_url": "https://es.wallapop.com/item/pack-2-steelbooks-4k-uhd-blu-ray-1255708584",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 75,
+        "median_price": 75,
+        "max_price": 75,
+        "first_seen": "2026-04-24T20:17:05.740Z",
+        "last_seen": "2026-04-24T20:17:05.740Z",
+        "sample": [
+          {
+            "price": 75,
+            "title": "Pack 2 Steelbooks 4K UHD Blu-ray",
+            "url": "https://es.wallapop.com/item/pack-2-steelbooks-4k-uhd-blu-ray-1255708584",
+            "city": "Oviedo"
+          }
+        ]
+      },
       {
         "model": "gran turismo ps5",
         "example_title": "Gran Turismo 7 PS5",
@@ -829,81 +929,6 @@
             "title": "Nintendo Switch Pokémon Escarlata",
             "url": "https://es.wallapop.com/item/nintendo-switch-pokemon-escarlata-1255668786",
             "city": "Torredembarra"
-          }
-        ]
-      },
-      {
-        "model": "mario party superstars nintendo switch",
-        "example_title": "Mario Party Superstars Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 24,
-        "median_price": 24,
-        "max_price": 24,
-        "first_seen": "2026-04-24T18:02:49.115Z",
-        "last_seen": "2026-04-24T18:02:49.115Z",
-        "sample": [
-          {
-            "price": 24,
-            "title": "Mario Party Superstars Nintendo Switch",
-            "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
-            "city": "Torredembarra"
-          }
-        ]
-      },
-      {
-        "model": "pack juegos switch 180519",
-        "example_title": "PACK 2 JUEGOS SWITCH (180519)",
-        "example_url": "https://es.wallapop.com/item/pack-2-juegos-switch-180519-1255706087",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 39.9,
-        "median_price": 39.9,
-        "max_price": 39.9,
-        "first_seen": "2026-04-24T18:02:49.115Z",
-        "last_seen": "2026-04-24T18:02:49.115Z",
-        "sample": [
-          {
-            "price": 39.9,
-            "title": "PACK 2 JUEGOS SWITCH (180519)",
-            "url": "https://es.wallapop.com/item/pack-2-juegos-switch-180519-1255706087",
-            "city": "Elda"
-          }
-        ]
-      },
-      {
-        "model": "pack steelbooks 4k uhd blu ray",
-        "example_title": "Pack 2 Steelbooks 4K UHD Blu-ray",
-        "example_url": "https://es.wallapop.com/item/pack-2-steelbooks-4k-uhd-blu-ray-1255708584",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 75,
-        "median_price": 75,
-        "max_price": 75,
-        "first_seen": "2026-04-24T18:02:49.115Z",
-        "last_seen": "2026-04-24T18:02:49.115Z",
-        "sample": [
-          {
-            "price": 75,
-            "title": "Pack 2 Steelbooks 4K UHD Blu-ray",
-            "url": "https://es.wallapop.com/item/pack-2-steelbooks-4k-uhd-blu-ray-1255708584",
-            "city": "Oviedo"
           }
         ]
       },
@@ -5664,10 +5689,10 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 217,
-    "total_unique_models": 224,
-    "total_reservations": 20,
-    "total_confirmed_sales": 213
+    "possible": 218,
+    "total_unique_models": 225,
+    "total_reservations": 18,
+    "total_confirmed_sales": 216
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5678,5 +5703,42 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "3zlmpwymg4jx",
+      "model": "mario party superstars nintendo switch",
+      "title": "Mario Party Superstars Nintendo Switch",
+      "sold_price": 24,
+      "city": "Torredembarra",
+      "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T18:02:49.115Z",
+      "last_seen": "2026-04-24T18:02:49.115Z",
+      "confirmed_at": "2026-04-24T20:17:05.740Z"
+    },
+    {
+      "id": "36e5m4y15q6d",
+      "model": "pack juegos switch 180519",
+      "title": "PACK 2 JUEGOS SWITCH (180519)",
+      "sold_price": 39.9,
+      "city": "Elda",
+      "url": "https://es.wallapop.com/item/pack-2-juegos-switch-180519-1255706087",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T18:02:49.115Z",
+      "last_seen": "2026-04-24T18:02:49.115Z",
+      "confirmed_at": "2026-04-24T20:17:05.740Z"
+    },
+    {
+      "id": "9jdw19yeqd6k",
+      "model": "pack steelbooks 4k uhd blu ray",
+      "title": "Pack 2 Steelbooks 4K UHD Blu-ray",
+      "sold_price": 75,
+      "city": "Oviedo",
+      "url": "https://es.wallapop.com/item/pack-2-steelbooks-4k-uhd-blu-ray-1255708584",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T18:02:49.115Z",
+      "last_seen": "2026-04-24T18:02:49.115Z",
+      "confirmed_at": "2026-04-24T20:17:05.740Z"
+    }
+  ]
 }
