@@ -1,0 +1,425 @@
+{
+  "timestamp": "2026-04-24T23:00:42.498Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 215,
+      "new_items": 16,
+      "items": [
+        {
+          "title": "Funko Pop The Walking Dead Rick Grimes #13",
+          "price": 29,
+          "city": "Avellino",
+          "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-rick-grimes-13-1255765522",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko the walking dead rick grimes 13",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko the walking dead rick grimes 13' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Cartas Magic The Gathering",
+          "price": 10,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering-1255765708",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas magic the gathering",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": 34.5,
+          "margin_pct": 345,
+          "score": 75,
+          "verdict": "skip",
+          "reason": "spread extremo sospechoso (345%): probable query mal calibrada"
+        },
+        {
+          "title": "Carta Pokémon Mega Meganium EX 034 Jumbo",
+          "price": 5,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/carta-pokemon-mega-meganium-ex-034-jumbo-1255765892",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Pokemon Mewtwo VSTAR CGC 10 Gem Mint",
+          "price": 49.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/pokemon-mewtwo-vstar-cgc-10-gem-mint-1255765823",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon mewtwo vstar cgc gem",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon mewtwo vstar cgc gem' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Serperior y Amaura Pokémon Cards",
+          "price": 5,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/serperior-y-amaura-pokemon-cards-1255765818",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Pokemon Heroes Ascendentes Mega Lucario Collection",
+          "price": 50,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/pokemon-heroes-ascendentes-mega-lucario-collection-1255765774",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon heroes ascendentes mega lucario",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon heroes ascendentes mega lucario' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Dwebble",
+          "price": 16.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-dwebble-1255765693",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon dwebble",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon dwebble' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Accesorios Pokémon: Caja, Tapete y Protectores",
+          "price": 12,
+          "city": "Trebujena",
+          "url": "https://es.wallapop.com/item/accesorios-pokemon-caja-tapete-y-protectores-1255765610",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "accesorios pokemon: caja, tapete protectores",
+          "verdict": "skip",
+          "reason": "0 reservados de 'accesorios pokemon: caja, tapete protectores' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokemon Snorlax TG10",
+          "price": 7.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-tg10-1255765601",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cynthia's Garchomp-EX Carta Pokémon",
+          "price": 4.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/cynthia-s-garchomp-ex-carta-pokemon-1255765472",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cartas Pokémon Ascended Heroes Esp",
+          "price": 1,
+          "city": "Turís",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-ascended-heroes-esp-1255765336",
+          "reserved": true,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Pachirisu AR Coreano",
+          "price": 4.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-pachirisu-ar-coreano-1255765286",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Clefairy Básico 70 HP",
+          "price": 35,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-clefairy-basico-70-hp-1255765234",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon clefairy basico",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon clefairy basico' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokemon Slowpoke Coreano",
+          "price": 9.95,
+          "city": "Sanlúcar de Barrameda",
+          "url": "https://es.wallapop.com/item/carta-pokemon-slowpoke-coreano-1255765054",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Mega-Zygarde EX Carta Pokémon 047/088",
+          "price": 5,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/mega-zygarde-ex-carta-pokemon-047-088-1255764975",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Muñecos Coleccionables McDonald's, Kinder, varios",
+          "price": 2,
+          "city": "Córdoba",
+          "url": "https://es.wallapop.com/item/munecos-coleccionables-varios-1255765233",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 256,
+      "new_items": 12,
+      "items": [
+        {
+          "title": "Super Mario Maker 2 Nintendo Switch #A2603",
+          "price": 23,
+          "city": "Arbus",
+          "url": "https://es.wallapop.com/item/super-mario-maker-2-nintendo-switch-a2603-1255765849",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario maker nintendo switch",
+          "verdict": "skip",
+          "reason": "23€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Consola Nintendo Switch OLED con accesorios",
+          "price": 209.99,
+          "city": "San Martino Buon Albergo",
+          "url": "https://es.wallapop.com/item/console-nintendo-switch-oled-con-accessori-1255765158",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "Base para PS5 Slim de Sony",
+          "price": 10,
+          "city": "Reggio Calabria",
+          "url": "https://es.wallapop.com/item/base-per-ps5-slim-sony-1255765886",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "base para ps5 slim sony",
+          "verdict": "skip",
+          "reason": "0 reservados de 'base para ps5 slim sony' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Xbox Series X Consola Negra y auriculares Corsair",
+          "price": 390,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/xbox-series-x-consola-negra-y-auriculares-corsair-1255765148",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series consola negra auriculares",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox series consola negra auriculares' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone SE 64GB Negro",
+          "price": 120,
+          "city": "Les Salines",
+          "url": "https://es.wallapop.com/item/iphone-se-64gb-negro-1255765683",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 64gb negro",
+          "verdict": "skip",
+          "reason": "120€ vs mín reservado 50€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 15 128GB",
+          "price": 450,
+          "city": "Les Salines",
+          "url": "https://es.wallapop.com/item/iphone-15-128gb-1255765596",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 Pro 256GB Azul",
+          "price": 190,
+          "city": "Santa Coloma de Gramenet",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-256gb-azul-1255765276",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb azul",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 256gb azul' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro  Morado Impecable",
+          "price": 500,
+          "city": "Girona",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-space-gray-impecable-1255765178",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "vinilo problema: rayones"
+        },
+        {
+          "title": "iPhone 13 Blanco",
+          "price": 180,
+          "city": "Lamezia Terme",
+          "url": "https://es.wallapop.com/item/iphone-13-bianco-1255764984",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone blanco",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 15€ vs mín reservado 650€)"
+        },
+        {
+          "title": "Pantalla iPhone 13 Pro Soft OLED 120hz Nueva",
+          "price": 54,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/pantalla-iphone-13-pro-soft-oled-120hz-nueva-1255764979",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pantalla iphone pro soft oled",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pantalla iphone pro soft oled' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 128 GB Azul",
+          "price": 525,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-16-128-gb-azul-1255764927",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone azul",
+          "verdict": "skip",
+          "reason": "525€ vs mín reservado 350€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Apple Watch Series 11 GPS Aluminio Dorado",
+          "price": 400,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/apple-watch-series-11-gps-aluminio-dorado-1255766378",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series gps aluminio",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series gps aluminio' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 160,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Asgaroth - Trapped In The Depths Of Eve LP",
+          "price": 44,
+          "city": "Rio Tinto",
+          "url": "https://es.wallapop.com/item/asgaroth-trapped-in-the-depths-of-eve-lp-1255765863",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "asgaroth trapped the depths eve",
+          "verdict": "skip",
+          "reason": "0 reservados de 'asgaroth trapped the depths eve' (sin evidencia de demanda)"
+        },
+        {
+          "title": "THE SKY CRAWLERS BLURAY + DVD DESCATALOGADO",
+          "price": 11.9,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/the-sky-crawlers-bluray---dvd-descatalogado-1255766103",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "the sky crawlers bluray dvd",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the sky crawlers bluray dvd' (sin evidencia de demanda)"
+        },
+        {
+          "title": "COPYING BEETHOVEN BLURAY - ED HARRIS",
+          "price": 34.9,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/copying-beethoven-bluray-ed-harris-1255765792",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "copying beethoven bluray harris",
+          "verdict": "skip",
+          "reason": "0 reservados de 'copying beethoven bluray harris' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pack 3 Blu-ray Will Smith",
+          "price": 15,
+          "city": "Alcobendas",
+          "url": "https://es.wallapop.com/item/pack-3-blu-ray-will-smith-1255765734",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 84,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Graft - Juego de cartas",
+          "price": 35,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/graft-gioco-di-carte-1255766299",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "graft juego cartas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'graft juego cartas' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego de mesa, Museum Big box. Edición Deluxe.",
+          "price": 145,
+          "city": "Lucena",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-museum-big-box-edicion-deluxe-1255765853",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa, museum big box.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego mesa, museum big box.' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 34,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Bases para figuras de acción negras",
+          "price": 4,
+          "city": "Reggio Calabria",
+          "url": "https://es.wallapop.com/item/basi-per-action-figure-nere-1255765778",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 35,
+  "total_signals": 0,
+  "duration_s": 78
+}
