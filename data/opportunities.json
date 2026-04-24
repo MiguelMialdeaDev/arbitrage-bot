@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T16:17:43.377Z",
+  "updated_at": "2026-04-24T16:32:40.886Z",
   "tiers": {
     "proven_seller": [
       {
@@ -79,6 +79,31 @@
     ],
     "hot_24h": [
       {
+        "model": "nintendo switch sports",
+        "example_title": "Nintendo Switch Sports",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 20,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T16:32:40.885Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Nintendo Switch Sports",
+            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
+            "city": "Berga"
+          }
+        ]
+      },
+      {
         "model": "pokemon let go eevee nintendo switch",
         "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
@@ -110,9 +135,135 @@
         ]
       }
     ],
-    "trending_7d": [],
+    "trending_7d": [
+      {
+        "model": "lote funko pop stranger things",
+        "example_title": "Lote Funko Pop Stranger Things",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 1,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 1.9,
+        "min_price": 5.5,
+        "median_price": 7.5,
+        "max_price": 7.5,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-24T16:32:40.885Z",
+        "sample": [
+          {
+            "price": 7.5,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
+            "city": "Santa Coloma de Gramenet"
+          }
+        ]
+      }
+    ],
     "recurring": [],
     "possible": [
+      {
+        "model": "animal crossing new horizons switch",
+        "example_title": "Animal Crossing: New Horizons Switch",
+        "example_url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-1255675118",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T16:32:40.885Z",
+        "last_seen": "2026-04-24T16:32:40.885Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Animal Crossing: New Horizons Switch",
+            "url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-1255675118",
+            "city": "Onil"
+          }
+        ]
+      },
+      {
+        "model": "fc 26 ps5 ea sports",
+        "example_title": "FC 26 PS5 EA Sports",
+        "example_url": "https://es.wallapop.com/item/fc-26-ps5-ea-sports-1255675863",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T16:32:40.885Z",
+        "last_seen": "2026-04-24T16:32:40.885Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "FC 26 PS5 EA Sports",
+            "url": "https://es.wallapop.com/item/fc-26-ps5-ea-sports-1255675863",
+            "city": "Guadalajara"
+          }
+        ]
+      },
+      {
+        "model": "funko david",
+        "example_title": "Funko David",
+        "example_url": "https://es.wallapop.com/item/funko-david-1255634594",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 26.5,
+        "median_price": 26.5,
+        "max_price": 26.5,
+        "first_seen": "2026-04-24T16:32:40.885Z",
+        "last_seen": "2026-04-24T16:32:40.885Z",
+        "sample": [
+          {
+            "price": 26.5,
+            "title": "Funko David",
+            "url": "https://es.wallapop.com/item/funko-david-1255634594",
+            "city": "Carpihuelo"
+          }
+        ]
+      },
+      {
+        "model": "lote cromos futbol panini lamine yamal messi",
+        "example_title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
+        "example_url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T16:32:40.885Z",
+        "last_seen": "2026-04-24T16:32:40.885Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
+            "url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "dialga vstar origin forme gg79 cgc",
         "example_title": "Dialga VSTAR Origin Forme GG79 CGC 9",
@@ -914,56 +1065,6 @@
         ]
       },
       {
-        "model": "funko david",
-        "example_title": "Funko David",
-        "example_url": "https://es.wallapop.com/item/funko-david-1255634594",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 26.5,
-        "median_price": 26.5,
-        "max_price": 26.5,
-        "first_seen": "2026-04-24T14:18:07.704Z",
-        "last_seen": "2026-04-24T14:18:07.704Z",
-        "sample": [
-          {
-            "price": 26.5,
-            "title": "Funko David",
-            "url": "https://es.wallapop.com/item/funko-david-1255634594",
-            "city": "Carpihuelo"
-          }
-        ]
-      },
-      {
-        "model": "lote cromos futbol panini lamine yamal messi",
-        "example_title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
-        "example_url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 50,
-        "median_price": 50,
-        "max_price": 50,
-        "first_seen": "2026-04-24T14:18:07.704Z",
-        "last_seen": "2026-04-24T14:18:07.704Z",
-        "sample": [
-          {
-            "price": 50,
-            "title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
-            "url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
         "model": "ed 11# novadell joyas bolsillo novaro",
         "example_title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
         "example_url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
@@ -1060,31 +1161,6 @@
             "title": "Pack 3 Blu-ray Disney: La Sirenita 2, Rey León 2-3",
             "url": "https://es.wallapop.com/item/pack-3-blu-ray-disney-la-sirenita-2-rey-leon-2-3-1255596307",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch sports",
-        "example_title": "Nintendo Switch Sports",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
-        "total_reservations": 0,
-        "confirmed_sales": 1,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T14:18:07.704Z",
-        "last_seen": "2026-04-24T14:18:07.704Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Nintendo Switch Sports",
-            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
-            "city": "Pinto"
           }
         ]
       },
@@ -4289,31 +4365,6 @@
         ]
       },
       {
-        "model": "lote funko pop stranger things",
-        "example_title": "Lote Funko Pop Stranger Things",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
-        "total_reservations": 0,
-        "confirmed_sales": 1,
-        "total_events": 1,
-        "reservations_24h": 0,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5.5,
-        "median_price": 5.5,
-        "max_price": 5.5,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-23T15:18:11.367Z",
-        "sample": [
-          {
-            "price": 5.5,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
-            "city": "Arrasate/Mondragón"
-          }
-        ]
-      },
-      {
         "model": "pack cartas pokemon trainer gallery",
         "example_title": "Pack cartas pokemon trainer gallery",
         "example_url": "https://es.wallapop.com/item/pack-cartas-pokemon-trainer-gallery-1255294102",
@@ -5042,13 +5093,13 @@
   },
   "stats": {
     "proven_seller": 2,
-    "hot_24h": 1,
-    "trending_7d": 0,
+    "hot_24h": 2,
+    "trending_7d": 1,
     "recurring": 0,
     "possible": 197,
-    "total_unique_models": 200,
-    "total_reservations": 20,
-    "total_confirmed_sales": 185
+    "total_unique_models": 202,
+    "total_reservations": 22,
+    "total_confirmed_sales": 187
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5058,6 +5109,96 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
-  "new_sales": []
+  "tier_ups": [
+    {
+      "model": "nintendo switch sports",
+      "from_tier": "possible",
+      "to_tier": "hot_24h",
+      "from_label": "💡 Posible",
+      "to_label": "🔥 Hot 24h",
+      "entry": {
+        "model": "nintendo switch sports",
+        "example_title": "Nintendo Switch Sports",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 20,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T16:32:40.885Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Nintendo Switch Sports",
+            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
+            "city": "Berga"
+          }
+        ]
+      }
+    },
+    {
+      "model": "lote funko pop stranger things",
+      "from_tier": "possible",
+      "to_tier": "trending_7d",
+      "from_label": "💡 Posible",
+      "to_label": "✨ Trending 7d",
+      "entry": {
+        "model": "lote funko pop stranger things",
+        "example_title": "Lote Funko Pop Stranger Things",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 1,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 1.9,
+        "min_price": 5.5,
+        "median_price": 7.5,
+        "max_price": 7.5,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-24T16:32:40.885Z",
+        "sample": [
+          {
+            "price": 7.5,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
+            "city": "Santa Coloma de Gramenet"
+          }
+        ]
+      }
+    }
+  ],
+  "new_sales": [
+    {
+      "id": "8z88pnlq41z3",
+      "model": "funko david",
+      "title": "Funko David",
+      "sold_price": 26.5,
+      "city": "Carpihuelo",
+      "url": "https://es.wallapop.com/item/funko-david-1255634594",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T14:18:07.704Z",
+      "last_seen": "2026-04-24T14:18:07.704Z",
+      "confirmed_at": "2026-04-24T16:32:40.885Z"
+    },
+    {
+      "id": "nz081o1n1e6o",
+      "model": "lote cromos futbol panini lamine yamal messi",
+      "title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
+      "sold_price": 50,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T14:18:07.704Z",
+      "last_seen": "2026-04-24T14:18:07.704Z",
+      "confirmed_at": "2026-04-24T16:32:40.885Z"
+    }
+  ]
 }

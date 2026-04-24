@@ -2219,6 +2219,30 @@
       "first_reserved": "2026-04-24T14:02:00.122Z",
       "last_seen": "2026-04-24T14:02:00.122Z",
       "confirmed_at": "2026-04-24T16:03:22.760Z"
+    },
+    {
+      "id": "8z88pnlq41z3",
+      "model": "funko david",
+      "title": "Funko David",
+      "sold_price": 26.5,
+      "city": "Carpihuelo",
+      "url": "https://es.wallapop.com/item/funko-david-1255634594",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T14:18:07.704Z",
+      "last_seen": "2026-04-24T14:18:07.704Z",
+      "confirmed_at": "2026-04-24T16:32:40.885Z"
+    },
+    {
+      "id": "nz081o1n1e6o",
+      "model": "lote cromos futbol panini lamine yamal messi",
+      "title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
+      "sold_price": 50,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T14:18:07.704Z",
+      "last_seen": "2026-04-24T14:18:07.704Z",
+      "confirmed_at": "2026-04-24T16:32:40.885Z"
     }
   ]
 }
