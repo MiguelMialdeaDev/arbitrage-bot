@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:19:00.770Z",
+  "updated_at": "2026-04-24T09:32:08.580Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop joey tribbiani friends",
+        "example_title": "Funko Pop! Joey Tribbiani Friends",
+        "example_url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-24T09:32:08.579Z",
+        "last_seen": "2026-04-24T09:32:08.579Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Funko Pop! Joey Tribbiani Friends",
+            "url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote personalizado abilia",
+        "example_title": "Lote personalizado para Abilia",
+        "example_url": "https://es.wallapop.com/item/lote-personalizado-para-abilia-1255543141",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T09:32:08.579Z",
+        "last_seen": "2026-04-24T09:32:08.579Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Lote personalizado para Abilia",
+            "url": "https://es.wallapop.com/item/lote-personalizado-para-abilia-1255543141",
+            "city": "Málaga"
+          }
+        ]
+      },
+      {
+        "model": "lote 2x pokemon 151 mega dream ex",
+        "example_title": "Lote 2x Pokémon 151 + Mega Dream Ex",
+        "example_url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 609.99,
+        "median_price": 609.99,
+        "max_price": 609.99,
+        "first_seen": "2026-04-24T09:32:08.579Z",
+        "last_seen": "2026-04-24T09:32:08.579Z",
+        "sample": [
+          {
+            "price": 609.99,
+            "title": "Lote 2x Pokémon 151 + Mega Dream Ex",
+            "url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
+            "city": "Valdemoro"
+          }
+        ]
+      },
       {
         "model": "lote jhon fabio",
         "example_title": "Lote para Jhon Fabio",
@@ -3295,9 +3370,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 127,
-    "total_unique_models": 130,
-    "total_reservations": 18,
+    "possible": 130,
+    "total_unique_models": 133,
+    "total_reservations": 21,
     "total_confirmed_sales": 117
   },
   "thresholds": {
