@@ -1,0 +1,488 @@
+{
+  "timestamp": "2026-04-24T05:00:36.243Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 198,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "Colección completa de Funko Pop Kinder Joy Minecraft",
+          "price": 100,
+          "city": "Milazzo",
+          "url": "https://es.wallapop.com/item/kinder-joy-minecraft-funko-pop-collezione-completa-1255486270",
+          "reserved": false,
+          "profile": "funko_lote",
+          "verdict": "skip",
+          "reason": "mini funkos / kinder, sin valor de reventa"
+        },
+        {
+          "title": "Funko Pop Kinder Joy Minecraft",
+          "price": 2.5,
+          "city": "Milazzo",
+          "url": "https://es.wallapop.com/item/kinder-joy-minecraft-funko-pop-1255486219",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Funko Pop Kinder Joy Minecraft Edición 2026 Original",
+          "price": 2.5,
+          "city": "Milazzo",
+          "url": "https://es.wallapop.com/item/kinder-joy-minecraft-funko-pop-1255486169",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Cubo redstone raro de Funko Pop de Minecraft de Kinder Joy",
+          "price": 20,
+          "city": "Milazzo",
+          "url": "https://es.wallapop.com/item/kinder-joy-minecraft-funko-pop-cubo-redstone-raro-1255486117",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "Cromos de fútbol Panini",
+          "price": 1,
+          "city": "Miajadas",
+          "url": "https://es.wallapop.com/item/cromos-de-futbol-panini-1255486135",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Deerling 091/086",
+          "price": 8,
+          "city": "Garrucha",
+          "url": "https://es.wallapop.com/item/carta-pokemon-deerling-091-086-1255486130",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 238,
+      "new_items": 33,
+      "items": [
+        {
+          "title": "Mando Nintendo Switch",
+          "price": 7,
+          "city": "Alcoi/Alcoy",
+          "url": "https://es.wallapop.com/item/mando-nintendo-switch-1255486201",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: roto"
+        },
+        {
+          "title": "Nintendo Switch + Labo Robot Kit + Juego",
+          "price": 200,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/nintendo-switch---labo-robot-kit---juego-1255485974",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "pack (pack_consola_juegos): comparación eBay imprecisa, skip conservador"
+        },
+        {
+          "title": "Nintendo Switch 2",
+          "price": 365,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/el-principito-antoine-de-saint-exupery-1255485772",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PS5 + Controlador",
+          "price": 349,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/sony-ps5-console---controller-1255486462",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps5 controlador",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola sony ps5 controlador' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Call of Duty Modern Warfare II PS5",
+          "price": 10,
+          "city": "La Carlota",
+          "url": "https://es.wallapop.com/item/call-of-duty-modern-warfare-ii-ps5-1255486424",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "call duty modern warfare ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'call duty modern warfare ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Hell is Us Deluxe Edition PS5",
+          "price": 45,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/hell-is-us-deluxe-edition-ps5-1255486359",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "hell deluxe edition ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hell deluxe edition ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PlayStation 5  pro con Lector",
+          "price": 586,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/playstation-5-pro-con-lector-1255486301",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation pro con lector",
+          "verdict": "skip",
+          "reason": "586€ vs mín reservado 350€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Ps5 Slim De Disco De 1TB",
+          "price": 315,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/diario-de-greg-2-la-ley-de-rodrick-1255486210",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 slim 1tb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Dead Island 2 PS5 Day One Edition",
+          "price": 10,
+          "city": "Santurtzi",
+          "url": "https://es.wallapop.com/item/dead-island-2-ps5-day-one-edition-1255486208",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "dead island ps5 day one",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dead island ps5 day one' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS5 Slim con lector y 5 juegos",
+          "price": 450,
+          "city": "Ávila",
+          "url": "https://es.wallapop.com/item/ps5-slim-con-lector-y-5-juegos-1255485960",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim con lector juegos",
+          "verdict": "skip",
+          "reason": "450€ vs mín reservado 350€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "PlayStation 4 Slim Negra",
+          "price": 150,
+          "city": "Pozzallo",
+          "url": "https://es.wallapop.com/item/playstation-4-slim-nera-1255486425",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation slim negra",
+          "verdict": "skip",
+          "reason": "150€ vs mín reservado 95€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Front Mission 4 PS2 JAP (NTSC-J)",
+          "price": 11,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/front-mission-4-ps2-jap-ntsc-j-1255483913",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "front mission ps2 jap (ntsc-j)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'front mission ps2 jap (ntsc-j)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Xbox Series S Blanca",
+          "price": 150,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/xbox-series-s-blanca-1255486182",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series blanca",
+          "verdict": "skip",
+          "reason": "150€ vs mín reservado 125€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Airpods 2da Gen Cancelación Ruido",
+          "price": 35,
+          "city": "Pozuelo de Alarcón",
+          "url": "https://es.wallapop.com/item/airpods-2da-gen-cancelacion-ruido-1255486030",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods 2da gen cancelacion ruido",
+          "verdict": "skip",
+          "reason": "35€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "AirPods Pro 3ª Gen",
+          "price": 55,
+          "city": "Écija",
+          "url": "https://es.wallapop.com/item/airpods-pro-3-gen-1255485565",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro gen",
+          "verdict": "skip",
+          "reason": "55€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Auriculares AirPods 4 Apple Blancos",
+          "price": 160,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/auriculares-airpods-4-apple-blancos-1255484639",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "auriculares airpods apple blancos",
+          "verdict": "skip",
+          "reason": "160€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "AirPods Pro 2da Gen",
+          "price": 50,
+          "city": "Tarrega",
+          "url": "https://es.wallapop.com/item/airpods-pro-2da-gen-1255482398",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro 2da gen",
+          "verdict": "skip",
+          "reason": "50€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "AirPods 4 con Cancelación de Ruido",
+          "price": 100,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/airpods-4-con-cancelacion-de-ruido-1255482393",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods con cancelacion ruido",
+          "verdict": "skip",
+          "reason": "100€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iphone 15 pro max",
+          "price": 450,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/libro-de-mi-para-mi-de-chriss-braund-1255486452",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 17 pro max",
+          "price": 720,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/libro-las-batallas-en-el-desierto-1255486354",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 15 pro max",
+          "price": 510,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/la-capital-historia-de-la-ciudad-de-mexico-1255486259",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 15 pro max",
+          "price": 380,
+          "city": "Girona",
+          "url": "https://es.wallapop.com/item/libro-la-soledad-de-la-reina-pilar-eyre-1255486194",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 17 pro max",
+          "price": 760,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/libro-escola-de-mares-perfectes-1255486143",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 17 pro max",
+          "price": 790,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/libro-zohar-edicion-rav-y-karen-1255486068",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 15 pro max",
+          "price": 395,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/libro-bajo-la-misma-estrella-john-green-1255486061",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 15 pro max",
+          "price": 400,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/libro-deja-de-ser-tu-joe-dispenza-1255485920",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 256GB Rosa",
+          "price": 500,
+          "city": "Baena",
+          "url": "https://es.wallapop.com/item/iphone-15-256gb-rosa-1255485864",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb rosa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb rosa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 15 pro max",
+          "price": 470,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/descubrase-como-lider-dale-carnegie-1255485207",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 15 pro max",
+          "price": 500,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/libro-artistic-color-book-de-jeticia-well-1255485062",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 15 pro max",
+          "price": 480,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/padre-rico-padre-pobre-robert-t-kiyosaki-1255484900",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 pro max",
+          "price": 900,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/tijeras-de-podar-tramontina-1255484375",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro 256 GB Azul Nuevo",
+          "price": 1100,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-256-gb-azul-nuevo-1255484112",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro azul",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro azul' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Air 256GB Blanco",
+          "price": 620,
+          "city": "Benijófar",
+          "url": "https://es.wallapop.com/item/iphone-17-air-256gb-blanco-1255482828",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone air 256gb blanco",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone air 256gb blanco' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 167,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Vinilo The Trilobites - I can't wait for summer to",
+          "price": 7.2,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/vinilo-the-trilobites-i-can-t-wait-for-summer-to-1255486440",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "the trilobites can't wait for",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the trilobites can't wait for' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vinilo Elton John Duets 2Lp",
+          "price": 26,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/vinilo-elton-john-duets-2lp-1255486412",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "elton john duets 2lp",
+          "verdict": "skip",
+          "reason": "0 reservados de 'elton john duets 2lp' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 91,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 39,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 41,
+  "total_signals": 0,
+  "duration_s": 105
+}
