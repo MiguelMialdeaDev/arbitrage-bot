@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T18:02:49.117Z",
+  "updated_at": "2026-04-24T18:11:00.338Z",
   "tiers": {
     "proven_seller": [
       {
@@ -189,6 +189,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "nintendo switch pokemon escarlata",
+        "example_title": "Nintendo Switch Pokémon Escarlata",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-pokemon-escarlata-1255668786",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T18:11:00.336Z",
+        "last_seen": "2026-04-24T18:11:00.336Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Nintendo Switch Pokémon Escarlata",
+            "url": "https://es.wallapop.com/item/nintendo-switch-pokemon-escarlata-1255668786",
+            "city": "Torredembarra"
+          }
+        ]
+      },
       {
         "model": "mario party superstars nintendo switch",
         "example_title": "Mario Party Superstars Nintendo Switch",
@@ -886,31 +911,6 @@
             "title": "Lote 3 blu ray como nuevos",
             "url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
             "city": "Santander"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch pokemon escarlata",
-        "example_title": "Nintendo Switch Pokémon Escarlata",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-pokemon-escarlata-1255668786",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T16:03:22.760Z",
-        "last_seen": "2026-04-24T16:03:22.760Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Nintendo Switch Pokémon Escarlata",
-            "url": "https://es.wallapop.com/item/nintendo-switch-pokemon-escarlata-1255668786",
-            "city": "Torredembarra"
           }
         ]
       },
@@ -4096,7 +4096,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5298,8 +5298,8 @@
     "recurring": 0,
     "possible": 204,
     "total_unique_models": 210,
-    "total_reservations": 18,
-    "total_confirmed_sales": 200
+    "total_reservations": 17,
+    "total_confirmed_sales": 201
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5310,5 +5310,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "4z4829933mjy",
+      "model": "nintendo switch pokemon escarlata",
+      "title": "Nintendo Switch Pokémon Escarlata",
+      "sold_price": 25,
+      "city": "Torredembarra",
+      "url": "https://es.wallapop.com/item/nintendo-switch-pokemon-escarlata-1255668786",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T16:03:22.760Z",
+      "last_seen": "2026-04-24T16:03:22.760Z",
+      "confirmed_at": "2026-04-24T18:11:00.336Z"
+    }
+  ]
 }
