@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T06:19:08.888Z",
+  "updated_at": "2026-04-24T06:32:05.657Z",
   "tiers": {
     "proven_seller": [
       {
@@ -81,6 +81,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "ultra pro toploader penny sleeves",
+        "example_title": "Ultra PRO Toploader y Penny Sleeves",
+        "example_url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4,
+        "median_price": 4,
+        "max_price": 4,
+        "first_seen": "2026-04-24T06:32:05.656Z",
+        "last_seen": "2026-04-24T06:32:05.656Z",
+        "sample": [
+          {
+            "price": 4,
+            "title": "Ultra PRO Toploader y Penny Sleeves",
+            "url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
+            "city": "Burgos"
+          }
+        ]
+      },
       {
         "model": "cartas magic the gathering imanol",
         "example_title": "Cartas Magic: The Gathering para Imanol",
@@ -953,31 +978,6 @@
             "title": "Consola PS5 + 2 mandos",
             "url": "https://es.wallapop.com/item/consola-ps5---2-mandos-1255415089",
             "city": "Peguera"
-          }
-        ]
-      },
-      {
-        "model": "ultra pro toploader penny sleeves",
-        "example_title": "Ultra PRO Toploader y Penny Sleeves",
-        "example_url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 4,
-        "median_price": 4,
-        "max_price": 4,
-        "first_seen": "2026-04-23T21:03:03.376Z",
-        "last_seen": "2026-04-23T21:03:03.376Z",
-        "sample": [
-          {
-            "price": 4,
-            "title": "Ultra PRO Toploader y Penny Sleeves",
-            "url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
-            "city": "Burgos"
           }
         ]
       },
@@ -2815,8 +2815,8 @@
     "recurring": 0,
     "possible": 109,
     "total_unique_models": 111,
-    "total_reservations": 5,
-    "total_confirmed_sales": 110
+    "total_reservations": 4,
+    "total_confirmed_sales": 111
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2829,16 +2829,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "ejkmn7224qzx",
-      "model": "mtg totem maldito campo fuerza",
-      "title": "MTG Tótem Maldito + Campo de Fuerza",
-      "sold_price": 40,
-      "city": "Vila Nova de Gaia",
-      "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
+      "id": "vjrem2y92lzk",
+      "model": "ultra pro toploader penny sleeves",
+      "title": "Ultra PRO Toploader y Penny Sleeves",
+      "sold_price": 4,
+      "city": "Burgos",
+      "url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T20:47:49.587Z",
-      "last_seen": "2026-04-23T20:47:49.587Z",
-      "confirmed_at": "2026-04-24T06:19:08.887Z"
+      "first_reserved": "2026-04-23T21:03:03.376Z",
+      "last_seen": "2026-04-23T21:03:03.376Z",
+      "confirmed_at": "2026-04-24T06:32:05.656Z"
     }
   ]
 }
