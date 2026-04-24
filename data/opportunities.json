@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T00:46:58.203Z",
+  "updated_at": "2026-04-24T01:02:31.223Z",
   "tiers": {
     "proven_seller": [
       {
@@ -2714,39 +2714,6 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "lote cartas pokemon",
-      "from_tier": "hot_24h",
-      "to_tier": "proven_seller",
-      "from_label": "🔥 Hot 24h",
-      "to_label": "🚀 Proven seller",
-      "entry": {
-        "model": "lote cartas pokemon",
-        "example_title": "Lote Cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
-        "total_reservations": 1,
-        "confirmed_sales": 2,
-        "total_events": 3,
-        "reservations_24h": 3,
-        "reservations_7d": 3,
-        "reservations_30d": 3,
-        "reservations_per_day": 3,
-        "min_price": 35,
-        "median_price": 40,
-        "max_price": 280,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-24T00:46:58.202Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Lote Cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
-            "city": "Parla"
-          }
-        ]
-      }
-    }
-  ],
+  "tier_ups": [],
   "new_sales": []
 }
