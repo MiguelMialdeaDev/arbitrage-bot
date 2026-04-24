@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-04-24T03:00:41.128Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Playmobil habitación",
+          "price": 15,
+          "city": "Basauri",
+          "url": "https://es.wallapop.com/item/playmobil-habitacion-1255480936",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil habitacion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playmobil habitacion' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 220,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Leyendas Pokémon Arceus",
+          "price": 34.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/leyendas-pokemon-arceus-1255480728",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: reserva"
+        },
+        {
+          "title": "Paper Mario: La Puerta Milenaria Switch",
+          "price": 29.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/paper-mario-la-puerta-milenaria-switch-1255480705",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: reserva"
+        },
+        {
+          "title": "Lego Jurassic World Nintendo Switch",
+          "price": 11.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/lego-jurassic-world-nintendo-switch-1255480688",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: reserva"
+        },
+        {
+          "title": "Super Mario RPG",
+          "price": 23.95,
+          "city": "Colonia Pablo Iglesias",
+          "url": "https://es.wallapop.com/item/super-mario-rpg-1255480675",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: reserva"
+        },
+        {
+          "title": "Battlefield 6 PS5",
+          "price": 40,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/battlefield-6-ps5-1255481039",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "battlefield ps5",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado 29.9€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Videojuegos ps4 a 4€ cada uno",
+          "price": 4,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/videojuegos-ps4-a-4-cada-uno-1255481022",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "PS4 Slim 1TB + 2 Mandos + 4 Juegos",
+          "price": 120,
+          "city": "Córdoba",
+          "url": "https://es.wallapop.com/item/ps4-slim-1tb---2-mandos---4-juegos-1255480737",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 slim 1tb mandos juegos",
+          "verdict": "skip",
+          "reason": "120€ vs mín reservado 110€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 172,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Álbum de vinilo LP Alibi de America",
+          "price": 12,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/america-alibi-vinile-lp-1255481040",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "album alibi america",
+          "verdict": "skip",
+          "reason": "0 reservados de 'album alibi america' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Kashmir - The Aftermath 12\" doble LP gatefold",
+          "price": 25,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/kashmir-the-aftermath-12-doble-lp-gatefold-1255481035",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "kashmir the aftermath 12\" doble",
+          "verdict": "skip",
+          "reason": "0 reservados de 'kashmir the aftermath 12\" doble' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 42,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 10,
+  "total_signals": 0,
+  "duration_s": 61
+}
