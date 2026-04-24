@@ -1,0 +1,173 @@
+{
+  "timestamp": "2026-04-24T07:18:39.039Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 216,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Funko Pop Kinder Joy Stranger Things",
+          "price": 2.5,
+          "city": "Tres Cantos",
+          "url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255502144",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Figura Bastión X-Men tipo Lego",
+          "price": 1.5,
+          "city": "Igualada",
+          "url": "https://es.wallapop.com/item/figura-bastion-x-men-tipo-lego-1255501737",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Lote Pokémon Heroes Ascendentes",
+          "price": 50.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/lote-pokemon-heroes-ascendentes-1255502340",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon heroes ascendentes",
+          "verdict": "skip",
+          "reason": "50.99€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Pokémon PSA 10 Celebration Fanfare 2024 Japanese",
+          "price": 290,
+          "city": "Sant Boi de Llobregat",
+          "url": "https://es.wallapop.com/item/pokemon-psa-10-fanfare-celebracion-2024-japanese-1255502336",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon psa celebration fanfare japanese",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon psa celebration fanfare japanese' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon",
+          "price": 17,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/carta-pokemon-1255502141",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon",
+          "verdict": "skip",
+          "reason": "17€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 263,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Funda Switch 2",
+          "price": 10,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funda-switch-2-1255502353",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'funda switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Toki Juego Nintendo Switch - ¡Como Nuevo!",
+          "price": 20,
+          "city": "Torrejón de Velasco",
+          "url": "https://es.wallapop.com/item/toki-juego-nintendo-switch-como-nuevo-1255502280",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "toki nintendo switch ¡como nuevo!",
+          "verdict": "skip",
+          "reason": "0 reservados de 'toki nintendo switch ¡como nuevo!' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mario VS Donkey Kong Nintendo Switch",
+          "price": 30,
+          "city": "La Navata",
+          "url": "https://es.wallapop.com/item/mario-vs-donkey-kong-nintendo-switch-1255502150",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mario donkey kong nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mario donkey kong nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda Nintendo Switch Animal Crossing",
+          "price": 12,
+          "city": "Olías del Rey",
+          "url": "https://es.wallapop.com/item/funda-nintendo-switch-animal-crossing-1255501952",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Super Smash Bros. Ultimate Nintendo Switch",
+          "price": 30,
+          "city": "Torrejón de Velasco",
+          "url": "https://es.wallapop.com/item/super-smash-bros-ultimate-nintendo-switch-1255501850",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super smash bros. ultimate nintendo",
+          "verdict": "skip",
+          "reason": "30€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Caja Nintendo Switch 2 Mario Kart más Regalo",
+          "price": 10,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/caja-nintendo-switch-2-mario-kart-mas-regalo-1255501743",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "solo manual/steelbook, sin juego"
+        },
+        {
+          "title": "AirPods Pro 3",
+          "price": 70,
+          "city": "Torrellano",
+          "url": "https://es.wallapop.com/item/airpods-pro-3-1255502107",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro",
+          "verdict": "skip",
+          "reason": "70€ vs mín reservado 30€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 169,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 65,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 38,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 12,
+  "total_signals": 0,
+  "duration_s": 66
+}
