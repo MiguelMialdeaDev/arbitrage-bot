@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T19:08:04.044Z",
+  "updated_at": "2026-04-24T19:16:52.903Z",
   "tiers": {
     "proven_seller": [
       {
@@ -78,6 +78,31 @@
       }
     ],
     "hot_24h": [
+      {
+        "model": "lote cromos futbol panini",
+        "example_title": "Lote de cromos de fútbol Panini",
+        "example_url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 5,
+        "median_price": 17,
+        "max_price": 17,
+        "first_seen": "2026-04-24T13:47:33.468Z",
+        "last_seen": "2026-04-24T19:16:52.901Z",
+        "sample": [
+          {
+            "price": 17,
+            "title": "Lote de cromos de fútbol Panini",
+            "url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
+            "city": "Viladecavalls"
+          }
+        ]
+      },
       {
         "model": "nintendo switch sports",
         "example_title": "Nintendo Switch Sports",
@@ -201,6 +226,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "mando nintendo switch2 pro controller",
+        "example_title": "Mando Nintendo Switch2 Pro Controller",
+        "example_url": "https://es.wallapop.com/item/mando-nintendo-switch2-pro-controller-1255726962",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 45,
+        "median_price": 45,
+        "max_price": 45,
+        "first_seen": "2026-04-24T19:16:52.901Z",
+        "last_seen": "2026-04-24T19:16:52.901Z",
+        "sample": [
+          {
+            "price": 45,
+            "title": "Mando Nintendo Switch2 Pro Controller",
+            "url": "https://es.wallapop.com/item/mando-nintendo-switch2-pro-controller-1255726962",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "iphone 15 pro piezas",
+        "example_title": "iPhone 15 Pro para piezas",
+        "example_url": "https://es.wallapop.com/item/iphone-15-pro-para-piezas-1255727222",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 230,
+        "median_price": 230,
+        "max_price": 230,
+        "first_seen": "2026-04-24T19:16:52.901Z",
+        "last_seen": "2026-04-24T19:16:52.901Z",
+        "sample": [
+          {
+            "price": 230,
+            "title": "iPhone 15 Pro para piezas",
+            "url": "https://es.wallapop.com/item/iphone-15-pro-para-piezas-1255727222",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "iphone 16 pro max 256gb 99",
         "example_title": "iPhone 16 Pro Max 256GB 99%",
@@ -1673,31 +1748,6 @@
             "title": "Terreno Tiranido",
             "url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
             "city": "Alcantarilla"
-          }
-        ]
-      },
-      {
-        "model": "lote cromos futbol panini",
-        "example_title": "Lote cromos fútbol Panini",
-        "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
-        "total_reservations": 0,
-        "confirmed_sales": 1,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-24T13:47:33.468Z",
-        "last_seen": "2026-04-24T13:47:33.468Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Lote cromos fútbol Panini",
-            "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
-            "city": "Jaén"
           }
         ]
       },
@@ -5455,12 +5505,12 @@
   },
   "stats": {
     "proven_seller": 2,
-    "hot_24h": 2,
+    "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 210,
-    "total_unique_models": 216,
-    "total_reservations": 15,
+    "possible": 211,
+    "total_unique_models": 218,
+    "total_reservations": 18,
     "total_confirmed_sales": 209
   },
   "thresholds": {
@@ -5471,19 +5521,39 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
-  "new_sales": [
+  "tier_ups": [
     {
-      "id": "v6gp35x9o76e",
-      "model": "lote juegos ps3 assassin creed ii killzone",
-      "title": "Lote 6 Juegos PS3: Assassin's Creed II, Killzone 2",
-      "sold_price": 60,
-      "city": "Móstoles",
-      "url": "https://es.wallapop.com/item/lote-6-juegos-ps3-assassin-s-creed-ii-killzone-2-1255687664",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T17:03:30.962Z",
-      "last_seen": "2026-04-24T17:03:30.962Z",
-      "confirmed_at": "2026-04-24T19:08:04.042Z"
+      "model": "lote cromos futbol panini",
+      "from_tier": "possible",
+      "to_tier": "hot_24h",
+      "from_label": "💡 Posible",
+      "to_label": "🔥 Hot 24h",
+      "entry": {
+        "model": "lote cromos futbol panini",
+        "example_title": "Lote de cromos de fútbol Panini",
+        "example_url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 5,
+        "median_price": 17,
+        "max_price": 17,
+        "first_seen": "2026-04-24T13:47:33.468Z",
+        "last_seen": "2026-04-24T19:16:52.901Z",
+        "sample": [
+          {
+            "price": 17,
+            "title": "Lote de cromos de fútbol Panini",
+            "url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
+            "city": "Viladecavalls"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "new_sales": []
 }
