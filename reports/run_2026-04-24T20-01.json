@@ -1,0 +1,263 @@
+{
+  "timestamp": "2026-04-24T20:00:37.406Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 215,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Carta Pokémon Mega-Kangaskhan EX 164/132",
+          "price": 7.5,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-mega-kangaskhan-ex-164-132-1255738802",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Spearrow Básico 60 PS",
+          "price": 5.75,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-spearrow-basico-60-ps-1255738655",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Metal Energy Holo 19/111",
+          "price": 5,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/carta-pokemon-metal-energy-holo-19-111-1255738517",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Sobres pokemon ascended heroes -Japones",
+          "price": 7,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/sobres-pokemon-ascended-heroes-japones-1255738395",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Klawf Full Art 217/198",
+          "price": 20,
+          "city": "Campaño",
+          "url": "https://es.wallapop.com/item/carta-pokemon-klawf-full-art-217-198-1255738270",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon klawf full art",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon klawf full art' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote de 56 cartas Pokémon Holográficas*raras.",
+          "price": 12,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/lote-de-56-cartas-pokemon-holograficas-raras-1255738222",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon holograficas*raras.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon holograficas*raras.' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Mega-Lucario EX 179/132",
+          "price": 150,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-mega-lucario-ex-179-132-1255738212",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon mega-lucario 179/132",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon mega-lucario 179/132' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Energia Incolor Doble",
+          "price": 4,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/carta-pokemon-energia-incolor-doble-1255738056",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 266,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
+          "price": 16,
+          "city": "Almería",
+          "url": "https://es.wallapop.com/item/mario---rabbids-kingdom-battle-nintendo-switch-1255738779",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mario rabbids kingdom battle nintendo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mario rabbids kingdom battle nintendo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Soporte para juegos Nintendo Switch rojo",
+          "price": 12,
+          "city": "Quinta do Anjo",
+          "url": "https://es.wallapop.com/item/suporte-jogos-nintendo-switch-vermelho-1255738015",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Pragmata PS5",
+          "price": 45,
+          "city": "Gines",
+          "url": "https://es.wallapop.com/item/pragmata-ps5-1255738227",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pragmata ps5",
+          "verdict": "skip",
+          "reason": "45€ vs mín reservado 45€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Consola PS5 Edición Disco",
+          "price": 350,
+          "city": "Mollet del Vallès",
+          "url": "https://es.wallapop.com/item/consola-ps5-edicion-disco-1255738071",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 edicion",
+          "verdict": "skip",
+          "reason": "350€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Yakuza Kiwami 1 y 2 PS5",
+          "price": 71.99,
+          "city": "Molins de Rei",
+          "url": "https://es.wallapop.com/item/yakuza-kiwami-1-y-2-ps5-1255737954",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "yakuza kiwami ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'yakuza kiwami ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PS4 (PlayStation 4) Negro+ 2 Controles",
+          "price": 160,
+          "city": "Utrera",
+          "url": "https://es.wallapop.com/item/consola-ps4-playstation-4-negra---2-controles-1255737971",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps4 (playstation negro+ controles",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps4 (playstation negro+ controles' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando Xbox Elite Series 2 Verde",
+          "price": 90,
+          "city": "Ceuta",
+          "url": "https://es.wallapop.com/item/mando-xbox-elite-series-2-verde-1255738858",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando xbox elite series verde",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando xbox elite series verde' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch S3 38mm Negro",
+          "price": 70,
+          "city": "Santpedor",
+          "url": "https://es.wallapop.com/item/apple-watch-s3-38mm-negro-1255738929",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch 38mm negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch 38mm negro' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 173,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Alien Anthology Blu-ray 6 Discos",
+          "price": 40,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/alien-anthology-blu-ray-6-discos-1255738925",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "alien anthology blu-ray discos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'alien anthology blu-ray discos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Saga Camino Sangriento Bluray y DVD",
+          "price": 65,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/saga-camino-sangriento-bluray-y-dvd-1255738029",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "saga camino sangriento bluray dvd",
+          "verdict": "skip",
+          "reason": "0 reservados de 'saga camino sangriento bluray dvd' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 80,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Frutas Fabulosas Juego de Mesa y expansión",
+          "price": 25,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/frutas-fabulosas-juego-de-mesa-y-expansion-1255738550",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "frutas fabulosas juego mesa expansion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'frutas fabulosas juego mesa expansion' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Imaginarium: La Factoría de Sueños",
+          "price": 60,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/imaginarium-la-factoria-de-suenos-1255737966",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "imaginarium: factoria suenos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'imaginarium: factoria suenos' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 37,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 20,
+  "total_signals": 0,
+  "duration_s": 60
+}
