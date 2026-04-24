@@ -1,0 +1,177 @@
+{
+  "timestamp": "2026-04-24T02:30:27.423Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "16 cromos panini liga 2024-2025",
+          "price": 3.19,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/16-cromos-panini-liga-2024-2025-1255479828",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "ADRENALYN ,23 cartas, variadas, trading cards, panini , liga 2019-20",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/adrenalyn-23-cartas-variadas-trading-cards-panini-liga-2019-20-1255479601",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "ADRENALYN ,17 cartas, variadas, trading cards, panini , liga 2018-19",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/adrenalyn-17-cartas-variadas-trading-cards-panini-liga-2018-19-1255479594",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Empoleon V - CGC 9 - Pokémon 2021",
+          "price": 23.5,
+          "city": "Lamego",
+          "url": "https://es.wallapop.com/item/empoleon-v-cgc-9-pokemon-2021-1255479842",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "empoleon cgc pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'empoleon cgc pokemon' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 215,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Consola de entretenimiento negra",
+          "price": 45,
+          "city": "Fuengirola",
+          "url": "https://es.wallapop.com/item/consola-de-entretenimiento-negra-1255479939",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola entretenimiento negra",
+          "verdict": "skip",
+          "reason": "45€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Consola PS5 Fat Blanca",
+          "price": 345,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/consola-ps5-fat-blanca-1255479699",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 fat blanca",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps5 fat blanca' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 16 Pro Max",
+          "price": 650,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-1255479987",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Max Negro",
+          "price": 550,
+          "city": "Torremolinos",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-negro-1255479687",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 11 128GB RED",
+          "price": 100,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-11-128gb-red-1255479537",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb red",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb red' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 black",
+          "price": 850,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-black-1255479063",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone black",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone black' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Max Negro/Plateado",
+          "price": 255.43,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-plateado-1255478870",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max negro/plateado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max negro/plateado' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 172,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Comic, Marvel Now! Deluxe. Secret Wars: Integral",
+          "price": 27.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/comic-marvel-now-deluxe-secret-wars-integral-1255479798",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "comic, marvel now! deluxe. secret",
+          "verdict": "skip",
+          "reason": "0 reservados de 'comic, marvel now! deluxe. secret' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 42,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 12,
+  "total_signals": 0,
+  "duration_s": 67
+}
