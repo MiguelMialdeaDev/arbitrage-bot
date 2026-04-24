@@ -1,0 +1,687 @@
+{
+  "timestamp": "2026-04-24T09:06:33.693Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 230,
+      "new_items": 9,
+      "items": [
+        {
+          "title": "Funko Pop! Dungeons & Dragons 782 Strahd",
+          "price": 25,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funko-pop-dungeons-dragons-782-strahd-1255538297",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! dungeons dragons strahd 782",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! dungeons dragons strahd 782' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Dragon Ball Chichi 1925",
+          "price": 12,
+          "city": "Salerno",
+          "url": "https://es.wallapop.com/item/funko-pop-dragon-ball-chichi-1925-1255538090",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! dragon ball chichi 1925",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! dragon ball chichi 1925' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Funko Pop Marvel",
+          "price": 10,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/lote-funko-pop-marvel-1255537930",
+          "reserved": false,
+          "profile": "funko_lote",
+          "verdict": "skip",
+          "reason": "count=0 < 3, no es lote claro"
+        },
+        {
+          "title": "Funko Bitty Pop! Lord of the Rings",
+          "price": 5,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-bitty-pop-lord-of-the-rings-1255537797",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko bitty pop! lord the rings",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko bitty pop! lord the rings' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Manuales LEGO Star Wars y Creator",
+          "price": 30,
+          "city": "Carloforte",
+          "url": "https://es.wallapop.com/item/manuales-lego-star-wars-y-creator-1255538791",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "manuales lego star wars creator",
+          "verdict": "skip",
+          "reason": "0 reservados de 'manuales lego star wars creator' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Ordenador Retro Tipo LEGO MadnessToys",
+          "price": 9,
+          "city": "Sant Joan Despí",
+          "url": "https://es.wallapop.com/item/ordenador-retro-tipo-lego-madnesstoys-1255538766",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cromo Cristiano Ronaldo Bota de Oro",
+          "price": 4.25,
+          "city": "Sant Joan Despí",
+          "url": "https://es.wallapop.com/item/cromo-cristiano-ronaldo-bota-de-oro-1255538415",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Magic Force of Will Foil Premium Edición Esp",
+          "price": 90,
+          "city": "El Prat de Llobregat",
+          "url": "https://es.wallapop.com/item/carta-magic-force-of-will-foil-premium-edicion-esp-1255538991",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta magic force will foil",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta magic force will foil' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Umbreon GX 80/149",
+          "price": 40,
+          "city": "Durango",
+          "url": "https://es.wallapop.com/item/carta-pokemon-umbreon-gx-80-149-1255538786",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon umbreon 80/149",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon umbreon 80/149' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 257,
+      "new_items": 43,
+      "items": [
+        {
+          "title": "Nintendo Switch consola con caja y juego",
+          "price": 110,
+          "city": "Albox",
+          "url": "https://es.wallapop.com/item/nintendo-switch-consola-con-caja-y-juego-1255539105",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "110€ vs mín reservado 50€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Paper Mario: The Origami King Nintendo Switch",
+          "price": 25,
+          "city": "Graus",
+          "url": "https://es.wallapop.com/item/paper-mario-the-origami-king-nintendo-switch-1255538829",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "paper mario: the origami king",
+          "verdict": "skip",
+          "reason": "0 reservados de 'paper mario: the origami king' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Dark Souls Remastered Nintendo Switch",
+          "price": 35,
+          "city": "Valladolid",
+          "url": "https://es.wallapop.com/item/dark-souls-remastered-nintendo-switch-1255538429",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "dark souls remastered nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dark souls remastered nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Star Wars Outlaws Gold Edition Switch",
+          "price": 45,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/star-wars-outlaws-gold-edition-switch-1255538136",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "star wars outlaws gold edition",
+          "verdict": "skip",
+          "reason": "0 reservados de 'star wars outlaws gold edition' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Super Mario Bros. Wonder Switch ITA Multi ESP",
+          "price": 33.9,
+          "city": "Iolo",
+          "url": "https://es.wallapop.com/item/super-mario-bros-wonder-switch-ita-multi-esp-1255538086",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario bros. wonder switch",
+          "verdict": "skip",
+          "reason": "33.9€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Machenike G5 Pro Controller",
+          "price": 30,
+          "city": "Ripollet",
+          "url": "https://es.wallapop.com/item/machenike-g5-pro-controller-1255538035",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "machenike pro controller Nintendo Switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'machenike pro controller Nintendo Switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Nintendo Switch con juegos",
+          "price": 160,
+          "city": "Albox",
+          "url": "https://es.wallapop.com/item/consola-nintendo-switch-con-juegos-1255537962",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Pack 3 Juegos Nintendo Switch: Pokémon Diamante, M",
+          "price": 82,
+          "city": "Castellbisbal",
+          "url": "https://es.wallapop.com/item/pack-3-juegos-nintendo-switch-pokemon-diamante-m-1255537960",
+          "reserved": true,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "pack (pack_juegos): comparación eBay imprecisa, skip conservador"
+        },
+        {
+          "title": "Nintendo Switch OLED como nueva",
+          "price": 300,
+          "city": "Las Palmas de Gran Canaria",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled-como-nueva-1255537909",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Pokémon Escarlata Nintendo Switch RPG",
+          "price": 50,
+          "city": "La Garriga",
+          "url": "https://es.wallapop.com/item/pokemon-escarlata-nintendo-switch-rpg-1255537842",
+          "reserved": true,
+          "profile": "videojuego_switch",
+          "query_ebay": "pokemon escarlata nintendo switch rpg",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon escarlata nintendo switch rpg' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PS5 1TB Blanca",
+          "price": 400,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/consola-ps5-1tb-blanca-1255538299",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 1tb blanca",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps5 1tb blanca' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PS5 Blanca con Mando y Juegos",
+          "price": 450,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/consola-ps5-blanca-con-mando-y-juegos-1255538042",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps5 blanca con mando",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps5 blanca con mando' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Xbox Series S 512GB Blanca",
+          "price": 219.95,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/xbox-series-s-512gb-blanca-1255537955",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series 512gb blanca",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox series 512gb blanca' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Blanco 128GB - Batería 91%",
+          "price": 620,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-blanco-128gb-bateria-91-1255539115",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro blanco 128gb bateria",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro blanco 128gb bateria' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 13 PRO 512GB VERDE 100% BATERIA",
+          "price": 469,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-512gb-verde-100-bateria-1255539079",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 512gb verde 100%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 512gb verde 100%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone Apple Negro",
+          "price": 450,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/iphone-apple-negro-1255539066",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone apple negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone apple negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pack 2 Protectores Pantalla iPhone 12 Pro Max",
+          "price": 50,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/pack-2-protectores-pantalla-iphone-12-pro-max-1255539060",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack protectores pantalla iphone pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pack protectores pantalla iphone pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "SAMSUNG S24 ULTRA 1TB NEGRO - 97% BATERÍA",
+          "price": 749,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/samsung-s24-ultra-1tb-negro-97-bateria-1255539018",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "samsung s24 ultra 1tb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'samsung s24 ultra 1tb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 256 GB Azul Marino",
+          "price": 1289,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-256-gb-azul-marino-1255538945",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max azul marino",
+          "verdict": "skip",
+          "reason": "1289€ vs mín reservado 1020€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "IPHONE 13 PRO 512GB PLATA 100% BATERIA",
+          "price": 439,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-512gb-plata-100-bateria-1255538871",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 512gb plata 100%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 512gb plata 100%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 256GB Blanco - Excelentes Condiciones bat 100%",
+          "price": 499,
+          "city": "Ponte San Nicolò",
+          "url": "https://es.wallapop.com/item/iphone-16-256gb-bianco-ottime-condizioni-bat-100-1255538794",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb blanco excelentes condiciones",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb blanco excelentes condiciones' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 64GB Verde Menta",
+          "price": 200,
+          "city": "Fuentes Nuevas",
+          "url": "https://es.wallapop.com/item/iphone-12-64gb-verde-menta-1255538776",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 64gb verde menta",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 64gb verde menta' (sin evidencia de demanda)"
+        },
+        {
+          "title": "SAMSUNG S23 ULTRA 256GB NEGRO",
+          "price": 519,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/samsung-s23-ultra-256gb-negro-1255538755",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "samsung s23 ultra 256gb negro",
+          "verdict": "skip",
+          "reason": "519€ vs mín reservado 90€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "IPHONE 14 256GB NEGRO 100% BATERIA",
+          "price": 409,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-256gb-negro-100-bateria-1255538699",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb negro 100% bateria",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 130€ vs mín reservado 600€)"
+        },
+        {
+          "title": "iPhone 14 Blanco",
+          "price": 250,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-14-blanco-1255538622",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone blanco",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone blanco' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Pro Max Negro Espacial",
+          "price": 750,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-negro-espacial-1255538591",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max negro espacial",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max negro espacial' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 IMPECABLE",
+          "price": 399,
+          "city": "Valladolid",
+          "url": "https://es.wallapop.com/item/iphone-15-impecable-1255538497",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Motorola Moto G56 5G Multicolor",
+          "price": 210,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/motorola-moto-g56-5g-multicolor-1255538493",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "motorola moto g56 multicolor",
+          "verdict": "skip",
+          "reason": "0 reservados de 'motorola moto g56 multicolor' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13",
+          "price": 310,
+          "city": "Alaquas",
+          "url": "https://es.wallapop.com/item/iphone-13-1255538483",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Gris 128GB Batería 100%",
+          "price": 475,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-gris-128gb-bateria-100-1255538418",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro gris 128gb bateria",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro gris 128gb bateria' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Samsung S25 FE 5G 512gb nuevo sin abrir",
+          "price": 650,
+          "city": "Benidorm",
+          "url": "https://es.wallapop.com/item/samsung-s25-fe-5g-512gb-nuevo-sin-abrir-1255538350",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "samsung s25 512gb sin abrir",
+          "verdict": "skip",
+          "reason": "0 reservados de 'samsung s25 512gb sin abrir' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Smartphone Iphone 14 Pro Max 512Gb 83% Bateria",
+          "price": 599.9,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/smartphone-iphone-14-pro-max-512gb-83-bateria-1255538322",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "smartphone iphone pro max 512gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'smartphone iphone pro max 512gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 128 GB",
+          "price": 100,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/iphone-13-128-gb-1255538098",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 Pro Gris 128GB Batería 100%",
+          "price": 255,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-gris-128gb-bateria-100-1255538061",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro gris 128gb bateria",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro gris 128gb bateria' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone Apple Iphone 3GS 32GB",
+          "price": 800,
+          "city": "Santa Marta de Tormes",
+          "url": "https://es.wallapop.com/item/iphone-apple-iphone-3gs-32gb-1255538057",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone apple iphone 3gs 32gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone apple iphone 3gs 32gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro 256GB",
+          "price": 275,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-256gb-1255538049",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda iPhone 16 Plus Negra",
+          "price": 2,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/funda-iphone-16-plus-negra-1255537876",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Apple iPhone 17 pro max naranja y blanco",
+          "price": 1300,
+          "city": "Manresa",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-naranja-y-blanco-1255537777",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max naranja",
+          "verdict": "skip",
+          "reason": "1300€ vs mín reservado 1250€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 14 Pro Gris 128GB",
+          "price": 475,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-gris-128gb-1255537763",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro gris 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro gris 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Set de 3 vidrios templados para iPhone 16 Pro Max nuevo",
+          "price": 4.99,
+          "city": "Trieste",
+          "url": "https://es.wallapop.com/item/set-3-vetri-temperati-nuovo-iphone-16-pro-max-1255537726",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Apple Watch Series 9 45mm Negro LTE",
+          "price": 299,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-watch-series-9-45mm-negro-lte-1255538772",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 45mm negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 45mm negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch Ultra Verde y Azul",
+          "price": 640,
+          "city": "San Fernando",
+          "url": "https://es.wallapop.com/item/apple-watch-ultra-verde-y-azul-1255537979",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch ultra verde azul",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch ultra verde azul' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch Series 3 Nike 42mm Negro",
+          "price": 45,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/apple-watch-series-3-nike-42mm-negro-1255537741",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series nike 42mm",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series nike 42mm' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 167,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Los Hermanos Reyes - Antología 4CD",
+          "price": 60,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/los-hermanos-reyes-antologia-4cd-1255538970",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "los hermanos reyes antologia 4cd",
+          "verdict": "skip",
+          "reason": "0 reservados de 'los hermanos reyes antologia 4cd' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Blu-ray Salvar al Soldado Ryan (Español)",
+          "price": 3.9,
+          "city": "Cornella de Llobregat",
+          "url": "https://es.wallapop.com/item/blu-ray-salvar-al-soldado-ryan-espanol-1255538533",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "El guerrero rojo blu ray",
+          "price": 9,
+          "city": "Dos Hermanas",
+          "url": "https://es.wallapop.com/item/el-guerrero-rojo-blu-ray-1255538107",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Kill Bill Vol. 1 y 2 Blu-ray 4K Slipcover",
+          "price": 70,
+          "city": "Cheste",
+          "url": "https://es.wallapop.com/item/kill-bill-vol-1-y-2-blu-ray-4k-slipcover-1255537767",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "kill bill vol. blu-ray slipcover",
+          "verdict": "skip",
+          "reason": "0 reservados de 'kill bill vol. blu-ray slipcover' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Biblia La",
+          "price": 15,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/biblia-la-1255538229",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "biblia",
+          "verdict": "skip",
+          "reason": "15€ vs mín reservado 5€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 74,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Rome Fate of an Empire Deluxe",
+          "price": 45,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/rome-fate-of-an-empire-deluxe-1255538575",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "rome fate empire deluxe",
+          "verdict": "skip",
+          "reason": "0 reservados de 'rome fate empire deluxe' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Raqueta de pádel Head Speed Motion 2025",
+          "price": 99,
+          "city": "Caserta",
+          "url": "https://es.wallapop.com/item/head-speed-motion-2025-racchetta-padel-1255537898",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta padel head speed motion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta padel head speed motion' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 35,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 59,
+  "total_signals": 0,
+  "duration_s": 92
+}

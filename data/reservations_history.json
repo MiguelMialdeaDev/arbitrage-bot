@@ -1,28 +1,6 @@
 {
   "reservations": [
     {
-      "id": "v6gp3522ym6e",
-      "title": "Funko Pop! Lote Dragon Ball Reserva",
-      "model": "funko pop lote dragon ball reserva",
-      "price": 80,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T07:02:30.333Z",
-      "last_seen": "2026-04-24T07:02:30.333Z"
-    },
-    {
-      "id": "vjrem2rq2lzk",
-      "title": "Pack Dei Shop",
-      "model": "pack dei shop",
-      "price": 10,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T07:02:30.333Z",
-      "last_seen": "2026-04-24T07:02:30.333Z"
-    },
-    {
       "id": "v6gp352rr76e",
       "title": "Lote 12 CDs Música Clásica El País",
       "model": "lote 12 cds musica clasica pais",
@@ -175,6 +153,28 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-24T09:02:20.261Z",
       "last_seen": "2026-04-24T09:02:20.261Z"
+    },
+    {
+      "id": "9jdw198xe96k",
+      "title": "Pack 3 Juegos Nintendo Switch: Pokémon Diamante, M",
+      "model": "pack juegos nintendo switch pokemon diamante",
+      "price": 82,
+      "city": "Castellbisbal",
+      "url": "https://es.wallapop.com/item/pack-3-juegos-nintendo-switch-pokemon-diamante-m-1255537960",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-24T09:08:05.274Z",
+      "last_seen": "2026-04-24T09:08:05.274Z"
+    },
+    {
+      "id": "x6qq13vkde6y",
+      "title": "Pokémon Escarlata Nintendo Switch RPG",
+      "model": "pokemon escarlata nintendo switch rpg",
+      "price": 50,
+      "city": "La Garriga",
+      "url": "https://es.wallapop.com/item/pokemon-escarlata-nintendo-switch-rpg-1255537842",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-24T09:08:05.274Z",
+      "last_seen": "2026-04-24T09:08:05.274Z"
     }
   ]
 }

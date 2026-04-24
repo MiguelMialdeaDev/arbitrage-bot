@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:02:20.262Z",
+  "updated_at": "2026-04-24T09:08:05.276Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,106 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack juegos nintendo switch pokemon diamante",
+        "example_title": "Pack 3 Juegos Nintendo Switch: Pokémon Diamante, M",
+        "example_url": "https://es.wallapop.com/item/pack-3-juegos-nintendo-switch-pokemon-diamante-m-1255537960",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 82,
+        "median_price": 82,
+        "max_price": 82,
+        "first_seen": "2026-04-24T09:08:05.274Z",
+        "last_seen": "2026-04-24T09:08:05.274Z",
+        "sample": [
+          {
+            "price": 82,
+            "title": "Pack 3 Juegos Nintendo Switch: Pokémon Diamante, M",
+            "url": "https://es.wallapop.com/item/pack-3-juegos-nintendo-switch-pokemon-diamante-m-1255537960",
+            "city": "Castellbisbal"
+          }
+        ]
+      },
+      {
+        "model": "pokemon escarlata nintendo switch rpg",
+        "example_title": "Pokémon Escarlata Nintendo Switch RPG",
+        "example_url": "https://es.wallapop.com/item/pokemon-escarlata-nintendo-switch-rpg-1255537842",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T09:08:05.274Z",
+        "last_seen": "2026-04-24T09:08:05.274Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "Pokémon Escarlata Nintendo Switch RPG",
+            "url": "https://es.wallapop.com/item/pokemon-escarlata-nintendo-switch-rpg-1255537842",
+            "city": "La Garriga"
+          }
+        ]
+      },
+      {
+        "model": "funko pop lote dragon ball reserva",
+        "example_title": "Funko Pop! Lote Dragon Ball Reserva",
+        "example_url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 80,
+        "median_price": 80,
+        "max_price": 80,
+        "first_seen": "2026-04-24T09:08:05.274Z",
+        "last_seen": "2026-04-24T09:08:05.274Z",
+        "sample": [
+          {
+            "price": 80,
+            "title": "Funko Pop! Lote Dragon Ball Reserva",
+            "url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "pack dei shop",
+        "example_title": "Pack Dei Shop",
+        "example_url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T09:08:05.274Z",
+        "last_seen": "2026-04-24T09:08:05.274Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Pack Dei Shop",
+            "url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "honor magic v2 512gb 16gb ram morado precintado",
         "example_title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
@@ -510,56 +610,6 @@
             "title": "Funda iPhone 15 Pro Max Morada MagSafe",
             "url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "funko pop lote dragon ball reserva",
-        "example_title": "Funko Pop! Lote Dragon Ball Reserva",
-        "example_url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 80,
-        "median_price": 80,
-        "max_price": 80,
-        "first_seen": "2026-04-24T07:02:30.333Z",
-        "last_seen": "2026-04-24T07:02:30.333Z",
-        "sample": [
-          {
-            "price": 80,
-            "title": "Funko Pop! Lote Dragon Ball Reserva",
-            "url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "pack dei shop",
-        "example_title": "Pack Dei Shop",
-        "example_url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-24T07:02:30.333Z",
-        "last_seen": "2026-04-24T07:02:30.333Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Pack Dei Shop",
-            "url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
-            "city": "Barcelona"
           }
         ]
       },
@@ -3195,10 +3245,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 123,
-    "total_unique_models": 126,
+    "possible": 125,
+    "total_unique_models": 128,
     "total_reservations": 16,
-    "total_confirmed_sales": 115
+    "total_confirmed_sales": 117
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3211,16 +3261,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "pzpkxo10vlj3",
-      "model": "cartas magic the gathering imanol",
-      "title": "Cartas Magic: The Gathering para Imanol",
-      "sold_price": 29.5,
-      "city": "Parla",
-      "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
+      "id": "v6gp3522ym6e",
+      "model": "funko pop lote dragon ball reserva",
+      "title": "Funko Pop! Lote Dragon Ball Reserva",
+      "sold_price": 80,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T06:19:08.887Z",
-      "last_seen": "2026-04-24T06:19:08.887Z",
-      "confirmed_at": "2026-04-24T09:02:20.261Z"
+      "first_reserved": "2026-04-24T07:02:30.333Z",
+      "last_seen": "2026-04-24T07:02:30.333Z",
+      "confirmed_at": "2026-04-24T09:08:05.274Z"
+    },
+    {
+      "id": "vjrem2rq2lzk",
+      "model": "pack dei shop",
+      "title": "Pack Dei Shop",
+      "sold_price": 10,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T07:02:30.333Z",
+      "last_seen": "2026-04-24T07:02:30.333Z",
+      "confirmed_at": "2026-04-24T09:08:05.274Z"
     }
   ]
 }
