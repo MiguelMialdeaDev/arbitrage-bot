@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T11:47:38.428Z",
+  "updated_at": "2026-04-24T12:03:25.296Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,281 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "cartas pokemon lamincards nuzleaf seedot treecko",
+        "example_title": "Cartas Pokémon Lamincards Nuzleaf, Seedot, Treecko",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-lamincards-nuzleaf-seedot-treecko-1255597584",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Cartas Pokémon Lamincards Nuzleaf, Seedot, Treecko",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-lamincards-nuzleaf-seedot-treecko-1255597584",
+            "city": "Pozo Estrecho"
+          }
+        ]
+      },
+      {
+        "model": "lote peliculas dvd blu ray",
+        "example_title": "Lote 4 Películas DVD y Blu-ray",
+        "example_url": "https://es.wallapop.com/item/lote-4-peliculas-dvd-y-blu-ray-1255597695",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Lote 4 Películas DVD y Blu-ray",
+            "url": "https://es.wallapop.com/item/lote-4-peliculas-dvd-y-blu-ray-1255597695",
+            "city": "Vallirana"
+          }
+        ]
+      },
+      {
+        "model": "pack blu ray disney sirenita rey leon",
+        "example_title": "Pack 3 Blu-ray Disney: La Sirenita 2, Rey León 2-3",
+        "example_url": "https://es.wallapop.com/item/pack-3-blu-ray-disney-la-sirenita-2-rey-leon-2-3-1255596307",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 28,
+        "median_price": 28,
+        "max_price": 28,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 28,
+            "title": "Pack 3 Blu-ray Disney: La Sirenita 2, Rey León 2-3",
+            "url": "https://es.wallapop.com/item/pack-3-blu-ray-disney-la-sirenita-2-rey-leon-2-3-1255596307",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "funko pop lotso valindra",
+        "example_title": "Funko Pop! Lotso + Valindra",
+        "example_url": "https://es.wallapop.com/item/funko-pop-lotso---valindra-1255549891",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35.9,
+        "median_price": 35.9,
+        "max_price": 35.9,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 35.9,
+            "title": "Funko Pop! Lotso + Valindra",
+            "url": "https://es.wallapop.com/item/funko-pop-lotso---valindra-1255549891",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "funko pop disney 101 dalmatas mas",
+        "example_title": "Funko Pop Disney 101 Dálmatas y Más",
+        "example_url": "https://es.wallapop.com/item/funko-pop-disney-101-dalmatas-y-mas-1255548561",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Funko Pop Disney 101 Dálmatas y Más",
+            "url": "https://es.wallapop.com/item/funko-pop-disney-101-dalmatas-y-mas-1255548561",
+            "city": "Cuéllar"
+          }
+        ]
+      },
+      {
+        "model": "the legend of zelda link awakening switch",
+        "example_title": "The Legend of Zelda: Link's Awakening Switch",
+        "example_url": "https://es.wallapop.com/item/the-legend-of-zelda-link-s-awakening-switch-1255548252",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "The Legend of Zelda: Link's Awakening Switch",
+            "url": "https://es.wallapop.com/item/the-legend-of-zelda-link-s-awakening-switch-1255548252",
+            "city": "Castellbisbal"
+          }
+        ]
+      },
+      {
+        "model": "portal ps5 negro",
+        "example_title": "Portal PS5 Negro",
+        "example_url": "https://es.wallapop.com/item/portal-ps5-negro-1255547254",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 140,
+        "median_price": 140,
+        "max_price": 140,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 140,
+            "title": "Portal PS5 Negro",
+            "url": "https://es.wallapop.com/item/portal-ps5-negro-1255547254",
+            "city": "Samano"
+          }
+        ]
+      },
+      {
+        "model": "pack juegos nba live ps2",
+        "example_title": "Pack 4 Juegos NBA Live PS2",
+        "example_url": "https://es.wallapop.com/item/pack-4-juegos-nba-live-ps2-1255546469",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 11.5,
+        "median_price": 11.5,
+        "max_price": 11.5,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 11.5,
+            "title": "Pack 4 Juegos NBA Live PS2",
+            "url": "https://es.wallapop.com/item/pack-4-juegos-nba-live-ps2-1255546469",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "coleccion cromos",
+        "example_title": "Colección cromos",
+        "example_url": "https://es.wallapop.com/item/coleccion-cromos-1255550623",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Colección cromos",
+            "url": "https://es.wallapop.com/item/coleccion-cromos-1255550623",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
+        "model": "rito oscuro magic the gathering",
+        "example_title": "Rito Oscuro - Magic The Gathering",
+        "example_url": "https://es.wallapop.com/item/rito-oscuro-magic-the-gathering-1255551469",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "Rito Oscuro - Magic The Gathering",
+            "url": "https://es.wallapop.com/item/rito-oscuro-magic-the-gathering-1255551469",
+            "city": "Castellón de la Plana/Castelló de la Plana"
+          }
+        ]
+      },
+      {
+        "model": "juegos mesa reservados",
+        "example_title": "Juegos de mesa reservados",
+        "example_url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-24T12:03:25.294Z",
+        "last_seen": "2026-04-24T12:03:25.294Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Juegos de mesa reservados",
+            "url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "pokemon perla reluciente nintendo switch",
         "example_title": "Pokémon Perla Reluciente Nintendo Switch",
@@ -889,81 +1164,6 @@
         ]
       },
       {
-        "model": "coleccion cromos",
-        "example_title": "Colección cromos",
-        "example_url": "https://es.wallapop.com/item/coleccion-cromos-1255550623",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-24T10:03:08.590Z",
-        "last_seen": "2026-04-24T10:03:08.590Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Colección cromos",
-            "url": "https://es.wallapop.com/item/coleccion-cromos-1255550623",
-            "city": "Santander"
-          }
-        ]
-      },
-      {
-        "model": "rito oscuro magic the gathering",
-        "example_title": "Rito Oscuro - Magic The Gathering",
-        "example_url": "https://es.wallapop.com/item/rito-oscuro-magic-the-gathering-1255551469",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 27,
-        "median_price": 27,
-        "max_price": 27,
-        "first_seen": "2026-04-24T10:03:08.590Z",
-        "last_seen": "2026-04-24T10:03:08.590Z",
-        "sample": [
-          {
-            "price": 27,
-            "title": "Rito Oscuro - Magic The Gathering",
-            "url": "https://es.wallapop.com/item/rito-oscuro-magic-the-gathering-1255551469",
-            "city": "Castellón de la Plana/Castelló de la Plana"
-          }
-        ]
-      },
-      {
-        "model": "juegos mesa reservados",
-        "example_title": "Juegos de mesa reservados",
-        "example_url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-24T10:03:08.590Z",
-        "last_seen": "2026-04-24T10:03:08.590Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Juegos de mesa reservados",
-            "url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
         "model": "lote salvador",
         "example_title": "Lote para Salvador",
         "example_url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
@@ -1060,131 +1260,6 @@
             "title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
             "url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
             "city": "Huétor Vega"
-          }
-        ]
-      },
-      {
-        "model": "funko pop lotso valindra",
-        "example_title": "Funko Pop! Lotso + Valindra",
-        "example_url": "https://es.wallapop.com/item/funko-pop-lotso---valindra-1255549891",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35.9,
-        "median_price": 35.9,
-        "max_price": 35.9,
-        "first_seen": "2026-04-24T09:48:03.321Z",
-        "last_seen": "2026-04-24T09:48:03.321Z",
-        "sample": [
-          {
-            "price": 35.9,
-            "title": "Funko Pop! Lotso + Valindra",
-            "url": "https://es.wallapop.com/item/funko-pop-lotso---valindra-1255549891",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "funko pop disney 101 dalmatas mas",
-        "example_title": "Funko Pop Disney 101 Dálmatas y Más",
-        "example_url": "https://es.wallapop.com/item/funko-pop-disney-101-dalmatas-y-mas-1255548561",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-24T09:48:03.321Z",
-        "last_seen": "2026-04-24T09:48:03.321Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Funko Pop Disney 101 Dálmatas y Más",
-            "url": "https://es.wallapop.com/item/funko-pop-disney-101-dalmatas-y-mas-1255548561",
-            "city": "Cuéllar"
-          }
-        ]
-      },
-      {
-        "model": "the legend of zelda link awakening switch",
-        "example_title": "The Legend of Zelda: Link's Awakening Switch",
-        "example_url": "https://es.wallapop.com/item/the-legend-of-zelda-link-s-awakening-switch-1255548252",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-24T09:48:03.321Z",
-        "last_seen": "2026-04-24T09:48:03.321Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "The Legend of Zelda: Link's Awakening Switch",
-            "url": "https://es.wallapop.com/item/the-legend-of-zelda-link-s-awakening-switch-1255548252",
-            "city": "Castellbisbal"
-          }
-        ]
-      },
-      {
-        "model": "portal ps5 negro",
-        "example_title": "Portal PS5 Negro",
-        "example_url": "https://es.wallapop.com/item/portal-ps5-negro-1255547254",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 140,
-        "median_price": 140,
-        "max_price": 140,
-        "first_seen": "2026-04-24T09:48:03.321Z",
-        "last_seen": "2026-04-24T09:48:03.321Z",
-        "sample": [
-          {
-            "price": 140,
-            "title": "Portal PS5 Negro",
-            "url": "https://es.wallapop.com/item/portal-ps5-negro-1255547254",
-            "city": "Samano"
-          }
-        ]
-      },
-      {
-        "model": "pack juegos nba live ps2",
-        "example_title": "Pack 4 Juegos NBA Live PS2",
-        "example_url": "https://es.wallapop.com/item/pack-4-juegos-nba-live-ps2-1255546469",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 11.5,
-        "median_price": 11.5,
-        "max_price": 11.5,
-        "first_seen": "2026-04-24T09:48:03.321Z",
-        "last_seen": "2026-04-24T09:48:03.321Z",
-        "sample": [
-          {
-            "price": 11.5,
-            "title": "Pack 4 Juegos NBA Live PS2",
-            "url": "https://es.wallapop.com/item/pack-4-juegos-nba-live-ps2-1255546469",
-            "city": "Barcelona"
           }
         ]
       },
@@ -4020,10 +4095,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 156,
-    "total_unique_models": 159,
-    "total_reservations": 28,
-    "total_confirmed_sales": 136
+    "possible": 159,
+    "total_unique_models": 162,
+    "total_reservations": 23,
+    "total_confirmed_sales": 144
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4034,5 +4109,102 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "vjrem24ndwzk",
+      "model": "funko pop lotso valindra",
+      "title": "Funko Pop! Lotso + Valindra",
+      "sold_price": 35.9,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/funko-pop-lotso---valindra-1255549891",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T09:48:03.321Z",
+      "last_seen": "2026-04-24T09:48:03.321Z",
+      "confirmed_at": "2026-04-24T12:03:25.294Z"
+    },
+    {
+      "id": "pj940pnwwv6e",
+      "model": "funko pop disney 101 dalmatas mas",
+      "title": "Funko Pop Disney 101 Dálmatas y Más",
+      "sold_price": 40,
+      "city": "Cuéllar",
+      "url": "https://es.wallapop.com/item/funko-pop-disney-101-dalmatas-y-mas-1255548561",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T09:48:03.321Z",
+      "last_seen": "2026-04-24T09:48:03.321Z",
+      "confirmed_at": "2026-04-24T12:03:25.294Z"
+    },
+    {
+      "id": "w67vn5x0v96x",
+      "model": "the legend of zelda link awakening switch",
+      "title": "The Legend of Zelda: Link's Awakening Switch",
+      "sold_price": 30,
+      "city": "Castellbisbal",
+      "url": "https://es.wallapop.com/item/the-legend-of-zelda-link-s-awakening-switch-1255548252",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T09:48:03.321Z",
+      "last_seen": "2026-04-24T09:48:03.321Z",
+      "confirmed_at": "2026-04-24T12:03:25.294Z"
+    },
+    {
+      "id": "nzxegnrxv162",
+      "model": "portal ps5 negro",
+      "title": "Portal PS5 Negro",
+      "sold_price": 140,
+      "city": "Samano",
+      "url": "https://es.wallapop.com/item/portal-ps5-negro-1255547254",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T09:48:03.321Z",
+      "last_seen": "2026-04-24T09:48:03.321Z",
+      "confirmed_at": "2026-04-24T12:03:25.294Z"
+    },
+    {
+      "id": "3zlmpw0w18jx",
+      "model": "pack juegos nba live ps2",
+      "title": "Pack 4 Juegos NBA Live PS2",
+      "sold_price": 11.5,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/pack-4-juegos-nba-live-ps2-1255546469",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T09:48:03.321Z",
+      "last_seen": "2026-04-24T09:48:03.321Z",
+      "confirmed_at": "2026-04-24T12:03:25.294Z"
+    },
+    {
+      "id": "ejkmn7p15pzx",
+      "model": "coleccion cromos",
+      "title": "Colección cromos",
+      "sold_price": 10,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/coleccion-cromos-1255550623",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T10:03:08.590Z",
+      "last_seen": "2026-04-24T10:03:08.590Z",
+      "confirmed_at": "2026-04-24T12:03:25.294Z"
+    },
+    {
+      "id": "3zlmpwkelpjx",
+      "model": "rito oscuro magic the gathering",
+      "title": "Rito Oscuro - Magic The Gathering",
+      "sold_price": 27,
+      "city": "Castellón de la Plana/Castelló de la Plana",
+      "url": "https://es.wallapop.com/item/rito-oscuro-magic-the-gathering-1255551469",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T10:03:08.590Z",
+      "last_seen": "2026-04-24T10:03:08.590Z",
+      "confirmed_at": "2026-04-24T12:03:25.294Z"
+    },
+    {
+      "id": "qzmm0xo31xzv",
+      "model": "juegos mesa reservados",
+      "title": "Juegos de mesa reservados",
+      "sold_price": 5,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T10:03:08.590Z",
+      "last_seen": "2026-04-24T10:03:08.590Z",
+      "confirmed_at": "2026-04-24T12:03:25.294Z"
+    }
+  ]
 }
