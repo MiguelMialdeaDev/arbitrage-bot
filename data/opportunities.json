@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T06:47:03.802Z",
+  "updated_at": "2026-04-24T07:02:30.334Z",
   "tiers": {
     "proven_seller": [
       {
@@ -81,6 +81,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop lote dragon ball reserva",
+        "example_title": "Funko Pop! Lote Dragon Ball Reserva",
+        "example_url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 80,
+        "median_price": 80,
+        "max_price": 80,
+        "first_seen": "2026-04-24T07:02:30.333Z",
+        "last_seen": "2026-04-24T07:02:30.333Z",
+        "sample": [
+          {
+            "price": 80,
+            "title": "Funko Pop! Lote Dragon Ball Reserva",
+            "url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "pack dei shop",
+        "example_title": "Pack Dei Shop",
+        "example_url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T07:02:30.333Z",
+        "last_seen": "2026-04-24T07:02:30.333Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Pack Dei Shop",
+            "url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "ultra pro toploader penny sleeves",
         "example_title": "Ultra PRO Toploader y Penny Sleeves",
@@ -2813,9 +2863,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 109,
-    "total_unique_models": 111,
-    "total_reservations": 4,
+    "possible": 111,
+    "total_unique_models": 113,
+    "total_reservations": 6,
     "total_confirmed_sales": 111
   },
   "thresholds": {
