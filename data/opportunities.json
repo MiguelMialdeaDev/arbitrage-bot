@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T17:17:21.551Z",
+  "updated_at": "2026-04-24T17:32:18.788Z",
   "tiers": {
     "proven_seller": [
       {
@@ -78,6 +78,31 @@
       }
     ],
     "hot_24h": [
+      {
+        "model": "pack juegos nintendo switch",
+        "example_title": "Pack 2 Juegos Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 35,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Pack 2 Juegos Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+            "city": "Soto de La Moraleja"
+          }
+        ]
+      },
       {
         "model": "nintendo switch sports",
         "example_title": "Nintendo Switch Sports",
@@ -164,6 +189,156 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "elite trainer box pokemon scarlet violet",
+        "example_title": "Elite Trainer Box Pokémon Scarlet & Violet",
+        "example_url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-scarlet-violet-1255696666",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 45,
+        "median_price": 45,
+        "max_price": 45,
+        "first_seen": "2026-04-24T17:32:18.787Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 45,
+            "title": "Elite Trainer Box Pokémon Scarlet & Violet",
+            "url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-scarlet-violet-1255696666",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "ferran",
+        "example_title": "PARA FERRAN",
+        "example_url": "https://es.wallapop.com/item/para-ferran-1255622869",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T17:32:18.787Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "PARA FERRAN",
+            "url": "https://es.wallapop.com/item/para-ferran-1255622869",
+            "city": "Leganés"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas charizard pokemon",
+        "example_title": "Lote de 9 cartas Charizard Pokémon",
+        "example_url": "https://es.wallapop.com/item/lotto-9-carte-charizard-pokemon-1255653940",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 460,
+        "median_price": 460,
+        "max_price": 460,
+        "first_seen": "2026-04-24T17:32:18.787Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 460,
+            "title": "Lote de 9 cartas Charizard Pokémon",
+            "url": "https://es.wallapop.com/item/lotto-9-carte-charizard-pokemon-1255653940",
+            "city": "Subiaco"
+          }
+        ]
+      },
+      {
+        "model": "mandos dualsense ps5 fallo drift",
+        "example_title": "2 Mandos DualSense PS5 (Fallo Drift)",
+        "example_url": "https://es.wallapop.com/item/2-mandos-dualsense-ps5-falla-drift-1255653796",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T17:32:18.787Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "2 Mandos DualSense PS5 (Fallo Drift)",
+            "url": "https://es.wallapop.com/item/2-mandos-dualsense-ps5-falla-drift-1255653796",
+            "city": "Montcada i Reixac"
+          }
+        ]
+      },
+      {
+        "model": "destino final blu ray 3d terror",
+        "example_title": "El Destino Final Blu-ray 3D (Terror)",
+        "example_url": "https://es.wallapop.com/item/el-destino-final-blu-ray-3d-terror-1255656295",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-24T17:32:18.787Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "El Destino Final Blu-ray 3D (Terror)",
+            "url": "https://es.wallapop.com/item/el-destino-final-blu-ray-3d-terror-1255656295",
+            "city": "Cádiz"
+          }
+        ]
+      },
+      {
+        "model": "tapete batalla citadel",
+        "example_title": "Tapete de batalla Citadel",
+        "example_url": "https://es.wallapop.com/item/tapete-de-batalla-citadel-1255652208",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-24T17:32:18.787Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Tapete de batalla Citadel",
+            "url": "https://es.wallapop.com/item/tapete-de-batalla-citadel-1255652208",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "patrulla",
         "example_title": "Patrulla X",
@@ -865,106 +1040,6 @@
         ]
       },
       {
-        "model": "lote cartas charizard pokemon",
-        "example_title": "Lote de 9 cartas Charizard Pokémon",
-        "example_url": "https://es.wallapop.com/item/lotto-9-carte-charizard-pokemon-1255653940",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 460,
-        "median_price": 460,
-        "max_price": 460,
-        "first_seen": "2026-04-24T15:17:32.103Z",
-        "last_seen": "2026-04-24T15:17:32.103Z",
-        "sample": [
-          {
-            "price": 460,
-            "title": "Lote de 9 cartas Charizard Pokémon",
-            "url": "https://es.wallapop.com/item/lotto-9-carte-charizard-pokemon-1255653940",
-            "city": "Subiaco"
-          }
-        ]
-      },
-      {
-        "model": "mandos dualsense ps5 fallo drift",
-        "example_title": "2 Mandos DualSense PS5 (Fallo Drift)",
-        "example_url": "https://es.wallapop.com/item/2-mandos-dualsense-ps5-falla-drift-1255653796",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 50,
-        "median_price": 50,
-        "max_price": 50,
-        "first_seen": "2026-04-24T15:17:32.103Z",
-        "last_seen": "2026-04-24T15:17:32.103Z",
-        "sample": [
-          {
-            "price": 50,
-            "title": "2 Mandos DualSense PS5 (Fallo Drift)",
-            "url": "https://es.wallapop.com/item/2-mandos-dualsense-ps5-falla-drift-1255653796",
-            "city": "Montcada i Reixac"
-          }
-        ]
-      },
-      {
-        "model": "destino final blu ray 3d terror",
-        "example_title": "El Destino Final Blu-ray 3D (Terror)",
-        "example_url": "https://es.wallapop.com/item/el-destino-final-blu-ray-3d-terror-1255656295",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8,
-        "median_price": 8,
-        "max_price": 8,
-        "first_seen": "2026-04-24T15:17:32.103Z",
-        "last_seen": "2026-04-24T15:17:32.103Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "El Destino Final Blu-ray 3D (Terror)",
-            "url": "https://es.wallapop.com/item/el-destino-final-blu-ray-3d-terror-1255656295",
-            "city": "Cádiz"
-          }
-        ]
-      },
-      {
-        "model": "tapete batalla citadel",
-        "example_title": "Tapete de batalla Citadel",
-        "example_url": "https://es.wallapop.com/item/tapete-de-batalla-citadel-1255652208",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 60,
-        "median_price": 60,
-        "max_price": 60,
-        "first_seen": "2026-04-24T15:17:32.103Z",
-        "last_seen": "2026-04-24T15:17:32.103Z",
-        "sample": [
-          {
-            "price": 60,
-            "title": "Tapete de batalla Citadel",
-            "url": "https://es.wallapop.com/item/tapete-de-batalla-citadel-1255652208",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
         "model": "cartas pokemon angel",
         "example_title": "Cartas Pokémon M.Angel",
         "example_url": "https://es.wallapop.com/item/cartas-pokemon-m-angel-1255611997",
@@ -1311,31 +1386,6 @@
             "title": "Lote cromos fútbol Panini",
             "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
             "city": "Jaén"
-          }
-        ]
-      },
-      {
-        "model": "ferran",
-        "example_title": "PARA FERRAN",
-        "example_url": "https://es.wallapop.com/item/para-ferran-1255622869",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-24T13:32:32.592Z",
-        "last_seen": "2026-04-24T13:32:32.592Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "PARA FERRAN",
-            "url": "https://es.wallapop.com/item/para-ferran-1255622869",
-            "city": "Leganés"
           }
         ]
       },
@@ -3940,31 +3990,6 @@
         ]
       },
       {
-        "model": "pack juegos nintendo switch",
-        "example_title": "Pack 8 Juegos Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
-        "total_reservations": 0,
-        "confirmed_sales": 1,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-23T17:33:09.995Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "Pack 8 Juegos Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
-            "city": "Vic"
-          }
-        ]
-      },
-      {
         "model": "mando sony playstation blanco",
         "example_title": "Mando Sony Playstation 5 Blanco",
         "example_url": "https://es.wallapop.com/item/mando-sony-playstation-5-blanco-1255335574",
@@ -5143,13 +5168,13 @@
   },
   "stats": {
     "proven_seller": 2,
-    "hot_24h": 2,
+    "hot_24h": 3,
     "trending_7d": 1,
     "recurring": 0,
     "possible": 199,
-    "total_unique_models": 204,
-    "total_reservations": 20,
-    "total_confirmed_sales": 191
+    "total_unique_models": 205,
+    "total_reservations": 17,
+    "total_confirmed_sales": 196
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5159,19 +5184,100 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
+  "tier_ups": [
+    {
+      "model": "pack juegos nintendo switch",
+      "from_tier": "possible",
+      "to_tier": "hot_24h",
+      "from_label": "💡 Posible",
+      "to_label": "🔥 Hot 24h",
+      "entry": {
+        "model": "pack juegos nintendo switch",
+        "example_title": "Pack 2 Juegos Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 35,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-24T17:32:18.787Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Pack 2 Juegos Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+            "city": "Soto de La Moraleja"
+          }
+        ]
+      }
+    }
+  ],
   "new_sales": [
     {
-      "id": "wzyrgpv3rx65",
-      "model": "patrulla",
-      "title": "Patrulla X",
-      "sold_price": 8,
-      "city": "Zaragoza",
-      "url": "https://es.wallapop.com/item/patrulla-x-1255618520",
+      "id": "3zlmpwp1ypjx",
+      "model": "ferran",
+      "title": "PARA FERRAN",
+      "sold_price": 35,
+      "city": "Leganés",
+      "url": "https://es.wallapop.com/item/para-ferran-1255622869",
       "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T13:17:33.679Z",
-      "last_seen": "2026-04-24T13:17:33.679Z",
-      "confirmed_at": "2026-04-24T17:17:21.549Z"
+      "first_reserved": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z",
+      "confirmed_at": "2026-04-24T17:32:18.787Z"
+    },
+    {
+      "id": "v6gp35qkw26e",
+      "model": "lote cartas charizard pokemon",
+      "title": "Lote de 9 cartas Charizard Pokémon",
+      "sold_price": 460,
+      "city": "Subiaco",
+      "url": "https://es.wallapop.com/item/lotto-9-carte-charizard-pokemon-1255653940",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T15:17:32.103Z",
+      "last_seen": "2026-04-24T15:17:32.103Z",
+      "confirmed_at": "2026-04-24T17:32:18.787Z"
+    },
+    {
+      "id": "e65qdk5r2g6o",
+      "model": "mandos dualsense ps5 fallo drift",
+      "title": "2 Mandos DualSense PS5 (Fallo Drift)",
+      "sold_price": 50,
+      "city": "Montcada i Reixac",
+      "url": "https://es.wallapop.com/item/2-mandos-dualsense-ps5-falla-drift-1255653796",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T15:17:32.103Z",
+      "last_seen": "2026-04-24T15:17:32.103Z",
+      "confirmed_at": "2026-04-24T17:32:18.787Z"
+    },
+    {
+      "id": "ejkmn7q0lpzx",
+      "model": "destino final blu ray 3d terror",
+      "title": "El Destino Final Blu-ray 3D (Terror)",
+      "sold_price": 8,
+      "city": "Cádiz",
+      "url": "https://es.wallapop.com/item/el-destino-final-blu-ray-3d-terror-1255656295",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T15:17:32.103Z",
+      "last_seen": "2026-04-24T15:17:32.103Z",
+      "confirmed_at": "2026-04-24T17:32:18.787Z"
+    },
+    {
+      "id": "qzmm0x87kgzv",
+      "model": "tapete batalla citadel",
+      "title": "Tapete de batalla Citadel",
+      "sold_price": 60,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/tapete-de-batalla-citadel-1255652208",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T15:17:32.103Z",
+      "last_seen": "2026-04-24T15:17:32.103Z",
+      "confirmed_at": "2026-04-24T17:32:18.787Z"
     }
   ]
 }
