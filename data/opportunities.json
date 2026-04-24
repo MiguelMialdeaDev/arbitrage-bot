@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T13:47:33.471Z",
+  "updated_at": "2026-04-24T14:02:00.123Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,106 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop kinder joy stranger things",
+        "example_title": "Funko Pop! Kinder Joy Stranger Things",
+        "example_url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255629954",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-24T14:02:00.122Z",
+        "last_seen": "2026-04-24T14:02:00.122Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Funko Pop! Kinder Joy Stranger Things",
+            "url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255629954",
+            "city": "Esplugues de Llobregat"
+          }
+        ]
+      },
+      {
+        "model": "red dead redemption nintendo switch",
+        "example_title": "Red Dead Redemption 1 Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T14:02:00.122Z",
+        "last_seen": "2026-04-24T14:02:00.122Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Red Dead Redemption 1 Nintendo Switch",
+            "url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
+            "city": "Fonteculler"
+          }
+        ]
+      },
+      {
+        "model": "pokemon perla reluciente nintendo switch",
+        "example_title": "Pokémon Perla Reluciente Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pokemon-perla-reluciente-nintendo-switch-1255591722",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T14:02:00.122Z",
+        "last_seen": "2026-04-24T14:02:00.122Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Pokémon Perla Reluciente Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-perla-reluciente-nintendo-switch-1255591722",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "terreno tiranido",
+        "example_title": "Terreno Tiranido",
+        "example_url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-24T14:02:00.122Z",
+        "last_seen": "2026-04-24T14:02:00.122Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "Terreno Tiranido",
+            "url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
+            "city": "Alcantarilla"
+          }
+        ]
+      },
       {
         "model": "pathfinder adventure card game core expansion",
         "example_title": "Pathfinder Adventure Card Game: Core y expansion",
@@ -1285,56 +1385,6 @@
             "title": "Juegos de mesa reservados",
             "url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "pokemon perla reluciente nintendo switch",
-        "example_title": "Pokémon Perla Reluciente Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pokemon-perla-reluciente-nintendo-switch-1255591722",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T11:47:38.427Z",
-        "last_seen": "2026-04-24T11:47:38.427Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Pokémon Perla Reluciente Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pokemon-perla-reluciente-nintendo-switch-1255591722",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "terreno tiranido",
-        "example_title": "Terreno Tiranido",
-        "example_url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 32,
-        "median_price": 32,
-        "max_price": 32,
-        "first_seen": "2026-04-24T11:47:38.427Z",
-        "last_seen": "2026-04-24T11:47:38.427Z",
-        "sample": [
-          {
-            "price": 32,
-            "title": "Terreno Tiranido",
-            "url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
-            "city": "Alcantarilla"
           }
         ]
       },
@@ -4570,10 +4620,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 178,
-    "total_unique_models": 181,
+    "possible": 180,
+    "total_unique_models": 183,
     "total_reservations": 25,
-    "total_confirmed_sales": 161
+    "total_confirmed_sales": 163
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4586,16 +4636,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "w67vn5r99y6x",
-      "model": "lote cromos futbol panini",
-      "title": "Lote cromos fútbol Panini",
-      "sold_price": 5,
-      "city": "Jaén",
-      "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T11:32:14.704Z",
-      "last_seen": "2026-04-24T11:32:14.704Z",
-      "confirmed_at": "2026-04-24T13:47:33.468Z"
+      "id": "8z88pnro3dz3",
+      "model": "pokemon perla reluciente nintendo switch",
+      "title": "Pokémon Perla Reluciente Nintendo Switch",
+      "sold_price": 25,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/pokemon-perla-reluciente-nintendo-switch-1255591722",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T11:47:38.427Z",
+      "last_seen": "2026-04-24T11:47:38.427Z",
+      "confirmed_at": "2026-04-24T14:02:00.122Z"
+    },
+    {
+      "id": "9jdw19mo2l6k",
+      "model": "terreno tiranido",
+      "title": "Terreno Tiranido",
+      "sold_price": 32,
+      "city": "Alcantarilla",
+      "url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T11:47:38.427Z",
+      "last_seen": "2026-04-24T11:47:38.427Z",
+      "confirmed_at": "2026-04-24T14:02:00.122Z"
     }
   ]
 }
