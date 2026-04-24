@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T17:48:24.923Z",
+  "updated_at": "2026-04-24T18:02:49.117Z",
   "tiers": {
     "proven_seller": [
       {
@@ -189,6 +189,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "mario party superstars nintendo switch",
+        "example_title": "Mario Party Superstars Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-24T18:02:49.115Z",
+        "last_seen": "2026-04-24T18:02:49.115Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Mario Party Superstars Nintendo Switch",
+            "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
+            "city": "Torredembarra"
+          }
+        ]
+      },
+      {
+        "model": "pack juegos switch 180519",
+        "example_title": "PACK 2 JUEGOS SWITCH (180519)",
+        "example_url": "https://es.wallapop.com/item/pack-2-juegos-switch-180519-1255706087",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 39.9,
+        "median_price": 39.9,
+        "max_price": 39.9,
+        "first_seen": "2026-04-24T18:02:49.115Z",
+        "last_seen": "2026-04-24T18:02:49.115Z",
+        "sample": [
+          {
+            "price": 39.9,
+            "title": "PACK 2 JUEGOS SWITCH (180519)",
+            "url": "https://es.wallapop.com/item/pack-2-juegos-switch-180519-1255706087",
+            "city": "Elda"
+          }
+        ]
+      },
+      {
+        "model": "pack steelbooks 4k uhd blu ray",
+        "example_title": "Pack 2 Steelbooks 4K UHD Blu-ray",
+        "example_url": "https://es.wallapop.com/item/pack-2-steelbooks-4k-uhd-blu-ray-1255708584",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 75,
+        "median_price": 75,
+        "max_price": 75,
+        "first_seen": "2026-04-24T18:02:49.115Z",
+        "last_seen": "2026-04-24T18:02:49.115Z",
+        "sample": [
+          {
+            "price": 75,
+            "title": "Pack 2 Steelbooks 4K UHD Blu-ray",
+            "url": "https://es.wallapop.com/item/pack-2-steelbooks-4k-uhd-blu-ray-1255708584",
+            "city": "Oviedo"
+          }
+        ]
+      },
       {
         "model": "the smiths you never walk alone lp",
         "example_title": "The Smiths - \"You never walk alone\" LP.",
@@ -5221,9 +5296,9 @@
     "hot_24h": 2,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 201,
-    "total_unique_models": 207,
-    "total_reservations": 15,
+    "possible": 204,
+    "total_unique_models": 210,
+    "total_reservations": 18,
     "total_confirmed_sales": 200
   },
   "thresholds": {
@@ -5235,42 +5310,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "e65qdkgxep6o",
-      "model": "puzzle 1000 trefl",
-      "title": "Puzzle 1000 Trefl",
-      "sold_price": 7,
-      "city": "Gijón",
-      "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-24T08:02:30.011Z",
-      "last_seen": "2026-04-24T08:02:30.011Z",
-      "confirmed_at": "2026-04-24T17:48:24.921Z"
-    },
-    {
-      "id": "36e5m4k33y6d",
-      "model": "funko pop star wars princess leia 595",
-      "title": "Funko Pop! Star Wars Princess Leia 595",
-      "sold_price": 35,
-      "city": "San Fernando",
-      "url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T15:47:38.091Z",
-      "last_seen": "2026-04-24T15:47:38.091Z",
-      "confirmed_at": "2026-04-24T17:48:24.921Z"
-    },
-    {
-      "id": "mzn3711v80jn",
-      "model": "cromos adrenalyn xl mundial panini",
-      "title": "Cromos Adrenalyn XL Mundial Panini",
-      "sold_price": 10,
-      "city": "Mataró",
-      "url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T15:47:38.091Z",
-      "last_seen": "2026-04-24T15:47:38.091Z",
-      "confirmed_at": "2026-04-24T17:48:24.921Z"
-    }
-  ]
+  "new_sales": []
 }
