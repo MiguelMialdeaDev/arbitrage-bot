@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-04-24T01:15:18.841Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 212,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Nintendo Switch Negra Pirateable",
+          "price": 65,
+          "city": "Eitzaga",
+          "url": "https://es.wallapop.com/item/nintendo-switch-negra-pirateable-1255475382",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "consola <80€ sospechoso"
+        },
+        {
+          "title": "iPhone 15 Pro Max 256GB Plata - Batería 95%",
+          "price": 570,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-plata-bateria-95-1255475647",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb plata",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb plata' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 172,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Dos discos, LP VINILO,  EL PADRE ABRAHAM Y SUS PITUFOS VEO VEO + EL GRAN LIBRO DE LOS JUEGOS",
+          "price": 2.75,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/dos-discos-lp-vinilo-el-padre-abraham-y-sus-pitufos-veo-veo---el-gran-libro-de-los-juegos-1255475599",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "disco, LP vinilo, LOS JUNIORS - AÑO 1973",
+          "price": 5.39,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-los-juniors-ano-1973-1255475527",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, vinilo, los juniors ano",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, vinilo, los juniors ano' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Gravity Blu-ray + DVD + Copia Digital",
+          "price": 18,
+          "city": "Santa Margarida i els Monjos",
+          "url": "https://es.wallapop.com/item/gravity-blu-ray---dvd---copia-digital-1255475605",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: copia"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Splendor Marvel - juego de mesa nuevo (precintado)",
+          "price": 29,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/splendor-marvel-juego-de-mesa-nuevo-precintado-1255475165",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "splendor marvel juego mesa (precintado)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'splendor marvel juego mesa (precintado)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña merida big 9",
+          "price": 250,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-merida-big-9-1255475403",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana merida big",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana merida big' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña riverside 500",
+          "price": 150,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-riverside-500-1255475393",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana riverside",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana riverside' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña orbea sport 26",
+          "price": 299,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-orbea-sport-26-1255475387",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana orbea sport",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana orbea sport' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña rockrider st 540",
+          "price": 215,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-rockrider-st-540-1255475271",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana rockrider",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana rockrider' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña btwin rockrider 500m",
+          "price": 220,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-btwin-rockrider-500m-1255475257",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana btwin rockrider 500m",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana btwin rockrider 500m' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña wst wst",
+          "price": 250,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-wst-wst-1255475251",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana wst wst",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana wst wst' (sin evidencia de demanda)"
+        },
+        {
+          "title": "bicicleta montaña trek 7.7",
+          "price": 200,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-trek-7-7-1255475221",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana trek 7.7",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana trek 7.7' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 43,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 13,
+  "total_signals": 0,
+  "duration_s": 59
+}
