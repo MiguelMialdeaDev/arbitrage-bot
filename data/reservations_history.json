@@ -1,17 +1,6 @@
 {
   "reservations": [
     {
-      "id": "pzpkxo10vlj3",
-      "title": "Cartas Magic: The Gathering para Imanol",
-      "model": "cartas magic the gathering imanol",
-      "price": 29.5,
-      "city": "Parla",
-      "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T06:19:08.887Z",
-      "last_seen": "2026-04-24T06:19:08.887Z"
-    },
-    {
       "id": "v6gp3522ym6e",
       "title": "Funko Pop! Lote Dragon Ball Reserva",
       "model": "funko pop lote dragon ball reserva",
@@ -175,6 +164,17 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-24T08:47:38.597Z",
       "last_seen": "2026-04-24T08:47:38.597Z"
+    },
+    {
+      "id": "pj940p48qo6e",
+      "title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
+      "model": "honor magic v2 512gb 16gb ram morado precintado",
+      "price": 599,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-24T09:02:20.261Z",
+      "last_seen": "2026-04-24T09:02:20.261Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T08:47:38.598Z",
+  "updated_at": "2026-04-24T09:02:20.262Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "honor magic v2 512gb 16gb ram morado precintado",
+        "example_title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
+        "example_url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 599,
+        "median_price": 599,
+        "max_price": 599,
+        "first_seen": "2026-04-24T09:02:20.261Z",
+        "last_seen": "2026-04-24T09:02:20.261Z",
+        "sample": [
+          {
+            "price": 599,
+            "title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
+            "url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "cartas magic the gathering imanol",
+        "example_title": "Cartas Magic: The Gathering para Imanol",
+        "example_url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 29.5,
+        "median_price": 29.5,
+        "max_price": 29.5,
+        "first_seen": "2026-04-24T09:02:20.261Z",
+        "last_seen": "2026-04-24T09:02:20.261Z",
+        "sample": [
+          {
+            "price": 29.5,
+            "title": "Cartas Magic: The Gathering para Imanol",
+            "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
+            "city": "Parla"
+          }
+        ]
+      },
       {
         "model": "the legend of zelda breath of the wild",
         "example_title": "The Legend of Zelda: Breath of the Wild",
@@ -535,31 +585,6 @@
             "title": "Ultra PRO Toploader y Penny Sleeves",
             "url": "https://es.wallapop.com/item/ultra-pro-toploader-y-penny-sleeves-1255442519",
             "city": "Burgos"
-          }
-        ]
-      },
-      {
-        "model": "cartas magic the gathering imanol",
-        "example_title": "Cartas Magic: The Gathering para Imanol",
-        "example_url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 29.5,
-        "median_price": 29.5,
-        "max_price": 29.5,
-        "first_seen": "2026-04-24T06:19:08.887Z",
-        "last_seen": "2026-04-24T06:19:08.887Z",
-        "sample": [
-          {
-            "price": 29.5,
-            "title": "Cartas Magic: The Gathering para Imanol",
-            "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
-            "city": "Parla"
           }
         ]
       },
@@ -3170,10 +3195,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 122,
-    "total_unique_models": 125,
+    "possible": 123,
+    "total_unique_models": 126,
     "total_reservations": 16,
-    "total_confirmed_sales": 114
+    "total_confirmed_sales": 115
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3184,5 +3209,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "pzpkxo10vlj3",
+      "model": "cartas magic the gathering imanol",
+      "title": "Cartas Magic: The Gathering para Imanol",
+      "sold_price": 29.5,
+      "city": "Parla",
+      "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T06:19:08.887Z",
+      "last_seen": "2026-04-24T06:19:08.887Z",
+      "confirmed_at": "2026-04-24T09:02:20.261Z"
+    }
+  ]
 }
