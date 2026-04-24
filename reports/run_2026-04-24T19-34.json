@@ -1,0 +1,227 @@
+{
+  "timestamp": "2026-04-24T19:33:44.483Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 210,
+      "new_items": 17,
+      "items": [
+        {
+          "title": "Funko Pop! Moon Knight Arthur Harrow 1051",
+          "price": 8,
+          "city": "Reus",
+          "url": "https://es.wallapop.com/item/funko-pop-moon-knight-arthur-harrow-1051-1255732514",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "Funko Pop! Star wars - kylo Ren #739",
+          "price": 20,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/funko-pop-kylo-ren-739-1255732342",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! star wars kylo ren 739",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! star wars kylo ren 739' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Capitán Marvel Ronan 448",
+          "price": 17,
+          "city": "Reus",
+          "url": "https://es.wallapop.com/item/funko-pop-capitan-marvel-ronan-448-1255732132",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "Funko Pop Dragon Ball Z",
+          "price": 18,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/funko-pop-dragon-ball-z-1255732085",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko dragon ball",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko dragon ball' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Bitty Lord of the Rings Boromir 630",
+          "price": 32,
+          "city": "Vilaescusa",
+          "url": "https://es.wallapop.com/item/funko-pop-bitty-lord-of-the-rings-boromir-630-1255732072",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko bitty lord the rings boromir 630",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko bitty lord the rings boromir 630' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Bitty Lord of the Rings Aragorn 531",
+          "price": 6,
+          "city": "Vilaescusa",
+          "url": "https://es.wallapop.com/item/funko-pop-bitty-lord-of-the-rings-aragorn-531-1255731777",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko bitty lord the rings aragorn 531",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko bitty lord the rings aragorn 531' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Capitán América 814",
+          "price": 9,
+          "city": "Reus",
+          "url": "https://es.wallapop.com/item/funko-pop-capitan-america-814-1255731715",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "estado: defecto"
+        },
+        {
+          "title": "Figura Chandler Friends",
+          "price": 6,
+          "city": "Albal",
+          "url": "https://es.wallapop.com/item/figura-chandler-friends-1255731565",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "funko problema: amarillo"
+        },
+        {
+          "title": "Funko Baby Yoda \"Grogu\" Star Wars y \"L\" Death Not",
+          "price": 12,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/funko-baby-yoda-grogu-star-wars-y-l-death-not-1255731545",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko baby yoda \"grogu\" star wars",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko baby yoda \"grogu\" star wars' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Ronald McDonald #85",
+          "price": 18,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-ronald-mcdonald-85-1255731517",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! ronald mcdonald #85",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! ronald mcdonald #85' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Paul Gascoigne parche /32 Middlesbrough",
+          "price": 40,
+          "city": "Urbanizacion Montecolorado",
+          "url": "https://es.wallapop.com/item/paul-gascoigne-parche-32-middlesbrough-1255732011",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "paul gascoigne parche /32 middlesbrough",
+          "verdict": "skip",
+          "reason": "0 reservados de 'paul gascoigne parche /32 middlesbrough' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 4 cromos fútbol Panini",
+          "price": 25,
+          "city": "Molina de Segura",
+          "url": "https://es.wallapop.com/item/lote-4-cromos-futbol-panini-1255731926",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromos futbol panini",
+          "verdict": "skip",
+          "reason": "25€ vs mín reservado 12.5€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nico Williams auto - Bilbao",
+          "price": 28,
+          "city": "Urbanizacion Montecolorado",
+          "url": "https://es.wallapop.com/item/nico-williams-auto-bilbao-1255731802",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "nico williams auto bilbao",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nico williams auto bilbao' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cromos Panini Adrenalyn XL",
+          "price": 1,
+          "city": "Montemayor",
+          "url": "https://es.wallapop.com/item/cromos-panini-adrenalyn-xl-1255731588",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Lote Caja Ampliación Momentum Oro Panini",
+          "price": 50,
+          "city": "Valdemoro",
+          "url": "https://es.wallapop.com/item/lote-caja-ampliacion-momentum-oro-panini-1255731574",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ampliacion momentum oro panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ampliacion momentum oro panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Fabián Ruiz Auto /50 PSG",
+          "price": 28,
+          "city": "Urbanizacion Montecolorado",
+          "url": "https://es.wallapop.com/item/fabian-ruiz-auto-50-psg-1255731573",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fabian ruiz auto /50 psg",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fabian ruiz auto /50 psg' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mtg: Mazo de Modern Espadas",
+          "price": 79.95,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mtg-mazo-de-modern-espadas-1255732223",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mtg: mazo modern espadas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mtg: mazo modern espadas' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 263,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 172,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 81,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 39,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 17,
+  "total_signals": 0,
+  "duration_s": 62
+}
