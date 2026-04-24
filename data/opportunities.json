@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T22:46:44.974Z",
+  "updated_at": "2026-04-24T22:52:27.179Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop the walking dead daryl dixon #14",
+        "example_title": "Funko Pop! The Walking Dead Daryl Dixon #14",
+        "example_url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-24T22:52:27.178Z",
+        "last_seen": "2026-04-24T22:52:27.178Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Funko Pop! The Walking Dead Daryl Dixon #14",
+            "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
+            "city": "Alicante/Alacant"
+          }
+        ]
+      },
       {
         "model": "lote cartas pokemon variadas",
         "example_title": "Lote Cartas Pokémon Variadas",
@@ -835,31 +860,6 @@
             "title": "Funko Pop! Will y Eddie Kinder",
             "url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
             "city": "Ponteareas"
-          }
-        ]
-      },
-      {
-        "model": "funko pop the walking dead daryl dixon #14",
-        "example_title": "Funko Pop! The Walking Dead Daryl Dixon #14",
-        "example_url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 12,
-        "median_price": 12,
-        "max_price": 12,
-        "first_seen": "2026-04-24T20:47:15.966Z",
-        "last_seen": "2026-04-24T20:47:15.966Z",
-        "sample": [
-          {
-            "price": 12,
-            "title": "Funko Pop! The Walking Dead Daryl Dixon #14",
-            "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
-            "city": "Alicante/Alacant"
           }
         ]
       },
@@ -3870,7 +3870,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5947,8 +5947,8 @@
     "recurring": 0,
     "possible": 228,
     "total_unique_models": 235,
-    "total_reservations": 10,
-    "total_confirmed_sales": 234
+    "total_reservations": 9,
+    "total_confirmed_sales": 235
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5959,5 +5959,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "v6gp35d4vn6e",
+      "model": "funko pop the walking dead daryl dixon #14",
+      "title": "Funko Pop! The Walking Dead Daryl Dixon #14",
+      "sold_price": 12,
+      "city": "Alicante/Alacant",
+      "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T20:47:15.966Z",
+      "last_seen": "2026-04-24T20:47:15.966Z",
+      "confirmed_at": "2026-04-24T22:52:27.178Z"
+    }
+  ]
 }
