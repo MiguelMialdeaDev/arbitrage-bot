@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T12:17:33.128Z",
+  "updated_at": "2026-04-24T12:32:21.690Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,106 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "reserva francisco cartas",
+        "example_title": "RESERVA FRANCISCO 5 CARTAS",
+        "example_url": "https://es.wallapop.com/item/reserva-francisco-5-cartas-1255607249",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 18,
+        "median_price": 18,
+        "max_price": 18,
+        "first_seen": "2026-04-24T12:32:21.689Z",
+        "last_seen": "2026-04-24T12:32:21.689Z",
+        "sample": [
+          {
+            "price": 18,
+            "title": "RESERVA FRANCISCO 5 CARTAS",
+            "url": "https://es.wallapop.com/item/reserva-francisco-5-cartas-1255607249",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "pack juegos mesa",
+        "example_title": "PACK JUEGOS DE MESA",
+        "example_url": "https://es.wallapop.com/item/pack-juegos-de-mesa-1255606235",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-24T12:32:21.689Z",
+        "last_seen": "2026-04-24T12:32:21.689Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "PACK JUEGOS DE MESA",
+            "url": "https://es.wallapop.com/item/pack-juegos-de-mesa-1255606235",
+            "city": "El Escorial"
+          }
+        ]
+      },
+      {
+        "model": "poltergeist di xenic magic the gathering",
+        "example_title": "Poltergeist di Xenic - Magic The Gathering",
+        "example_url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4.5,
+        "median_price": 4.5,
+        "max_price": 4.5,
+        "first_seen": "2026-04-24T12:32:21.689Z",
+        "last_seen": "2026-04-24T12:32:21.689Z",
+        "sample": [
+          {
+            "price": 4.5,
+            "title": "Poltergeist di Xenic - Magic The Gathering",
+            "url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
+            "city": "Castellón de la Plana/Castelló de la Plana"
+          }
+        ]
+      },
+      {
+        "model": "mando dualsense ps5",
+        "example_title": "Mando DualSense PS5",
+        "example_url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T12:32:21.689Z",
+        "last_seen": "2026-04-24T12:32:21.689Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Mando DualSense PS5",
+            "url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
+            "city": "San Lorenzo de El Escorial"
+          }
+        ]
+      },
       {
         "model": "nintendo switch sports",
         "example_title": "Nintendo Switch Sports",
@@ -1110,56 +1210,6 @@
             "title": "Lote Pokémon Phantasmal Flames Inglés",
             "url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "poltergeist di xenic magic the gathering",
-        "example_title": "Poltergeist di Xenic - Magic The Gathering",
-        "example_url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 4.5,
-        "median_price": 4.5,
-        "max_price": 4.5,
-        "first_seen": "2026-04-24T10:18:25.763Z",
-        "last_seen": "2026-04-24T10:18:25.763Z",
-        "sample": [
-          {
-            "price": 4.5,
-            "title": "Poltergeist di Xenic - Magic The Gathering",
-            "url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
-            "city": "Castellón de la Plana/Castelló de la Plana"
-          }
-        ]
-      },
-      {
-        "model": "mando dualsense ps5",
-        "example_title": "Mando DualSense PS5",
-        "example_url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-24T10:18:25.763Z",
-        "last_seen": "2026-04-24T10:18:25.763Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Mando DualSense PS5",
-            "url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
-            "city": "San Lorenzo de El Escorial"
           }
         ]
       },
@@ -4120,10 +4170,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 160,
-    "total_unique_models": 163,
+    "possible": 162,
+    "total_unique_models": 165,
     "total_reservations": 24,
-    "total_confirmed_sales": 144
+    "total_confirmed_sales": 146
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4134,5 +4184,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "p618m3k1q7z5",
+      "model": "poltergeist di xenic magic the gathering",
+      "title": "Poltergeist di Xenic - Magic The Gathering",
+      "sold_price": 4.5,
+      "city": "Castellón de la Plana/Castelló de la Plana",
+      "url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T10:18:25.763Z",
+      "last_seen": "2026-04-24T10:18:25.763Z",
+      "confirmed_at": "2026-04-24T12:32:21.689Z"
+    },
+    {
+      "id": "wzyrgpxx3565",
+      "model": "mando dualsense ps5",
+      "title": "Mando DualSense PS5",
+      "sold_price": 10,
+      "city": "San Lorenzo de El Escorial",
+      "url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T10:18:25.763Z",
+      "last_seen": "2026-04-24T10:18:25.763Z",
+      "confirmed_at": "2026-04-24T12:32:21.689Z"
+    }
+  ]
 }

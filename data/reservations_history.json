@@ -23,28 +23,6 @@
       "last_seen": "2026-04-24T08:02:30.011Z"
     },
     {
-      "id": "p618m3k1q7z5",
-      "title": "Poltergeist di Xenic - Magic The Gathering",
-      "model": "poltergeist di xenic magic the gathering",
-      "price": 4.5,
-      "city": "Castellón de la Plana/Castelló de la Plana",
-      "url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T10:18:25.763Z",
-      "last_seen": "2026-04-24T10:18:25.763Z"
-    },
-    {
-      "id": "wzyrgpxx3565",
-      "title": "Mando DualSense PS5",
-      "model": "mando dualsense ps5",
-      "price": 10,
-      "city": "San Lorenzo de El Escorial",
-      "url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-24T10:18:25.763Z",
-      "last_seen": "2026-04-24T10:18:25.763Z"
-    },
-    {
       "id": "0j28o2q9ndjy",
       "title": "Manipolatore - Magic The Gathering",
       "model": "manipolatore magic the gathering",
@@ -263,6 +241,28 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-24T12:17:33.126Z",
       "last_seen": "2026-04-24T12:17:33.126Z"
+    },
+    {
+      "id": "mzn371mg1kjn",
+      "title": "RESERVA FRANCISCO 5 CARTAS",
+      "model": "reserva francisco cartas",
+      "price": 18,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/reserva-francisco-5-cartas-1255607249",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T12:32:21.689Z",
+      "last_seen": "2026-04-24T12:32:21.689Z"
+    },
+    {
+      "id": "0j28o2em0ejy",
+      "title": "PACK JUEGOS DE MESA",
+      "model": "pack juegos mesa",
+      "price": 40,
+      "city": "El Escorial",
+      "url": "https://es.wallapop.com/item/pack-juegos-de-mesa-1255606235",
+      "category": "Deporte y ocio",
+      "first_seen": "2026-04-24T12:32:21.689Z",
+      "last_seen": "2026-04-24T12:32:21.689Z"
     }
   ]
 }
