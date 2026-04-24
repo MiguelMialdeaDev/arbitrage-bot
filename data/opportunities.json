@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:32:08.580Z",
+  "updated_at": "2026-04-24T09:48:03.323Z",
   "tiers": {
     "proven_seller": [
       {
@@ -82,8 +82,8 @@
         "model": "pokemon let go eevee nintendo switch",
         "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
-        "total_reservations": 2,
-        "confirmed_sales": 0,
+        "total_reservations": 1,
+        "confirmed_sales": 1,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -92,15 +92,9 @@
         "min_price": 15,
         "median_price": 20,
         "max_price": 20,
-        "first_seen": "2026-04-24T07:46:59.188Z",
-        "last_seen": "2026-04-24T08:17:11.472Z",
+        "first_seen": "2026-04-24T08:17:11.472Z",
+        "last_seen": "2026-04-24T09:48:03.321Z",
         "sample": [
-          {
-            "price": 15,
-            "title": "Pokémon Let's Go Eevee Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
-            "city": "Badalona"
-          },
           {
             "price": 20,
             "title": "Pokémon Let's Go Eevee Nintendo Switch",
@@ -113,6 +107,131 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop lotso valindra",
+        "example_title": "Funko Pop! Lotso + Valindra",
+        "example_url": "https://es.wallapop.com/item/funko-pop-lotso---valindra-1255549891",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35.9,
+        "median_price": 35.9,
+        "max_price": 35.9,
+        "first_seen": "2026-04-24T09:48:03.321Z",
+        "last_seen": "2026-04-24T09:48:03.321Z",
+        "sample": [
+          {
+            "price": 35.9,
+            "title": "Funko Pop! Lotso + Valindra",
+            "url": "https://es.wallapop.com/item/funko-pop-lotso---valindra-1255549891",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "funko pop disney 101 dalmatas mas",
+        "example_title": "Funko Pop Disney 101 Dálmatas y Más",
+        "example_url": "https://es.wallapop.com/item/funko-pop-disney-101-dalmatas-y-mas-1255548561",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-24T09:48:03.321Z",
+        "last_seen": "2026-04-24T09:48:03.321Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Funko Pop Disney 101 Dálmatas y Más",
+            "url": "https://es.wallapop.com/item/funko-pop-disney-101-dalmatas-y-mas-1255548561",
+            "city": "Cuéllar"
+          }
+        ]
+      },
+      {
+        "model": "the legend of zelda link awakening switch",
+        "example_title": "The Legend of Zelda: Link's Awakening Switch",
+        "example_url": "https://es.wallapop.com/item/the-legend-of-zelda-link-s-awakening-switch-1255548252",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-24T09:48:03.321Z",
+        "last_seen": "2026-04-24T09:48:03.321Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "The Legend of Zelda: Link's Awakening Switch",
+            "url": "https://es.wallapop.com/item/the-legend-of-zelda-link-s-awakening-switch-1255548252",
+            "city": "Castellbisbal"
+          }
+        ]
+      },
+      {
+        "model": "portal ps5 negro",
+        "example_title": "Portal PS5 Negro",
+        "example_url": "https://es.wallapop.com/item/portal-ps5-negro-1255547254",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 140,
+        "median_price": 140,
+        "max_price": 140,
+        "first_seen": "2026-04-24T09:48:03.321Z",
+        "last_seen": "2026-04-24T09:48:03.321Z",
+        "sample": [
+          {
+            "price": 140,
+            "title": "Portal PS5 Negro",
+            "url": "https://es.wallapop.com/item/portal-ps5-negro-1255547254",
+            "city": "Samano"
+          }
+        ]
+      },
+      {
+        "model": "pack juegos nba live ps2",
+        "example_title": "Pack 4 Juegos NBA Live PS2",
+        "example_url": "https://es.wallapop.com/item/pack-4-juegos-nba-live-ps2-1255546469",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 11.5,
+        "median_price": 11.5,
+        "max_price": 11.5,
+        "first_seen": "2026-04-24T09:48:03.321Z",
+        "last_seen": "2026-04-24T09:48:03.321Z",
+        "sample": [
+          {
+            "price": 11.5,
+            "title": "Pack 4 Juegos NBA Live PS2",
+            "url": "https://es.wallapop.com/item/pack-4-juegos-nba-live-ps2-1255546469",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "funko pop joey tribbiani friends",
         "example_title": "Funko Pop! Joey Tribbiani Friends",
@@ -3370,10 +3489,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 130,
-    "total_unique_models": 133,
-    "total_reservations": 21,
-    "total_confirmed_sales": 117
+    "possible": 135,
+    "total_unique_models": 138,
+    "total_reservations": 25,
+    "total_confirmed_sales": 118
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3384,5 +3503,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "qjwrg5p3vw6o",
+      "model": "pokemon let go eevee nintendo switch",
+      "title": "Pokémon Let's Go Eevee Nintendo Switch",
+      "sold_price": 15,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T07:46:59.188Z",
+      "last_seen": "2026-04-24T07:46:59.188Z",
+      "confirmed_at": "2026-04-24T09:48:03.321Z"
+    }
+  ]
 }
