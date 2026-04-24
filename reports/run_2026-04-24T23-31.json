@@ -1,0 +1,193 @@
+{
+  "timestamp": "2026-04-24T23:30:29.990Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 208,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Pack Cartas Pokémon Varias",
+          "price": 45,
+          "city": "Badia del Vallès",
+          "url": "https://es.wallapop.com/item/pack-cartas-pokemon-varias-1255768949",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack cartas pokemon varias",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pack cartas pokemon varias' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Cartas Pokémon Rayquaza V, Charizard V, Turto",
+          "price": 10,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/lote-cartas-pokemon-rayquaza-v-charizard-v-turto-1255768942",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon rayquaza charizard turto",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon rayquaza charizard turto' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Mewtwo 10 GEM-MT SV2A",
+          "price": 200,
+          "city": "Las Palmas de Gran Canaria",
+          "url": "https://es.wallapop.com/item/carta-pokemon-mewtwo-10-gem-mt-sv2a-1255768792",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon mewtwo gem-mt sv2a",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon mewtwo gem-mt sv2a' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Eternatus VMAX 340 HP",
+          "price": 30,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/carta-pokemon-eternatus-vmax-340-hp-1255768677",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon eternatus vmax",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon eternatus vmax' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 255,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Gran Turismo 5 Prologue PS3",
+          "price": 10,
+          "city": "Mazo",
+          "url": "https://es.wallapop.com/item/gran-turismo-5-prologue-ps3-1255768762",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gran turismo prologue ps3",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": 44.5,
+          "margin_pct": 445,
+          "score": 70,
+          "verdict": "skip",
+          "reason": "spread extremo sospechoso (445%): probable query mal calibrada"
+        },
+        {
+          "title": "Joysticks para mandos de ps5",
+          "price": 10,
+          "city": "San Cristóbal de La Laguna",
+          "url": "https://es.wallapop.com/item/joysticks-para-mandos-de-ps5-1255768653",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "joysticks para mandos ps5",
+          "verdict": "skip",
+          "reason": "10€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "PlayStation 5 Pro Blanca",
+          "price": 700,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/playstation-5-pro-blanca-1255768628",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation pro blanca",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playstation pro blanca' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lente de cámara iPhone XS/XS Max",
+          "price": 0.8,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/lente-de-camara-iphone-xs-xs-max-1255769036",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "iPhone XR (Color Coral)",
+          "price": 79.99,
+          "city": "La Felguera",
+          "url": "https://es.wallapop.com/item/iphone-xr-color-coral-1255768823",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone (color coral)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone (color coral)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 256GB 86% bateria !",
+          "price": 490,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-256gb-86-bateria-1255768765",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb 86% bateria",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb 86% bateria' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 128GB Blanco 87% Batería",
+          "price": 410,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-128gb-blanco-87-bateria-1255768723",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb blanco 87% bateria",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb blanco 87% bateria' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch SE 2ª Gen GPS + Cellular Plata 40mm",
+          "price": 220,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/apple-watch-se-2-gen-gps---cellular-plata-40mm-1255768977",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "apple watch gen gps cellular",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch gen gps cellular' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 163,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "LOS PITUFOS BLURAY 3D + DVD SLIPCOVER",
+          "price": 7.9,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/los-pitufos-bluray-3d---dvd-slipcover-1255768917",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 83,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 34,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 13,
+  "total_signals": 0,
+  "duration_s": 60
+}

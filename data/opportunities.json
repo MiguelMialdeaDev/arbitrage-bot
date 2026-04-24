@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T23:22:57.182Z",
+  "updated_at": "2026-04-24T23:31:30.047Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop one piece nico robin brook franky",
+        "example_title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
+        "example_url": "https://es.wallapop.com/item/funko-pop-one-piece-nico-robin-brook-franky-1255752593",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40.5,
+        "median_price": 40.5,
+        "max_price": 40.5,
+        "first_seen": "2026-04-24T23:31:30.045Z",
+        "last_seen": "2026-04-24T23:31:30.045Z",
+        "sample": [
+          {
+            "price": 40.5,
+            "title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
+            "url": "https://es.wallapop.com/item/funko-pop-one-piece-nico-robin-brook-franky-1255752593",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "lote magic the gathering victor",
+        "example_title": "Lote Magic: The Gathering para Víctor",
+        "example_url": "https://es.wallapop.com/item/lote-magic-the-gathering-1255753792",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T23:31:30.045Z",
+        "last_seen": "2026-04-24T23:31:30.045Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "Lote Magic: The Gathering para Víctor",
+            "url": "https://es.wallapop.com/item/lote-magic-the-gathering-1255753792",
+            "city": "Castello/Castellon de La Plana"
+          }
+        ]
+      },
       {
         "model": "vinilos lp hardcore punk screamo",
         "example_title": "Vinilos LP Hardcore Punk Screamo",
@@ -660,56 +710,6 @@
             "title": "iPhone 14 Pro Max negro",
             "url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
             "city": "Medina de Pomar"
-          }
-        ]
-      },
-      {
-        "model": "funko pop one piece nico robin brook franky",
-        "example_title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
-        "example_url": "https://es.wallapop.com/item/funko-pop-one-piece-nico-robin-brook-franky-1255752593",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40.5,
-        "median_price": 40.5,
-        "max_price": 40.5,
-        "first_seen": "2026-04-24T21:30:09.042Z",
-        "last_seen": "2026-04-24T21:30:09.042Z",
-        "sample": [
-          {
-            "price": 40.5,
-            "title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
-            "url": "https://es.wallapop.com/item/funko-pop-one-piece-nico-robin-brook-franky-1255752593",
-            "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "lote magic the gathering victor",
-        "example_title": "Lote Magic: The Gathering para Víctor",
-        "example_url": "https://es.wallapop.com/item/lote-magic-the-gathering-1255753792",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 50,
-        "median_price": 50,
-        "max_price": 50,
-        "first_seen": "2026-04-24T21:30:09.042Z",
-        "last_seen": "2026-04-24T21:30:09.042Z",
-        "sample": [
-          {
-            "price": 50,
-            "title": "Lote Magic: The Gathering para Víctor",
-            "url": "https://es.wallapop.com/item/lote-magic-the-gathering-1255753792",
-            "city": "Castello/Castellon de La Plana"
           }
         ]
       },
@@ -3770,7 +3770,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3795,7 +3795,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5997,8 +5997,8 @@
     "recurring": 0,
     "possible": 230,
     "total_unique_models": 237,
-    "total_reservations": 9,
-    "total_confirmed_sales": 237
+    "total_reservations": 7,
+    "total_confirmed_sales": 239
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6011,28 +6011,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "wzvgdewq2rzl",
-      "model": "funko pop homer simpson maggie",
-      "title": "Funko Pop Homer Simpson y Maggie",
-      "sold_price": 20,
-      "city": "Requena",
-      "url": "https://es.wallapop.com/item/funko-pop-homer-simpson-y-maggie-1255749865",
+      "id": "3zlmpwv7e2jx",
+      "model": "funko pop one piece nico robin brook franky",
+      "title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
+      "sold_price": 40.5,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/funko-pop-one-piece-nico-robin-brook-franky-1255752593",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T21:17:30.661Z",
-      "last_seen": "2026-04-24T21:17:30.661Z",
-      "confirmed_at": "2026-04-24T23:22:57.179Z"
+      "first_reserved": "2026-04-24T21:30:09.042Z",
+      "last_seen": "2026-04-24T21:30:09.042Z",
+      "confirmed_at": "2026-04-24T23:31:30.045Z"
     },
     {
-      "id": "4z4829wrnwjy",
-      "model": "garchomp ex eevee pokemon tcg ingles",
-      "title": "Garchomp ex y Eevee Pokémon TCG Inglés",
-      "sold_price": 23,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
+      "id": "wzyrgpmpnp65",
+      "model": "lote magic the gathering victor",
+      "title": "Lote Magic: The Gathering para Víctor",
+      "sold_price": 50,
+      "city": "Castello/Castellon de La Plana",
+      "url": "https://es.wallapop.com/item/lote-magic-the-gathering-1255753792",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T21:17:30.661Z",
-      "last_seen": "2026-04-24T21:17:30.661Z",
-      "confirmed_at": "2026-04-24T23:22:57.179Z"
+      "first_reserved": "2026-04-24T21:30:09.042Z",
+      "last_seen": "2026-04-24T21:30:09.042Z",
+      "confirmed_at": "2026-04-24T23:31:30.045Z"
     }
   ]
 }
