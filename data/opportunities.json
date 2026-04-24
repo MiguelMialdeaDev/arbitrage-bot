@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T01:16:18.236Z",
+  "updated_at": "2026-04-24T01:31:41.445Z",
   "tiers": {
     "proven_seller": [
       {
@@ -69,6 +69,31 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cartas pokemon mega clefable talonflame",
+        "example_title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
+        "example_url": "https://es.wallapop.com/item/lote-6-cartas-pokemon-mega-clefable-talonflame-d-1255460579",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T01:31:41.444Z",
+        "last_seen": "2026-04-24T01:31:41.444Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
+            "url": "https://es.wallapop.com/item/lote-6-cartas-pokemon-mega-clefable-talonflame-d-1255460579",
+            "city": "L'Ametlla de Mar"
+          }
+        ]
+      },
       {
         "model": "pathfinder reglas tomos aventura",
         "example_title": "Pathfinder Reglas y 3 Tomos Aventura",
@@ -341,31 +366,6 @@
             "title": "Lote de 5 productos de magia",
             "url": "https://es.wallapop.com/item/lote-de-5-productos-de-magia-1255449792",
             "city": "Ciudad Real"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas pokemon mega clefable talonflame",
-        "example_title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
-        "example_url": "https://es.wallapop.com/item/lote-6-cartas-pokemon-mega-clefable-talonflame-d-1255460579",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-23T23:29:12.521Z",
-        "last_seen": "2026-04-23T23:29:12.521Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
-            "url": "https://es.wallapop.com/item/lote-6-cartas-pokemon-mega-clefable-talonflame-d-1255460579",
-            "city": "L'Ametlla de Mar"
           }
         ]
       },
@@ -2703,8 +2703,8 @@
     "recurring": 0,
     "possible": 105,
     "total_unique_models": 107,
-    "total_reservations": 7,
-    "total_confirmed_sales": 104
+    "total_reservations": 6,
+    "total_confirmed_sales": 105
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2715,5 +2715,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "p618m3vdvdz5",
+      "model": "lote cartas pokemon mega clefable talonflame",
+      "title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
+      "sold_price": 10,
+      "city": "L'Ametlla de Mar",
+      "url": "https://es.wallapop.com/item/lote-6-cartas-pokemon-mega-clefable-talonflame-d-1255460579",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T23:29:12.521Z",
+      "last_seen": "2026-04-23T23:29:12.521Z",
+      "confirmed_at": "2026-04-24T01:31:41.444Z"
+    }
+  ]
 }
