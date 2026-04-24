@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T19:16:52.903Z",
+  "updated_at": "2026-04-24T19:32:53.583Z",
   "tiers": {
     "proven_seller": [
       {
@@ -168,6 +168,37 @@
     ],
     "trending_7d": [
       {
+        "model": "pack juegos nintendo switch",
+        "example_title": "Pack 2 Juegos Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+        "total_reservations": 0,
+        "confirmed_sales": 2,
+        "total_events": 2,
+        "reservations_24h": 1,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 1.85,
+        "min_price": 35,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-24T19:32:53.581Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Pack 8 Juegos Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pack-8-juegos-nintendo-switch-1255338055",
+            "city": "Vic"
+          },
+          {
+            "price": 40,
+            "title": "Pack 2 Juegos Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+            "city": "Soto de La Moraleja"
+          }
+        ]
+      },
+      {
         "model": "lote funko pop stranger things",
         "example_title": "Lote Funko Pop Stranger Things",
         "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
@@ -197,35 +228,110 @@
             "city": "Santa Coloma de Gramenet"
           }
         ]
-      },
-      {
-        "model": "pack juegos nintendo switch",
-        "example_title": "Pack 2 Juegos Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 1,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 35,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-24T17:32:18.787Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Pack 2 Juegos Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
-            "city": "Soto de La Moraleja"
-          }
-        ]
       }
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop zazu disney 499",
+        "example_title": "Funko Pop Zazu Disney 499",
+        "example_url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T19:32:53.581Z",
+        "last_seen": "2026-04-24T19:32:53.581Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Funko Pop Zazu Disney 499",
+            "url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
+            "city": "Elx/Elche"
+          }
+        ]
+      },
+      {
+        "model": "iphone 14 pro max negro",
+        "example_title": "iPhone 14 Pro Max negro",
+        "example_url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T19:32:53.581Z",
+        "last_seen": "2026-04-24T19:32:53.581Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "iPhone 14 Pro Max negro",
+            "url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
+            "city": "Medina de Pomar"
+          }
+        ]
+      },
+      {
+        "model": "vinilo lp iron maiden powerslave heavy metal",
+        "example_title": "Vinilo LP Iron Maiden Powerslave Heavy Metal",
+        "example_url": "https://es.wallapop.com/item/vinilo-lp-iron-maiden-powerslave-heavy-metal-1255732307",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-24T19:32:53.581Z",
+        "last_seen": "2026-04-24T19:32:53.581Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Vinilo LP Iron Maiden Powerslave Heavy Metal",
+            "url": "https://es.wallapop.com/item/vinilo-lp-iron-maiden-powerslave-heavy-metal-1255732307",
+            "city": "Urbanizacion Ermita"
+          }
+        ]
+      },
+      {
+        "model": "elite trainer box pokemon scarlet violet",
+        "example_title": "Elite Trainer Box Pokémon Scarlet & Violet",
+        "example_url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-scarlet-violet-1255696666",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 45,
+        "median_price": 45,
+        "max_price": 45,
+        "first_seen": "2026-04-24T19:32:53.581Z",
+        "last_seen": "2026-04-24T19:32:53.581Z",
+        "sample": [
+          {
+            "price": 45,
+            "title": "Elite Trainer Box Pokémon Scarlet & Violet",
+            "url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-scarlet-violet-1255696666",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "mando nintendo switch2 pro controller",
         "example_title": "Mando Nintendo Switch2 Pro Controller",
@@ -823,31 +929,6 @@
             "title": "iPhone 14 Pro Space negro",
             "url": "https://es.wallapop.com/item/iphone-14-pro-space-negro-1255658740",
             "city": "Eivissa"
-          }
-        ]
-      },
-      {
-        "model": "elite trainer box pokemon scarlet violet",
-        "example_title": "Elite Trainer Box Pokémon Scarlet & Violet",
-        "example_url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-scarlet-violet-1255696666",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 45,
-        "median_price": 45,
-        "max_price": 45,
-        "first_seen": "2026-04-24T17:32:18.787Z",
-        "last_seen": "2026-04-24T17:32:18.787Z",
-        "sample": [
-          {
-            "price": 45,
-            "title": "Elite Trainer Box Pokémon Scarlet & Violet",
-            "url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-scarlet-violet-1255696666",
-            "city": "Barcelona"
           }
         ]
       },
@@ -3983,7 +4064,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4008,7 +4089,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5508,10 +5589,10 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 211,
-    "total_unique_models": 218,
-    "total_reservations": 18,
-    "total_confirmed_sales": 209
+    "possible": 214,
+    "total_unique_models": 221,
+    "total_reservations": 19,
+    "total_confirmed_sales": 211
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5521,39 +5602,31 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
+  "tier_ups": [],
+  "new_sales": [
     {
-      "model": "lote cromos futbol panini",
-      "from_tier": "possible",
-      "to_tier": "hot_24h",
-      "from_label": "💡 Posible",
-      "to_label": "🔥 Hot 24h",
-      "entry": {
-        "model": "lote cromos futbol panini",
-        "example_title": "Lote de cromos de fútbol Panini",
-        "example_url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 5,
-        "median_price": 17,
-        "max_price": 17,
-        "first_seen": "2026-04-24T13:47:33.468Z",
-        "last_seen": "2026-04-24T19:16:52.901Z",
-        "sample": [
-          {
-            "price": 17,
-            "title": "Lote de cromos de fútbol Panini",
-            "url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
-            "city": "Viladecavalls"
-          }
-        ]
-      }
+      "id": "x6qq13e25n6y",
+      "model": "elite trainer box pokemon scarlet violet",
+      "title": "Elite Trainer Box Pokémon Scarlet & Violet",
+      "sold_price": 45,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-scarlet-violet-1255696666",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T17:32:18.787Z",
+      "last_seen": "2026-04-24T17:32:18.787Z",
+      "confirmed_at": "2026-04-24T19:32:53.581Z"
+    },
+    {
+      "id": "wzvgdepdn7zl",
+      "model": "pack juegos nintendo switch",
+      "title": "Pack 2 Juegos Nintendo Switch",
+      "sold_price": 40,
+      "city": "Soto de La Moraleja",
+      "url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T17:32:18.787Z",
+      "last_seen": "2026-04-24T17:32:18.787Z",
+      "confirmed_at": "2026-04-24T19:32:53.581Z"
     }
-  ],
-  "new_sales": []
+  ]
 }
