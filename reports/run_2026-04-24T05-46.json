@@ -1,0 +1,320 @@
+{
+  "timestamp": "2026-04-24T05:45:21.153Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 199,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Funko Pop Villanos Disney Colección",
+          "price": 15,
+          "city": "Reus",
+          "url": "https://es.wallapop.com/item/funko-pop-villanos-disney-coleccion-1255489375",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko villanos disney",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko villanos disney' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lego Marvel Hulk figura",
+          "price": 4,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/lego-marvel-hulk-figura-1255488989",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 244,
+      "new_items": 17,
+      "items": [
+        {
+          "title": "Shin Megami Tensei V Nintendo Switch RPG",
+          "price": 15,
+          "city": "Ogíjares",
+          "url": "https://es.wallapop.com/item/shin-megami-tensei-v-nintendo-switch-rpg-1255489378",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "shin megami tensei nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'shin megami tensei nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Base Dock Nintendo Switch",
+          "price": 19,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/base-dock-nintendo-switch-1255489703",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "base dock nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'base dock nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PlayStation 5 (PS5)",
+          "price": 310,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/consola-playstation-5-ps5-1255488881",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola playstation (ps5)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola playstation (ps5)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "AirPods Pro (2ª gen) - Apple",
+          "price": 30,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/airpods-pro-2-gen-apple-1255489969",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro (2ª gen) apple",
+          "verdict": "skip",
+          "reason": "0 reservados de 'airpods pro (2ª gen) apple' (sin evidencia de demanda)"
+        },
+        {
+          "title": "AirPods Pro 2da Generación",
+          "price": 30,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/airpods-pro-2da-generacion-1255489856",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro 2da generacion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'airpods pro 2da generacion' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda AirPods 4 (2024) Apple Blanca",
+          "price": 55,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funda-airpods-4-2024-apple-blanca-1255489483",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda airpods (2024) apple blanca",
+          "verdict": "skip",
+          "reason": "0 reservados de 'funda airpods (2024) apple blanca' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 128GB Blanco perfecto!",
+          "price": 300,
+          "city": "Sestao",
+          "url": "https://es.wallapop.com/item/iphone-13-128gb-blanco-perfecto-1255489833",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb blanco perfecto!",
+          "verdict": "skip",
+          "reason": "300€ vs mín reservado 150€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iphone 15 pro max",
+          "price": 500,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/libro-el-tiempo-entre-costuras-1255489628",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "500€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 17 Pro Max Naranja--",
+          "price": 720,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-naranja-1255489544",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max naranja--",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "iPhone 16 Pro Max Space Gray",
+          "price": 899,
+          "city": "Campo Internacional",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-space-gray-1255489494",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max space gray",
+          "verdict": "skip",
+          "reason": "899€ vs mín reservado 260€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Endoscopio Ferdilz USB para Android/iOS",
+          "price": 19,
+          "city": "Giampilieri",
+          "url": "https://es.wallapop.com/item/endoscopio-ferdilz-usb-per-android-ios-1255489459",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "endoscopio ferdilz usb para android/ios",
+          "verdict": "skip",
+          "reason": "0 reservados de 'endoscopio ferdilz usb para android/ios' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 pro Max",
+          "price": 730,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/libro-harry-potter-y-el-prisionero-de-azkaban-1255489386",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "730€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iphone 15 pro max",
+          "price": 470,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/el-fuego-invisible-javier-sierra-1255489353",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "470€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "IPhone 15 Promax 256gb",
+          "price": 420,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/libro-el-tiempo-entre-costuras-maria-duenas-1255489283",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone promax 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone promax 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Pro Max doradpo",
+          "price": 530,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-doradpo-1255489282",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max doradpo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max doradpo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 64GB Space Gray",
+          "price": 140,
+          "city": "Totana",
+          "url": "https://es.wallapop.com/item/iphone-11-64gb-space-gray-1255489243",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 64gb space gray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 64gb space gray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 pro Max",
+          "price": 430,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/libro-harry-potter-y-la-piedra-filosofal-1255488928",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "430€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 165,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Vinilo The Broughtons Parlez-Vous English?",
+          "price": 10,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/vinilo-the-broughtons-parlez-vous-english-1255488758",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "the broughtons parlez-vous english?",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the broughtons parlez-vous english?' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Blu-ray 300 Película",
+          "price": 5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/blu-ray-300-pelicula-1255489438",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote 10 VHS Cine Español",
+          "price": 26,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/lote-10-vhs-cine-espanol-1255489035",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "vhs cine espanol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'vhs cine espanol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mega Pack DRAGON FALL (35 Números + 4 Especiales)!",
+          "price": 39,
+          "city": "Utrera",
+          "url": "https://es.wallapop.com/item/mega-pack-dragon-fall-35-numeros---4-especiales-1255489717",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 87,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Marvel Crisis Protocol: Professor X & Shadow King",
+          "price": 30,
+          "city": "Alcalá de Guadaíra",
+          "url": "https://es.wallapop.com/item/marvel-crisis-protocol-professor-x-shadow-king-1255490012",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        },
+        {
+          "title": "Trompetista 1/35 Cañón de Defensa Aérea Soviético 85mm M1939",
+          "price": 19,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/trumpeter-1-35-soviet-85mm-air-defense-gun-m1939-1255488984",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "trompetista 1/35 canon defensa aerea",
+          "verdict": "skip",
+          "reason": "0 reservados de 'trompetista 1/35 canon defensa aerea' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 36,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 25,
+  "total_signals": 0,
+  "duration_s": 84
+}
