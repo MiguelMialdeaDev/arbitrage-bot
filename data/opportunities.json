@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T12:46:18.574Z",
+  "updated_at": "2026-04-24T13:02:49.953Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,131 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "cartas pokemon angel",
+        "example_title": "Cartas Pokémon M.Angel",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-m-angel-1255611997",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15.5,
+        "median_price": 15.5,
+        "max_price": 15.5,
+        "first_seen": "2026-04-24T13:02:49.952Z",
+        "last_seen": "2026-04-24T13:02:49.952Z",
+        "sample": [
+          {
+            "price": 15.5,
+            "title": "Cartas Pokémon M.Angel",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-m-angel-1255611997",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote 12 cds musica clasica pais",
+        "example_title": "Lote 12 CDs Música Clásica El País",
+        "example_url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 16,
+        "median_price": 16,
+        "max_price": 16,
+        "first_seen": "2026-04-24T13:02:49.952Z",
+        "last_seen": "2026-04-24T13:02:49.952Z",
+        "sample": [
+          {
+            "price": 16,
+            "title": "Lote 12 CDs Música Clásica El País",
+            "url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
+            "city": "Marbella"
+          }
+        ]
+      },
+      {
+        "model": "mando nintendo switch pro controller negro",
+        "example_title": "Mando Nintendo Switch 2 Pro Controller Negro",
+        "example_url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-controller-negro-1255574752",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T13:02:49.952Z",
+        "last_seen": "2026-04-24T13:02:49.952Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "Mando Nintendo Switch 2 Pro Controller Negro",
+            "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-controller-negro-1255574752",
+            "city": "Toledo"
+          }
+        ]
+      },
+      {
+        "model": "apple earpods lightning originales",
+        "example_title": "Apple EarPods Lightning Originales",
+        "example_url": "https://es.wallapop.com/item/apple-earpods-lightning-originales-1255576446",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-24T13:02:49.952Z",
+        "last_seen": "2026-04-24T13:02:49.952Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Apple EarPods Lightning Originales",
+            "url": "https://es.wallapop.com/item/apple-earpods-lightning-originales-1255576446",
+            "city": "Figueres"
+          }
+        ]
+      },
+      {
+        "model": "mesa billar verde tacos",
+        "example_title": "Mesa de billar verde con tacos",
+        "example_url": "https://es.wallapop.com/item/mesa-de-billar-verde-con-tacos-1255578738",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 65,
+        "median_price": 65,
+        "max_price": 65,
+        "first_seen": "2026-04-24T13:02:49.952Z",
+        "last_seen": "2026-04-24T13:02:49.952Z",
+        "sample": [
+          {
+            "price": 65,
+            "title": "Mesa de billar verde con tacos",
+            "url": "https://es.wallapop.com/item/mesa-de-billar-verde-con-tacos-1255578738",
+            "city": "Pontevedra"
+          }
+        ]
+      },
       {
         "model": "lego ninjago sobres caja metalica",
         "example_title": "LEGO Ninjago: 2 sobres y 1 caja metálica",
@@ -1114,31 +1239,6 @@
         ]
       },
       {
-        "model": "mesa billar verde tacos",
-        "example_title": "Mesa de billar verde con tacos",
-        "example_url": "https://es.wallapop.com/item/mesa-de-billar-verde-con-tacos-1255578738",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 65,
-        "median_price": 65,
-        "max_price": 65,
-        "first_seen": "2026-04-24T11:02:39.050Z",
-        "last_seen": "2026-04-24T11:02:39.050Z",
-        "sample": [
-          {
-            "price": 65,
-            "title": "Mesa de billar verde con tacos",
-            "url": "https://es.wallapop.com/item/mesa-de-billar-verde-con-tacos-1255578738",
-            "city": "Pontevedra"
-          }
-        ]
-      },
-      {
         "model": "honor magic v2 512gb 16gb ram morado precintado",
         "example_title": "HONOR MAGIC V2 512gb 16GB RAM MORADO PRECINTADO",
         "example_url": "https://es.wallapop.com/item/honor-magic-v2-512gb-16gb-ram-morado-precintado-1255536885",
@@ -1164,31 +1264,6 @@
         ]
       },
       {
-        "model": "apple earpods lightning originales",
-        "example_title": "Apple EarPods Lightning Originales",
-        "example_url": "https://es.wallapop.com/item/apple-earpods-lightning-originales-1255576446",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9,
-        "median_price": 9,
-        "max_price": 9,
-        "first_seen": "2026-04-24T10:53:18.541Z",
-        "last_seen": "2026-04-24T10:53:18.541Z",
-        "sample": [
-          {
-            "price": 9,
-            "title": "Apple EarPods Lightning Originales",
-            "url": "https://es.wallapop.com/item/apple-earpods-lightning-originales-1255576446",
-            "city": "Figueres"
-          }
-        ]
-      },
-      {
         "model": "the legend of zelda breath of the wild",
         "example_title": "The Legend of Zelda: Breath of the Wild",
         "example_url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
@@ -1210,31 +1285,6 @@
             "title": "The Legend of Zelda: Breath of the Wild",
             "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
             "city": "Viladecans"
-          }
-        ]
-      },
-      {
-        "model": "mando nintendo switch pro controller negro",
-        "example_title": "Mando Nintendo Switch 2 Pro Controller Negro",
-        "example_url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-controller-negro-1255574752",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 50,
-        "median_price": 50,
-        "max_price": 50,
-        "first_seen": "2026-04-24T10:46:54.659Z",
-        "last_seen": "2026-04-24T10:46:54.659Z",
-        "sample": [
-          {
-            "price": 50,
-            "title": "Mando Nintendo Switch 2 Pro Controller Negro",
-            "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-controller-negro-1255574752",
-            "city": "Toledo"
           }
         ]
       },
@@ -1560,31 +1610,6 @@
             "title": "Puzzle 1000 Trefl",
             "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
             "city": "Gijón"
-          }
-        ]
-      },
-      {
-        "model": "lote 12 cds musica clasica pais",
-        "example_title": "Lote 12 CDs Música Clásica El País",
-        "example_url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 16,
-        "median_price": 16,
-        "max_price": 16,
-        "first_seen": "2026-04-24T07:32:29.249Z",
-        "last_seen": "2026-04-24T07:32:29.249Z",
-        "sample": [
-          {
-            "price": 16,
-            "title": "Lote 12 CDs Música Clásica El País",
-            "url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
-            "city": "Marbella"
           }
         ]
       },
@@ -4270,10 +4295,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 166,
-    "total_unique_models": 169,
-    "total_reservations": 22,
-    "total_confirmed_sales": 152
+    "possible": 167,
+    "total_unique_models": 170,
+    "total_reservations": 19,
+    "total_confirmed_sales": 156
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4286,28 +4311,52 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "4z4829q8rmjy",
-      "model": "funko pop iron man am iron man",
-      "title": "Funko POP! Iron Man (I am Iron Man)",
-      "sold_price": 15,
-      "city": "Burgos",
-      "url": "https://es.wallapop.com/item/funko-pop-iron-man-580-endgame-i-am-iron-man-1255568514",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T10:44:40.758Z",
-      "last_seen": "2026-04-24T10:44:40.758Z",
-      "confirmed_at": "2026-04-24T12:46:18.572Z"
+      "id": "v6gp352rr76e",
+      "model": "lote 12 cds musica clasica pais",
+      "title": "Lote 12 CDs Música Clásica El País",
+      "sold_price": 16,
+      "city": "Marbella",
+      "url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T07:32:29.249Z",
+      "last_seen": "2026-04-24T07:32:29.249Z",
+      "confirmed_at": "2026-04-24T13:02:49.952Z"
     },
     {
-      "id": "pzpkxowk45j3",
-      "model": "pack soldados espanoles lego",
-      "title": "Pack Soldados Españoles Lego",
-      "sold_price": 12,
-      "city": "Moraleja de Enmedio",
-      "url": "https://es.wallapop.com/item/pack-soldados-espanoles-lego-1255568698",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T10:44:40.758Z",
-      "last_seen": "2026-04-24T10:44:40.758Z",
-      "confirmed_at": "2026-04-24T12:46:18.572Z"
+      "id": "w67vn5kov56x",
+      "model": "mando nintendo switch pro controller negro",
+      "title": "Mando Nintendo Switch 2 Pro Controller Negro",
+      "sold_price": 50,
+      "city": "Toledo",
+      "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-controller-negro-1255574752",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T10:46:54.659Z",
+      "last_seen": "2026-04-24T10:46:54.659Z",
+      "confirmed_at": "2026-04-24T13:02:49.952Z"
+    },
+    {
+      "id": "8z88pn2xk8z3",
+      "model": "apple earpods lightning originales",
+      "title": "Apple EarPods Lightning Originales",
+      "sold_price": 9,
+      "city": "Figueres",
+      "url": "https://es.wallapop.com/item/apple-earpods-lightning-originales-1255576446",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T10:53:18.541Z",
+      "last_seen": "2026-04-24T10:53:18.541Z",
+      "confirmed_at": "2026-04-24T13:02:49.952Z"
+    },
+    {
+      "id": "4z4829ro1mjy",
+      "model": "mesa billar verde tacos",
+      "title": "Mesa de billar verde con tacos",
+      "sold_price": 65,
+      "city": "Pontevedra",
+      "url": "https://es.wallapop.com/item/mesa-de-billar-verde-con-tacos-1255578738",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T11:02:39.050Z",
+      "last_seen": "2026-04-24T11:02:39.050Z",
+      "confirmed_at": "2026-04-24T13:02:49.952Z"
     }
   ]
 }

@@ -1,17 +1,6 @@
 {
   "reservations": [
     {
-      "id": "v6gp352rr76e",
-      "title": "Lote 12 CDs Música Clásica El País",
-      "model": "lote 12 cds musica clasica pais",
-      "price": 16,
-      "city": "Marbella",
-      "url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-24T07:32:29.249Z",
-      "last_seen": "2026-04-24T07:32:29.249Z"
-    },
-    {
       "id": "e65qdkgxep6o",
       "title": "Puzzle 1000 Trefl",
       "model": "puzzle 1000 trefl",
@@ -21,39 +10,6 @@
       "category": "Deporte y ocio",
       "first_seen": "2026-04-24T08:02:30.011Z",
       "last_seen": "2026-04-24T08:02:30.011Z"
-    },
-    {
-      "id": "w67vn5kov56x",
-      "title": "Mando Nintendo Switch 2 Pro Controller Negro",
-      "model": "mando nintendo switch pro controller negro",
-      "price": 50,
-      "city": "Toledo",
-      "url": "https://es.wallapop.com/item/mando-nintendo-switch-2-pro-controller-negro-1255574752",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-24T10:46:54.659Z",
-      "last_seen": "2026-04-24T10:46:54.659Z"
-    },
-    {
-      "id": "8z88pn2xk8z3",
-      "title": "Apple EarPods Lightning Originales",
-      "model": "apple earpods lightning originales",
-      "price": 9,
-      "city": "Figueres",
-      "url": "https://es.wallapop.com/item/apple-earpods-lightning-originales-1255576446",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-24T10:53:18.541Z",
-      "last_seen": "2026-04-24T10:53:18.541Z"
-    },
-    {
-      "id": "4z4829ro1mjy",
-      "title": "Mesa de billar verde con tacos",
-      "model": "mesa billar verde tacos",
-      "price": 65,
-      "city": "Pontevedra",
-      "url": "https://es.wallapop.com/item/mesa-de-billar-verde-con-tacos-1255578738",
-      "category": "Deporte y ocio",
-      "first_seen": "2026-04-24T11:02:39.050Z",
-      "last_seen": "2026-04-24T11:02:39.050Z"
     },
     {
       "id": "vjrem2p4q8zk",
@@ -241,6 +197,17 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-24T12:46:18.572Z",
       "last_seen": "2026-04-24T12:46:18.572Z"
+    },
+    {
+      "id": "mzn371m0r7jn",
+      "title": "Cartas Pokémon M.Angel",
+      "model": "cartas pokemon angel",
+      "price": 15.5,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/cartas-pokemon-m-angel-1255611997",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T13:02:49.952Z",
+      "last_seen": "2026-04-24T13:02:49.952Z"
     }
   ]
 }
