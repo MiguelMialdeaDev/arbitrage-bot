@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T15:32:28.190Z",
+  "updated_at": "2026-04-24T15:47:38.093Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,181 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop star wars princess leia 595",
+        "example_title": "Funko Pop! Star Wars Princess Leia 595",
+        "example_url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T15:47:38.091Z",
+        "last_seen": "2026-04-24T15:47:38.091Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Funko Pop! Star Wars Princess Leia 595",
+            "url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
+            "city": "San Fernando"
+          }
+        ]
+      },
+      {
+        "model": "cromos adrenalyn xl mundial panini",
+        "example_title": "Cromos Adrenalyn XL Mundial Panini",
+        "example_url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T15:47:38.091Z",
+        "last_seen": "2026-04-24T15:47:38.091Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Cromos Adrenalyn XL Mundial Panini",
+            "url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
+            "city": "Mataró"
+          }
+        ]
+      },
+      {
+        "model": "pokemon tcg sv6 twilight masquerade aritz",
+        "example_title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
+        "example_url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 65,
+        "median_price": 65,
+        "max_price": 65,
+        "first_seen": "2026-04-24T15:47:38.091Z",
+        "last_seen": "2026-04-24T15:47:38.091Z",
+        "sample": [
+          {
+            "price": 65,
+            "title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
+            "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon snorlax 150 hp",
+        "example_title": "Carta Pokémon Snorlax 150 HP",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 47,
+        "median_price": 47,
+        "max_price": 47,
+        "first_seen": "2026-04-24T15:47:38.091Z",
+        "last_seen": "2026-04-24T15:47:38.091Z",
+        "sample": [
+          {
+            "price": 47,
+            "title": "Carta Pokémon Snorlax 150 HP",
+            "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "pack pokemon escarlata mario luigi",
+        "example_title": "Pack Pokémon Escarlata y Mario & Luigi",
+        "example_url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-24T15:47:38.091Z",
+        "last_seen": "2026-04-24T15:47:38.091Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Pack Pokémon Escarlata y Mario & Luigi",
+            "url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
+            "city": "Castellbisbal"
+          }
+        ]
+      },
+      {
+        "model": "blu ray di que si ted",
+        "example_title": "Blu-ray: Di que sí y Ted",
+        "example_url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T15:47:38.091Z",
+        "last_seen": "2026-04-24T15:47:38.091Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Blu-ray: Di que sí y Ted",
+            "url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
+            "city": "Cornella de Llobregat"
+          }
+        ]
+      },
+      {
+        "model": "pathfinder adventure card game core expansion",
+        "example_title": "Pathfinder Adventure Card Game: Core y expansion",
+        "example_url": "https://es.wallapop.com/item/pathfinder-adventure-card-game-core-y-expansion-1255627891",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 39,
+        "median_price": 39,
+        "max_price": 39,
+        "first_seen": "2026-04-24T15:47:38.091Z",
+        "last_seen": "2026-04-24T15:47:38.091Z",
+        "sample": [
+          {
+            "price": 39,
+            "title": "Pathfinder Adventure Card Game: Core y expansion",
+            "url": "https://es.wallapop.com/item/pathfinder-adventure-card-game-core-y-expansion-1255627891",
+            "city": "Colmenar Viejo"
+          }
+        ]
+      },
       {
         "model": "iphone 14 pro space negro",
         "example_title": "iPhone 14 Pro Space negro",
@@ -864,31 +1039,6 @@
         ]
       },
       {
-        "model": "pathfinder adventure card game core expansion",
-        "example_title": "Pathfinder Adventure Card Game: Core y expansion",
-        "example_url": "https://es.wallapop.com/item/pathfinder-adventure-card-game-core-y-expansion-1255627891",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 39,
-        "median_price": 39,
-        "max_price": 39,
-        "first_seen": "2026-04-24T13:47:33.468Z",
-        "last_seen": "2026-04-24T13:47:33.468Z",
-        "sample": [
-          {
-            "price": 39,
-            "title": "Pathfinder Adventure Card Game: Core y expansion",
-            "url": "https://es.wallapop.com/item/pathfinder-adventure-card-game-core-y-expansion-1255627891",
-            "city": "Colmenar Viejo"
-          }
-        ]
-      },
-      {
         "model": "lote cromos futbol panini",
         "example_title": "Lote cromos fútbol Panini",
         "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
@@ -910,106 +1060,6 @@
             "title": "Lote cromos fútbol Panini",
             "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
             "city": "Jaén"
-          }
-        ]
-      },
-      {
-        "model": "pokemon tcg sv6 twilight masquerade aritz",
-        "example_title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
-        "example_url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 65,
-        "median_price": 65,
-        "max_price": 65,
-        "first_seen": "2026-04-24T13:32:32.592Z",
-        "last_seen": "2026-04-24T13:32:32.592Z",
-        "sample": [
-          {
-            "price": 65,
-            "title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
-            "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
-            "city": "Santander"
-          }
-        ]
-      },
-      {
-        "model": "carta pokemon snorlax 150 hp",
-        "example_title": "Carta Pokémon Snorlax 150 HP",
-        "example_url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 47,
-        "median_price": 47,
-        "max_price": 47,
-        "first_seen": "2026-04-24T13:32:32.592Z",
-        "last_seen": "2026-04-24T13:32:32.592Z",
-        "sample": [
-          {
-            "price": 47,
-            "title": "Carta Pokémon Snorlax 150 HP",
-            "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "pack pokemon escarlata mario luigi",
-        "example_title": "Pack Pokémon Escarlata y Mario & Luigi",
-        "example_url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 60,
-        "median_price": 60,
-        "max_price": 60,
-        "first_seen": "2026-04-24T13:32:32.592Z",
-        "last_seen": "2026-04-24T13:32:32.592Z",
-        "sample": [
-          {
-            "price": 60,
-            "title": "Pack Pokémon Escarlata y Mario & Luigi",
-            "url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
-            "city": "Castellbisbal"
-          }
-        ]
-      },
-      {
-        "model": "blu ray di que si ted",
-        "example_title": "Blu-ray: Di que sí y Ted",
-        "example_url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T13:32:32.592Z",
-        "last_seen": "2026-04-24T13:32:32.592Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Blu-ray: Di que sí y Ted",
-            "url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
-            "city": "Cornella de Llobregat"
           }
         ]
       },
@@ -4895,10 +4945,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 191,
-    "total_unique_models": 194,
-    "total_reservations": 21,
-    "total_confirmed_sales": 178
+    "possible": 193,
+    "total_unique_models": 196,
+    "total_reservations": 18,
+    "total_confirmed_sales": 183
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4911,52 +4961,64 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "v6gp3534w76e",
-      "model": "cromos lamine yamal panini instant",
-      "title": "4 Cromos Lamine Yamal Panini Instant",
-      "sold_price": 20,
-      "city": "L'Hospitalet de Llobregat",
-      "url": "https://es.wallapop.com/item/4-cromos-lamine-yamal-panini-instant-1255621688",
+      "id": "x6qq131qko6y",
+      "model": "pokemon tcg sv6 twilight masquerade aritz",
+      "title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
+      "sold_price": 65,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T13:17:33.679Z",
-      "last_seen": "2026-04-24T13:17:33.679Z",
-      "confirmed_at": "2026-04-24T15:32:28.188Z"
+      "first_reserved": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z",
+      "confirmed_at": "2026-04-24T15:47:38.091Z"
     },
     {
-      "id": "qzmm0x1qrozv",
-      "model": "lote cromos julio mundial 2026 panini",
-      "title": "Lote cromos Julio Mundial 2026 Panini",
-      "sold_price": 29,
-      "city": "Cornella de Llobregat",
-      "url": "https://es.wallapop.com/item/lote-cromos-julio-mundial-2026-panini-1255619456",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T13:17:33.679Z",
-      "last_seen": "2026-04-24T13:17:33.679Z",
-      "confirmed_at": "2026-04-24T15:32:28.188Z"
-    },
-    {
-      "id": "3zlmpwpe44jx",
-      "model": "figuras dc comics playmobil",
-      "title": "Figuras DC Comics Playmobil",
-      "sold_price": 5,
-      "city": "Arroyomolinos",
-      "url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255620121",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T13:17:33.679Z",
-      "last_seen": "2026-04-24T13:17:33.679Z",
-      "confirmed_at": "2026-04-24T15:32:28.188Z"
-    },
-    {
-      "id": "9jdw1943rn6k",
-      "model": "airpod pro derecho usb generacion",
-      "title": "AirPod Pro Derecho USB-C 2 Generación",
-      "sold_price": 60,
+      "id": "4z48292e9vjy",
+      "model": "carta pokemon snorlax 150 hp",
+      "title": "Carta Pokémon Snorlax 150 HP",
+      "sold_price": 47,
       "city": "Madrid",
-      "url": "https://es.wallapop.com/item/airpod-pro-derecho-usb-c-2-generacion-1255618712",
+      "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z",
+      "confirmed_at": "2026-04-24T15:47:38.091Z"
+    },
+    {
+      "id": "wzvgdednqrzl",
+      "model": "pack pokemon escarlata mario luigi",
+      "title": "Pack Pokémon Escarlata y Mario & Luigi",
+      "sold_price": 60,
+      "city": "Castellbisbal",
+      "url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T13:17:33.679Z",
-      "last_seen": "2026-04-24T13:17:33.679Z",
-      "confirmed_at": "2026-04-24T15:32:28.188Z"
+      "first_reserved": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z",
+      "confirmed_at": "2026-04-24T15:47:38.091Z"
+    },
+    {
+      "id": "8z88pnpr8oz3",
+      "model": "blu ray di que si ted",
+      "title": "Blu-ray: Di que sí y Ted",
+      "sold_price": 25,
+      "city": "Cornella de Llobregat",
+      "url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z",
+      "confirmed_at": "2026-04-24T15:47:38.091Z"
+    },
+    {
+      "id": "vjrem2mmvwzk",
+      "model": "pathfinder adventure card game core expansion",
+      "title": "Pathfinder Adventure Card Game: Core y expansion",
+      "sold_price": 39,
+      "city": "Colmenar Viejo",
+      "url": "https://es.wallapop.com/item/pathfinder-adventure-card-game-core-y-expansion-1255627891",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T13:47:33.468Z",
+      "last_seen": "2026-04-24T13:47:33.468Z",
+      "confirmed_at": "2026-04-24T15:47:38.091Z"
     }
   ]
 }

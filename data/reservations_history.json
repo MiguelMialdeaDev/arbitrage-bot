@@ -23,50 +23,6 @@
       "last_seen": "2026-04-24T13:17:33.679Z"
     },
     {
-      "id": "x6qq131qko6y",
-      "title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
-      "model": "pokemon tcg sv6 twilight masquerade aritz",
-      "price": 65,
-      "city": "Santander",
-      "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z"
-    },
-    {
-      "id": "4z48292e9vjy",
-      "title": "Carta Pokémon Snorlax 150 HP",
-      "model": "carta pokemon snorlax 150 hp",
-      "price": 47,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z"
-    },
-    {
-      "id": "wzvgdednqrzl",
-      "title": "Pack Pokémon Escarlata y Mario & Luigi",
-      "model": "pack pokemon escarlata mario luigi",
-      "price": 60,
-      "city": "Castellbisbal",
-      "url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z"
-    },
-    {
-      "id": "8z88pnpr8oz3",
-      "title": "Blu-ray: Di que sí y Ted",
-      "model": "blu ray di que si ted",
-      "price": 25,
-      "city": "Cornella de Llobregat",
-      "url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z"
-    },
-    {
       "id": "3zlmpwp1ypjx",
       "title": "PARA FERRAN",
       "model": "ferran",
@@ -76,17 +32,6 @@
       "category": "Cine, libros y música",
       "first_seen": "2026-04-24T13:32:32.592Z",
       "last_seen": "2026-04-24T13:32:32.592Z"
-    },
-    {
-      "id": "vjrem2mmvwzk",
-      "title": "Pathfinder Adventure Card Game: Core y expansion",
-      "model": "pathfinder adventure card game core expansion",
-      "price": 39,
-      "city": "Colmenar Viejo",
-      "url": "https://es.wallapop.com/item/pathfinder-adventure-card-game-core-y-expansion-1255627891",
-      "category": "Deporte y ocio",
-      "first_seen": "2026-04-24T13:47:33.468Z",
-      "last_seen": "2026-04-24T13:47:33.468Z"
     },
     {
       "id": "nzxegngx5762",
@@ -230,6 +175,28 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-24T15:32:28.188Z",
       "last_seen": "2026-04-24T15:32:28.188Z"
+    },
+    {
+      "id": "36e5m4k33y6d",
+      "title": "Funko Pop! Star Wars Princess Leia 595",
+      "model": "funko pop star wars princess leia 595",
+      "price": 35,
+      "city": "San Fernando",
+      "url": "https://es.wallapop.com/item/funko-pop-star-wars-princess-leia-595-1255660963",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T15:47:38.091Z",
+      "last_seen": "2026-04-24T15:47:38.091Z"
+    },
+    {
+      "id": "mzn3711v80jn",
+      "title": "Cromos Adrenalyn XL Mundial Panini",
+      "model": "cromos adrenalyn xl mundial panini",
+      "price": 10,
+      "city": "Mataró",
+      "url": "https://es.wallapop.com/item/cromos-adrenalyn-xl-mundial-panini-1255663401",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T15:47:38.091Z",
+      "last_seen": "2026-04-24T15:47:38.091Z"
     }
   ]
 }
