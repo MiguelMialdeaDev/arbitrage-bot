@@ -1,0 +1,284 @@
+{
+  "timestamp": "2026-04-24T02:00:36.714Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Funko Pop Mirajane Strauss 1050 Fairy Tail",
+          "price": 8.5,
+          "city": "Cartagena",
+          "url": "https://es.wallapop.com/item/funko-pop-mirajane-strauss-1050-fairy-tail-1255478505",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko mirajane strauss fairy tail 1050",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko mirajane strauss fairy tail 1050' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Rayquaza C LV.73 Reverse Holo",
+          "price": 145,
+          "city": "Areas",
+          "url": "https://es.wallapop.com/item/carta-pokemon-rayquaza-c-lv-73-reverse-holo-1255478699",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon rayquaza lv.73 reverse",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon rayquaza lv.73 reverse' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote cartas Pokémon con EX + holográficas",
+          "price": 15,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/lote-cartas-pokemon-con-ex---holograficas-1255478588",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon con holograficas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon con holograficas' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Álbum para cartas Pokémon Rosa - A estrenar",
+          "price": 16,
+          "city": "Areas",
+          "url": "https://es.wallapop.com/item/album-para-cartas-pokemon-rosa-a-estrenar-1255478439",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "album para cartas pokemon rosa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'album para cartas pokemon rosa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Victini SVP 208",
+          "price": 6,
+          "city": "Areas",
+          "url": "https://es.wallapop.com/item/carta-pokemon-victini-svp-208-1255478051",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 213,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Caja vacía Nintendo Switch",
+          "price": 8,
+          "city": "La Muela",
+          "url": "https://es.wallapop.com/item/caja-vacia-nintendo-switch-1255478551",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "switch problema: caja vacia"
+        },
+        {
+          "title": "Consola Sony PS5 Slim Blanca",
+          "price": 500,
+          "city": "Valladolid",
+          "url": "https://es.wallapop.com/item/consola-sony-ps5-slim-blanca-1255478648",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps5 slim blanca",
+          "verdict": "skip",
+          "reason": "500€ vs mín reservado 235€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Ready or Not PS5",
+          "price": 35,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/ready-or-not-ps5-1255478384",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ready not ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ready not ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Auriculares Sony Pulse 3D Nuevos",
+          "price": 90,
+          "city": "Pinseque",
+          "url": "https://es.wallapop.com/item/auriculares-sony-pulse-3d-nuevos-1255478376",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "auriculares sony pulse nuevos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'auriculares sony pulse nuevos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone Apple Salud Batería 92%",
+          "price": 350,
+          "city": "Milagro",
+          "url": "https://es.wallapop.com/item/iphone-apple-salud-bateria-92-1255478215",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone apple salud bateria 92%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone apple salud bateria 92%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone SE (2020) Rojo",
+          "price": 44,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/iphone-se-2020-rojo-1255478205",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "iphone (2020) rojo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone (2020) rojo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Pro Max",
+          "price": 550,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/cuadro-abstracto-pintado-a-mano-1255478047",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 171,
+      "new_items": 9,
+      "items": [
+        {
+          "title": "disco LP vinilo David Byrne – Rei Momo , LP, Album 1989, US",
+          "price": 27.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-david-byrne-rei-momo-lp-album-1989-us-1255478602",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "vinilo problema: salta"
+        },
+        {
+          "title": "disco lp vinilo The Pogues – Hell's Ditch . LP, Album 1990, Europe",
+          "price": 21.89,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-the-pogues-hell-s-ditch-lp-album-1990-europe-1255478597",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "vinilo problema: salta"
+        },
+        {
+          "title": "Disco LP Juanito Valderrama",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-juanito-valderrama-1255478538",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "juanito valderrama",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juanito valderrama' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Conchita Piquer",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-conchita-piquer-1255478527",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Disco LP Lo mejor de Alberto Cortez",
+          "price": 7.7,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-lo-mejor-de-alberto-cortez-1255478515",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "mejor alberto cortez",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mejor alberto cortez' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Rocio Jurado Amor marinero niña gitana mira, mira, mira",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-rocio-jurado-amor-marinero-nina-gitana-mira-mira-mira-1255478509",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "rocio jurado amor marinero nina",
+          "verdict": "skip",
+          "reason": "0 reservados de 'rocio jurado amor marinero nina' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Marinero de luces, isabel Pantoja",
+          "price": 8.8,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-marinero-de-luces-isabel-pantoja-1255478508",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "marinero luces, isabel pantoja",
+          "verdict": "skip",
+          "reason": "0 reservados de 'marinero luces, isabel pantoja' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Get Carter Blu-ray Castellano",
+          "price": 29.95,
+          "city": "Alcoi/Alcoy",
+          "url": "https://es.wallapop.com/item/get-carter-blu-ray-castellano-1255478825",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "get carter blu-ray castellano",
+          "verdict": "skip",
+          "reason": "0 reservados de 'get carter blu-ray castellano' (sin evidencia de demanda)"
+        },
+        {
+          "title": "coleccion What if... nº 15, 24 y 39, forum, marvel",
+          "price": 9.79,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/coleccion-what-if-n-15-24-y-39-forum-marvel-1255478075",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Wizard's Quest. Juego de mesa vintage 1979",
+          "price": 250,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-vintage-1979-1255478347",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "wizard's quest. juego mesa vintage",
+          "verdict": "skip",
+          "reason": "0 reservados de 'wizard's quest. juego mesa vintage' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 43,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 22,
+  "total_signals": 0,
+  "duration_s": 62
+}
