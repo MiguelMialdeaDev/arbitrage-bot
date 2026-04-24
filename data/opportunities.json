@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T08:02:30.013Z",
+  "updated_at": "2026-04-24T08:17:11.473Z",
   "tiers": {
     "proven_seller": [
       {
@@ -77,10 +77,92 @@
         ]
       }
     ],
-    "hot_24h": [],
+    "hot_24h": [
+      {
+        "model": "pokemon let go eevee nintendo switch",
+        "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
+        "total_reservations": 2,
+        "confirmed_sales": 0,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 15,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T07:46:59.188Z",
+        "last_seen": "2026-04-24T08:17:11.472Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Pokémon Let's Go Eevee Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
+            "city": "Badalona"
+          },
+          {
+            "price": 20,
+            "title": "Pokémon Let's Go Eevee Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
+            "city": "Badalona"
+          }
+        ]
+      }
+    ],
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "legos exin west castillos bcn line bros",
+        "example_title": "Legos de Exin West Castillos BCN Line Bros",
+        "example_url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 180,
+        "median_price": 180,
+        "max_price": 180,
+        "first_seen": "2026-04-24T08:17:11.472Z",
+        "last_seen": "2026-04-24T08:17:11.472Z",
+        "sample": [
+          {
+            "price": 180,
+            "title": "Legos de Exin West Castillos BCN Line Bros",
+            "url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote videojuegos ps2",
+        "example_title": "Lote 5 Videojuegos PS2",
+        "example_url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T08:17:11.472Z",
+        "last_seen": "2026-04-24T08:17:11.472Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Lote 5 Videojuegos PS2",
+            "url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
+            "city": "Zaragoza"
+          }
+        ]
+      },
       {
         "model": "lote figuras playmobil juan",
         "example_title": "Lote  Figuras Playmobil Juan",
@@ -178,31 +260,6 @@
             "title": "Puzzle 1000 Trefl",
             "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
             "city": "Gijón"
-          }
-        ]
-      },
-      {
-        "model": "pokemon let go eevee nintendo switch",
-        "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-24T07:46:59.188Z",
-        "last_seen": "2026-04-24T07:46:59.188Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Pokémon Let's Go Eevee Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
-            "city": "Badalona"
           }
         ]
       },
@@ -428,31 +485,6 @@
             "title": "MTG Tótem Maldito + Campo de Fuerza",
             "url": "https://es.wallapop.com/item/mtg-cursed-totem---forcefield-1255440447",
             "city": "Vila Nova de Gaia"
-          }
-        ]
-      },
-      {
-        "model": "lote videojuegos ps2",
-        "example_title": "Lote 5 Videojuegos PS2",
-        "example_url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T06:16:43.183Z",
-        "last_seen": "2026-04-24T06:16:43.183Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Lote 5 Videojuegos PS2",
-            "url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
-            "city": "Zaragoza"
           }
         ]
       },
@@ -3035,13 +3067,13 @@
   },
   "stats": {
     "proven_seller": 2,
-    "hot_24h": 0,
+    "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
     "possible": 118,
-    "total_unique_models": 120,
-    "total_reservations": 11,
-    "total_confirmed_sales": 113
+    "total_unique_models": 121,
+    "total_reservations": 12,
+    "total_confirmed_sales": 114
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3051,6 +3083,58 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
-  "new_sales": []
+  "tier_ups": [
+    {
+      "model": "pokemon let go eevee nintendo switch",
+      "from_tier": "possible",
+      "to_tier": "hot_24h",
+      "from_label": "💡 Posible",
+      "to_label": "🔥 Hot 24h",
+      "entry": {
+        "model": "pokemon let go eevee nintendo switch",
+        "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
+        "total_reservations": 2,
+        "confirmed_sales": 0,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 15,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T07:46:59.188Z",
+        "last_seen": "2026-04-24T08:17:11.472Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Pokémon Let's Go Eevee Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
+            "city": "Badalona"
+          },
+          {
+            "price": 20,
+            "title": "Pokémon Let's Go Eevee Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
+            "city": "Badalona"
+          }
+        ]
+      }
+    }
+  ],
+  "new_sales": [
+    {
+      "id": "qzmm0x3xkyzv",
+      "model": "lote videojuegos ps2",
+      "title": "Lote 5 Videojuegos PS2",
+      "sold_price": 25,
+      "city": "Zaragoza",
+      "url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T06:16:43.183Z",
+      "last_seen": "2026-04-24T06:16:43.183Z",
+      "confirmed_at": "2026-04-24T08:17:11.472Z"
+    }
+  ]
 }

@@ -1,17 +1,6 @@
 {
   "reservations": [
     {
-      "id": "qzmm0x3xkyzv",
-      "title": "Lote 5 Videojuegos PS2",
-      "model": "lote videojuegos ps2",
-      "price": 25,
-      "city": "Zaragoza",
-      "url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-24T06:16:43.183Z",
-      "last_seen": "2026-04-24T06:16:43.183Z"
-    },
-    {
       "id": "pzpkxo10vlj3",
       "title": "Cartas Magic: The Gathering para Imanol",
       "model": "cartas magic the gathering imanol",
@@ -120,6 +109,28 @@
       "category": "Deporte y ocio",
       "first_seen": "2026-04-24T08:02:30.011Z",
       "last_seen": "2026-04-24T08:02:30.011Z"
+    },
+    {
+      "id": "x6qq13md0y6y",
+      "title": "Legos de Exin West Castillos BCN Line Bros",
+      "model": "legos exin west castillos bcn line bros",
+      "price": 180,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/legos-de-exin-west-castillos-bcn-line-bros-1255512290",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T08:17:11.472Z",
+      "last_seen": "2026-04-24T08:17:11.472Z"
+    },
+    {
+      "id": "mzn37122x2jn",
+      "title": "Pokémon Let's Go Eevee Nintendo Switch",
+      "model": "pokemon let go eevee nintendo switch",
+      "price": 20,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-24T08:17:11.472Z",
+      "last_seen": "2026-04-24T08:17:11.472Z"
     }
   ]
 }
