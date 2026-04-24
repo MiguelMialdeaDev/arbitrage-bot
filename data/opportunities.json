@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T14:02:00.123Z",
+  "updated_at": "2026-04-24T14:18:07.706Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,181 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko david",
+        "example_title": "Funko David",
+        "example_url": "https://es.wallapop.com/item/funko-david-1255634594",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 26.5,
+        "median_price": 26.5,
+        "max_price": 26.5,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T14:18:07.704Z",
+        "sample": [
+          {
+            "price": 26.5,
+            "title": "Funko David",
+            "url": "https://es.wallapop.com/item/funko-david-1255634594",
+            "city": "Carpihuelo"
+          }
+        ]
+      },
+      {
+        "model": "lote cromos futbol panini lamine yamal messi",
+        "example_title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
+        "example_url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T14:18:07.704Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "Lote 2 Cromos Fútbol Panini Lamine Yamal Messi",
+            "url": "https://es.wallapop.com/item/lote-2-cromos-futbol-panini-lamine-yamal-messi-1255633099",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "ed 11# novadell joyas bolsillo novaro",
+        "example_title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
+        "example_url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T14:18:07.704Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
+            "url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
+            "city": "Campiello"
+          }
+        ]
+      },
+      {
+        "model": "cartas pokemon lamincards nuzleaf seedot treecko",
+        "example_title": "Cartas Pokémon Lamincards Nuzleaf, Seedot, Treecko",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-lamincards-nuzleaf-seedot-treecko-1255597584",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T14:18:07.704Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Cartas Pokémon Lamincards Nuzleaf, Seedot, Treecko",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-lamincards-nuzleaf-seedot-treecko-1255597584",
+            "city": "Pozo Estrecho"
+          }
+        ]
+      },
+      {
+        "model": "lote peliculas dvd blu ray",
+        "example_title": "Lote 4 Películas DVD y Blu-ray",
+        "example_url": "https://es.wallapop.com/item/lote-4-peliculas-dvd-y-blu-ray-1255597695",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T14:18:07.704Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Lote 4 Películas DVD y Blu-ray",
+            "url": "https://es.wallapop.com/item/lote-4-peliculas-dvd-y-blu-ray-1255597695",
+            "city": "Vallirana"
+          }
+        ]
+      },
+      {
+        "model": "pack blu ray disney sirenita rey leon",
+        "example_title": "Pack 3 Blu-ray Disney: La Sirenita 2, Rey León 2-3",
+        "example_url": "https://es.wallapop.com/item/pack-3-blu-ray-disney-la-sirenita-2-rey-leon-2-3-1255596307",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 28,
+        "median_price": 28,
+        "max_price": 28,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T14:18:07.704Z",
+        "sample": [
+          {
+            "price": 28,
+            "title": "Pack 3 Blu-ray Disney: La Sirenita 2, Rey León 2-3",
+            "url": "https://es.wallapop.com/item/pack-3-blu-ray-disney-la-sirenita-2-rey-leon-2-3-1255596307",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch sports",
+        "example_title": "Nintendo Switch Sports",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T14:18:07.704Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Nintendo Switch Sports",
+            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
+            "city": "Pinto"
+          }
+        ]
+      },
       {
         "model": "funko pop kinder joy stranger things",
         "example_title": "Funko Pop! Kinder Joy Stranger Things",
@@ -1085,106 +1260,6 @@
             "title": "Mando DualSense PS5",
             "url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
             "city": "San Lorenzo de El Escorial"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch sports",
-        "example_title": "Nintendo Switch Sports",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T12:17:33.126Z",
-        "last_seen": "2026-04-24T12:17:33.126Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Nintendo Switch Sports",
-            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
-            "city": "Pinto"
-          }
-        ]
-      },
-      {
-        "model": "cartas pokemon lamincards nuzleaf seedot treecko",
-        "example_title": "Cartas Pokémon Lamincards Nuzleaf, Seedot, Treecko",
-        "example_url": "https://es.wallapop.com/item/cartas-pokemon-lamincards-nuzleaf-seedot-treecko-1255597584",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 6,
-        "median_price": 6,
-        "max_price": 6,
-        "first_seen": "2026-04-24T12:03:25.294Z",
-        "last_seen": "2026-04-24T12:03:25.294Z",
-        "sample": [
-          {
-            "price": 6,
-            "title": "Cartas Pokémon Lamincards Nuzleaf, Seedot, Treecko",
-            "url": "https://es.wallapop.com/item/cartas-pokemon-lamincards-nuzleaf-seedot-treecko-1255597584",
-            "city": "Pozo Estrecho"
-          }
-        ]
-      },
-      {
-        "model": "lote peliculas dvd blu ray",
-        "example_title": "Lote 4 Películas DVD y Blu-ray",
-        "example_url": "https://es.wallapop.com/item/lote-4-peliculas-dvd-y-blu-ray-1255597695",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 24,
-        "median_price": 24,
-        "max_price": 24,
-        "first_seen": "2026-04-24T12:03:25.294Z",
-        "last_seen": "2026-04-24T12:03:25.294Z",
-        "sample": [
-          {
-            "price": 24,
-            "title": "Lote 4 Películas DVD y Blu-ray",
-            "url": "https://es.wallapop.com/item/lote-4-peliculas-dvd-y-blu-ray-1255597695",
-            "city": "Vallirana"
-          }
-        ]
-      },
-      {
-        "model": "pack blu ray disney sirenita rey leon",
-        "example_title": "Pack 3 Blu-ray Disney: La Sirenita 2, Rey León 2-3",
-        "example_url": "https://es.wallapop.com/item/pack-3-blu-ray-disney-la-sirenita-2-rey-leon-2-3-1255596307",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 28,
-        "median_price": 28,
-        "max_price": 28,
-        "first_seen": "2026-04-24T12:03:25.294Z",
-        "last_seen": "2026-04-24T12:03:25.294Z",
-        "sample": [
-          {
-            "price": 28,
-            "title": "Pack 3 Blu-ray Disney: La Sirenita 2, Rey León 2-3",
-            "url": "https://es.wallapop.com/item/pack-3-blu-ray-disney-la-sirenita-2-rey-leon-2-3-1255596307",
-            "city": "Madrid"
           }
         ]
       },
@@ -4620,10 +4695,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 180,
-    "total_unique_models": 183,
-    "total_reservations": 25,
-    "total_confirmed_sales": 163
+    "possible": 183,
+    "total_unique_models": 186,
+    "total_reservations": 24,
+    "total_confirmed_sales": 167
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4636,28 +4711,52 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "8z88pnro3dz3",
-      "model": "pokemon perla reluciente nintendo switch",
-      "title": "Pokémon Perla Reluciente Nintendo Switch",
-      "sold_price": 25,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/pokemon-perla-reluciente-nintendo-switch-1255591722",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T11:47:38.427Z",
-      "last_seen": "2026-04-24T11:47:38.427Z",
-      "confirmed_at": "2026-04-24T14:02:00.122Z"
+      "id": "9jdw19vnod6k",
+      "model": "cartas pokemon lamincards nuzleaf seedot treecko",
+      "title": "Cartas Pokémon Lamincards Nuzleaf, Seedot, Treecko",
+      "sold_price": 6,
+      "city": "Pozo Estrecho",
+      "url": "https://es.wallapop.com/item/cartas-pokemon-lamincards-nuzleaf-seedot-treecko-1255597584",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T12:03:25.294Z",
+      "last_seen": "2026-04-24T12:03:25.294Z",
+      "confirmed_at": "2026-04-24T14:18:07.704Z"
     },
     {
-      "id": "9jdw19mo2l6k",
-      "model": "terreno tiranido",
-      "title": "Terreno Tiranido",
-      "sold_price": 32,
-      "city": "Alcantarilla",
-      "url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-24T11:47:38.427Z",
-      "last_seen": "2026-04-24T11:47:38.427Z",
-      "confirmed_at": "2026-04-24T14:02:00.122Z"
+      "id": "ejkmn7r54qzx",
+      "model": "lote peliculas dvd blu ray",
+      "title": "Lote 4 Películas DVD y Blu-ray",
+      "sold_price": 24,
+      "city": "Vallirana",
+      "url": "https://es.wallapop.com/item/lote-4-peliculas-dvd-y-blu-ray-1255597695",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T12:03:25.294Z",
+      "last_seen": "2026-04-24T12:03:25.294Z",
+      "confirmed_at": "2026-04-24T14:18:07.704Z"
+    },
+    {
+      "id": "p618m3d83gz5",
+      "model": "pack blu ray disney sirenita rey leon",
+      "title": "Pack 3 Blu-ray Disney: La Sirenita 2, Rey León 2-3",
+      "sold_price": 28,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/pack-3-blu-ray-disney-la-sirenita-2-rey-leon-2-3-1255596307",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T12:03:25.294Z",
+      "last_seen": "2026-04-24T12:03:25.294Z",
+      "confirmed_at": "2026-04-24T14:18:07.704Z"
+    },
+    {
+      "id": "p618m3d1r2z5",
+      "model": "nintendo switch sports",
+      "title": "Nintendo Switch Sports",
+      "sold_price": 25,
+      "city": "Pinto",
+      "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T12:17:33.126Z",
+      "last_seen": "2026-04-24T12:17:33.126Z",
+      "confirmed_at": "2026-04-24T14:18:07.704Z"
     }
   ]
 }
