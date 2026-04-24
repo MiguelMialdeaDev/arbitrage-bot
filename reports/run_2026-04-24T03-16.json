@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-04-24T03:15:19.303Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 221,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Ps5 Slim De Disco De 1TB",
+          "price": 305,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/libro-los-pitufos-busca-los-100-pitufos-1255481311",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 slim 1tb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando Xbox Series X Negro",
+          "price": 40,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mando-xbox-series-x-negro-1255481545",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando xbox series negro",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 171,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta de Ping Pong Profesional",
+          "price": 22,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/raqueta-de-ping-pong-profesional-1255481114",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta ping pong profesional",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta ping pong profesional' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 42,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 3,
+  "total_signals": 0,
+  "duration_s": 60
+}
