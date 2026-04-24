@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T21:46:59.056Z",
+  "updated_at": "2026-04-24T21:56:20.892Z",
   "tiers": {
     "proven_seller": [
       {
@@ -5909,30 +5909,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "mzn37155wyjn",
-      "model": "funko pop zazu disney 499",
-      "title": "Funko Pop Zazu Disney 499",
-      "sold_price": 25,
-      "city": "Elx/Elche",
-      "url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T19:32:53.581Z",
-      "last_seen": "2026-04-24T19:32:53.581Z",
-      "confirmed_at": "2026-04-24T21:46:59.053Z"
-    },
-    {
-      "id": "xzogwm5k3lj9",
-      "model": "iphone 14 pro max negro",
-      "title": "iPhone 14 Pro Max negro",
-      "sold_price": 50,
-      "city": "Medina de Pomar",
-      "url": "https://es.wallapop.com/item/iphone-14-pro-max-negro-1255730881",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T19:32:53.581Z",
-      "last_seen": "2026-04-24T19:32:53.581Z",
-      "confirmed_at": "2026-04-24T21:46:59.053Z"
-    }
-  ]
+  "new_sales": []
 }
