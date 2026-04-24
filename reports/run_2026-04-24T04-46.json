@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-04-24T04:45:20.819Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 200,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 229,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Consola PS3 Negra + 9 Juegos + 2 Mandos",
+          "price": 100,
+          "city": "Montmeló",
+          "url": "https://es.wallapop.com/item/consola-ps3-negra---9-juegos---2-mandos-1255485595",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps3 negra juegos mandos",
+          "verdict": "skip",
+          "reason": "100€ vs mín reservado 80€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 14 Pro Max 512GB Negro Espacial",
+          "price": 490,
+          "city": "Mataró",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-512gb-negro-espacial-1255485729",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 512gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 512gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iphone 17 pro max",
+          "price": 850,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/tijeras-de-peluqueria-dentadas-1255484104",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 169,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "2LP Vinilo New York, New York Liza Minnelli",
+          "price": 14,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/2lp-vinilo-new-york-new-york-liza-minnelli-1255485620",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "2lp new york, new york",
+          "verdict": "skip",
+          "reason": "0 reservados de '2lp new york, new york' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 39,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 4,
+  "total_signals": 0,
+  "duration_s": 57
+}
