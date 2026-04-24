@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T10:46:54.660Z",
+  "updated_at": "2026-04-24T10:53:18.542Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "apple earpods lightning originales",
+        "example_title": "Apple EarPods Lightning Originales",
+        "example_url": "https://es.wallapop.com/item/apple-earpods-lightning-originales-1255576446",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-24T10:53:18.541Z",
+        "last_seen": "2026-04-24T10:53:18.541Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Apple EarPods Lightning Originales",
+            "url": "https://es.wallapop.com/item/apple-earpods-lightning-originales-1255576446",
+            "city": "Figueres"
+          }
+        ]
+      },
+      {
+        "model": "the legend of zelda breath of the wild",
+        "example_title": "The Legend of Zelda: Breath of the Wild",
+        "example_url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 45,
+        "median_price": 45,
+        "max_price": 45,
+        "first_seen": "2026-04-24T10:53:18.541Z",
+        "last_seen": "2026-04-24T10:53:18.541Z",
+        "sample": [
+          {
+            "price": 45,
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
+            "city": "Viladecans"
+          }
+        ]
+      },
       {
         "model": "mando nintendo switch pro controller negro",
         "example_title": "Mando Nintendo Switch 2 Pro Controller Negro",
@@ -1010,31 +1060,6 @@
             "title": "Cartas Magic: The Gathering para Imanol",
             "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-para-imanol-1255493374",
             "city": "Parla"
-          }
-        ]
-      },
-      {
-        "model": "the legend of zelda breath of the wild",
-        "example_title": "The Legend of Zelda: Breath of the Wild",
-        "example_url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 45,
-        "median_price": 45,
-        "max_price": 45,
-        "first_seen": "2026-04-24T08:47:38.597Z",
-        "last_seen": "2026-04-24T08:47:38.597Z",
-        "sample": [
-          {
-            "price": 45,
-            "title": "The Legend of Zelda: Breath of the Wild",
-            "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
-            "city": "Viladecans"
           }
         ]
       },
@@ -3795,10 +3820,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 147,
-    "total_unique_models": 150,
+    "possible": 148,
+    "total_unique_models": 151,
     "total_reservations": 28,
-    "total_confirmed_sales": 127
+    "total_confirmed_sales": 128
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3809,5 +3834,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "8j38kd8rwlz9",
+      "model": "the legend of zelda breath of the wild",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "sold_price": 45,
+      "city": "Viladecans",
+      "url": "https://es.wallapop.com/item/the-legend-of-zelda-breath-of-the-wild-1255528934",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T08:47:38.597Z",
+      "last_seen": "2026-04-24T08:47:38.597Z",
+      "confirmed_at": "2026-04-24T10:53:18.541Z"
+    }
+  ]
 }
