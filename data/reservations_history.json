@@ -12,50 +12,6 @@
       "last_seen": "2026-04-24T07:32:29.249Z"
     },
     {
-      "id": "8j38kdeq78z9",
-      "title": "Lote para Salvador",
-      "model": "lote salvador",
-      "price": 77,
-      "city": "Málaga",
-      "url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-24T07:46:59.188Z",
-      "last_seen": "2026-04-24T07:46:59.188Z"
-    },
-    {
-      "id": "8z88pnkvolz3",
-      "title": "Lote  Figuras Playmobil Juan",
-      "model": "lote figuras playmobil juan",
-      "price": 35,
-      "city": "Badajoz",
-      "url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T08:02:30.011Z",
-      "last_seen": "2026-04-24T08:02:30.011Z"
-    },
-    {
-      "id": "nz081o07o36o",
-      "title": "Matrimelee lona 50x70cm",
-      "model": "matrimelee lona 50x70cm",
-      "price": 25,
-      "city": "L' Ametlla del Valles",
-      "url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-24T08:02:30.011Z",
-      "last_seen": "2026-04-24T08:02:30.011Z"
-    },
-    {
-      "id": "9jdw1923gn6k",
-      "title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
-      "model": "genki cover dock cargador dock 65w",
-      "price": 60,
-      "city": "Huétor Vega",
-      "url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-24T08:02:30.011Z",
-      "last_seen": "2026-04-24T08:02:30.011Z"
-    },
-    {
       "id": "e65qdkgxep6o",
       "title": "Puzzle 1000 Trefl",
       "model": "puzzle 1000 trefl",
@@ -274,6 +230,39 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-24T09:48:03.321Z",
       "last_seen": "2026-04-24T09:48:03.321Z"
+    },
+    {
+      "id": "ejkmn7p15pzx",
+      "title": "Colección cromos",
+      "model": "coleccion cromos",
+      "price": 10,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/coleccion-cromos-1255550623",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T10:03:08.590Z",
+      "last_seen": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "3zlmpwkelpjx",
+      "title": "Rito Oscuro - Magic The Gathering",
+      "model": "rito oscuro magic the gathering",
+      "price": 27,
+      "city": "Castellón de la Plana/Castelló de la Plana",
+      "url": "https://es.wallapop.com/item/rito-oscuro-magic-the-gathering-1255551469",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T10:03:08.590Z",
+      "last_seen": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "qzmm0xo31xzv",
+      "title": "Juegos de mesa reservados",
+      "model": "juegos mesa reservados",
+      "price": 5,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
+      "category": "Deporte y ocio",
+      "first_seen": "2026-04-24T10:03:08.590Z",
+      "last_seen": "2026-04-24T10:03:08.590Z"
     }
   ]
 }

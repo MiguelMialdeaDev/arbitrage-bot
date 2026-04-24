@@ -1415,6 +1415,54 @@
       "first_reserved": "2026-04-24T07:46:59.188Z",
       "last_seen": "2026-04-24T07:46:59.188Z",
       "confirmed_at": "2026-04-24T09:48:03.321Z"
+    },
+    {
+      "id": "8j38kdeq78z9",
+      "model": "lote salvador",
+      "title": "Lote para Salvador",
+      "sold_price": 77,
+      "city": "Málaga",
+      "url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-24T07:46:59.188Z",
+      "last_seen": "2026-04-24T07:46:59.188Z",
+      "confirmed_at": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "8z88pnkvolz3",
+      "model": "lote figuras playmobil juan",
+      "title": "Lote  Figuras Playmobil Juan",
+      "sold_price": 35,
+      "city": "Badajoz",
+      "url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T08:02:30.011Z",
+      "last_seen": "2026-04-24T08:02:30.011Z",
+      "confirmed_at": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "nz081o07o36o",
+      "model": "matrimelee lona 50x70cm",
+      "title": "Matrimelee lona 50x70cm",
+      "sold_price": 25,
+      "city": "L' Ametlla del Valles",
+      "url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T08:02:30.011Z",
+      "last_seen": "2026-04-24T08:02:30.011Z",
+      "confirmed_at": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "9jdw1923gn6k",
+      "model": "genki cover dock cargador dock 65w",
+      "title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
+      "sold_price": 60,
+      "city": "Huétor Vega",
+      "url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T08:02:30.011Z",
+      "last_seen": "2026-04-24T08:02:30.011Z",
+      "confirmed_at": "2026-04-24T10:03:08.590Z"
     }
   ]
 }

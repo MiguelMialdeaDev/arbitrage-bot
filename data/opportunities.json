@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:48:03.323Z",
+  "updated_at": "2026-04-24T10:03:08.592Z",
   "tiers": {
     "proven_seller": [
       {
@@ -107,6 +107,181 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "coleccion cromos",
+        "example_title": "Colección cromos",
+        "example_url": "https://es.wallapop.com/item/coleccion-cromos-1255550623",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T10:03:08.590Z",
+        "last_seen": "2026-04-24T10:03:08.590Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Colección cromos",
+            "url": "https://es.wallapop.com/item/coleccion-cromos-1255550623",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
+        "model": "rito oscuro magic the gathering",
+        "example_title": "Rito Oscuro - Magic The Gathering",
+        "example_url": "https://es.wallapop.com/item/rito-oscuro-magic-the-gathering-1255551469",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-24T10:03:08.590Z",
+        "last_seen": "2026-04-24T10:03:08.590Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "Rito Oscuro - Magic The Gathering",
+            "url": "https://es.wallapop.com/item/rito-oscuro-magic-the-gathering-1255551469",
+            "city": "Castellón de la Plana/Castelló de la Plana"
+          }
+        ]
+      },
+      {
+        "model": "juegos mesa reservados",
+        "example_title": "Juegos de mesa reservados",
+        "example_url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-24T10:03:08.590Z",
+        "last_seen": "2026-04-24T10:03:08.590Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Juegos de mesa reservados",
+            "url": "https://es.wallapop.com/item/juegos-de-mesa-reservados-1255553008",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote salvador",
+        "example_title": "Lote para Salvador",
+        "example_url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 77,
+        "median_price": 77,
+        "max_price": 77,
+        "first_seen": "2026-04-24T10:03:08.590Z",
+        "last_seen": "2026-04-24T10:03:08.590Z",
+        "sample": [
+          {
+            "price": 77,
+            "title": "Lote para Salvador",
+            "url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
+            "city": "Málaga"
+          }
+        ]
+      },
+      {
+        "model": "lote figuras playmobil juan",
+        "example_title": "Lote  Figuras Playmobil Juan",
+        "example_url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T10:03:08.590Z",
+        "last_seen": "2026-04-24T10:03:08.590Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Lote  Figuras Playmobil Juan",
+            "url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
+            "city": "Badajoz"
+          }
+        ]
+      },
+      {
+        "model": "matrimelee lona 50x70cm",
+        "example_title": "Matrimelee lona 50x70cm",
+        "example_url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T10:03:08.590Z",
+        "last_seen": "2026-04-24T10:03:08.590Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Matrimelee lona 50x70cm",
+            "url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
+            "city": "L' Ametlla del Valles"
+          }
+        ]
+      },
+      {
+        "model": "genki cover dock cargador dock 65w",
+        "example_title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
+        "example_url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-24T10:03:08.590Z",
+        "last_seen": "2026-04-24T10:03:08.590Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
+            "url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
+            "city": "Huétor Vega"
+          }
+        ]
+      },
       {
         "model": "funko pop lotso valindra",
         "example_title": "Funko Pop! Lotso + Valindra",
@@ -658,81 +833,6 @@
         ]
       },
       {
-        "model": "lote figuras playmobil juan",
-        "example_title": "Lote  Figuras Playmobil Juan",
-        "example_url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-24T08:02:30.011Z",
-        "last_seen": "2026-04-24T08:02:30.011Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "Lote  Figuras Playmobil Juan",
-            "url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
-            "city": "Badajoz"
-          }
-        ]
-      },
-      {
-        "model": "matrimelee lona 50x70cm",
-        "example_title": "Matrimelee lona 50x70cm",
-        "example_url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T08:02:30.011Z",
-        "last_seen": "2026-04-24T08:02:30.011Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Matrimelee lona 50x70cm",
-            "url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
-            "city": "L' Ametlla del Valles"
-          }
-        ]
-      },
-      {
-        "model": "genki cover dock cargador dock 65w",
-        "example_title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
-        "example_url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 60,
-        "median_price": 60,
-        "max_price": 60,
-        "first_seen": "2026-04-24T08:02:30.011Z",
-        "last_seen": "2026-04-24T08:02:30.011Z",
-        "sample": [
-          {
-            "price": 60,
-            "title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
-            "url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
-            "city": "Huétor Vega"
-          }
-        ]
-      },
-      {
         "model": "puzzle 1000 trefl",
         "example_title": "Puzzle 1000 Trefl",
         "example_url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
@@ -754,31 +854,6 @@
             "title": "Puzzle 1000 Trefl",
             "url": "https://es.wallapop.com/item/puzzle-1000-trefl-1255508624",
             "city": "Gijón"
-          }
-        ]
-      },
-      {
-        "model": "lote salvador",
-        "example_title": "Lote para Salvador",
-        "example_url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 77,
-        "median_price": 77,
-        "max_price": 77,
-        "first_seen": "2026-04-24T07:46:59.188Z",
-        "last_seen": "2026-04-24T07:46:59.188Z",
-        "sample": [
-          {
-            "price": 77,
-            "title": "Lote para Salvador",
-            "url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
-            "city": "Málaga"
           }
         ]
       },
@@ -3489,10 +3564,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 135,
-    "total_unique_models": 138,
-    "total_reservations": 25,
-    "total_confirmed_sales": 118
+    "possible": 138,
+    "total_unique_models": 141,
+    "total_reservations": 24,
+    "total_confirmed_sales": 122
   },
   "thresholds": {
     "proven_7d": 3,
@@ -3505,16 +3580,52 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "qjwrg5p3vw6o",
-      "model": "pokemon let go eevee nintendo switch",
-      "title": "Pokémon Let's Go Eevee Nintendo Switch",
-      "sold_price": 15,
-      "city": "Badalona",
-      "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
-      "category": "Tecnología y electrónica",
+      "id": "8j38kdeq78z9",
+      "model": "lote salvador",
+      "title": "Lote para Salvador",
+      "sold_price": 77,
+      "city": "Málaga",
+      "url": "https://es.wallapop.com/item/lote-para-salvador-1255507158",
+      "category": "Cine, libros y música",
       "first_reserved": "2026-04-24T07:46:59.188Z",
       "last_seen": "2026-04-24T07:46:59.188Z",
-      "confirmed_at": "2026-04-24T09:48:03.321Z"
+      "confirmed_at": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "8z88pnkvolz3",
+      "model": "lote figuras playmobil juan",
+      "title": "Lote  Figuras Playmobil Juan",
+      "sold_price": 35,
+      "city": "Badajoz",
+      "url": "https://es.wallapop.com/item/lote-6-figuras-playmobil-soldados-1255510046",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T08:02:30.011Z",
+      "last_seen": "2026-04-24T08:02:30.011Z",
+      "confirmed_at": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "nz081o07o36o",
+      "model": "matrimelee lona 50x70cm",
+      "title": "Matrimelee lona 50x70cm",
+      "sold_price": 25,
+      "city": "L' Ametlla del Valles",
+      "url": "https://es.wallapop.com/item/matrimelee-lona-50x70cm-1255509327",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T08:02:30.011Z",
+      "last_seen": "2026-04-24T08:02:30.011Z",
+      "confirmed_at": "2026-04-24T10:03:08.590Z"
+    },
+    {
+      "id": "9jdw1923gn6k",
+      "model": "genki cover dock cargador dock 65w",
+      "title": "GENKI Cover Dock 3 - Cargador y Dock 65W",
+      "sold_price": 60,
+      "city": "Huétor Vega",
+      "url": "https://es.wallapop.com/item/genki-cover-dock-3-cargador-y-dock-65w-1255508336",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T08:02:30.011Z",
+      "last_seen": "2026-04-24T08:02:30.011Z",
+      "confirmed_at": "2026-04-24T10:03:08.590Z"
     }
   ]
 }
