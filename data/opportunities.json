@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-24T05:46:45.086Z",
+  "updated_at": "2026-04-24T06:01:59.986Z",
   "tiers": {
     "proven_seller": [
       {
         "model": "lote cartas pokemon",
         "example_title": "Lote Cartas Pokémon",
         "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
-        "total_reservations": 1,
-        "confirmed_sales": 2,
+        "total_reservations": 0,
+        "confirmed_sales": 3,
         "total_events": 3,
         "reservations_24h": 3,
         "reservations_7d": 3,
@@ -17,8 +17,20 @@
         "median_price": 40,
         "max_price": 280,
         "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-24T00:46:58.202Z",
+        "last_seen": "2026-04-24T06:01:59.985Z",
         "sample": [
+          {
+            "price": 280,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
+            "city": "Aguilar de Campoo"
+          },
+          {
+            "price": 35,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
+            "city": "Madrid"
+          },
           {
             "price": 40,
             "title": "Lote Cartas Pokémon",
@@ -69,6 +81,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "llavero funko gizmo",
+        "example_title": "Llavero Funko Gizmo",
+        "example_url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-24T06:01:59.985Z",
+        "last_seen": "2026-04-24T06:01:59.985Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Llavero Funko Gizmo",
+            "url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
+            "city": "Logroño"
+          }
+        ]
+      },
+      {
+        "model": "llavero funko castiel",
+        "example_title": "Llavero Funko Castiel",
+        "example_url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-24T06:01:59.985Z",
+        "last_seen": "2026-04-24T06:01:59.985Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Llavero Funko Castiel",
+            "url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
+            "city": "Logroño"
+          }
+        ]
+      },
+      {
+        "model": "funko the lost boys",
+        "example_title": "Funko The Lost Boys",
+        "example_url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T06:01:59.985Z",
+        "last_seen": "2026-04-24T06:01:59.985Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Funko The Lost Boys",
+            "url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
+            "city": "Logroño"
+          }
+        ]
+      },
       {
         "model": "funko pop will byers upside down x3",
         "example_title": "Funko Pop Will Byers y Upside Down x3",
@@ -291,81 +378,6 @@
             "title": "iPhone 7 Plus Rosa",
             "url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "llavero funko gizmo",
-        "example_title": "Llavero Funko Gizmo",
-        "example_url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-23T23:56:55.479Z",
-        "last_seen": "2026-04-23T23:56:55.479Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Llavero Funko Gizmo",
-            "url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
-            "city": "Logroño"
-          }
-        ]
-      },
-      {
-        "model": "llavero funko castiel",
-        "example_title": "Llavero Funko Castiel",
-        "example_url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-23T23:56:55.479Z",
-        "last_seen": "2026-04-23T23:56:55.479Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Llavero Funko Castiel",
-            "url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
-            "city": "Logroño"
-          }
-        ]
-      },
-      {
-        "model": "funko the lost boys",
-        "example_title": "Funko The Lost Boys",
-        "example_url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-23T23:56:55.479Z",
-        "last_seen": "2026-04-23T23:56:55.479Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Funko The Lost Boys",
-            "url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
-            "city": "Logroño"
           }
         ]
       },
@@ -2753,8 +2765,8 @@
     "recurring": 0,
     "possible": 107,
     "total_unique_models": 109,
-    "total_reservations": 8,
-    "total_confirmed_sales": 105
+    "total_reservations": 4,
+    "total_confirmed_sales": 109
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2765,5 +2777,54 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "8z88pnqlg1z3",
+      "model": "llavero funko gizmo",
+      "title": "Llavero Funko Gizmo",
+      "sold_price": 5,
+      "city": "Logroño",
+      "url": "https://es.wallapop.com/item/llavero-funko-gizmo-1255462346",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T23:56:55.479Z",
+      "last_seen": "2026-04-23T23:56:55.479Z",
+      "confirmed_at": "2026-04-24T06:01:59.985Z"
+    },
+    {
+      "id": "ejkmn7xn3yzx",
+      "model": "llavero funko castiel",
+      "title": "Llavero Funko Castiel",
+      "sold_price": 5,
+      "city": "Logroño",
+      "url": "https://es.wallapop.com/item/funko-mini-castiel-1255462123",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T23:56:55.479Z",
+      "last_seen": "2026-04-23T23:56:55.479Z",
+      "confirmed_at": "2026-04-24T06:01:59.985Z"
+    },
+    {
+      "id": "4z4829y2l8jy",
+      "model": "funko the lost boys",
+      "title": "Funko The Lost Boys",
+      "sold_price": 10,
+      "city": "Logroño",
+      "url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T23:56:55.479Z",
+      "last_seen": "2026-04-23T23:56:55.479Z",
+      "confirmed_at": "2026-04-24T06:01:59.985Z"
+    },
+    {
+      "id": "qjwrg5ye746o",
+      "model": "lote cartas pokemon",
+      "title": "Lote Cartas Pokémon",
+      "sold_price": 40,
+      "city": "Parla",
+      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T00:46:58.202Z",
+      "last_seen": "2026-04-24T00:46:58.202Z",
+      "confirmed_at": "2026-04-24T06:01:59.985Z"
+    }
+  ]
 }
