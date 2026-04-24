@@ -1,0 +1,428 @@
+{
+  "timestamp": "2026-04-24T23:45:20.708Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 208,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Zekrom 25 Aniversario Carta Pokémon",
+          "price": 40,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/zekrom-25-aniversario-carta-pokemon-1255770806",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "zekrom aniversario carta pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'zekrom aniversario carta pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cartas Pokémon",
+          "price": 7.5,
+          "city": "San Benito",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-1255770036",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote de cartas Pókemon vintage",
+          "price": 350,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/lotto-carte-pokemon-vintage-1255769895",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon vintage",
+          "verdict": "skip",
+          "reason": "350€ vs mín reservado 460€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 260,
+      "new_items": 28,
+      "items": [
+        {
+          "title": "Mario y Luigi: Hermanos Nintendo Switch",
+          "price": 40,
+          "city": "Lisboa",
+          "url": "https://es.wallapop.com/item/mario-and-luigi-brothership-nintendo-switch-1255770187",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mario luigi: hermanos nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mario luigi: hermanos nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Battlefield 6 PS5",
+          "price": 25,
+          "city": "Calatayud",
+          "url": "https://es.wallapop.com/item/battlefield-6-ps5-1255770601",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "battlefield ps5",
+          "verdict": "skip",
+          "reason": "25€ vs mín reservado 28€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "PS5 Elden Ring y Absolum",
+          "price": 70,
+          "city": "La Línea de la Concepción",
+          "url": "https://es.wallapop.com/item/ps5-elden-ring-y-absolum-1255770423",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 elden ring absolum",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps5 elden ring absolum' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Soporte Mando PS5 Logo PlayStation",
+          "price": 20,
+          "city": "Ponferrada",
+          "url": "https://es.wallapop.com/item/soporte-mando-ps5-logo-playstation-1255770339",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "soporte mando ps5 logo playstation",
+          "verdict": "skip",
+          "reason": "0 reservados de 'soporte mando ps5 logo playstation' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Soporte Mando PS5 Pulpo",
+          "price": 20,
+          "city": "Ponferrada",
+          "url": "https://es.wallapop.com/item/soporte-mando-ps5-pulpo-1255770075",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "soporte mando ps5 pulpo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'soporte mando ps5 pulpo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Guitar Hero 5 PS3",
+          "price": 10,
+          "city": "Mazo",
+          "url": "https://es.wallapop.com/item/guitar-hero-5-ps3-1255769682",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "guitar hero ps3",
+          "verdict": "skip",
+          "reason": "0 reservados de 'guitar hero ps3' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando DualSense Edge negro para PS5",
+          "price": 165,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/mando-dualsense-edge-negro-para-ps5-1255769659",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando dualsense edge negro para",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando dualsense edge negro para' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Kingdom Hearts HD 1.5 + 2.5 ReMIX PS4",
+          "price": 18,
+          "city": "El Risco",
+          "url": "https://es.wallapop.com/item/kingdom-hearts-hd-1-5---2-5-remix-ps4-1255769387",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "kingdom hearts 1.5 2.5 remix",
+          "verdict": "skip",
+          "reason": "0 reservados de 'kingdom hearts 1.5 2.5 remix' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PS4 Slim Negra",
+          "price": 99,
+          "city": "Cartagena",
+          "url": "https://es.wallapop.com/item/consola-ps4-slim-negra-1255770518",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps4 slim negra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps4 slim negra' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PS4 Pro 1TB Negra + Juegos",
+          "price": 160,
+          "city": "Illescas",
+          "url": "https://es.wallapop.com/item/consola-sony-ps4-pro-1tb-negra---juegos-1255770099",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "PS4 Slim 1TB + 2 Mandos + 2 Juegos",
+          "price": 110,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/ps4-slim-1tb---2-mandos---2-juegos-1255769463",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 slim 1tb mandos juegos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps4 slim 1tb mandos juegos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "diadema apple airpods max",
+          "price": 325,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/diadema-apple-airpods-max-1255770377",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "diadema apple airpods max",
+          "verdict": "skip",
+          "reason": "325€ vs mín reservado 150€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "diadema apple airpods max",
+          "price": 279,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/diadema-apple-airpods-max-1255770356",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "diadema apple airpods max",
+          "verdict": "skip",
+          "reason": "279€ vs mín reservado 150€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda Louis Vuitton para iPhone 14 Pro Max",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/cover-louis-vuitton-iphone-14-pro-max-1255770373",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "apple iphone 11 128gb",
+          "price": 179,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/apple-iphone-11-128gb-1255770278",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 13 pro 128gb",
+          "price": 385,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-pro-128gb-1255770250",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "385€ vs mín reservado 270€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda Chanel para iPhone 12 Pro",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/cover-chanel-iphone-12-pro-1255770239",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "apple iphone 17 512gb",
+          "price": 875,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-512gb-1255770195",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 512gb",
+          "verdict": "skip",
+          "reason": "875€ vs mín reservado 450€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 256GB Naranja",
+          "price": 1199,
+          "city": "La Felguera",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-naranja-1255770168",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb naranja",
+          "verdict": "skip",
+          "reason": "1199€ vs mín reservado 1199€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 16 128gb",
+          "price": 599,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-128gb-1255770143",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Rosa Nuevo en Caja",
+          "price": 300,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/iphone-15-rosa-nuevo-en-caja-1255770126",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone rosa",
+          "verdict": "skip",
+          "reason": "300€ vs mín reservado 135€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 13 pro 128gb",
+          "price": 325,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-pro-128gb-1255770044",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "325€ vs mín reservado 270€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "apple iphone 12 128gb",
+          "price": 229,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/apple-iphone-12-128gb-1255770028",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Batería iPhone 11",
+          "price": 8.99,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/bateria-iphone-11-1255769781",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 13 128GB Negro",
+          "price": 225,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-13-128gb-negro-1255769496",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone Air 256GB Blanco/Dorado",
+          "price": 779.99,
+          "city": "La Felguera",
+          "url": "https://es.wallapop.com/item/iphone-air-256gb-blanco-dorado-1255769343",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone air 256gb blanco/dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone air 256gb blanco/dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "NUEVA Correa ALPINE Apple Watch Ultra 3",
+          "price": 15,
+          "city": "Dos Hermanas",
+          "url": "https://es.wallapop.com/item/nueva-correa-alpine-apple-watch-ultra-3-1255770251",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "NUEVA Correa MILANESE PREMIUM Apple Watch Ultra 3",
+          "price": 15,
+          "city": "Dos Hermanas",
+          "url": "https://es.wallapop.com/item/nueva-correa-milanese-premium-apple-watch-ultra-3-1255770120",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "nueva correa milanese premium apple",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nueva correa milanese premium apple' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 164,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Reedición maximum berserk n.1 2 y 3",
+          "price": 42,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/reedicion-maximum-berserk-n-1-2-y-3-1255769526",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "reedicion maximum berserk n.1",
+          "verdict": "skip",
+          "reason": "0 reservados de 'reedicion maximum berserk n.1' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 82,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Juego de Mesa Family Games",
+          "price": 5,
+          "city": "Brandico",
+          "url": "https://es.wallapop.com/item/gioco-family-games-1255769662",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "bicicleta montaña orbea master",
+          "price": 130,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/bicicleta-montana-orbea-master-1255770879",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bicicleta montana orbea master",
+          "verdict": "skip",
+          "reason": "0 reservados de 'bicicleta montana orbea master' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 34,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Lote Joss 3 Sets Lego Star Wars",
+          "price": 31.21,
+          "city": "Cornella de Llobregat",
+          "url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "joss sets lego star wars",
+          "verdict": "skip",
+          "reason": "0 reservados de 'joss sets lego star wars' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 35,
+  "total_signals": 0,
+  "duration_s": 86
+}

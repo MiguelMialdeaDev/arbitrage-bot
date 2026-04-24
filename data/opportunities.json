@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T23:31:30.047Z",
+  "updated_at": "2026-04-24T23:46:46.478Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote joss sets lego star wars",
+        "example_title": "Lote Joss 3 Sets Lego Star Wars",
+        "example_url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 31.21,
+        "median_price": 31.21,
+        "max_price": 31.21,
+        "first_seen": "2026-04-24T23:46:46.476Z",
+        "last_seen": "2026-04-24T23:46:46.476Z",
+        "sample": [
+          {
+            "price": 31.21,
+            "title": "Lote Joss 3 Sets Lego Star Wars",
+            "url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
+            "city": "Cornella de Llobregat"
+          }
+        ]
+      },
       {
         "model": "funko pop one piece nico robin brook franky",
         "example_title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
@@ -3745,7 +3770,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5995,9 +6020,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 230,
-    "total_unique_models": 237,
-    "total_reservations": 7,
+    "possible": 231,
+    "total_unique_models": 238,
+    "total_reservations": 8,
     "total_confirmed_sales": 239
   },
   "thresholds": {
@@ -6009,30 +6034,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "3zlmpwv7e2jx",
-      "model": "funko pop one piece nico robin brook franky",
-      "title": "Funko Pop! One Piece Nico Robin, Brook, Franky",
-      "sold_price": 40.5,
-      "city": "Valencia",
-      "url": "https://es.wallapop.com/item/funko-pop-one-piece-nico-robin-brook-franky-1255752593",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T21:30:09.042Z",
-      "last_seen": "2026-04-24T21:30:09.042Z",
-      "confirmed_at": "2026-04-24T23:31:30.045Z"
-    },
-    {
-      "id": "wzyrgpmpnp65",
-      "model": "lote magic the gathering victor",
-      "title": "Lote Magic: The Gathering para Víctor",
-      "sold_price": 50,
-      "city": "Castello/Castellon de La Plana",
-      "url": "https://es.wallapop.com/item/lote-magic-the-gathering-1255753792",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T21:30:09.042Z",
-      "last_seen": "2026-04-24T21:30:09.042Z",
-      "confirmed_at": "2026-04-24T23:31:30.045Z"
-    }
-  ]
+  "new_sales": []
 }
