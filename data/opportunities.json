@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T21:02:26.642Z",
+  "updated_at": "2026-04-24T21:17:30.662Z",
   "tiers": {
     "proven_seller": [
       {
@@ -82,8 +82,8 @@
         "model": "lote cromos futbol panini",
         "example_title": "Lote de cromos de fútbol Panini",
         "example_url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
+        "total_reservations": 0,
+        "confirmed_sales": 2,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -93,8 +93,14 @@
         "median_price": 17,
         "max_price": 17,
         "first_seen": "2026-04-24T13:47:33.468Z",
-        "last_seen": "2026-04-24T19:16:52.901Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
         "sample": [
+          {
+            "price": 5,
+            "title": "Lote cromos fútbol Panini",
+            "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
+            "city": "Jaén"
+          },
           {
             "price": 17,
             "title": "Lote de cromos de fútbol Panini",
@@ -232,6 +238,206 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop homer simpson maggie",
+        "example_title": "Funko Pop Homer Simpson y Maggie",
+        "example_url": "https://es.wallapop.com/item/funko-pop-homer-simpson-y-maggie-1255749865",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T21:17:30.661Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Funko Pop Homer Simpson y Maggie",
+            "url": "https://es.wallapop.com/item/funko-pop-homer-simpson-y-maggie-1255749865",
+            "city": "Requena"
+          }
+        ]
+      },
+      {
+        "model": "garchomp ex eevee pokemon tcg ingles",
+        "example_title": "Garchomp ex y Eevee Pokémon TCG Inglés",
+        "example_url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 23,
+        "median_price": 23,
+        "max_price": 23,
+        "first_seen": "2026-04-24T21:17:30.661Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 23,
+            "title": "Garchomp ex y Eevee Pokémon TCG Inglés",
+            "url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "alberto funko pop henry stranger things",
+        "example_title": "PARA ALBERTO Funko Pop! Henry Stranger Things",
+        "example_url": "https://es.wallapop.com/item/para-alberto-funko-pop-henry-stranger-things-1255721231",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 16.15,
+        "median_price": 16.15,
+        "max_price": 16.15,
+        "first_seen": "2026-04-24T21:17:30.661Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 16.15,
+            "title": "PARA ALBERTO Funko Pop! Henry Stranger Things",
+            "url": "https://es.wallapop.com/item/para-alberto-funko-pop-henry-stranger-things-1255721231",
+            "city": "Torrejón de Ardoz"
+          }
+        ]
+      },
+      {
+        "model": "funko pop lotr denethor 1991",
+        "example_title": "Funko Pop! LOTR - Denethor # 1991",
+        "example_url": "https://es.wallapop.com/item/funko-pop-lotr-denethor-1991-1255719892",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 38,
+        "median_price": 38,
+        "max_price": 38,
+        "first_seen": "2026-04-24T21:17:30.661Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 38,
+            "title": "Funko Pop! LOTR - Denethor # 1991",
+            "url": "https://es.wallapop.com/item/funko-pop-lotr-denethor-1991-1255719892",
+            "city": "Granada"
+          }
+        ]
+      },
+      {
+        "model": "marvel champions duende verde pack escenarios",
+        "example_title": "Marvel Champions: El Duende Verde Pack Escenarios",
+        "example_url": "https://es.wallapop.com/item/marvel-champions-el-duende-verde-pack-escenarios-1255721200",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-24T21:17:30.661Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Marvel Champions: El Duende Verde Pack Escenarios",
+            "url": "https://es.wallapop.com/item/marvel-champions-el-duende-verde-pack-escenarios-1255721200",
+            "city": "Carretera de San Martin de La Vega"
+          }
+        ]
+      },
+      {
+        "model": "iphone 16 pro max 256gb 99",
+        "example_title": "iPhone 16 Pro Max 256GB 99%",
+        "example_url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-99-1255724022",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 750,
+        "median_price": 750,
+        "max_price": 750,
+        "first_seen": "2026-04-24T21:17:30.661Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 750,
+            "title": "iPhone 16 Pro Max 256GB 99%",
+            "url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-99-1255724022",
+            "city": "Beniel"
+          }
+        ]
+      },
+      {
+        "model": "mando nintendo switch2 pro controller",
+        "example_title": "Mando Nintendo Switch2 Pro Controller",
+        "example_url": "https://es.wallapop.com/item/mando-nintendo-switch2-pro-controller-1255726962",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 45,
+        "median_price": 45,
+        "max_price": 45,
+        "first_seen": "2026-04-24T21:17:30.661Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 45,
+            "title": "Mando Nintendo Switch2 Pro Controller",
+            "url": "https://es.wallapop.com/item/mando-nintendo-switch2-pro-controller-1255726962",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "iphone 15 pro piezas",
+        "example_title": "iPhone 15 Pro para piezas",
+        "example_url": "https://es.wallapop.com/item/iphone-15-pro-para-piezas-1255727222",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 230,
+        "median_price": 230,
+        "max_price": 230,
+        "first_seen": "2026-04-24T21:17:30.661Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 230,
+            "title": "iPhone 15 Pro para piezas",
+            "url": "https://es.wallapop.com/item/iphone-15-pro-para-piezas-1255727222",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "funko pop will eddie kinder",
         "example_title": "Funko Pop! Will y Eddie Kinder",
@@ -658,81 +864,6 @@
         ]
       },
       {
-        "model": "mando nintendo switch2 pro controller",
-        "example_title": "Mando Nintendo Switch2 Pro Controller",
-        "example_url": "https://es.wallapop.com/item/mando-nintendo-switch2-pro-controller-1255726962",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 45,
-        "median_price": 45,
-        "max_price": 45,
-        "first_seen": "2026-04-24T19:16:52.901Z",
-        "last_seen": "2026-04-24T19:16:52.901Z",
-        "sample": [
-          {
-            "price": 45,
-            "title": "Mando Nintendo Switch2 Pro Controller",
-            "url": "https://es.wallapop.com/item/mando-nintendo-switch2-pro-controller-1255726962",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "iphone 15 pro piezas",
-        "example_title": "iPhone 15 Pro para piezas",
-        "example_url": "https://es.wallapop.com/item/iphone-15-pro-para-piezas-1255727222",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 230,
-        "median_price": 230,
-        "max_price": 230,
-        "first_seen": "2026-04-24T19:16:52.901Z",
-        "last_seen": "2026-04-24T19:16:52.901Z",
-        "sample": [
-          {
-            "price": 230,
-            "title": "iPhone 15 Pro para piezas",
-            "url": "https://es.wallapop.com/item/iphone-15-pro-para-piezas-1255727222",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "iphone 16 pro max 256gb 99",
-        "example_title": "iPhone 16 Pro Max 256GB 99%",
-        "example_url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-99-1255724022",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 750,
-        "median_price": 750,
-        "max_price": 750,
-        "first_seen": "2026-04-24T19:08:04.042Z",
-        "last_seen": "2026-04-24T19:08:04.042Z",
-        "sample": [
-          {
-            "price": 750,
-            "title": "iPhone 16 Pro Max 256GB 99%",
-            "url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-99-1255724022",
-            "city": "Beniel"
-          }
-        ]
-      },
-      {
         "model": "lote juegos ps3 assassin creed ii killzone",
         "example_title": "Lote 6 Juegos PS3: Assassin's Creed II, Killzone 2",
         "example_url": "https://es.wallapop.com/item/lote-6-juegos-ps3-assassin-s-creed-ii-killzone-2-1255687664",
@@ -758,56 +889,6 @@
         ]
       },
       {
-        "model": "alberto funko pop henry stranger things",
-        "example_title": "PARA ALBERTO Funko Pop! Henry Stranger Things",
-        "example_url": "https://es.wallapop.com/item/para-alberto-funko-pop-henry-stranger-things-1255721231",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 16.15,
-        "median_price": 16.15,
-        "max_price": 16.15,
-        "first_seen": "2026-04-24T19:03:03.770Z",
-        "last_seen": "2026-04-24T19:03:03.770Z",
-        "sample": [
-          {
-            "price": 16.15,
-            "title": "PARA ALBERTO Funko Pop! Henry Stranger Things",
-            "url": "https://es.wallapop.com/item/para-alberto-funko-pop-henry-stranger-things-1255721231",
-            "city": "Torrejón de Ardoz"
-          }
-        ]
-      },
-      {
-        "model": "funko pop lotr denethor 1991",
-        "example_title": "Funko Pop! LOTR - Denethor # 1991",
-        "example_url": "https://es.wallapop.com/item/funko-pop-lotr-denethor-1991-1255719892",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 38,
-        "median_price": 38,
-        "max_price": 38,
-        "first_seen": "2026-04-24T19:03:03.770Z",
-        "last_seen": "2026-04-24T19:03:03.770Z",
-        "sample": [
-          {
-            "price": 38,
-            "title": "Funko Pop! LOTR - Denethor # 1991",
-            "url": "https://es.wallapop.com/item/funko-pop-lotr-denethor-1991-1255719892",
-            "city": "Granada"
-          }
-        ]
-      },
-      {
         "model": "pedido bralw stars isabel",
         "example_title": "PEDIDO BRALW STARS (ISABEL)",
         "example_url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
@@ -829,31 +910,6 @@
             "title": "PEDIDO BRALW STARS (ISABEL)",
             "url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
             "city": "Talavera de la Reina"
-          }
-        ]
-      },
-      {
-        "model": "marvel champions duende verde pack escenarios",
-        "example_title": "Marvel Champions: El Duende Verde Pack Escenarios",
-        "example_url": "https://es.wallapop.com/item/marvel-champions-el-duende-verde-pack-escenarios-1255721200",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-24T19:03:03.770Z",
-        "last_seen": "2026-04-24T19:03:03.770Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Marvel Champions: El Duende Verde Pack Escenarios",
-            "url": "https://es.wallapop.com/item/marvel-champions-el-duende-verde-pack-escenarios-1255721200",
-            "city": "Carretera de San Martin de La Vega"
           }
         ]
       },
@@ -5764,10 +5820,10 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 221,
-    "total_unique_models": 228,
-    "total_reservations": 20,
-    "total_confirmed_sales": 217
+    "possible": 223,
+    "total_unique_models": 230,
+    "total_reservations": 15,
+    "total_confirmed_sales": 224
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5780,16 +5836,88 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "qjwrg5opwe6o",
-      "model": "funko pop will eddie kinder",
-      "title": "Funko Pop! Will y Eddie Kinder",
-      "sold_price": 24,
-      "city": "Ponteareas",
-      "url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
+      "id": "p618m3r5mxz5",
+      "model": "alberto funko pop henry stranger things",
+      "title": "PARA ALBERTO Funko Pop! Henry Stranger Things",
+      "sold_price": 16.15,
+      "city": "Torrejón de Ardoz",
+      "url": "https://es.wallapop.com/item/para-alberto-funko-pop-henry-stranger-things-1255721231",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T18:47:26.269Z",
-      "last_seen": "2026-04-24T18:47:26.269Z",
-      "confirmed_at": "2026-04-24T21:02:26.641Z"
+      "first_reserved": "2026-04-24T19:03:03.770Z",
+      "last_seen": "2026-04-24T19:03:03.770Z",
+      "confirmed_at": "2026-04-24T21:17:30.661Z"
+    },
+    {
+      "id": "wzyrgp24r565",
+      "model": "funko pop lotr denethor 1991",
+      "title": "Funko Pop! LOTR - Denethor # 1991",
+      "sold_price": 38,
+      "city": "Granada",
+      "url": "https://es.wallapop.com/item/funko-pop-lotr-denethor-1991-1255719892",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T19:03:03.770Z",
+      "last_seen": "2026-04-24T19:03:03.770Z",
+      "confirmed_at": "2026-04-24T21:17:30.661Z"
+    },
+    {
+      "id": "e65qdk072k6o",
+      "model": "marvel champions duende verde pack escenarios",
+      "title": "Marvel Champions: El Duende Verde Pack Escenarios",
+      "sold_price": 40,
+      "city": "Carretera de San Martin de La Vega",
+      "url": "https://es.wallapop.com/item/marvel-champions-el-duende-verde-pack-escenarios-1255721200",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T19:03:03.770Z",
+      "last_seen": "2026-04-24T19:03:03.770Z",
+      "confirmed_at": "2026-04-24T21:17:30.661Z"
+    },
+    {
+      "id": "8z88pnx9r8z3",
+      "model": "iphone 16 pro max 256gb 99",
+      "title": "iPhone 16 Pro Max 256GB 99%",
+      "sold_price": 750,
+      "city": "Beniel",
+      "url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-99-1255724022",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T19:08:04.042Z",
+      "last_seen": "2026-04-24T19:08:04.042Z",
+      "confirmed_at": "2026-04-24T21:17:30.661Z"
+    },
+    {
+      "id": "qjwrg5o08g6o",
+      "model": "lote cromos futbol panini",
+      "title": "Lote de cromos de fútbol Panini",
+      "sold_price": 17,
+      "city": "Viladecavalls",
+      "url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T19:16:52.901Z",
+      "last_seen": "2026-04-24T19:16:52.901Z",
+      "confirmed_at": "2026-04-24T21:17:30.661Z"
+    },
+    {
+      "id": "4z4829px3mjy",
+      "model": "mando nintendo switch2 pro controller",
+      "title": "Mando Nintendo Switch2 Pro Controller",
+      "sold_price": 45,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/mando-nintendo-switch2-pro-controller-1255726962",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T19:16:52.901Z",
+      "last_seen": "2026-04-24T19:16:52.901Z",
+      "confirmed_at": "2026-04-24T21:17:30.661Z"
+    },
+    {
+      "id": "8z88pnx3ylz3",
+      "model": "iphone 15 pro piezas",
+      "title": "iPhone 15 Pro para piezas",
+      "sold_price": 230,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/iphone-15-pro-para-piezas-1255727222",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T19:16:52.901Z",
+      "last_seen": "2026-04-24T19:16:52.901Z",
+      "confirmed_at": "2026-04-24T21:17:30.661Z"
     }
   ]
 }
