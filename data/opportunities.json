@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T00:16:44.899Z",
+  "updated_at": "2026-04-24T00:32:16.056Z",
   "tiers": {
     "proven_seller": [
       {
@@ -76,6 +76,131 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "carta pokemon #94 gengar",
+        "example_title": "Carta Pokémon #94 Gengar",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-94-gengar-1255455266",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-24T00:32:16.055Z",
+        "last_seen": "2026-04-24T00:32:16.055Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Carta Pokémon #94 Gengar",
+            "url": "https://es.wallapop.com/item/carta-pokemon-94-gengar-1255455266",
+            "city": "Oñati"
+          }
+        ]
+      },
+      {
+        "model": "kirby star allies nintendo switch",
+        "example_title": "Kirby Star Allies Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/kirby-star-allies-nintendo-switch-1255455336",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 23,
+        "median_price": 23,
+        "max_price": 23,
+        "first_seen": "2026-04-24T00:32:16.055Z",
+        "last_seen": "2026-04-24T00:32:16.055Z",
+        "sample": [
+          {
+            "price": 23,
+            "title": "Kirby Star Allies Nintendo Switch",
+            "url": "https://es.wallapop.com/item/kirby-star-allies-nintendo-switch-1255455336",
+            "city": "Puigcerda"
+          }
+        ]
+      },
+      {
+        "model": "cargador coche cable iphone",
+        "example_title": "Cargador Coche y cable iPhone",
+        "example_url": "https://es.wallapop.com/item/cargador-coche-y-cable-iphone-1255455442",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 18,
+        "median_price": 18,
+        "max_price": 18,
+        "first_seen": "2026-04-24T00:32:16.055Z",
+        "last_seen": "2026-04-24T00:32:16.055Z",
+        "sample": [
+          {
+            "price": 18,
+            "title": "Cargador Coche y cable iPhone",
+            "url": "https://es.wallapop.com/item/cargador-coche-y-cable-iphone-1255455442",
+            "city": "Elx/Elche"
+          }
+        ]
+      },
+      {
+        "model": "lote funko pops anime",
+        "example_title": "Lote 4 Funko Pops Anime",
+        "example_url": "https://es.wallapop.com/item/lote-4-funko-pops-anime-1255456105",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 29,
+        "median_price": 29,
+        "max_price": 29,
+        "first_seen": "2026-04-24T00:32:16.055Z",
+        "last_seen": "2026-04-24T00:32:16.055Z",
+        "sample": [
+          {
+            "price": 29,
+            "title": "Lote 4 Funko Pops Anime",
+            "url": "https://es.wallapop.com/item/lote-4-funko-pops-anime-1255456105",
+            "city": "Parque Boadilla"
+          }
+        ]
+      },
+      {
+        "model": "iphone plus rosa",
+        "example_title": "iPhone 7 Plus Rosa",
+        "example_url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-24T00:32:16.055Z",
+        "last_seen": "2026-04-24T00:32:16.055Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "iPhone 7 Plus Rosa",
+            "url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "llavero funko gizmo",
         "example_title": "Llavero Funko Gizmo",
@@ -427,56 +552,6 @@
         ]
       },
       {
-        "model": "lote funko pops anime",
-        "example_title": "Lote 4 Funko Pops Anime",
-        "example_url": "https://es.wallapop.com/item/lote-4-funko-pops-anime-1255456105",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 29,
-        "median_price": 29,
-        "max_price": 29,
-        "first_seen": "2026-04-23T22:25:05.621Z",
-        "last_seen": "2026-04-23T22:25:05.621Z",
-        "sample": [
-          {
-            "price": 29,
-            "title": "Lote 4 Funko Pops Anime",
-            "url": "https://es.wallapop.com/item/lote-4-funko-pops-anime-1255456105",
-            "city": "Parque Boadilla"
-          }
-        ]
-      },
-      {
-        "model": "iphone plus rosa",
-        "example_title": "iPhone 7 Plus Rosa",
-        "example_url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-23T22:25:05.621Z",
-        "last_seen": "2026-04-23T22:25:05.621Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "iPhone 7 Plus Rosa",
-            "url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
         "model": "lote nuria",
         "example_title": "Lote Nuria 2",
         "example_url": "https://es.wallapop.com/item/lote-nuria-2-1255431959",
@@ -498,81 +573,6 @@
             "title": "Lote Nuria 2",
             "url": "https://es.wallapop.com/item/lote-nuria-2-1255431959",
             "city": "Vitoria-Gasteiz"
-          }
-        ]
-      },
-      {
-        "model": "carta pokemon #94 gengar",
-        "example_title": "Carta Pokémon #94 Gengar",
-        "example_url": "https://es.wallapop.com/item/carta-pokemon-94-gengar-1255455266",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-23T22:17:21.384Z",
-        "last_seen": "2026-04-23T22:17:21.384Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Carta Pokémon #94 Gengar",
-            "url": "https://es.wallapop.com/item/carta-pokemon-94-gengar-1255455266",
-            "city": "Oñati"
-          }
-        ]
-      },
-      {
-        "model": "kirby star allies nintendo switch",
-        "example_title": "Kirby Star Allies Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/kirby-star-allies-nintendo-switch-1255455336",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 23,
-        "median_price": 23,
-        "max_price": 23,
-        "first_seen": "2026-04-23T22:17:21.384Z",
-        "last_seen": "2026-04-23T22:17:21.384Z",
-        "sample": [
-          {
-            "price": 23,
-            "title": "Kirby Star Allies Nintendo Switch",
-            "url": "https://es.wallapop.com/item/kirby-star-allies-nintendo-switch-1255455336",
-            "city": "Puigcerda"
-          }
-        ]
-      },
-      {
-        "model": "cargador coche cable iphone",
-        "example_title": "Cargador Coche y cable iPhone",
-        "example_url": "https://es.wallapop.com/item/cargador-coche-y-cable-iphone-1255455442",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 18,
-        "median_price": 18,
-        "max_price": 18,
-        "first_seen": "2026-04-23T22:17:21.384Z",
-        "last_seen": "2026-04-23T22:17:21.384Z",
-        "sample": [
-          {
-            "price": 18,
-            "title": "Cargador Coche y cable iPhone",
-            "url": "https://es.wallapop.com/item/cargador-coche-y-cable-iphone-1255455442",
-            "city": "Elx/Elche"
           }
         ]
       },
@@ -2710,8 +2710,8 @@
     "recurring": 0,
     "possible": 105,
     "total_unique_models": 107,
-    "total_reservations": 12,
-    "total_confirmed_sales": 98
+    "total_reservations": 7,
+    "total_confirmed_sales": 103
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2722,5 +2722,66 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "x6qq13kk0y6y",
+      "model": "carta pokemon #94 gengar",
+      "title": "Carta Pokémon #94 Gengar",
+      "sold_price": 5,
+      "city": "Oñati",
+      "url": "https://es.wallapop.com/item/carta-pokemon-94-gengar-1255455266",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T22:17:21.384Z",
+      "last_seen": "2026-04-23T22:17:21.384Z",
+      "confirmed_at": "2026-04-24T00:32:16.055Z"
+    },
+    {
+      "id": "9jdw19xxgd6k",
+      "model": "kirby star allies nintendo switch",
+      "title": "Kirby Star Allies Nintendo Switch",
+      "sold_price": 23,
+      "city": "Puigcerda",
+      "url": "https://es.wallapop.com/item/kirby-star-allies-nintendo-switch-1255455336",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T22:17:21.384Z",
+      "last_seen": "2026-04-23T22:17:21.384Z",
+      "confirmed_at": "2026-04-24T00:32:16.055Z"
+    },
+    {
+      "id": "x6qq13ky9n6y",
+      "model": "cargador coche cable iphone",
+      "title": "Cargador Coche y cable iPhone",
+      "sold_price": 18,
+      "city": "Elx/Elche",
+      "url": "https://es.wallapop.com/item/cargador-coche-y-cable-iphone-1255455442",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T22:17:21.384Z",
+      "last_seen": "2026-04-23T22:17:21.384Z",
+      "confirmed_at": "2026-04-24T00:32:16.055Z"
+    },
+    {
+      "id": "qjwrg5ed2e6o",
+      "model": "lote funko pops anime",
+      "title": "Lote 4 Funko Pops Anime",
+      "sold_price": 29,
+      "city": "Parque Boadilla",
+      "url": "https://es.wallapop.com/item/lote-4-funko-pops-anime-1255456105",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-23T22:25:05.621Z",
+      "last_seen": "2026-04-23T22:25:05.621Z",
+      "confirmed_at": "2026-04-24T00:32:16.055Z"
+    },
+    {
+      "id": "nzxegnlyge62",
+      "model": "iphone plus rosa",
+      "title": "iPhone 7 Plus Rosa",
+      "sold_price": 30,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/iphone-7-plus-rosa-1255456254",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-23T22:25:05.621Z",
+      "last_seen": "2026-04-23T22:25:05.621Z",
+      "confirmed_at": "2026-04-24T00:32:16.055Z"
+    }
+  ]
 }

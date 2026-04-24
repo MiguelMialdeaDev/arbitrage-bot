@@ -1,0 +1,418 @@
+{
+  "timestamp": "2026-04-24T00:30:33.150Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 206,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Calendario Adviento Pesadilla Antes de Navidad Fun",
+          "price": 25,
+          "city": "Lugar San Pedro de Visma",
+          "url": "https://es.wallapop.com/item/calendario-adviento-pesadilla-antes-de-navidad-fun-1255465436",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko calendario adviento pesadilla antes navidad",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko calendario adviento pesadilla antes navidad' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Zombie Scarlet Witch 943",
+          "price": 10,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/funko-pop-zombie-scarlet-witch-943-1255465361",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! zombie scarlet witch 943",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! zombie scarlet witch 943' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop WWE Dudley Boyz Bubba Ray & D-Von 2 Pack",
+          "price": 40,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/funko-pop-wwe-dudley-boyz-bubba-ray-d-von-2-pack-1255464944",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko wwe dudley boyz bubba ray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko wwe dudley boyz bubba ray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Copa del Mundo LEGO",
+          "price": 80,
+          "city": "Playa de San Marcos",
+          "url": "https://es.wallapop.com/item/copa-del-mundo-lego-1255465908",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "copa del mundo lego",
+          "verdict": "skip",
+          "reason": "0 reservados de 'copa del mundo lego' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 235,
+      "new_items": 26,
+      "items": [
+        {
+          "title": "Consola Sony PS5 Slim Gris/Blanco",
+          "price": 650,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/consola-sony-ps5-slim-gris-blanco-1255467276",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps5 slim gris/blanco",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola sony ps5 slim gris/blanco' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PS5",
+          "price": 199,
+          "city": "Sant Adrià de Besòs",
+          "url": "https://es.wallapop.com/item/consola-sony-ps5-1255466153",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps5",
+          "verdict": "skip",
+          "reason": "199€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Dead Island 2 PS5 Day One Edition",
+          "price": 20,
+          "city": "La Puebla de los Infantes",
+          "url": "https://es.wallapop.com/item/dead-island-2-ps5-day-one-edition-1255465421",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "dead island ps5 day one",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dead island ps5 day one' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego PS4 Battlefield 1",
+          "price": 10,
+          "city": "Santa Cruz de Tenerife",
+          "url": "https://es.wallapop.com/item/juego-ps4-battlefield-1-1255466192",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego ps4 battlefield",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 5€ vs mín reservado 45€)"
+        },
+        {
+          "title": "Indiana Jones y el Gran Círculo Xbox Series X",
+          "price": 44.9,
+          "city": "Ourense",
+          "url": "https://es.wallapop.com/item/indiana-jones-y-el-gran-circulo-xbox-series-x-1255465645",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "indiana jones gran circulo xbox",
+          "verdict": "skip",
+          "reason": "0 reservados de 'indiana jones gran circulo xbox' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple iPhone 16 Pro Max 256GB Titanio Desierto, eSIM, A+",
+          "price": 952,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-titanio-desierto-esim-a-1255466269",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "952€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Apple iPhone 16 Pro Max 256GB Titanio Natural, eSIM, A+",
+          "price": 952,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-titanio-natural-esim-a-1255466263",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "952€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Apple iPhone 16 Pro Max 256GB Titanio Desierto, eSIM, A",
+          "price": 919,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-titanio-desierto-esim-a-1255466256",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "919€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Apple iPhone 16 Pro Max 256GB Titanio Blanco, eSIM, A+",
+          "price": 952,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-titanio-blanco-esim-a-1255466252",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "952€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 17 Air Plata",
+          "price": 800,
+          "city": "Ciutadella de Menorca",
+          "url": "https://es.wallapop.com/item/iphone-17-air-plata-1255466058",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone air plata",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone air plata' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Air Plata",
+          "price": 800,
+          "city": "Melilla",
+          "url": "https://es.wallapop.com/item/iphone-17-air-plata-1255465759",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone air plata",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone air plata' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 Negro",
+          "price": 140,
+          "city": "Premià de Dalt",
+          "url": "https://es.wallapop.com/item/iphone-11-negro-1255465580",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Negro",
+          "price": 340,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/iphone-13-negro-1255465331",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 14 pro max 128gb",
+          "price": 479,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-pro-max-128gb-1255465010",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Plata Batería al 100%",
+          "price": 400,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/iphone-14-plata-bateria-al-100-1255465004",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plata bateria 100%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plata bateria 100%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 14 pro max 128gb",
+          "price": 479,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-pro-max-128gb-1255464983",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 12 pro max 128gb",
+          "price": 359,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-12-pro-max-128gb-1255464961",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 13 128gb",
+          "price": 335,
+          "city": "Sabadell",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-128gb-1255464940",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 mini",
+          "price": 140,
+          "city": "Premià de Dalt",
+          "url": "https://es.wallapop.com/item/iphone-12-mini-1255464926",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone mini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone mini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 12 mini 128gb",
+          "price": 189,
+          "city": "Pamplona/Iruña",
+          "url": "https://es.wallapop.com/item/apple-iphone-12-mini-128gb-1255467181",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone mini 128gb",
+          "verdict": "skip",
+          "reason": "189€ vs mín reservado 120€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 12 Mini 100% 256gb",
+          "price": 130,
+          "city": "Alzira",
+          "url": "https://es.wallapop.com/item/iphone-12-mini-100-256gb-1255467135",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        },
+        {
+          "title": "apple iphone 16 256gb",
+          "price": 619,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-256gb-1255466945",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 16 pro 128gb",
+          "price": 675,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-128gb-1255466880",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "Carcasa trasera para iPhone XS dorada",
+          "price": 15,
+          "city": "Lagos",
+          "url": "https://es.wallapop.com/item/carcaca-traseira-iphone-xs-dourado-1255466748",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carcasa trasera para iphone dorada",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carcasa trasera para iphone dorada' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 14 128gb",
+          "price": 319,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-128gb-1255466732",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch series 11 42mm (gps) aluminio",
+          "price": 239,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-watch-series-11-42mm-gps-aluminio-1255465391",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 42mm (gps)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 42mm (gps)' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 172,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "DISCO LP, VINILO,  E. Granados – Trío Mompou",
+          "price": 8.69,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-e-granados-trio-mompou-1255465765",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, vinilo, granados trio mompou",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lp, vinilo, granados trio mompou' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Novela Assassin's Creed The Secret Crusade Inglés",
+          "price": 3.5,
+          "city": "Los Dolores",
+          "url": "https://es.wallapop.com/item/novela-assassin-s-creed-the-secret-crusade-ingles-1255466126",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "libro, La Historia Literaria en los Textos - 1933  - Primera edición - Jose Rogerio Sanch",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/libro-la-historia-literaria-en-los-textos-1933-primera-edicion-jose-rogerio-sanch-1255465281",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Adventure Tactics Alquimia",
+          "price": 37,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/adventure-tactics-alquimia-1255466977",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "adventure tactics alquimia",
+          "verdict": "skip",
+          "reason": "0 reservados de 'adventure tactics alquimia' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 44,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 34,
+  "total_signals": 0,
+  "duration_s": 103
+}
