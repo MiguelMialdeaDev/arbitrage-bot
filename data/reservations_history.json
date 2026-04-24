@@ -1,28 +1,6 @@
 {
   "reservations": [
     {
-      "id": "8j38kdx2m1z9",
-      "title": "Funko Pop Will Byers y Upside Down x3",
-      "model": "funko pop will byers upside down x3",
-      "price": 10,
-      "city": "Sestao",
-      "url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T05:31:49.919Z",
-      "last_seen": "2026-04-24T05:31:49.919Z"
-    },
-    {
-      "id": "wzvgdel3p7zl",
-      "title": "Funda iPhone 15 Pro Max Morada MagSafe",
-      "model": "funda iphone 15 pro max morada magsafe",
-      "price": 15,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-24T05:31:49.919Z",
-      "last_seen": "2026-04-24T05:31:49.919Z"
-    },
-    {
       "id": "qzmm0x3xkyzv",
       "title": "Lote 5 Videojuegos PS2",
       "model": "lote videojuegos ps2",
@@ -65,6 +43,17 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-24T07:02:30.333Z",
       "last_seen": "2026-04-24T07:02:30.333Z"
+    },
+    {
+      "id": "v6gp352rr76e",
+      "title": "Lote 12 CDs Música Clásica El País",
+      "model": "lote 12 cds musica clasica pais",
+      "price": 16,
+      "city": "Marbella",
+      "url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
+      "category": "Cine, libros y música",
+      "first_seen": "2026-04-24T07:32:29.249Z",
+      "last_seen": "2026-04-24T07:32:29.249Z"
     }
   ]
 }

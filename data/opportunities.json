@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T07:19:45.228Z",
+  "updated_at": "2026-04-24T07:32:29.250Z",
   "tiers": {
     "proven_seller": [
       {
@@ -81,6 +81,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote 12 cds musica clasica pais",
+        "example_title": "Lote 12 CDs Música Clásica El País",
+        "example_url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 16,
+        "median_price": 16,
+        "max_price": 16,
+        "first_seen": "2026-04-24T07:32:29.249Z",
+        "last_seen": "2026-04-24T07:32:29.249Z",
+        "sample": [
+          {
+            "price": 16,
+            "title": "Lote 12 CDs Música Clásica El País",
+            "url": "https://es.wallapop.com/item/lote-cds-musica-clasica-el-pais-1255504088",
+            "city": "Marbella"
+          }
+        ]
+      },
+      {
+        "model": "funko pop will byers upside down x3",
+        "example_title": "Funko Pop Will Byers y Upside Down x3",
+        "example_url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T07:32:29.249Z",
+        "last_seen": "2026-04-24T07:32:29.249Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Funko Pop Will Byers y Upside Down x3",
+            "url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
+            "city": "Sestao"
+          }
+        ]
+      },
+      {
+        "model": "funda iphone 15 pro max morada magsafe",
+        "example_title": "Funda iPhone 15 Pro Max Morada MagSafe",
+        "example_url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-24T07:32:29.249Z",
+        "last_seen": "2026-04-24T07:32:29.249Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Funda iPhone 15 Pro Max Morada MagSafe",
+            "url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "funko pop lote dragon ball reserva",
         "example_title": "Funko Pop! Lote Dragon Ball Reserva",
@@ -303,56 +378,6 @@
             "title": "Funko The Lost Boys",
             "url": "https://es.wallapop.com/item/funko-jovenes-ocultos-1255462038",
             "city": "Logroño"
-          }
-        ]
-      },
-      {
-        "model": "funko pop will byers upside down x3",
-        "example_title": "Funko Pop Will Byers y Upside Down x3",
-        "example_url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-24T05:31:49.919Z",
-        "last_seen": "2026-04-24T05:31:49.919Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Funko Pop Will Byers y Upside Down x3",
-            "url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
-            "city": "Sestao"
-          }
-        ]
-      },
-      {
-        "model": "funda iphone 15 pro max morada magsafe",
-        "example_title": "Funda iPhone 15 Pro Max Morada MagSafe",
-        "example_url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-24T05:31:49.919Z",
-        "last_seen": "2026-04-24T05:31:49.919Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Funda iPhone 15 Pro Max Morada MagSafe",
-            "url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
-            "city": "Madrid"
           }
         ]
       },
@@ -2863,10 +2888,10 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 111,
-    "total_unique_models": 113,
-    "total_reservations": 6,
-    "total_confirmed_sales": 111
+    "possible": 112,
+    "total_unique_models": 114,
+    "total_reservations": 5,
+    "total_confirmed_sales": 113
   },
   "thresholds": {
     "proven_7d": 3,
@@ -2877,5 +2902,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "8j38kdx2m1z9",
+      "model": "funko pop will byers upside down x3",
+      "title": "Funko Pop Will Byers y Upside Down x3",
+      "sold_price": 10,
+      "city": "Sestao",
+      "url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T05:31:49.919Z",
+      "last_seen": "2026-04-24T05:31:49.919Z",
+      "confirmed_at": "2026-04-24T07:32:29.249Z"
+    },
+    {
+      "id": "wzvgdel3p7zl",
+      "model": "funda iphone 15 pro max morada magsafe",
+      "title": "Funda iPhone 15 Pro Max Morada MagSafe",
+      "sold_price": 15,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T05:31:49.919Z",
+      "last_seen": "2026-04-24T05:31:49.919Z",
+      "confirmed_at": "2026-04-24T07:32:29.249Z"
+    }
+  ]
 }
