@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T10:32:59.630Z",
+  "updated_at": "2026-04-24T10:44:40.759Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop iron man am iron man",
+        "example_title": "Funko POP! Iron Man (I am Iron Man)",
+        "example_url": "https://es.wallapop.com/item/funko-pop-iron-man-580-endgame-i-am-iron-man-1255568514",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-24T10:44:40.758Z",
+        "last_seen": "2026-04-24T10:44:40.758Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Funko POP! Iron Man (I am Iron Man)",
+            "url": "https://es.wallapop.com/item/funko-pop-iron-man-580-endgame-i-am-iron-man-1255568514",
+            "city": "Burgos"
+          }
+        ]
+      },
+      {
+        "model": "pack soldados espanoles lego",
+        "example_title": "Pack Soldados Españoles Lego",
+        "example_url": "https://es.wallapop.com/item/pack-soldados-espanoles-lego-1255568698",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-24T10:44:40.758Z",
+        "last_seen": "2026-04-24T10:44:40.758Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Pack Soldados Españoles Lego",
+            "url": "https://es.wallapop.com/item/pack-soldados-espanoles-lego-1255568698",
+            "city": "Moraleja de Enmedio"
+          }
+        ]
+      },
       {
         "model": "manipolatore magic the gathering",
         "example_title": "Manipolatore - Magic The Gathering",
@@ -3720,9 +3770,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 144,
-    "total_unique_models": 147,
-    "total_reservations": 25,
+    "possible": 146,
+    "total_unique_models": 149,
+    "total_reservations": 27,
     "total_confirmed_sales": 127
   },
   "thresholds": {
@@ -3734,42 +3784,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "0j28o245emjy",
-      "model": "lote cromos futbol panini hugo",
-      "title": "Lote cromos fútbol Panini Hugo",
-      "sold_price": 9.5,
-      "city": "Cerceda",
-      "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-hugo-1255521311",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T08:32:53.508Z",
-      "last_seen": "2026-04-24T08:32:53.508Z",
-      "confirmed_at": "2026-04-24T10:32:59.629Z"
-    },
-    {
-      "id": "v6gp35pmw26e",
-      "model": "3x pokemon tcg charizard ultra premium collection",
-      "title": "3x Pokémon TCG Charizard Ultra Premium Collection",
-      "sold_price": 510,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/3x-pokemon-tcg-charizard-ultra-premium-collection-1255523764",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T08:32:53.508Z",
-      "last_seen": "2026-04-24T08:32:53.508Z",
-      "confirmed_at": "2026-04-24T10:32:59.629Z"
-    },
-    {
-      "id": "e65qdk8x3m6o",
-      "model": "lote pokemon phantasmal flames ingles",
-      "title": "Lote Pokémon Phantasmal Flames Inglés",
-      "sold_price": 62.5,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T08:32:53.508Z",
-      "last_seen": "2026-04-24T08:32:53.508Z",
-      "confirmed_at": "2026-04-24T10:32:59.629Z"
-    }
-  ]
+  "new_sales": []
 }
