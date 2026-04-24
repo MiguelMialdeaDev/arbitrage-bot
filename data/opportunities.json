@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T01:31:41.445Z",
+  "updated_at": "2026-04-24T01:46:23.461Z",
   "tiers": {
     "proven_seller": [
       {
@@ -2715,18 +2715,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "p618m3vdvdz5",
-      "model": "lote cartas pokemon mega clefable talonflame",
-      "title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
-      "sold_price": 10,
-      "city": "L'Ametlla de Mar",
-      "url": "https://es.wallapop.com/item/lote-6-cartas-pokemon-mega-clefable-talonflame-d-1255460579",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-23T23:29:12.521Z",
-      "last_seen": "2026-04-23T23:29:12.521Z",
-      "confirmed_at": "2026-04-24T01:31:41.444Z"
-    }
-  ]
+  "new_sales": []
 }

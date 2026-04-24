@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-04-24T01:45:22.605Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "Álbum SUPER COMPLETO Panini Adrenalyn XL 2025-2026",
+          "price": 250,
+          "city": "Elx/Elche",
+          "url": "https://es.wallapop.com/item/album-panini-adrenalyn-xl-2025-2026-1255476991",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "album super completo panini adrenalyn",
+          "verdict": "skip",
+          "reason": "0 reservados de 'album super completo panini adrenalyn' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cromo Panini Adrenalyn Francés Autógrafo Premium",
+          "price": 130,
+          "city": "Tegueste",
+          "url": "https://es.wallapop.com/item/cromo-panini-adrenalyn-frances-autografo-premium-1255470456",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromo panini adrenalyn frances autografo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromo panini adrenalyn frances autografo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Dragon Ball FB01 Colección Completa",
+          "price": 100,
+          "city": "Areas",
+          "url": "https://es.wallapop.com/item/dragon-ball-fb01-coleccion-completa-1255477928",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "dragon ball fb01 completa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dragon ball fb01 completa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja de mazo Pokémon Mega Charizard XY Nintendo 2014",
+          "price": 22.5,
+          "city": "Lamego",
+          "url": "https://es.wallapop.com/item/deck-box-pokemon-mega-charizard-xy-nintendo-2014-1255477875",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mazo pokemon mega charizard nintendo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mazo pokemon mega charizard nintendo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Charizard Y Lata Charizard Hidden Fates",
+          "price": 28,
+          "city": "Areas",
+          "url": "https://es.wallapop.com/item/carta-charizard-y-lata-charizard-hidden-fates-1255477753",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta charizard lata charizard hidden",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta charizard lata charizard hidden' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Pikachu ex 132/106 Coreano",
+          "price": 1,
+          "city": "León",
+          "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-ex-132-106-coreano-1255476967",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 209,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Volante Logitech G29 + Pedales + Palanca",
+          "price": 150,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/volante-logitech-g29---pedales---palanca-1255477517",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "volante logitech g29 pedales palanca",
+          "verdict": "skip",
+          "reason": "0 reservados de 'volante logitech g29 pedales palanca' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro 128GB Gris - Cristal trasero Roto",
+          "price": 200,
+          "city": "San Miguel do Outeiro",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-128gb-gris-cristal-trasero-roto-1255477032",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        },
+        {
+          "title": "iPhone 16 Pro Max",
+          "price": 550,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/cuadro-de-jesucristo-1255476714",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 171,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "Disco LP Red Skies Over Paradise Fischer-Z",
+          "price": 8.8,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-red-skies-over-paradise-fischer-z-1255477921",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "red skies over paradise fischer-z",
+          "verdict": "skip",
+          "reason": "0 reservados de 'red skies over paradise fischer-z' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Edwin Starr - Happy Radio",
+          "price": 15.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-edwin-starr-happy-radio-1255477890",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "edwin starr happy radio",
+          "verdict": "skip",
+          "reason": "0 reservados de 'edwin starr happy radio' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Blanca nieves y los siete enanitos",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-blanca-nieves-y-los-siete-enanitos-1255477877",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Disco LP Los Marismeños vive la vida cantando",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-los-marismenos-vive-la-vida-cantando-1255477865",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "los marismenos vive vida cantando",
+          "verdict": "skip",
+          "reason": "0 reservados de 'los marismenos vive vida cantando' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Patty Bosque estereo Vol 5",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-patty-bosque-estereo-vol-5-1255477857",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "patty bosque estereo vol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'patty bosque estereo vol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "disco LP vinilo BANDA PRIMITIVA DE PAIPORTA",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-banda-primitiva-de-paiporta-1255465733",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 91,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 43,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 15,
+  "total_signals": 0,
+  "duration_s": 61
+}
