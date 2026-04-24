@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T11:32:14.706Z",
+  "updated_at": "2026-04-24T11:47:38.428Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "pokemon perla reluciente nintendo switch",
+        "example_title": "Pokémon Perla Reluciente Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pokemon-perla-reluciente-nintendo-switch-1255591722",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T11:47:38.427Z",
+        "last_seen": "2026-04-24T11:47:38.427Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Pokémon Perla Reluciente Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-perla-reluciente-nintendo-switch-1255591722",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "terreno tiranido",
+        "example_title": "Terreno Tiranido",
+        "example_url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-24T11:47:38.427Z",
+        "last_seen": "2026-04-24T11:47:38.427Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "Terreno Tiranido",
+            "url": "https://es.wallapop.com/item/terreno-tiranido-1255591412",
+            "city": "Alcantarilla"
+          }
+        ]
+      },
       {
         "model": "lote cromos futbol panini",
         "example_title": "Lote cromos fútbol Panini",
@@ -3970,9 +4020,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 154,
-    "total_unique_models": 157,
-    "total_reservations": 26,
+    "possible": 156,
+    "total_unique_models": 159,
+    "total_reservations": 28,
     "total_confirmed_sales": 136
   },
   "thresholds": {
@@ -3984,42 +4034,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "pj940pneev6e",
-      "model": "funko pop joey tribbiani friends",
-      "title": "Funko Pop! Joey Tribbiani Friends",
-      "sold_price": 7,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T09:32:08.579Z",
-      "last_seen": "2026-04-24T09:32:08.579Z",
-      "confirmed_at": "2026-04-24T11:32:14.704Z"
-    },
-    {
-      "id": "wzvgde2kqdzl",
-      "model": "lote personalizado abilia",
-      "title": "Lote personalizado para Abilia",
-      "sold_price": 20,
-      "city": "Málaga",
-      "url": "https://es.wallapop.com/item/lote-personalizado-para-abilia-1255543141",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T09:32:08.579Z",
-      "last_seen": "2026-04-24T09:32:08.579Z",
-      "confirmed_at": "2026-04-24T11:32:14.704Z"
-    },
-    {
-      "id": "e65qdk7emp6o",
-      "model": "lote 2x pokemon 151 mega dream ex",
-      "title": "Lote 2x Pokémon 151 + Mega Dream Ex",
-      "sold_price": 609.99,
-      "city": "Valdemoro",
-      "url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T09:32:08.579Z",
-      "last_seen": "2026-04-24T09:32:08.579Z",
-      "confirmed_at": "2026-04-24T11:32:14.704Z"
-    }
-  ]
+  "new_sales": []
 }
