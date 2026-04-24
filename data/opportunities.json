@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T08:17:11.473Z",
+  "updated_at": "2026-04-24T08:32:53.510Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cromos futbol panini hugo",
+        "example_title": "Lote cromos fútbol Panini Hugo",
+        "example_url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-hugo-1255521311",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9.5,
+        "median_price": 9.5,
+        "max_price": 9.5,
+        "first_seen": "2026-04-24T08:32:53.508Z",
+        "last_seen": "2026-04-24T08:32:53.508Z",
+        "sample": [
+          {
+            "price": 9.5,
+            "title": "Lote cromos fútbol Panini Hugo",
+            "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-hugo-1255521311",
+            "city": "Cerceda"
+          }
+        ]
+      },
+      {
+        "model": "3x pokemon tcg charizard ultra premium collection",
+        "example_title": "3x Pokémon TCG Charizard Ultra Premium Collection",
+        "example_url": "https://es.wallapop.com/item/3x-pokemon-tcg-charizard-ultra-premium-collection-1255523764",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 510,
+        "median_price": 510,
+        "max_price": 510,
+        "first_seen": "2026-04-24T08:32:53.508Z",
+        "last_seen": "2026-04-24T08:32:53.508Z",
+        "sample": [
+          {
+            "price": 510,
+            "title": "3x Pokémon TCG Charizard Ultra Premium Collection",
+            "url": "https://es.wallapop.com/item/3x-pokemon-tcg-charizard-ultra-premium-collection-1255523764",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote pokemon phantasmal flames ingles",
+        "example_title": "Lote Pokémon Phantasmal Flames Inglés",
+        "example_url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 62.5,
+        "median_price": 62.5,
+        "max_price": 62.5,
+        "first_seen": "2026-04-24T08:32:53.508Z",
+        "last_seen": "2026-04-24T08:32:53.508Z",
+        "sample": [
+          {
+            "price": 62.5,
+            "title": "Lote Pokémon Phantasmal Flames Inglés",
+            "url": "https://es.wallapop.com/item/lote-pokemon-phantasmal-flames-ingles-1255522248",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "legos exin west castillos bcn line bros",
         "example_title": "Legos de Exin West Castillos BCN Line Bros",
@@ -3070,9 +3145,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 118,
-    "total_unique_models": 121,
-    "total_reservations": 12,
+    "possible": 121,
+    "total_unique_models": 124,
+    "total_reservations": 15,
     "total_confirmed_sales": 114
   },
   "thresholds": {
@@ -3083,58 +3158,6 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "pokemon let go eevee nintendo switch",
-      "from_tier": "possible",
-      "to_tier": "hot_24h",
-      "from_label": "💡 Posible",
-      "to_label": "🔥 Hot 24h",
-      "entry": {
-        "model": "pokemon let go eevee nintendo switch",
-        "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
-        "total_reservations": 2,
-        "confirmed_sales": 0,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 15,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-24T07:46:59.188Z",
-        "last_seen": "2026-04-24T08:17:11.472Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Pokémon Let's Go Eevee Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
-            "city": "Badalona"
-          },
-          {
-            "price": 20,
-            "title": "Pokémon Let's Go Eevee Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
-            "city": "Badalona"
-          }
-        ]
-      }
-    }
-  ],
-  "new_sales": [
-    {
-      "id": "qzmm0x3xkyzv",
-      "model": "lote videojuegos ps2",
-      "title": "Lote 5 Videojuegos PS2",
-      "sold_price": 25,
-      "city": "Zaragoza",
-      "url": "https://es.wallapop.com/item/lote-5-videojuegos-ps2-1255491508",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T06:16:43.183Z",
-      "last_seen": "2026-04-24T06:16:43.183Z",
-      "confirmed_at": "2026-04-24T08:17:11.472Z"
-    }
-  ]
+  "tier_ups": [],
+  "new_sales": []
 }
