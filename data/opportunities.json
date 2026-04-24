@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T12:32:21.690Z",
+  "updated_at": "2026-04-24T12:42:51.815Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,181 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "carta pokemon raichu poliwhirl",
+        "example_title": "Carta Pokémon Raichu y Poliwhirl",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-raichu-y-poliwhirl-1255609730",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T12:42:51.813Z",
+        "last_seen": "2026-04-24T12:42:51.813Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Carta Pokémon Raichu y Poliwhirl",
+            "url": "https://es.wallapop.com/item/carta-pokemon-raichu-y-poliwhirl-1255609730",
+            "city": "Zagra"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch perfecto estado",
+        "example_title": "Nintendo Switch perfecto estado",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-perfecto-estado-1255609771",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 150,
+        "median_price": 150,
+        "max_price": 150,
+        "first_seen": "2026-04-24T12:42:51.813Z",
+        "last_seen": "2026-04-24T12:42:51.813Z",
+        "sample": [
+          {
+            "price": 150,
+            "title": "Nintendo Switch perfecto estado",
+            "url": "https://es.wallapop.com/item/nintendo-switch-perfecto-estado-1255609771",
+            "city": "Reus"
+          }
+        ]
+      },
+      {
+        "model": "quimera destruido warhammer 40k",
+        "example_title": "Quimera Destruido Warhammer 40k",
+        "example_url": "https://es.wallapop.com/item/quimera-destruido-warhammer-40k-1255609432",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T12:42:51.813Z",
+        "last_seen": "2026-04-24T12:42:51.813Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Quimera Destruido Warhammer 40k",
+            "url": "https://es.wallapop.com/item/quimera-destruido-warhammer-40k-1255609432",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "manipolatore magic the gathering",
+        "example_title": "Manipolatore - Magic The Gathering",
+        "example_url": "https://es.wallapop.com/item/manipolatore-magic-the-gathering-1255564983",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 3,
+        "median_price": 3,
+        "max_price": 3,
+        "first_seen": "2026-04-24T12:42:51.813Z",
+        "last_seen": "2026-04-24T12:42:51.813Z",
+        "sample": [
+          {
+            "price": 3,
+            "title": "Manipolatore - Magic The Gathering",
+            "url": "https://es.wallapop.com/item/manipolatore-magic-the-gathering-1255564983",
+            "city": "Castellón de la Plana/Castelló de la Plana"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon zapdos ex 192 165",
+        "example_title": "Carta Pokémon Zapdos EX 192/165",
+        "example_url": "https://es.wallapop.com/item/carte-pokemon-zapdos-ex-192-165-1255564917",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8.8,
+        "median_price": 8.8,
+        "max_price": 8.8,
+        "first_seen": "2026-04-24T12:42:51.813Z",
+        "last_seen": "2026-04-24T12:42:51.813Z",
+        "sample": [
+          {
+            "price": 8.8,
+            "title": "Carta Pokémon Zapdos EX 192/165",
+            "url": "https://es.wallapop.com/item/carte-pokemon-zapdos-ex-192-165-1255564917",
+            "city": "Bellaria"
+          }
+        ]
+      },
+      {
+        "model": "juegos ps5 terror fobia maid of sker tormente",
+        "example_title": "4 Juegos PS5 Terror: Fobia, Maid of Sker, Tormente",
+        "example_url": "https://es.wallapop.com/item/4-juegos-ps5-terror-fobia-maid-of-sker-tormente-1255563792",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T12:42:51.813Z",
+        "last_seen": "2026-04-24T12:42:51.813Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "4 Juegos PS5 Terror: Fobia, Maid of Sker, Tormente",
+            "url": "https://es.wallapop.com/item/4-juegos-ps5-terror-fobia-maid-of-sker-tormente-1255563792",
+            "city": "Córdoba"
+          }
+        ]
+      },
+      {
+        "model": "spider ham marvel champions david",
+        "example_title": "Spider-Ham Marvel Champions para David",
+        "example_url": "https://es.wallapop.com/item/spider-ham-marvel-champions-para-david-1255566076",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T12:42:51.813Z",
+        "last_seen": "2026-04-24T12:42:51.813Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Spider-Ham Marvel Champions para David",
+            "url": "https://es.wallapop.com/item/spider-ham-marvel-champions-para-david-1255566076",
+            "city": "Alcalá de Guadaíra"
+          }
+        ]
+      },
       {
         "model": "reserva francisco cartas",
         "example_title": "RESERVA FRANCISCO 5 CARTAS",
@@ -1035,106 +1210,6 @@
             "title": "Pack Soldados Españoles Lego",
             "url": "https://es.wallapop.com/item/pack-soldados-espanoles-lego-1255568698",
             "city": "Moraleja de Enmedio"
-          }
-        ]
-      },
-      {
-        "model": "manipolatore magic the gathering",
-        "example_title": "Manipolatore - Magic The Gathering",
-        "example_url": "https://es.wallapop.com/item/manipolatore-magic-the-gathering-1255564983",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 3,
-        "median_price": 3,
-        "max_price": 3,
-        "first_seen": "2026-04-24T10:32:59.629Z",
-        "last_seen": "2026-04-24T10:32:59.629Z",
-        "sample": [
-          {
-            "price": 3,
-            "title": "Manipolatore - Magic The Gathering",
-            "url": "https://es.wallapop.com/item/manipolatore-magic-the-gathering-1255564983",
-            "city": "Castellón de la Plana/Castelló de la Plana"
-          }
-        ]
-      },
-      {
-        "model": "carta pokemon zapdos ex 192 165",
-        "example_title": "Carta Pokémon Zapdos EX 192/165",
-        "example_url": "https://es.wallapop.com/item/carte-pokemon-zapdos-ex-192-165-1255564917",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8.8,
-        "median_price": 8.8,
-        "max_price": 8.8,
-        "first_seen": "2026-04-24T10:32:59.629Z",
-        "last_seen": "2026-04-24T10:32:59.629Z",
-        "sample": [
-          {
-            "price": 8.8,
-            "title": "Carta Pokémon Zapdos EX 192/165",
-            "url": "https://es.wallapop.com/item/carte-pokemon-zapdos-ex-192-165-1255564917",
-            "city": "Bellaria"
-          }
-        ]
-      },
-      {
-        "model": "juegos ps5 terror fobia maid of sker tormente",
-        "example_title": "4 Juegos PS5 Terror: Fobia, Maid of Sker, Tormente",
-        "example_url": "https://es.wallapop.com/item/4-juegos-ps5-terror-fobia-maid-of-sker-tormente-1255563792",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-24T10:32:59.629Z",
-        "last_seen": "2026-04-24T10:32:59.629Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "4 Juegos PS5 Terror: Fobia, Maid of Sker, Tormente",
-            "url": "https://es.wallapop.com/item/4-juegos-ps5-terror-fobia-maid-of-sker-tormente-1255563792",
-            "city": "Córdoba"
-          }
-        ]
-      },
-      {
-        "model": "spider ham marvel champions david",
-        "example_title": "Spider-Ham Marvel Champions para David",
-        "example_url": "https://es.wallapop.com/item/spider-ham-marvel-champions-para-david-1255566076",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 35,
-        "median_price": 35,
-        "max_price": 35,
-        "first_seen": "2026-04-24T10:32:59.629Z",
-        "last_seen": "2026-04-24T10:32:59.629Z",
-        "sample": [
-          {
-            "price": 35,
-            "title": "Spider-Ham Marvel Champions para David",
-            "url": "https://es.wallapop.com/item/spider-ham-marvel-champions-para-david-1255566076",
-            "city": "Alcalá de Guadaíra"
           }
         ]
       },
@@ -4170,10 +4245,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 162,
-    "total_unique_models": 165,
-    "total_reservations": 24,
-    "total_confirmed_sales": 146
+    "possible": 165,
+    "total_unique_models": 168,
+    "total_reservations": 23,
+    "total_confirmed_sales": 150
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4186,28 +4261,52 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "p618m3k1q7z5",
-      "model": "poltergeist di xenic magic the gathering",
-      "title": "Poltergeist di Xenic - Magic The Gathering",
-      "sold_price": 4.5,
+      "id": "0j28o2q9ndjy",
+      "model": "manipolatore magic the gathering",
+      "title": "Manipolatore - Magic The Gathering",
+      "sold_price": 3,
       "city": "Castellón de la Plana/Castelló de la Plana",
-      "url": "https://es.wallapop.com/item/poltergeist-di-xenic-magic-the-gathering-1255558107",
+      "url": "https://es.wallapop.com/item/manipolatore-magic-the-gathering-1255564983",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T10:18:25.763Z",
-      "last_seen": "2026-04-24T10:18:25.763Z",
-      "confirmed_at": "2026-04-24T12:32:21.689Z"
+      "first_reserved": "2026-04-24T10:32:59.629Z",
+      "last_seen": "2026-04-24T10:32:59.629Z",
+      "confirmed_at": "2026-04-24T12:42:51.813Z"
     },
     {
-      "id": "wzyrgpxx3565",
-      "model": "mando dualsense ps5",
-      "title": "Mando DualSense PS5",
-      "sold_price": 10,
-      "city": "San Lorenzo de El Escorial",
-      "url": "https://es.wallapop.com/item/mando-dualsense-ps5-1255556092",
+      "id": "wzvgdeq9n1zl",
+      "model": "carta pokemon zapdos ex 192 165",
+      "title": "Carta Pokémon Zapdos EX 192/165",
+      "sold_price": 8.8,
+      "city": "Bellaria",
+      "url": "https://es.wallapop.com/item/carte-pokemon-zapdos-ex-192-165-1255564917",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T10:32:59.629Z",
+      "last_seen": "2026-04-24T10:32:59.629Z",
+      "confirmed_at": "2026-04-24T12:42:51.813Z"
+    },
+    {
+      "id": "wzyrgpxmre65",
+      "model": "juegos ps5 terror fobia maid of sker tormente",
+      "title": "4 Juegos PS5 Terror: Fobia, Maid of Sker, Tormente",
+      "sold_price": 35,
+      "city": "Córdoba",
+      "url": "https://es.wallapop.com/item/4-juegos-ps5-terror-fobia-maid-of-sker-tormente-1255563792",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T10:18:25.763Z",
-      "last_seen": "2026-04-24T10:18:25.763Z",
-      "confirmed_at": "2026-04-24T12:32:21.689Z"
+      "first_reserved": "2026-04-24T10:32:59.629Z",
+      "last_seen": "2026-04-24T10:32:59.629Z",
+      "confirmed_at": "2026-04-24T12:42:51.813Z"
+    },
+    {
+      "id": "w67vn5kd4y6x",
+      "model": "spider ham marvel champions david",
+      "title": "Spider-Ham Marvel Champions para David",
+      "sold_price": 35,
+      "city": "Alcalá de Guadaíra",
+      "url": "https://es.wallapop.com/item/spider-ham-marvel-champions-para-david-1255566076",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T10:32:59.629Z",
+      "last_seen": "2026-04-24T10:32:59.629Z",
+      "confirmed_at": "2026-04-24T12:42:51.813Z"
     }
   ]
 }
