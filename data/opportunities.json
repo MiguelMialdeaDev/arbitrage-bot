@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T18:32:35.017Z",
+  "updated_at": "2026-04-24T18:47:26.270Z",
   "tiers": {
     "proven_seller": [
       {
@@ -82,8 +82,8 @@
         "model": "nintendo switch sports",
         "example_title": "Nintendo Switch Sports",
         "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
+        "total_reservations": 0,
+        "confirmed_sales": 2,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -93,8 +93,14 @@
         "median_price": 25,
         "max_price": 25,
         "first_seen": "2026-04-24T14:18:07.704Z",
-        "last_seen": "2026-04-24T16:32:40.885Z",
+        "last_seen": "2026-04-24T18:47:26.269Z",
         "sample": [
+          {
+            "price": 25,
+            "title": "Nintendo Switch Sports",
+            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
+            "city": "Pinto"
+          },
           {
             "price": 20,
             "title": "Nintendo Switch Sports",
@@ -137,6 +143,37 @@
     ],
     "trending_7d": [
       {
+        "model": "lote funko pop stranger things",
+        "example_title": "Lote Funko Pop Stranger Things",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
+        "total_reservations": 0,
+        "confirmed_sales": 2,
+        "total_events": 2,
+        "reservations_24h": 1,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 1.75,
+        "min_price": 5.5,
+        "median_price": 7.5,
+        "max_price": 7.5,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-24T18:47:26.269Z",
+        "sample": [
+          {
+            "price": 5.5,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
+            "city": "Arrasate/Mondragón"
+          },
+          {
+            "price": 7.5,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
+            "city": "Santa Coloma de Gramenet"
+          }
+        ]
+      },
+      {
         "model": "pack juegos nintendo switch",
         "example_title": "Pack 2 Juegos Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
@@ -160,35 +197,85 @@
             "city": "Soto de La Moraleja"
           }
         ]
-      },
-      {
-        "model": "lote funko pop stranger things",
-        "example_title": "Lote Funko Pop Stranger Things",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 1,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 1.9,
-        "min_price": 5.5,
-        "median_price": 7.5,
-        "max_price": 7.5,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-24T16:32:40.885Z",
-        "sample": [
-          {
-            "price": 7.5,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
-            "city": "Santa Coloma de Gramenet"
-          }
-        ]
       }
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop will eddie kinder",
+        "example_title": "Funko Pop! Will y Eddie Kinder",
+        "example_url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-24T18:47:26.269Z",
+        "last_seen": "2026-04-24T18:47:26.269Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Funko Pop! Will y Eddie Kinder",
+            "url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
+            "city": "Ponteareas"
+          }
+        ]
+      },
+      {
+        "model": "animal crossing new horizons switch",
+        "example_title": "Animal Crossing: New Horizons Switch",
+        "example_url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-1255675118",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T18:47:26.269Z",
+        "last_seen": "2026-04-24T18:47:26.269Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Animal Crossing: New Horizons Switch",
+            "url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-1255675118",
+            "city": "Onil"
+          }
+        ]
+      },
+      {
+        "model": "fc 26 ps5 ea sports",
+        "example_title": "FC 26 PS5 EA Sports",
+        "example_url": "https://es.wallapop.com/item/fc-26-ps5-ea-sports-1255675863",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T18:47:26.269Z",
+        "last_seen": "2026-04-24T18:47:26.269Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "FC 26 PS5 EA Sports",
+            "url": "https://es.wallapop.com/item/fc-26-ps5-ea-sports-1255675863",
+            "city": "Guadalajara"
+          }
+        ]
+      },
       {
         "model": "dialga vstar origin forme gg79 cgc",
         "example_title": "Dialga VSTAR Origin Forme GG79 CGC 9",
@@ -811,56 +898,6 @@
             "title": "Lote 2 Articuno y Dark Blastoise Pokémon",
             "url": "https://es.wallapop.com/item/lote-2-articuno-y-dark-blastoise-pokemon-1255638020",
             "city": "Castello/Castellon de La Plana"
-          }
-        ]
-      },
-      {
-        "model": "animal crossing new horizons switch",
-        "example_title": "Animal Crossing: New Horizons Switch",
-        "example_url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-1255675118",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-24T16:32:40.885Z",
-        "last_seen": "2026-04-24T16:32:40.885Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Animal Crossing: New Horizons Switch",
-            "url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-1255675118",
-            "city": "Onil"
-          }
-        ]
-      },
-      {
-        "model": "fc 26 ps5 ea sports",
-        "example_title": "FC 26 PS5 EA Sports",
-        "example_url": "https://es.wallapop.com/item/fc-26-ps5-ea-sports-1255675863",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T16:32:40.885Z",
-        "last_seen": "2026-04-24T16:32:40.885Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "FC 26 PS5 EA Sports",
-            "url": "https://es.wallapop.com/item/fc-26-ps5-ea-sports-1255675863",
-            "city": "Guadalajara"
           }
         ]
       },
@@ -3996,7 +4033,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -5296,10 +5333,10 @@
     "hot_24h": 2,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 204,
-    "total_unique_models": 210,
-    "total_reservations": 14,
-    "total_confirmed_sales": 204
+    "possible": 205,
+    "total_unique_models": 211,
+    "total_reservations": 11,
+    "total_confirmed_sales": 208
   },
   "thresholds": {
     "proven_7d": 3,
@@ -5312,40 +5349,52 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "8j38kddw77z9",
-      "model": "dialga vstar origin forme gg79 cgc",
-      "title": "Dialga VSTAR Origin Forme GG79 CGC 9",
-      "sold_price": 90,
-      "city": "Sabiñánigo",
-      "url": "https://es.wallapop.com/item/dialga-vstar-origin-forme-gg79-cgc-9-1255671910",
+      "id": "pzpkxoe1dmj3",
+      "model": "lote funko pop stranger things",
+      "title": "Lote Funko Pop Stranger Things",
+      "sold_price": 7.5,
+      "city": "Santa Coloma de Gramenet",
+      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T16:17:43.375Z",
-      "last_seen": "2026-04-24T16:17:43.375Z",
-      "confirmed_at": "2026-04-24T18:32:35.016Z"
+      "first_reserved": "2026-04-24T16:32:40.885Z",
+      "last_seen": "2026-04-24T16:32:40.885Z",
+      "confirmed_at": "2026-04-24T18:47:26.269Z"
     },
     {
-      "id": "8z88pnno5lz3",
-      "model": "iphone xs 64gb gris cristal trasero roto",
-      "title": "iPhone XS 64GB Gris - Cristal Trasero Roto",
-      "sold_price": 45,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/iphone-xs-64gb-gris-cristal-trasero-roto-1255674422",
+      "id": "wzyrgp1e9v65",
+      "model": "nintendo switch sports",
+      "title": "Nintendo Switch Sports",
+      "sold_price": 20,
+      "city": "Berga",
+      "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T16:17:43.375Z",
-      "last_seen": "2026-04-24T16:17:43.375Z",
-      "confirmed_at": "2026-04-24T18:32:35.016Z"
+      "first_reserved": "2026-04-24T16:32:40.885Z",
+      "last_seen": "2026-04-24T16:32:40.885Z",
+      "confirmed_at": "2026-04-24T18:47:26.269Z"
     },
     {
-      "id": "xzogwmm92lj9",
-      "model": "lote blu ray nuevos",
-      "title": "Lote 3 blu ray como nuevos",
-      "sold_price": 31,
-      "city": "Santander",
-      "url": "https://es.wallapop.com/item/lote-3-blu-ray-como-nuevos-1255672057",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T16:17:43.375Z",
-      "last_seen": "2026-04-24T16:17:43.375Z",
-      "confirmed_at": "2026-04-24T18:32:35.016Z"
+      "id": "x6qq133r2o6y",
+      "model": "animal crossing new horizons switch",
+      "title": "Animal Crossing: New Horizons Switch",
+      "sold_price": 20,
+      "city": "Onil",
+      "url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-1255675118",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T16:32:40.885Z",
+      "last_seen": "2026-04-24T16:32:40.885Z",
+      "confirmed_at": "2026-04-24T18:47:26.269Z"
+    },
+    {
+      "id": "36e5m479yk6d",
+      "model": "fc 26 ps5 ea sports",
+      "title": "FC 26 PS5 EA Sports",
+      "sold_price": 25,
+      "city": "Guadalajara",
+      "url": "https://es.wallapop.com/item/fc-26-ps5-ea-sports-1255675863",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-24T16:32:40.885Z",
+      "last_seen": "2026-04-24T16:32:40.885Z",
+      "confirmed_at": "2026-04-24T18:47:26.269Z"
     }
   ]
 }
