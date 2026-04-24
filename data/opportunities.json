@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T20:17:05.742Z",
+  "updated_at": "2026-04-24T20:27:20.710Z",
   "tiers": {
     "proven_seller": [
       {
@@ -232,6 +232,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pokemon escarlata purpura evoluciones paldea",
+        "example_title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
+        "example_url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-evoluciones-en-paldea-1255742282",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 80,
+        "median_price": 80,
+        "max_price": 80,
+        "first_seen": "2026-04-24T20:27:20.709Z",
+        "last_seen": "2026-04-24T20:27:20.709Z",
+        "sample": [
+          {
+            "price": 80,
+            "title": "Pokémon Escarlata y Púrpura: Evoluciones en Paldea",
+            "url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-evoluciones-en-paldea-1255742282",
+            "city": "Valencia"
+          }
+        ]
+      },
       {
         "model": "funko pop harry potter rubeus hagrid remuslupin",
         "example_title": "Funko Pop! Harry Potter Rubeus Hagrid y RemusLupin",
@@ -5689,9 +5714,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 218,
-    "total_unique_models": 225,
-    "total_reservations": 18,
+    "possible": 219,
+    "total_unique_models": 226,
+    "total_reservations": 19,
     "total_confirmed_sales": 216
   },
   "thresholds": {
@@ -5703,42 +5728,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "3zlmpwymg4jx",
-      "model": "mario party superstars nintendo switch",
-      "title": "Mario Party Superstars Nintendo Switch",
-      "sold_price": 24,
-      "city": "Torredembarra",
-      "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T18:02:49.115Z",
-      "last_seen": "2026-04-24T18:02:49.115Z",
-      "confirmed_at": "2026-04-24T20:17:05.740Z"
-    },
-    {
-      "id": "36e5m4y15q6d",
-      "model": "pack juegos switch 180519",
-      "title": "PACK 2 JUEGOS SWITCH (180519)",
-      "sold_price": 39.9,
-      "city": "Elda",
-      "url": "https://es.wallapop.com/item/pack-2-juegos-switch-180519-1255706087",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T18:02:49.115Z",
-      "last_seen": "2026-04-24T18:02:49.115Z",
-      "confirmed_at": "2026-04-24T20:17:05.740Z"
-    },
-    {
-      "id": "9jdw19yeqd6k",
-      "model": "pack steelbooks 4k uhd blu ray",
-      "title": "Pack 2 Steelbooks 4K UHD Blu-ray",
-      "sold_price": 75,
-      "city": "Oviedo",
-      "url": "https://es.wallapop.com/item/pack-2-steelbooks-4k-uhd-blu-ray-1255708584",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T18:02:49.115Z",
-      "last_seen": "2026-04-24T18:02:49.115Z",
-      "confirmed_at": "2026-04-24T20:17:05.740Z"
-    }
-  ]
+  "new_sales": []
 }
