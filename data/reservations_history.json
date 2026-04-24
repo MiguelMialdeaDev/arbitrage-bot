@@ -12,17 +12,6 @@
       "last_seen": "2026-04-24T08:02:30.011Z"
     },
     {
-      "id": "vjrem2p4q8zk",
-      "title": "Funko Pop Star Wars y Batman",
-      "model": "funko pop star wars batman",
-      "price": 40,
-      "city": "Basardilla",
-      "url": "https://es.wallapop.com/item/funko-pop-star-wars-y-batman-1255582791",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T11:18:30.736Z",
-      "last_seen": "2026-04-24T11:18:30.736Z"
-    },
-    {
       "id": "w67vn5r99y6x",
       "title": "Lote cromos fútbol Panini",
       "model": "lote cromos futbol panini",
@@ -30,39 +19,6 @@
       "city": "Jaén",
       "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
       "category": "Coleccionismo",
-      "first_seen": "2026-04-24T11:32:14.704Z",
-      "last_seen": "2026-04-24T11:32:14.704Z"
-    },
-    {
-      "id": "x6qq13ngky6y",
-      "title": "Pokémon TCG: SV6 Twilight Masquerade",
-      "model": "pokemon tcg sv6 twilight masquerade",
-      "price": 40,
-      "city": "Santander",
-      "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-1255588442",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T11:32:14.704Z",
-      "last_seen": "2026-04-24T11:32:14.704Z"
-    },
-    {
-      "id": "wzyrgpogyv65",
-      "title": "Playmobil La Aventura de la Historia Lote Anna.",
-      "model": "playmobil aventura historia lote anna",
-      "price": 24,
-      "city": "Alhaurín de la Torre",
-      "url": "https://es.wallapop.com/item/playmobil-la-aventura-de-la-historia-lote-1255586292",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T11:32:14.704Z",
-      "last_seen": "2026-04-24T11:32:14.704Z"
-    },
-    {
-      "id": "x6qq13n3ly6y",
-      "title": "Set de figuras Gormiti",
-      "model": "set figuras gormiti",
-      "price": 8,
-      "city": "Sassuolo",
-      "url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
-      "category": "Niños y bebés",
       "first_seen": "2026-04-24T11:32:14.704Z",
       "last_seen": "2026-04-24T11:32:14.704Z"
     },
@@ -263,6 +219,61 @@
       "category": "Cine, libros y música",
       "first_seen": "2026-04-24T13:17:33.679Z",
       "last_seen": "2026-04-24T13:17:33.679Z"
+    },
+    {
+      "id": "x6qq131qko6y",
+      "title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
+      "model": "pokemon tcg sv6 twilight masquerade aritz",
+      "price": 65,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z"
+    },
+    {
+      "id": "4z48292e9vjy",
+      "title": "Carta Pokémon Snorlax 150 HP",
+      "model": "carta pokemon snorlax 150 hp",
+      "price": 47,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z"
+    },
+    {
+      "id": "wzvgdednqrzl",
+      "title": "Pack Pokémon Escarlata y Mario & Luigi",
+      "model": "pack pokemon escarlata mario luigi",
+      "price": 60,
+      "city": "Castellbisbal",
+      "url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z"
+    },
+    {
+      "id": "8z88pnpr8oz3",
+      "title": "Blu-ray: Di que sí y Ted",
+      "model": "blu ray di que si ted",
+      "price": 25,
+      "city": "Cornella de Llobregat",
+      "url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
+      "category": "Cine, libros y música",
+      "first_seen": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z"
+    },
+    {
+      "id": "3zlmpwp1ypjx",
+      "title": "PARA FERRAN",
+      "model": "ferran",
+      "price": 35,
+      "city": "Leganés",
+      "url": "https://es.wallapop.com/item/para-ferran-1255622869",
+      "category": "Cine, libros y música",
+      "first_seen": "2026-04-24T13:32:32.592Z",
+      "last_seen": "2026-04-24T13:32:32.592Z"
     }
   ]
 }

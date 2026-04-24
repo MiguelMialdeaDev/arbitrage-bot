@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T13:17:33.681Z",
+  "updated_at": "2026-04-24T13:32:32.594Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,231 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "pokemon tcg sv6 twilight masquerade aritz",
+        "example_title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
+        "example_url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 65,
+        "median_price": 65,
+        "max_price": 65,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 65,
+            "title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
+            "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon snorlax 150 hp",
+        "example_title": "Carta Pokémon Snorlax 150 HP",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 47,
+        "median_price": 47,
+        "max_price": 47,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 47,
+            "title": "Carta Pokémon Snorlax 150 HP",
+            "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "pack pokemon escarlata mario luigi",
+        "example_title": "Pack Pokémon Escarlata y Mario & Luigi",
+        "example_url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Pack Pokémon Escarlata y Mario & Luigi",
+            "url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
+            "city": "Castellbisbal"
+          }
+        ]
+      },
+      {
+        "model": "blu ray di que si ted",
+        "example_title": "Blu-ray: Di que sí y Ted",
+        "example_url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Blu-ray: Di que sí y Ted",
+            "url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
+            "city": "Cornella de Llobregat"
+          }
+        ]
+      },
+      {
+        "model": "ferran",
+        "example_title": "PARA FERRAN",
+        "example_url": "https://es.wallapop.com/item/para-ferran-1255622869",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "PARA FERRAN",
+            "url": "https://es.wallapop.com/item/para-ferran-1255622869",
+            "city": "Leganés"
+          }
+        ]
+      },
+      {
+        "model": "funko pop star wars batman",
+        "example_title": "Funko Pop Star Wars y Batman",
+        "example_url": "https://es.wallapop.com/item/funko-pop-star-wars-y-batman-1255582791",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Funko Pop Star Wars y Batman",
+            "url": "https://es.wallapop.com/item/funko-pop-star-wars-y-batman-1255582791",
+            "city": "Basardilla"
+          }
+        ]
+      },
+      {
+        "model": "pokemon tcg sv6 twilight masquerade",
+        "example_title": "Pokémon TCG: SV6 Twilight Masquerade",
+        "example_url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-1255588442",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Pokémon TCG: SV6 Twilight Masquerade",
+            "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-1255588442",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
+        "model": "playmobil aventura historia lote anna",
+        "example_title": "Playmobil La Aventura de la Historia Lote Anna.",
+        "example_url": "https://es.wallapop.com/item/playmobil-la-aventura-de-la-historia-lote-1255586292",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Playmobil La Aventura de la Historia Lote Anna.",
+            "url": "https://es.wallapop.com/item/playmobil-la-aventura-de-la-historia-lote-1255586292",
+            "city": "Alhaurín de la Torre"
+          }
+        ]
+      },
+      {
+        "model": "set figuras gormiti",
+        "example_title": "Set de figuras Gormiti",
+        "example_url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-24T13:32:32.592Z",
+        "last_seen": "2026-04-24T13:32:32.592Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Set de figuras Gormiti",
+            "url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
+            "city": "Sassuolo"
+          }
+        ]
+      },
       {
         "model": "cromos lamine yamal panini instant",
         "example_title": "4 Cromos Lamine Yamal Panini Instant",
@@ -1089,81 +1314,6 @@
         ]
       },
       {
-        "model": "pokemon tcg sv6 twilight masquerade",
-        "example_title": "Pokémon TCG: SV6 Twilight Masquerade",
-        "example_url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-1255588442",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-24T11:32:14.704Z",
-        "last_seen": "2026-04-24T11:32:14.704Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Pokémon TCG: SV6 Twilight Masquerade",
-            "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-1255588442",
-            "city": "Santander"
-          }
-        ]
-      },
-      {
-        "model": "playmobil aventura historia lote anna",
-        "example_title": "Playmobil La Aventura de la Historia Lote Anna.",
-        "example_url": "https://es.wallapop.com/item/playmobil-la-aventura-de-la-historia-lote-1255586292",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 24,
-        "median_price": 24,
-        "max_price": 24,
-        "first_seen": "2026-04-24T11:32:14.704Z",
-        "last_seen": "2026-04-24T11:32:14.704Z",
-        "sample": [
-          {
-            "price": 24,
-            "title": "Playmobil La Aventura de la Historia Lote Anna.",
-            "url": "https://es.wallapop.com/item/playmobil-la-aventura-de-la-historia-lote-1255586292",
-            "city": "Alhaurín de la Torre"
-          }
-        ]
-      },
-      {
-        "model": "set figuras gormiti",
-        "example_title": "Set de figuras Gormiti",
-        "example_url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8,
-        "median_price": 8,
-        "max_price": 8,
-        "first_seen": "2026-04-24T11:32:14.704Z",
-        "last_seen": "2026-04-24T11:32:14.704Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "Set de figuras Gormiti",
-            "url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
-            "city": "Sassuolo"
-          }
-        ]
-      },
-      {
         "model": "funko pop joey tribbiani friends",
         "example_title": "Funko Pop! Joey Tribbiani Friends",
         "example_url": "https://es.wallapop.com/item/funko-pop-joey-tribbiani-friends-1255543761",
@@ -1235,31 +1385,6 @@
             "title": "Lote 2x Pokémon 151 + Mega Dream Ex",
             "url": "https://es.wallapop.com/item/lote-2x-pokemon-151---mega-dream-ex-1255543496",
             "city": "Valdemoro"
-          }
-        ]
-      },
-      {
-        "model": "funko pop star wars batman",
-        "example_title": "Funko Pop Star Wars y Batman",
-        "example_url": "https://es.wallapop.com/item/funko-pop-star-wars-y-batman-1255582791",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-24T11:18:30.736Z",
-        "last_seen": "2026-04-24T11:18:30.736Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Funko Pop Star Wars y Batman",
-            "url": "https://es.wallapop.com/item/funko-pop-star-wars-y-batman-1255582791",
-            "city": "Basardilla"
           }
         ]
       },
@@ -4420,10 +4545,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 172,
-    "total_unique_models": 175,
-    "total_reservations": 24,
-    "total_confirmed_sales": 156
+    "possible": 177,
+    "total_unique_models": 180,
+    "total_reservations": 25,
+    "total_confirmed_sales": 160
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4434,5 +4559,54 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "vjrem2p4q8zk",
+      "model": "funko pop star wars batman",
+      "title": "Funko Pop Star Wars y Batman",
+      "sold_price": 40,
+      "city": "Basardilla",
+      "url": "https://es.wallapop.com/item/funko-pop-star-wars-y-batman-1255582791",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T11:18:30.736Z",
+      "last_seen": "2026-04-24T11:18:30.736Z",
+      "confirmed_at": "2026-04-24T13:32:32.592Z"
+    },
+    {
+      "id": "x6qq13ngky6y",
+      "model": "pokemon tcg sv6 twilight masquerade",
+      "title": "Pokémon TCG: SV6 Twilight Masquerade",
+      "sold_price": 40,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-1255588442",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T11:32:14.704Z",
+      "last_seen": "2026-04-24T11:32:14.704Z",
+      "confirmed_at": "2026-04-24T13:32:32.592Z"
+    },
+    {
+      "id": "wzyrgpogyv65",
+      "model": "playmobil aventura historia lote anna",
+      "title": "Playmobil La Aventura de la Historia Lote Anna.",
+      "sold_price": 24,
+      "city": "Alhaurín de la Torre",
+      "url": "https://es.wallapop.com/item/playmobil-la-aventura-de-la-historia-lote-1255586292",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T11:32:14.704Z",
+      "last_seen": "2026-04-24T11:32:14.704Z",
+      "confirmed_at": "2026-04-24T13:32:32.592Z"
+    },
+    {
+      "id": "x6qq13n3ly6y",
+      "model": "set figuras gormiti",
+      "title": "Set de figuras Gormiti",
+      "sold_price": 8,
+      "city": "Sassuolo",
+      "url": "https://es.wallapop.com/item/gormiti-set-figure-1255587842",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-24T11:32:14.704Z",
+      "last_seen": "2026-04-24T11:32:14.704Z",
+      "confirmed_at": "2026-04-24T13:32:32.592Z"
+    }
+  ]
 }
