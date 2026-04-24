@@ -1,0 +1,444 @@
+{
+  "timestamp": "2026-04-24T02:15:18.875Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 10,
+      "items": [
+        {
+          "title": "MTG Innistrad: Crimson Vow Draft Booster en inglés",
+          "price": 3.49,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/mtg-innistrad-crimson-vow-draft-booster-en-ingles-1255478921",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokemon Hatenna",
+          "price": 1.65,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-hatenna-1255479193",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokemon Miraidon",
+          "price": 1.65,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-miraidon-1255479189",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokemon Jigglypuff",
+          "price": 0.55,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-jigglypuff-1255479178",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokemon Dragapult",
+          "price": 1.1,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-dragapult-1255479165",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokemon Charizard",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-charizard-1255479156",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokemon Koraidon",
+          "price": 1.1,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-koraidon-1255479152",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Charizard pokemon",
+          "price": 95,
+          "city": "Areas",
+          "url": "https://es.wallapop.com/item/charizard-pokemon-1255478916",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "charizard pokemon",
+          "verdict": "skip",
+          "reason": "95€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "3 Blíster Pack Equilibrio Perfecto 🇪🇦",
+          "price": 18,
+          "city": "Silla",
+          "url": "https://es.wallapop.com/item/3-blister-pack-equilibrio-perfecto-1255478894",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "blister pack equilibrio 🇪🇦",
+          "verdict": "skip",
+          "reason": "0 reservados de 'blister pack equilibrio 🇪🇦' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pin Collection Ascended Héroes 🇪🇦",
+          "price": 38,
+          "city": "Silla",
+          "url": "https://es.wallapop.com/item/pin-collection-ascended-heroes-1255478865",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pin collection ascended heroes 🇪🇦",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pin collection ascended heroes 🇪🇦' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 214,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Atomic Heart PS5",
+          "price": 20,
+          "city": "Marín",
+          "url": "https://es.wallapop.com/item/atomic-heart-ps5-1255478918",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "atomic heart ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'atomic heart ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 17 Pro Max",
+          "price": 870,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/libro-infantil-the-crazy-haacks-1255479041",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Honor 200 pro y patín lee anuncio ⏬",
+          "price": 400,
+          "city": "Daimiel",
+          "url": "https://es.wallapop.com/item/honor-200-pro-y-patin-lee-anuncio-1255478886",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "honor pro patin lee anuncio",
+          "verdict": "skip",
+          "reason": "0 reservados de 'honor pro patin lee anuncio' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 172,
+      "new_items": 21,
+      "items": [
+        {
+          "title": "Disco LP Ian Dury Lord upminster",
+          "price": 9.9,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-ian-dury-lord-upminster-1255479395",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "vinilo problema: salta"
+        },
+        {
+          "title": "Disco LP Victor Manuel",
+          "price": 8.8,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-victor-manuel-1255479252",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "victor manuel",
+          "verdict": "skip",
+          "reason": "8.8€ vs mín reservado 5.3€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Disco LP Barbra Streisand, Live Concert At the forum",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-barbra-streisand-live-concert-at-the-forum-1255479242",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "barbra streisand, live concert the",
+          "verdict": "skip",
+          "reason": "0 reservados de 'barbra streisand, live concert the' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Barbra Streisand, Yentl",
+          "price": 7.59,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-barbra-streisand-yentl-1255479225",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "barbra streisand, yentl",
+          "verdict": "skip",
+          "reason": "0 reservados de 'barbra streisand, yentl' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP A star is born STREISAND/KRISTOFFERSON",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-a-star-is-born-streisand-kristofferson-1255479213",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "star born streisand/kristofferson",
+          "verdict": "skip",
+          "reason": "0 reservados de 'star born streisand/kristofferson' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Si tu no estas -  al bano",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-si-tu-no-estas-al-bano-1255479208",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Disco LP, JAMES LAST -Happy Summer Night",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-james-last-happy-summer-night-1255479202",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, james last -happy summer",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lp, james last -happy summer' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco LP Alrededor del mundo, James last",
+          "price": 3.3,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-alrededor-del-mundo-james-last-1255479198",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "alrededor del mundo, james last",
+          "verdict": "skip",
+          "reason": "0 reservados de 'alrededor del mundo, james last' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco, Lp, Glen Matlock & The Philistines, Born Running, 2010",
+          "price": 14.19,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-glen-matlock-the-philistines-born-running-2010-1255479006",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, glen matlock the",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, glen matlock the' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco, Lp, Mountain , Avalanche,1987",
+          "price": 14.19,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-mountain-avalanche-1987-1255479002",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, mountain avalanche,1987",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, mountain avalanche,1987' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco, Lp, Elton John, Tumbleweed Collection, 1970",
+          "price": 13.09,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-elton-john-tumbleweed-collection-1970-1255478986",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, elton john, tumbleweed",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, elton john, tumbleweed' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco, Lp, Elton John, Empty Sky, 1977",
+          "price": 17.49,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-elton-john-empty-sky-1977-1255478941",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, elton john, empty",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, elton john, empty' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco, Lp, Ringo Starr, Ringos Rotogravure, 1976",
+          "price": 17.49,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-ringo-starr-ringos-rotogravure-1976-1255478934",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "estado: roto"
+        },
+        {
+          "title": "Disco, Lp, Ringo Starr, Goodnight Vienna, 1974",
+          "price": 16.39,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-ringo-starr-goodnight-vienna-1974-1255478924",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, ringo starr, goodnight",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, ringo starr, goodnight' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco, Lp, Ted Herold, Moonlight, 1982",
+          "price": 2.09,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-ted-herold-moonlight-1982-1255478910",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Disco, Lp, Jesucristo Superstar,  Versión Original En Español, 1975",
+          "price": 24.09,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-jesucristo-superstar-version-original-en-espanol-1975-1255478906",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, jesucristo superstar, version",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, jesucristo superstar, version' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco, Lp, The Rolling Stones, Still Life, American Concert 1981",
+          "price": 13.09,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-the-rolling-stones-still-life-american-concert-1981-1255478903",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, the rolling stones,",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, the rolling stones,' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Disco, Lp, Amistades Peligrosas, La Última Tentación",
+          "price": 7.59,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-amistades-peligrosas-la-ultima-tentacion-1255478899",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, amistades peligrosas, ultima",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, amistades peligrosas, ultima' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Hatchet Saga 4 Películas Blu-ray SuperDescatalogad",
+          "price": 69.99,
+          "city": "Cambrils",
+          "url": "https://es.wallapop.com/item/hatchet-saga-4-peliculas-blu-ray-superdescatalogad-1255479363",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "hatchet saga peliculas blu-ray superdescatalogad",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hatchet saga peliculas blu-ray superdescatalogad' (sin evidencia de demanda)"
+        },
+        {
+          "title": "libro, primera edicion, Veterinaria. Exploración clínica de los animales domésticos, Tomás Rodríguez. Editorial Labor 1935",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/libro-primera-edicion-veterinaria-exploracion-clinica-de-los-animales-domesticos-tomas-rodriguez-editorial-labor-1935-1255479021",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Metodo para el aprendizaje de la lengua maya - Libro",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/metodo-para-el-aprendizaje-de-la-lengua-maya-libro-1255478869",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 92,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Top Trump Specials - Juego de Cartas - Star Wars Episodios IV-VI",
+          "price": 9.79,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/top-trump-specials-juego-de-cartas-star-wars-episodios-iv-vi-1255479308",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "TOP TRUMPS SPECIALS \"STAR WARS - The Clone Wars\" 2008",
+          "price": 9.79,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/top-trumps-specials-star-wars-the-clone-wars-2008-1255479303",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Top Trump Specials - Juego de Cartas - Star Wars nuevo precintando, episodio III",
+          "price": 11,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/top-trump-specials-juego-de-cartas-star-wars-nuevo-precintando-episodio-iii-1255479283",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "top trump specials juego cartas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'top trump specials juego cartas' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Maletín Póker y Mus Completo",
+          "price": 30,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/maletin-poker-y-mus-completo-1255479118",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "maletin poker mus completo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'maletin poker mus completo' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 42,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 38,
+  "total_signals": 0,
+  "duration_s": 67
+}
