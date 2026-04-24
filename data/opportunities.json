@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T15:47:38.093Z",
+  "updated_at": "2026-04-24T16:03:22.761Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,81 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "nintendo switch pokemon escarlata",
+        "example_title": "Nintendo Switch Pokémon Escarlata",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-pokemon-escarlata-1255668786",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T16:03:22.760Z",
+        "last_seen": "2026-04-24T16:03:22.760Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Nintendo Switch Pokémon Escarlata",
+            "url": "https://es.wallapop.com/item/nintendo-switch-pokemon-escarlata-1255668786",
+            "city": "Torredembarra"
+          }
+        ]
+      },
+      {
+        "model": "funko pop kinder joy stranger things",
+        "example_title": "Funko Pop! Kinder Joy Stranger Things",
+        "example_url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255629954",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-24T16:03:22.760Z",
+        "last_seen": "2026-04-24T16:03:22.760Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Funko Pop! Kinder Joy Stranger Things",
+            "url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255629954",
+            "city": "Esplugues de Llobregat"
+          }
+        ]
+      },
+      {
+        "model": "red dead redemption nintendo switch",
+        "example_title": "Red Dead Redemption 1 Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T16:03:22.760Z",
+        "last_seen": "2026-04-24T16:03:22.760Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Red Dead Redemption 1 Nintendo Switch",
+            "url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
+            "city": "Fonteculler"
+          }
+        ]
+      },
       {
         "model": "funko pop star wars princess leia 595",
         "example_title": "Funko Pop! Star Wars Princess Leia 595",
@@ -935,56 +1010,6 @@
             "title": "Nintendo Switch Sports",
             "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
             "city": "Pinto"
-          }
-        ]
-      },
-      {
-        "model": "funko pop kinder joy stranger things",
-        "example_title": "Funko Pop! Kinder Joy Stranger Things",
-        "example_url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255629954",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 6,
-        "median_price": 6,
-        "max_price": 6,
-        "first_seen": "2026-04-24T14:02:00.122Z",
-        "last_seen": "2026-04-24T14:02:00.122Z",
-        "sample": [
-          {
-            "price": 6,
-            "title": "Funko Pop! Kinder Joy Stranger Things",
-            "url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255629954",
-            "city": "Esplugues de Llobregat"
-          }
-        ]
-      },
-      {
-        "model": "red dead redemption nintendo switch",
-        "example_title": "Red Dead Redemption 1 Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-24T14:02:00.122Z",
-        "last_seen": "2026-04-24T14:02:00.122Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Red Dead Redemption 1 Nintendo Switch",
-            "url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
-            "city": "Fonteculler"
           }
         ]
       },
@@ -4070,7 +4095,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4095,7 +4120,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4120,7 +4145,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4145,7 +4170,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4170,7 +4195,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -4945,10 +4970,10 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 193,
-    "total_unique_models": 196,
-    "total_reservations": 18,
-    "total_confirmed_sales": 183
+    "possible": 194,
+    "total_unique_models": 197,
+    "total_reservations": 17,
+    "total_confirmed_sales": 185
   },
   "thresholds": {
     "proven_7d": 3,
@@ -4961,64 +4986,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "x6qq131qko6y",
-      "model": "pokemon tcg sv6 twilight masquerade aritz",
-      "title": "Pokémon TCG: SV6 Twilight Masquerade ARITZ",
-      "sold_price": 65,
-      "city": "Santander",
-      "url": "https://es.wallapop.com/item/pokemon-tcg-sv6-twilight-masquerade-elite-trainer-1255623590",
+      "id": "nzxegngx5762",
+      "model": "funko pop kinder joy stranger things",
+      "title": "Funko Pop! Kinder Joy Stranger Things",
+      "sold_price": 6,
+      "city": "Esplugues de Llobregat",
+      "url": "https://es.wallapop.com/item/funko-pop-kinder-joy-stranger-things-1255629954",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z",
-      "confirmed_at": "2026-04-24T15:47:38.091Z"
+      "first_reserved": "2026-04-24T14:02:00.122Z",
+      "last_seen": "2026-04-24T14:02:00.122Z",
+      "confirmed_at": "2026-04-24T16:03:22.760Z"
     },
     {
-      "id": "4z48292e9vjy",
-      "model": "carta pokemon snorlax 150 hp",
-      "title": "Carta Pokémon Snorlax 150 HP",
-      "sold_price": 47,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-150-hp-1255623362",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z",
-      "confirmed_at": "2026-04-24T15:47:38.091Z"
-    },
-    {
-      "id": "wzvgdednqrzl",
-      "model": "pack pokemon escarlata mario luigi",
-      "title": "Pack Pokémon Escarlata y Mario & Luigi",
-      "sold_price": 60,
-      "city": "Castellbisbal",
-      "url": "https://es.wallapop.com/item/pack-pokemon-escarlata-y-mario-luigi-1255622617",
+      "id": "pj940p09rv6e",
+      "model": "red dead redemption nintendo switch",
+      "title": "Red Dead Redemption 1 Nintendo Switch",
+      "sold_price": 20,
+      "city": "Fonteculler",
+      "url": "https://es.wallapop.com/item/red-dead-redemption-1-nintendo-switch-1255630713",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z",
-      "confirmed_at": "2026-04-24T15:47:38.091Z"
-    },
-    {
-      "id": "8z88pnpr8oz3",
-      "model": "blu ray di que si ted",
-      "title": "Blu-ray: Di que sí y Ted",
-      "sold_price": 25,
-      "city": "Cornella de Llobregat",
-      "url": "https://es.wallapop.com/item/blu-ray-di-que-si-y-ted-1255626022",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T13:32:32.592Z",
-      "last_seen": "2026-04-24T13:32:32.592Z",
-      "confirmed_at": "2026-04-24T15:47:38.091Z"
-    },
-    {
-      "id": "vjrem2mmvwzk",
-      "model": "pathfinder adventure card game core expansion",
-      "title": "Pathfinder Adventure Card Game: Core y expansion",
-      "sold_price": 39,
-      "city": "Colmenar Viejo",
-      "url": "https://es.wallapop.com/item/pathfinder-adventure-card-game-core-y-expansion-1255627891",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-24T13:47:33.468Z",
-      "last_seen": "2026-04-24T13:47:33.468Z",
-      "confirmed_at": "2026-04-24T15:47:38.091Z"
+      "first_reserved": "2026-04-24T14:02:00.122Z",
+      "last_seen": "2026-04-24T14:02:00.122Z",
+      "confirmed_at": "2026-04-24T16:03:22.760Z"
     }
   ]
 }
