@@ -12,28 +12,6 @@
       "last_seen": "2026-04-24T08:02:30.011Z"
     },
     {
-      "id": "mzn371mg1kjn",
-      "title": "RESERVA FRANCISCO 5 CARTAS",
-      "model": "reserva francisco cartas",
-      "price": 18,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/reserva-francisco-5-cartas-1255607249",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-24T12:32:21.689Z",
-      "last_seen": "2026-04-24T12:32:21.689Z"
-    },
-    {
-      "id": "0j28o2em0ejy",
-      "title": "PACK JUEGOS DE MESA",
-      "model": "pack juegos mesa",
-      "price": 40,
-      "city": "El Escorial",
-      "url": "https://es.wallapop.com/item/pack-juegos-de-mesa-1255606235",
-      "category": "Deporte y ocio",
-      "first_seen": "2026-04-24T12:32:21.689Z",
-      "last_seen": "2026-04-24T12:32:21.689Z"
-    },
-    {
       "id": "nzxegnved562",
       "title": "Carta Pokémon Raichu y Poliwhirl",
       "model": "carta pokemon raichu poliwhirl",
@@ -263,6 +241,17 @@
       "category": "Cine, libros y música",
       "first_seen": "2026-04-24T14:18:07.704Z",
       "last_seen": "2026-04-24T14:18:07.704Z"
+    },
+    {
+      "id": "wzyrgp0yn265",
+      "title": "Lote 2 Articuno y Dark Blastoise Pokémon",
+      "model": "lote articuno dark blastoise pokemon",
+      "price": 55,
+      "city": "Castello/Castellon de La Plana",
+      "url": "https://es.wallapop.com/item/lote-2-articuno-y-dark-blastoise-pokemon-1255638020",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-24T14:33:24.347Z",
+      "last_seen": "2026-04-24T14:33:24.347Z"
     }
   ]
 }

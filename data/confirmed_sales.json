@@ -2003,6 +2003,30 @@
       "first_reserved": "2026-04-24T12:17:33.126Z",
       "last_seen": "2026-04-24T12:17:33.126Z",
       "confirmed_at": "2026-04-24T14:18:07.704Z"
+    },
+    {
+      "id": "mzn371mg1kjn",
+      "model": "reserva francisco cartas",
+      "title": "RESERVA FRANCISCO 5 CARTAS",
+      "sold_price": 18,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/reserva-francisco-5-cartas-1255607249",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T12:32:21.689Z",
+      "last_seen": "2026-04-24T12:32:21.689Z",
+      "confirmed_at": "2026-04-24T14:33:24.347Z"
+    },
+    {
+      "id": "0j28o2em0ejy",
+      "model": "pack juegos mesa",
+      "title": "PACK JUEGOS DE MESA",
+      "sold_price": 40,
+      "city": "El Escorial",
+      "url": "https://es.wallapop.com/item/pack-juegos-de-mesa-1255606235",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-24T12:32:21.689Z",
+      "last_seen": "2026-04-24T12:32:21.689Z",
+      "confirmed_at": "2026-04-24T14:33:24.347Z"
     }
   ]
 }
