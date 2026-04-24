@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:08:05.276Z",
+  "updated_at": "2026-04-24T09:16:47.428Z",
   "tiers": {
     "proven_seller": [
       {
@@ -113,6 +113,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote jhon fabio",
+        "example_title": "Lote para Jhon Fabio",
+        "example_url": "https://es.wallapop.com/item/lote-para-jhon-fabio-1255539273",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-24T09:16:47.426Z",
+        "last_seen": "2026-04-24T09:16:47.426Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Lote para Jhon Fabio",
+            "url": "https://es.wallapop.com/item/lote-para-jhon-fabio-1255539273",
+            "city": "La Vilavella"
+          }
+        ]
+      },
+      {
+        "model": "lote peliculas blu ray",
+        "example_title": "Lote Películas Blu-ray",
+        "example_url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-1255541863",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-24T09:16:47.426Z",
+        "last_seen": "2026-04-24T09:16:47.426Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Lote Películas Blu-ray",
+            "url": "https://es.wallapop.com/item/lote-peliculas-blu-ray-1255541863",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "pack juegos nintendo switch pokemon diamante",
         "example_title": "Pack 3 Juegos Nintendo Switch: Pokémon Diamante, M",
@@ -3245,9 +3295,9 @@
     "hot_24h": 1,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 125,
-    "total_unique_models": 128,
-    "total_reservations": 16,
+    "possible": 127,
+    "total_unique_models": 130,
+    "total_reservations": 18,
     "total_confirmed_sales": 117
   },
   "thresholds": {
@@ -3259,30 +3309,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "v6gp3522ym6e",
-      "model": "funko pop lote dragon ball reserva",
-      "title": "Funko Pop! Lote Dragon Ball Reserva",
-      "sold_price": 80,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/funko-pop-lote-dragon-ball-reserva-1255498440",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T07:02:30.333Z",
-      "last_seen": "2026-04-24T07:02:30.333Z",
-      "confirmed_at": "2026-04-24T09:08:05.274Z"
-    },
-    {
-      "id": "vjrem2rq2lzk",
-      "model": "pack dei shop",
-      "title": "Pack Dei Shop",
-      "sold_price": 10,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/pack-dei-shop-1255498967",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T07:02:30.333Z",
-      "last_seen": "2026-04-24T07:02:30.333Z",
-      "confirmed_at": "2026-04-24T09:08:05.274Z"
-    }
-  ]
+  "new_sales": []
 }
