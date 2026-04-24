@@ -1,0 +1,423 @@
+{
+  "timestamp": "2026-04-24T05:30:28.434Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 198,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Funko Pop Will Byers y Upside Down x3",
+          "price": 10,
+          "city": "Sestao",
+          "url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
+          "reserved": true,
+          "profile": "funko",
+          "query_ebay": "Funko will byers upside down",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko will byers upside down' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Will del Reves Stranger Things",
+          "price": 7,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/funko-pop-will-byers-el-reves-stranger-things-1255487627",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko will del reves stranger things",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko will del reves stranger things' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 571 cartas de Magic The Gathering",
+          "price": 26,
+          "city": "Brescia",
+          "url": "https://es.wallapop.com/item/lotto-571-carte-magic-the-gathering-1255488080",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas magic the gathering",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 3.49€ vs mín reservado 40€)"
+        },
+        {
+          "title": "Lote Accesorios Pokémon TGC Dados y Fichas",
+          "price": 10,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/lote-accesorios-pokemon-tgc-dados-y-fichas-1255488420",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "accesorios pokemon tgc dados fichas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'accesorios pokemon tgc dados fichas' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 241,
+      "new_items": 20,
+      "items": [
+        {
+          "title": "Leyendas Pokémon Z-A / Nintendo Switch",
+          "price": 35,
+          "city": "Lugo",
+          "url": "https://es.wallapop.com/item/leyendas-pokemon-z-a-nintendo-switch-1255488595",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "leyendas pokemon z-a nintendo switch",
+          "verdict": "skip",
+          "reason": "35€ vs mín reservado 36€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch OLED Azul y Rojo",
+          "price": 220,
+          "city": "Aduanas de Mar",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled-azul-y-rojo-1255487659",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch oled azul rojo",
+          "verdict": "skip",
+          "reason": "220€ vs mín reservado 160€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chro",
+          "price": 35,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/demon-slayer-kimetsu-no-yaiba-the-hinokami-chro-1255488818",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "demon slayer: kimetsu yaiba the",
+          "verdict": "skip",
+          "reason": "35€ vs mín reservado 17€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Atelier Ryza 2 PS4",
+          "price": 75,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/atelier-ryza-2-ps4-1255488739",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "atelier ryza ps4",
+          "verdict": "skip",
+          "reason": "0 reservados de 'atelier ryza ps4' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Insomnis Enhanced Edition PS5",
+          "price": 40,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/insomnis-enhanced-edition-ps5-1255488380",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "insomnis enhanced edition ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'insomnis enhanced edition ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Hades PS5 Nuevo",
+          "price": 45,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/hades-ps5-nuevo-1255488310",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "hades ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hades ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Evergate PS5 nuevo",
+          "price": 25,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/evergate-ps5-nuevo-1255488236",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "evergate ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'evergate ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "The Dark Pictures Anthology PS4 Triple Pack",
+          "price": 100,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/the-dark-pictures-anthology-ps4-triple-pack-1255487948",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "the dark pictures anthology ps4",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the dark pictures anthology ps4' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Crimson Desert Day One Edition PS5",
+          "price": 55,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/crimson-desert-day-one-edition-ps5-1255487895",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "crimson desert day one edition",
+          "verdict": "skip",
+          "reason": "55€ vs mín reservado 50€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Beholder Complete Edition PS4",
+          "price": 55,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/beholder-complete-edition-ps4-1255487890",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "beholder complete edition ps4",
+          "verdict": "skip",
+          "reason": "0 reservados de 'beholder complete edition ps4' (sin evidencia de demanda)"
+        },
+        {
+          "title": "The Ascent Cyber Edition PS5 Nuevo",
+          "price": 45,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/the-ascent-cyber-edition-ps5-nuevo-1255487643",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "the ascent cyber edition ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the ascent cyber edition ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Airpods Serie 1 Apple",
+          "price": 50,
+          "city": "Monticelli",
+          "url": "https://es.wallapop.com/item/airpods-serie-1-apple-1255488645",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods serie apple",
+          "verdict": "skip",
+          "reason": "0 reservados de 'airpods serie apple' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro (128GB)",
+          "price": 400,
+          "city": "Estartetxe",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-1255488972",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro (128gb)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro (128gb)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 256GB",
+          "price": 450,
+          "city": "Pamplona/Iruña",
+          "url": "https://es.wallapop.com/item/iphone-15-256gb-1255488766",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 Pro Azul",
+          "price": 230,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-azul-1255488644",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro azul",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro azul' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda iPhone 15 Pro Max Morada MagSafe",
+          "price": 15,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "funda iphone pro max morada",
+          "verdict": "skip",
+          "reason": "0 reservados de 'funda iphone pro max morada' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 pro Max",
+          "price": 460,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/poster-las-reliquias-de-la-muerte-1255488607",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "460€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "IPhone 15 Pro Max 256gb",
+          "price": 430,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/libro-suena-bailando-carlota-torres-1255488547",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Auriculares Inalámbricos BT-12 para Casco",
+          "price": 20,
+          "city": "Granollers",
+          "url": "https://es.wallapop.com/item/auriculares-inalambricos-bt-12-para-casco-1255488203",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "auriculares inalambricos bt-12 para casco",
+          "verdict": "skip",
+          "reason": "0 reservados de 'auriculares inalambricos bt-12 para casco' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 13 pro max",
+          "price": 351,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/jung-y-la-astrologia-claves-para-una-lectura-inte-1255486467",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "351€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 165,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "LP de vinilo de The Police",
+          "price": 20,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/the-police-lp-vinile-1255488728",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "the police",
+          "verdict": "skip",
+          "reason": "20€ vs mín reservado 12€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Vinilo The Brightest Days Indie",
+          "price": 16,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/vinilo-the-brightest-days-indie-1255488590",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "the brightest days indie",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the brightest days indie' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vinilo Joy Division Closer 180gm",
+          "price": 25,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/vinilo-joy-division-closer-180gm-1255488475",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "joy division closer 180gm",
+          "verdict": "skip",
+          "reason": "0 reservados de 'joy division closer 180gm' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vinilo - Chicago X - Chicago",
+          "price": 10,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/vinilo-chicago-x-chicago-1255488362",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "chicago chicago",
+          "verdict": "skip",
+          "reason": "10€ vs mín reservado 5€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Lp Cyndi Lauper She's So Unusual",
+          "price": 15,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/lp-cyndi-lauper-she-s-so-unusual-1255487622",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "cyndi lauper she's unusual",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cyndi lauper she's unusual' (sin evidencia de demanda)"
+        },
+        {
+          "title": "MY FAIR LADY EDICIÓN EXCLUSIVA BLU-RAY",
+          "price": 19.95,
+          "city": "Marbella",
+          "url": "https://es.wallapop.com/item/my-fair-lady-edicion-exclusiva-blu-ray-1255488895",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fair lady edicion exclusiva blu-ray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fair lady edicion exclusiva blu-ray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "GRAVITY EDICIÓN EXCLUSIVA BLU-RAY",
+          "price": 19.95,
+          "city": "Marbella",
+          "url": "https://es.wallapop.com/item/gravity-edicion-exclusiva-blu-ray-1255488834",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gravity edicion exclusiva blu-ray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'gravity edicion exclusiva blu-ray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "FROZEN II 2 STEELBOOK BLU-RAY",
+          "price": 14.95,
+          "city": "Marbella",
+          "url": "https://es.wallapop.com/item/frozen-ii-2-steelbook-blu-ray-1255488763",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "frozen steelbook blu-ray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'frozen steelbook blu-ray' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 90,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta de Tenis Prince Amarilla",
+          "price": 15,
+          "city": "Perellonet",
+          "url": "https://es.wallapop.com/item/raqueta-de-tenis-prince-amarilla-1255488815",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 38,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Laser Tennis Tiger Electronics '99 Hasbro",
+          "price": 22,
+          "city": "Rogno",
+          "url": "https://es.wallapop.com/item/laser-tennis-tiger-electronics-99-hasbro-1255488061",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "laser tennis tiger electronics '99",
+          "verdict": "skip",
+          "reason": "0 reservados de 'laser tennis tiger electronics '99' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 34,
+  "total_signals": 0,
+  "duration_s": 81
+}

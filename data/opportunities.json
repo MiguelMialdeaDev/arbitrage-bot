@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T05:16:34.705Z",
+  "updated_at": "2026-04-24T05:31:49.920Z",
   "tiers": {
     "proven_seller": [
       {
@@ -69,6 +69,56 @@
     "trending_7d": [],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop will byers upside down x3",
+        "example_title": "Funko Pop Will Byers y Upside Down x3",
+        "example_url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-24T05:31:49.919Z",
+        "last_seen": "2026-04-24T05:31:49.919Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Funko Pop Will Byers y Upside Down x3",
+            "url": "https://es.wallapop.com/item/funko-pop-will-byers-y-upside-down-x3-1255487658",
+            "city": "Sestao"
+          }
+        ]
+      },
+      {
+        "model": "funda iphone 15 pro max morada magsafe",
+        "example_title": "Funda iPhone 15 Pro Max Morada MagSafe",
+        "example_url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-24T05:31:49.919Z",
+        "last_seen": "2026-04-24T05:31:49.919Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Funda iPhone 15 Pro Max Morada MagSafe",
+            "url": "https://es.wallapop.com/item/funda-iphone-15-pro-max-morada-magsafe-1255488641",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "lote cartas pokemon mega clefable talonflame",
         "example_title": "Lote 6 Cartas Pokémon Mega Clefable, Talonflame, D",
@@ -2701,9 +2751,9 @@
     "hot_24h": 0,
     "trending_7d": 0,
     "recurring": 0,
-    "possible": 105,
-    "total_unique_models": 107,
-    "total_reservations": 6,
+    "possible": 107,
+    "total_unique_models": 109,
+    "total_reservations": 8,
     "total_confirmed_sales": 105
   },
   "thresholds": {
