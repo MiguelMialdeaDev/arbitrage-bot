@@ -1,0 +1,350 @@
+{
+  "timestamp": "2026-04-25T07:45:21.852Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 214,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 280,
+      "new_items": 22,
+      "items": [
+        {
+          "title": "iPhone 13 Verde - Batería 100%",
+          "price": 300,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/iphone-13-verde-bateria-100-1255818855",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "iphone verde bateria 100%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone verde bateria 100%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda iPhone 14 Rosa Apple",
+          "price": 6,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funda-iphone-14-rosa-apple-1255818850",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 1TB MORADO BATERIA 100%",
+          "price": 759,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-1tb-morado-bateria-100-1255818752",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 1tb morado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 1tb morado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Blanco",
+          "price": 280,
+          "city": "San Fernando de Henares",
+          "url": "https://es.wallapop.com/item/iphone-13-blanco-1255818740",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone blanco",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone blanco' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 1TB NEGRO BATERIA 100%",
+          "price": 759,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-1tb-negro-bateria-100-1255818683",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 1tb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 1tb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 2 fundas iPhone 7 Plus / 8 Plus",
+          "price": 5,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/lote-2-fundas-iphone-7-plus-8-plus-1255818630",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 1TB DORADO BATE. 100%",
+          "price": 719,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-1tb-dorado-bate-100-1255818624",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 1tb dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 1tb dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple IPhone 17 Pro 256 GB nuevo",
+          "price": 999,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-256-gb-nuevo-1255818576",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 1TB NEGRO BAT. 100%",
+          "price": 679,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-1tb-negro-bat-100-1255818553",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 1tb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 1tb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 512GB PLATA BATERIA 100%",
+          "price": 719,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-512gb-plata-bateria-100-1255818460",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 512gb plata",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 512gb plata' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 512GB NEGRO BATE. 100%",
+          "price": 679,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-512gb-negro-bate-100-1255818430",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 512gb negro",
+          "verdict": "skip",
+          "reason": "679€ vs mín reservado 890€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda iPhone 14 Amarilla",
+          "price": 6,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funda-iphone-14-amarilla-1255818410",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 256GB DORADO PRECINTADO",
+          "price": 799,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-256gb-dorado-precintado-1255818324",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 256GB PLATA BATERIA 100%",
+          "price": 679,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-256gb-plata-bateria-100-1255818251",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb plata",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "Nueva Funda iPhone Rosa Apple",
+          "price": 6,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/nueva-funda-iphone-rosa-apple-1255818242",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 17",
+          "price": 869,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/iphone-17-1255818237",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Plus Rosa 128GB",
+          "price": 650,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/iphone-16-plus-rosa-128gb-1255818235",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus rosa 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus rosa 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 256GB DORADO BATERIA 100%",
+          "price": 639,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-256gb-dorado-bateria-100-1255818111",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 256GB PLATA BATE. 100%",
+          "price": 639,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-256gb-plata-bate-100-1255818062",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb plata",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "iPhone 17 Pro 1TB Plata eSim SIN ABRIR EEUU",
+          "price": 1380,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-1tb-plata-esim-sin-abrir-eeuu-1255818042",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 1tb plata esim",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 1tb plata esim' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 256GB NEGRO BATE. 100%",
+          "price": 639,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-256gb-negro-bate-100-1255817991",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 14 PRO MAX 256GB DORADO BAT. 100%",
+          "price": 599,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-256gb-dorado-bat-100-1255817927",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb dorado' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 155,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Pack blu ray",
+          "price": 20,
+          "city": "Abadiño",
+          "url": "https://es.wallapop.com/item/pack-blu-ray-1255818839",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack blu ray",
+          "verdict": "skip",
+          "reason": "20€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Lote 9 Steelbooks 4K UHD Bluray",
+          "price": 215,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/lote-9-steelbooks-4k-uhd-bluray-1255818729",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "steelbooks uhd bluray",
+          "verdict": "skip",
+          "reason": "215€ vs mín reservado 75€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 85,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Subbuteo completo",
+          "price": 40,
+          "city": "Seseña",
+          "url": "https://es.wallapop.com/item/subbuteo-completo-1255818815",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "subbuteo completo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'subbuteo completo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juegos Cococrash Evaland",
+          "price": 20,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/juegos-cococrash-evaland-1255818404",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Snakebite Ork Boy Esculpido por Kev Adams",
+          "price": 15,
+          "city": "Molino de La Hoz",
+          "url": "https://es.wallapop.com/item/snakebite-ork-boy-esculpido-por-kev-adams-1255818331",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Exp. Mansiones Locura: La Senda de la Serpiente",
+          "price": 129,
+          "city": "Burgos",
+          "url": "https://es.wallapop.com/item/exp-mansiones-locura-la-senda-de-la-serpiente-1255818320",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "exp. mansiones locura: senda serpiente",
+          "verdict": "skip",
+          "reason": "0 reservados de 'exp. mansiones locura: senda serpiente' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 32,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 28,
+  "total_signals": 0,
+  "duration_s": 81
+}
