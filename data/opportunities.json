@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-04-25T14:32:46.663Z",
+  "updated_at": "2026-04-25T14:47:15.038Z",
   "tiers": {
     "proven_seller": [
+      {
+        "model": "lote funko pop stranger things",
+        "example_title": "Lote Funko Pop Stranger Things",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
+        "total_reservations": 1,
+        "confirmed_sales": 3,
+        "total_events": 4,
+        "reservations_24h": 3,
+        "reservations_7d": 4,
+        "reservations_30d": 4,
+        "reservations_per_day": 2.02,
+        "min_price": 5.5,
+        "median_price": 8,
+        "max_price": 17,
+        "first_seen": "2026-04-23T15:18:11.367Z",
+        "last_seen": "2026-04-25T14:47:15.036Z",
+        "sample": [
+          {
+            "price": 17,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
+            "city": "Valdemanco"
+          }
+        ]
+      },
       {
         "model": "super mario odyssey nintendo switch",
         "example_title": "Super Mario Odyssey Nintendo Switch",
@@ -86,43 +111,6 @@
             "title": "Lote 4 Funko Pop",
             "url": "https://es.wallapop.com/item/lote-4-funko-pop-1255939112",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "lote funko pop stranger things",
-        "example_title": "Lote Funko Pop Stranger Things",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
-        "total_reservations": 0,
-        "confirmed_sales": 3,
-        "total_events": 3,
-        "reservations_24h": 2,
-        "reservations_7d": 3,
-        "reservations_30d": 3,
-        "reservations_per_day": 1.57,
-        "min_price": 5.5,
-        "median_price": 7.5,
-        "max_price": 8,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-25T13:02:35.233Z",
-        "sample": [
-          {
-            "price": 5.5,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
-            "city": "Arrasate/Mondragón"
-          },
-          {
-            "price": 7.5,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
-            "city": "Santa Coloma de Gramenet"
-          },
-          {
-            "price": 8,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
-            "city": "Torrox Park"
           }
         ]
       }
@@ -3445,7 +3433,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3470,7 +3458,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7347,7 +7335,7 @@
     "recurring": 0,
     "possible": 282,
     "total_unique_models": 291,
-    "total_reservations": 15,
+    "total_reservations": 16,
     "total_confirmed_sales": 291
   },
   "thresholds": {
@@ -7359,42 +7347,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "wzvgd7k85dzl",
-      "model": "pokemon ascended heroes elite trainer box",
-      "title": "Pokémon Ascended Heroes Elite Trainer Box",
-      "sold_price": 150,
-      "city": "Vila-Real/Villarreal",
-      "url": "https://es.wallapop.com/item/pokemon-ascended-heroes-elite-trainer-box-1255919389",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T12:32:20.646Z",
-      "last_seen": "2026-04-25T12:32:20.646Z",
-      "confirmed_at": "2026-04-25T14:32:46.660Z"
-    },
-    {
-      "id": "ejkmn3dqnyzx",
-      "model": "super mario odyssey nintendo switch",
-      "title": "Super Mario Odyssey Nintendo Switch",
-      "sold_price": 15,
-      "city": "Zaragoza",
-      "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T12:32:20.646Z",
-      "last_seen": "2026-04-25T12:32:20.646Z",
-      "confirmed_at": "2026-04-25T14:32:46.660Z"
-    },
-    {
-      "id": "3zlmp2d2knjx",
-      "model": "rex masters universo cueva guante",
-      "title": "T-Rex Masters del Universo con Cueva y Guante",
-      "sold_price": 190,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
-      "category": "Niños y bebés",
-      "first_reserved": "2026-04-25T12:32:20.646Z",
-      "last_seen": "2026-04-25T12:32:20.646Z",
-      "confirmed_at": "2026-04-25T14:32:46.660Z"
-    }
-  ]
+  "new_sales": []
 }
