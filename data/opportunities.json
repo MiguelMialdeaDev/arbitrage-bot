@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T21:32:06.655Z",
+  "updated_at": "2026-04-25T21:46:56.883Z",
   "tiers": {
     "proven_seller": [
       {
@@ -330,6 +330,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "vinilo zz top afterburner lp",
+        "example_title": "Vinilo ZZ Top Afterburner LP",
+        "example_url": "https://es.wallapop.com/item/vinilo-zz-top-afterburner-lp-1256072479",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T21:46:56.881Z",
+        "last_seen": "2026-04-25T21:46:56.881Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Vinilo ZZ Top Afterburner LP",
+            "url": "https://es.wallapop.com/item/vinilo-zz-top-afterburner-lp-1256072479",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "blu ray angeles demonios tom hanks",
         "example_title": "Blu-ray Ángeles y Demonios Tom Hanks",
@@ -8687,9 +8712,9 @@
     "hot_24h": 0,
     "trending_7d": 6,
     "recurring": 0,
-    "possible": 334,
-    "total_unique_models": 344,
-    "total_reservations": 19,
+    "possible": 335,
+    "total_unique_models": 345,
+    "total_reservations": 20,
     "total_confirmed_sales": 343
   },
   "thresholds": {
@@ -8701,30 +8726,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "3zlmp2yl4njx",
-      "model": "nintendo switch mario kart deluxe",
-      "title": "Nintendo Switch + Mario Kart 8 Deluxe",
-      "sold_price": 150,
-      "city": "Móstoles",
-      "url": "https://es.wallapop.com/item/nintendo-switch---mario-kart-8-deluxe-1256046369",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T19:32:05.199Z",
-      "last_seen": "2026-04-25T19:32:05.199Z",
-      "confirmed_at": "2026-04-25T21:32:06.653Z"
-    },
-    {
-      "id": "pj9402w2e06e",
-      "model": "iphone 16 plus 128gb bateria 91",
-      "title": "iPhone 16 Plus 128GB Batería 91%",
-      "sold_price": 560,
-      "city": "Terrassa",
-      "url": "https://es.wallapop.com/item/iphone-16-plus-128gb-bateria-91-1256044885",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T19:32:05.199Z",
-      "last_seen": "2026-04-25T19:32:05.199Z",
-      "confirmed_at": "2026-04-25T21:32:06.653Z"
-    }
-  ]
+  "new_sales": []
 }
