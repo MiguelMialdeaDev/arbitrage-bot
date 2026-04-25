@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T19:52:25.596Z",
+  "updated_at": "2026-04-25T20:01:43.254Z",
   "tiers": {
     "proven_seller": [
       {
@@ -343,6 +343,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "apple watch ultra",
+        "example_title": "Apple Watch Ultra 3",
+        "example_url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 400,
+        "median_price": 400,
+        "max_price": 400,
+        "first_seen": "2026-04-25T20:01:43.252Z",
+        "last_seen": "2026-04-25T20:01:43.252Z",
+        "sample": [
+          {
+            "price": 400,
+            "title": "Apple Watch Ultra 3",
+            "url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
+            "city": "Aspe"
+          }
+        ]
+      },
       {
         "model": "mando ps5 sony blanco",
         "example_title": "Mando PS5 Sony Blanco",
@@ -1340,31 +1365,6 @@
             "title": "Pack Películas Blu-ray y DVD",
             "url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
             "city": "Parque Empresarial La Moraleja"
-          }
-        ]
-      },
-      {
-        "model": "apple watch ultra",
-        "example_title": "Apple Watch Ultra 3",
-        "example_url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 400,
-        "median_price": 400,
-        "max_price": 400,
-        "first_seen": "2026-04-25T16:47:34.835Z",
-        "last_seen": "2026-04-25T16:47:34.835Z",
-        "sample": [
-          {
-            "price": 400,
-            "title": "Apple Watch Ultra 3",
-            "url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
-            "city": "Aspe"
           }
         ]
       },
@@ -3500,7 +3500,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8402,8 +8402,8 @@
     "recurring": 0,
     "possible": 322,
     "total_unique_models": 332,
-    "total_reservations": 15,
-    "total_confirmed_sales": 334
+    "total_reservations": 14,
+    "total_confirmed_sales": 335
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8416,16 +8416,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "vjrem552y4zk",
-      "model": "mando ps5 sony blanco",
-      "title": "Mando PS5 Sony Blanco",
-      "sold_price": 40,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
+      "id": "p618m03ox5z5",
+      "model": "apple watch ultra",
+      "title": "Apple Watch Ultra 3",
+      "sold_price": 400,
+      "city": "Aspe",
+      "url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T17:47:49.550Z",
-      "last_seen": "2026-04-25T17:47:49.550Z",
-      "confirmed_at": "2026-04-25T19:52:25.594Z"
+      "first_reserved": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z",
+      "confirmed_at": "2026-04-25T20:01:43.252Z"
     }
   ]
 }
