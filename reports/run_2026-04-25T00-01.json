@@ -1,0 +1,240 @@
+{
+  "timestamp": "2026-04-25T00:00:40.416Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 212,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Carta Magic Traveling Chocobo FFVII 3/2",
+          "price": 0,
+          "city": "Segovia",
+          "url": "https://es.wallapop.com/item/carta-magic-traveling-chocobo-ffvii-3-2-1255772076",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Ninetales (sv3 110)",
+          "price": 20,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/carta-pokemon-ninetales-sv3-110-1255772285",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon ninetales (sv3 110)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon ninetales (sv3 110)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Snorlax (sv2a 181)",
+          "price": 12,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/carta-pokemon-snorlax-sv2a-181-1255772136",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon snorlax (sv2a 181)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon snorlax (sv2a 181)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Poliwhirl (sv2a 176) Pokémon Card 151",
+          "price": 15,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/poliwhirl-sv2a-176-pokemon-card-151-1255772040",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "poliwhirl (sv2a 176) pokemon card",
+          "verdict": "skip",
+          "reason": "0 reservados de 'poliwhirl (sv2a 176) pokemon card' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pokemon Neo Premium File 2 Sellado",
+          "price": 2450,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/pokemon-neo-premium-file-2-sellado-1255772039",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon neo premium file",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon neo premium file' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 239,
+      "new_items": 12,
+      "items": [
+        {
+          "title": "Animal Crossing New Horizons Nintendo Switch",
+          "price": 36,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/animal-crossing-new-horizons-nintendo-switch-1255771591",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "animal crossing new horizons nintendo",
+          "verdict": "skip",
+          "reason": "36€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Hello Kitty Island Adventure Nintendo Switch",
+          "price": 25,
+          "city": "Mazo",
+          "url": "https://es.wallapop.com/item/hello-kitty-island-adventure-nintendo-switch-1255771408",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "hello kitty island adventure nintendo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hello kitty island adventure nintendo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods 4 gen",
+          "price": 119,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-4-gen-1255771514",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "in-ear apple airpods gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods pro",
+          "price": 89.1,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-pro-1255771493",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "in-ear apple airpods pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods pro 2 gen",
+          "price": 125.55,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-pro-2-gen-1255771469",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "in-ear apple airpods pro gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods pro gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods 4 gen",
+          "price": 119,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-4-gen-1255771454",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "in-ear apple airpods gen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods gen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "in-ear apple airpods pro",
+          "price": 115,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/in-ear-apple-airpods-pro-1255771435",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "in-ear apple airpods pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'in-ear apple airpods pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "AirPods Pro 2ª Gen c/ Estuche MagSafe",
+          "price": 179.9,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/airpods-pro-2-gen-c-estuche-magsafe-1255770274",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro gen estuche magsafe",
+          "verdict": "skip",
+          "reason": "0 reservados de 'airpods pro gen estuche magsafe' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Samsung Z Fold 7 512GB Azul",
+          "price": 0,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/samsung-z-fold-7-512gb-azul-1255771852",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Funda Chanel 14 Nero para iPhone 14",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/cover-chanel-14-nero-iphone-14-1255771632",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 13 para piezas",
+          "price": 85,
+          "city": "Barro",
+          "url": "https://es.wallapop.com/item/iphone-13-para-piezas-1255771582",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: grieta"
+        },
+        {
+          "title": "IPHONE 16 PRO 256GB",
+          "price": 680,
+          "city": "Algorta",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-256gb-1255771471",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 256gb' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 161,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Vinilo Pop Rock Internacional",
+          "price": 15,
+          "city": "Torrejón de Velasco",
+          "url": "https://es.wallapop.com/item/vinilo-pop-rock-internacional-1255771548",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "pop rock internacional",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pop rock internacional' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 81,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 18,
+  "total_signals": 0,
+  "duration_s": 64
+}
