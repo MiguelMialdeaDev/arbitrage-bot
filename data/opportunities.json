@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T08:02:16.846Z",
+  "updated_at": "2026-04-25T08:17:08.987Z",
   "tiers": {
     "proven_seller": [
       {
@@ -78,6 +78,31 @@
       }
     ],
     "hot_24h": [
+      {
+        "model": "figuras dc comics playmobil",
+        "example_title": "Figuras DC Comics Playmobil",
+        "example_url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255824382",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 4.5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-24T15:32:28.188Z",
+        "last_seen": "2026-04-25T08:17:08.985Z",
+        "sample": [
+          {
+            "price": 4.5,
+            "title": "Figuras DC Comics Playmobil",
+            "url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255824382",
+            "city": "Moreaga"
+          }
+        ]
+      },
       {
         "model": "lote cromos futbol panini",
         "example_title": "Lote de cromos de fútbol Panini",
@@ -238,6 +263,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "nintendo switch leyendas pokemon",
+        "example_title": "Nintendo Switch: Leyendas Pokémon Z-A",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 95,
+        "median_price": 95,
+        "max_price": 95,
+        "first_seen": "2026-04-25T08:17:08.985Z",
+        "last_seen": "2026-04-25T08:17:08.985Z",
+        "sample": [
+          {
+            "price": 95,
+            "title": "Nintendo Switch: Leyendas Pokémon Z-A",
+            "url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
+            "city": "Castellbisbal"
+          }
+        ]
+      },
+      {
+        "model": "funkos",
+        "example_title": "6 Funkos",
+        "example_url": "https://es.wallapop.com/item/6-funkos-1255802940",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-25T08:17:08.985Z",
+        "last_seen": "2026-04-25T08:17:08.985Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "6 Funkos",
+            "url": "https://es.wallapop.com/item/6-funkos-1255802940",
+            "city": "Albal"
+          }
+        ]
+      },
       {
         "model": "vinilo lp elena",
         "example_title": "Vinilo lp elena",
@@ -435,56 +510,6 @@
             "title": "Pack Funko Pop! Silent Hill Heather & James",
             "url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "funkos",
-        "example_title": "6 Funkos",
-        "example_url": "https://es.wallapop.com/item/6-funkos-1255802940",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9,
-        "median_price": 9,
-        "max_price": 9,
-        "first_seen": "2026-04-25T06:16:27.135Z",
-        "last_seen": "2026-04-25T06:16:27.135Z",
-        "sample": [
-          {
-            "price": 9,
-            "title": "6 Funkos",
-            "url": "https://es.wallapop.com/item/6-funkos-1255802940",
-            "city": "Albal"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch leyendas pokemon",
-        "example_title": "Nintendo Switch: Leyendas Pokémon Z-A",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 95,
-        "median_price": 95,
-        "max_price": 95,
-        "first_seen": "2026-04-25T06:10:10.980Z",
-        "last_seen": "2026-04-25T06:10:10.980Z",
-        "sample": [
-          {
-            "price": 95,
-            "title": "Nintendo Switch: Leyendas Pokémon Z-A",
-            "url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
-            "city": "Castellbisbal"
           }
         ]
       },
@@ -2110,31 +2135,6 @@
             "title": "Lote cromos Julio Mundial 2026 Panini",
             "url": "https://es.wallapop.com/item/lote-cromos-julio-mundial-2026-panini-1255619456",
             "city": "Cornella de Llobregat"
-          }
-        ]
-      },
-      {
-        "model": "figuras dc comics playmobil",
-        "example_title": "Figuras DC Comics Playmobil",
-        "example_url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255620121",
-        "total_reservations": 0,
-        "confirmed_sales": 1,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-24T15:32:28.188Z",
-        "last_seen": "2026-04-24T15:32:28.188Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Figuras DC Comics Playmobil",
-            "url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255620121",
-            "city": "Arroyomolinos"
           }
         ]
       },
@@ -6242,13 +6242,13 @@
   },
   "stats": {
     "proven_seller": 2,
-    "hot_24h": 3,
+    "hot_24h": 4,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 240,
+    "possible": 239,
     "total_unique_models": 247,
-    "total_reservations": 12,
-    "total_confirmed_sales": 244
+    "total_reservations": 11,
+    "total_confirmed_sales": 246
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6258,19 +6258,64 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
+  "tier_ups": [
+    {
+      "model": "figuras dc comics playmobil",
+      "from_tier": "possible",
+      "to_tier": "hot_24h",
+      "from_label": "💡 Posible",
+      "to_label": "🔥 Hot 24h",
+      "entry": {
+        "model": "figuras dc comics playmobil",
+        "example_title": "Figuras DC Comics Playmobil",
+        "example_url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255824382",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 4.5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-24T15:32:28.188Z",
+        "last_seen": "2026-04-25T08:17:08.985Z",
+        "sample": [
+          {
+            "price": 4.5,
+            "title": "Figuras DC Comics Playmobil",
+            "url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255824382",
+            "city": "Moreaga"
+          }
+        ]
+      }
+    }
+  ],
   "new_sales": [
     {
-      "id": "nzxegn3nd562",
-      "model": "vinilos lp hardcore punk screamo",
-      "title": "Vinilos LP Hardcore Punk Screamo",
-      "sold_price": 31,
-      "city": "Torrelavega",
-      "url": "https://es.wallapop.com/item/vinilos-lp-hardcore-punk-screamo-1255767554",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T23:22:57.179Z",
-      "last_seen": "2026-04-24T23:22:57.179Z",
-      "confirmed_at": "2026-04-25T08:02:16.845Z"
+      "id": "nz081pmv4e6o",
+      "model": "nintendo switch leyendas pokemon",
+      "title": "Nintendo Switch: Leyendas Pokémon Z-A",
+      "sold_price": 95,
+      "city": "Castellbisbal",
+      "url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T06:10:10.980Z",
+      "last_seen": "2026-04-25T06:10:10.980Z",
+      "confirmed_at": "2026-04-25T08:17:08.985Z"
+    },
+    {
+      "id": "v6gp3x4gkn6e",
+      "model": "funkos",
+      "title": "6 Funkos",
+      "sold_price": 9,
+      "city": "Albal",
+      "url": "https://es.wallapop.com/item/6-funkos-1255802940",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T06:16:27.135Z",
+      "last_seen": "2026-04-25T06:16:27.135Z",
+      "confirmed_at": "2026-04-25T08:17:08.985Z"
     }
   ]
 }
