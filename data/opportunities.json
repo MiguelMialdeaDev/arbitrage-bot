@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T12:32:20.648Z",
+  "updated_at": "2026-04-25T12:47:34.432Z",
   "tiers": {
     "proven_seller": [
       {
@@ -282,6 +282,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "cartas juego marvel",
+        "example_title": "Cartas Juego Marvel",
+        "example_url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-25T12:47:34.430Z",
+        "last_seen": "2026-04-25T12:47:34.430Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Cartas Juego Marvel",
+            "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
+            "city": "Villazain"
+          }
+        ]
+      },
       {
         "model": "pokemon ascended heroes elite trainer box",
         "example_title": "Pokémon Ascended Heroes Elite Trainer Box",
@@ -3514,7 +3539,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3539,7 +3564,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3564,7 +3589,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3589,7 +3614,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3614,7 +3639,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3639,7 +3664,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3664,7 +3689,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3689,7 +3714,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7039,9 +7064,9 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 270,
-    "total_unique_models": 279,
-    "total_reservations": 18,
+    "possible": 271,
+    "total_unique_models": 280,
+    "total_reservations": 19,
     "total_confirmed_sales": 274
   },
   "thresholds": {
@@ -7053,66 +7078,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "nz081prg2r6o",
-      "model": "ceruledge cgc 10 pokemon carta japonesa",
-      "title": "Ceruledge CGC 10 Pokémon Carta Japonesa",
-      "sold_price": 30,
-      "city": "Valencia",
-      "url": "https://es.wallapop.com/item/ceruledge-cgc-10-pokemon-carta-japonesa-1255869751",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T10:18:20.643Z",
-      "last_seen": "2026-04-25T10:18:20.643Z",
-      "confirmed_at": "2026-04-25T12:32:20.646Z"
-    },
-    {
-      "id": "8z88p35v21z3",
-      "model": "pack carteles pokemon leyendas donkey kong",
-      "title": "Pack Carteles Pokémon Leyendas + Donkey Kong",
-      "sold_price": 7,
-      "city": "Tarragona",
-      "url": "https://es.wallapop.com/item/pack-carteles-pokemon-leyendas---donkey-kong-1255869146",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T10:18:20.643Z",
-      "last_seen": "2026-04-25T10:18:20.643Z",
-      "confirmed_at": "2026-04-25T12:32:20.646Z"
-    },
-    {
-      "id": "wzvgd72n7rzl",
-      "model": "dogma rog one sexto sentido doce monos",
-      "title": "Dogma, Rog One, El sexto sentido, Doce monos",
-      "sold_price": 5,
-      "city": "Castineiras",
-      "url": "https://es.wallapop.com/item/dogma-rog-one-el-sexto-sentido-doce-monos-1255871641",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T10:18:20.643Z",
-      "last_seen": "2026-04-25T10:18:20.643Z",
-      "confirmed_at": "2026-04-25T12:32:20.646Z"
-    },
-    {
-      "id": "x6qq1gv2ky6y",
-      "model": "lote funko pop",
-      "title": "Lote 8 Funko Pop",
-      "sold_price": 42,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-8-funko-pop-1255875866",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T10:27:16.988Z",
-      "last_seen": "2026-04-25T10:27:16.988Z",
-      "confirmed_at": "2026-04-25T12:32:20.646Z"
-    },
-    {
-      "id": "9jdw10811n6k",
-      "model": "lote cartas energia pokemon",
-      "title": "Lote Cartas Energía Pokémon",
-      "sold_price": 5,
-      "city": "Sevilla",
-      "url": "https://es.wallapop.com/item/lote-cartas-energia-pokemon-1255876736",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T10:27:16.988Z",
-      "last_seen": "2026-04-25T10:27:16.988Z",
-      "confirmed_at": "2026-04-25T12:32:20.646Z"
-    }
-  ]
+  "new_sales": []
 }
