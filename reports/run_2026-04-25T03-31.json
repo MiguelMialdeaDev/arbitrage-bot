@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-04-25T03:30:29.650Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 197,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 232,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 151,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Blu-ray Thrashin' - Patinar o Morir",
+          "price": 6,
+          "city": "Cerdanyola del Vallès",
+          "url": "https://es.wallapop.com/item/blu-ray-thrashin-patinar-o-morir-1255792848",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 75,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 32,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 1,
+  "total_signals": 0,
+  "duration_s": 58
+}
