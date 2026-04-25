@@ -1,0 +1,265 @@
+{
+  "timestamp": "2026-04-25T06:15:19.096Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 208,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "6 Funkos",
+          "price": 9,
+          "city": "Albal",
+          "url": "https://es.wallapop.com/item/6-funkos-1255802940",
+          "reserved": true,
+          "profile": "funko_lote",
+          "query_ebay": "Funko Pop",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 10€ vs mín reservado 30.9€)"
+        },
+        {
+          "title": "Álbum Lego Ninjago + Cartas + Sobres",
+          "price": 29.99,
+          "city": "Montepellegrino",
+          "url": "https://es.wallapop.com/item/lego-ninjago-album---carte---bustine-1255802607",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "album lego ninjago cartas sobres",
+          "verdict": "skip",
+          "reason": "0 reservados de 'album lego ninjago cartas sobres' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cromos One Piece (50 sobres)",
+          "price": 30,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/cromos-one-piece-50-sobres-1255802882",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromos one piece (50 sobres)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromos one piece (50 sobres)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Tinkatuff (sv2D 077/071) japonesa",
+          "price": 15,
+          "city": "San Giovanni in Marignano",
+          "url": "https://es.wallapop.com/item/tinkatuff-sv2d-077-071-carta-pokemon-giapponese-1255802605",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon tinkatuff (sv2d 077/071)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon tinkatuff (sv2d 077/071)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil custom rastreador séptimo de caballería",
+          "price": 4,
+          "city": "Andújar",
+          "url": "https://es.wallapop.com/item/playmobil-custom-rastreador-septimo-de-caballeria-1255802952",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil custom señor de los anillos saruman",
+          "price": 4,
+          "city": "Andújar",
+          "url": "https://es.wallapop.com/item/playmobil-custom-senor-de-los-anillos-saruman-1255802832",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil custom colono o trampero",
+          "price": 4,
+          "city": "Andújar",
+          "url": "https://es.wallapop.com/item/playmobil-custom-colono-o-trampero-1255802590",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote de 10 personajes Playmobil de superhéroes",
+          "price": 12,
+          "city": "San Colombano al Lambro",
+          "url": "https://es.wallapop.com/item/lotto-10-personaggi-playmobil-supereroi-1255802520",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "personajes playmobil superheroes",
+          "verdict": "skip",
+          "reason": "12€ vs mín reservado 5€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 248,
+      "new_items": 9,
+      "items": [
+        {
+          "title": "Dragon Ball Z Kakarot Daima Edition Switch",
+          "price": 25.99,
+          "city": "Mislata",
+          "url": "https://es.wallapop.com/item/dragon-ball-z-kakarot-daima-edition-switch-1255802677",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "dragon ball kakarot daima edition",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dragon ball kakarot daima edition' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Ghost of Yotei PS5 Juego Español Perfecto estado",
+          "price": 44,
+          "city": "La Rambla",
+          "url": "https://es.wallapop.com/item/ghost-of-yotei-ps5-juego-espanol-perfecto-estado-1255802961",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ghost yotei ps5 juego espanol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ghost yotei ps5 juego espanol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Volante Logitech G29 PS5/PS4/PS3 y PC.",
+          "price": 160,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/volante-logitech-g29-ps5-ps4-ps3-y-pc-1255802771",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "volante logitech g29 ps5/ps4/ps3 pc.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'volante logitech g29 ps5/ps4/ps3 pc.' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Starfield PS5 Bethesda RPG",
+          "price": 40,
+          "city": "Sueca",
+          "url": "https://es.wallapop.com/item/starfield-ps5-bethesda-rpg-1255802453",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "starfield ps5 bethesda rpg",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Consola PS4 Pro 1TB Jet Black",
+          "price": 158,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/consola-ps4-pro-1tb-jet-black-1255802435",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps4 pro 1tb jet",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps4 pro 1tb jet' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cajas vacías iPhone",
+          "price": 18,
+          "city": "Las Canteras",
+          "url": "https://es.wallapop.com/item/cajas-vacias-iphone-1255802951",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas vacias iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas vacias iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 128GB Negro",
+          "price": 565,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/iphone-16-128gb-negro-1255802907",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "INIU Cable USB A USB C, [2m] QC 3,0 y 3,1A Cable USB C Carga Rapida",
+          "price": 3.99,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/iniu-cable-usb-a-usb-c-2m-qc-3-0-y-3-1a-cable-usb-c-carga-rapida-1255802840",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 15 128GB Negro",
+          "price": 465,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/iphone-15-128gb-negro-1255802701",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb negro' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 153,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Rock y violencia - Eskorbuto",
+          "price": 140,
+          "city": "Gualba",
+          "url": "https://es.wallapop.com/item/rock-y-violencia-eskorbuto-1255802658",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "rock violencia eskorbuto",
+          "verdict": "skip",
+          "reason": "0 reservados de 'rock violencia eskorbuto' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Miniatura D&D Drizzt Drow Ranger",
+          "price": 24,
+          "city": "Napoli",
+          "url": "https://es.wallapop.com/item/miniatura-d-d-dungeons-dragons-drizzt-drow-ranger-1255802823",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "miniatura d&d drizzt drow ranger",
+          "verdict": "skip",
+          "reason": "0 reservados de 'miniatura d&d drizzt drow ranger' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Zombicide White Death + 7 figuras exclusivas",
+          "price": 80,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/zombicide-white-death---7-figuras-exclusivas-1255802640",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "zombicide white death figuras exclusivas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'zombicide white death figuras exclusivas' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 20,
+  "total_signals": 0,
+  "duration_s": 68
+}
