@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T15:51:44.371Z",
+  "updated_at": "2026-04-25T16:02:29.730Z",
   "tiers": {
     "proven_seller": [
       {
@@ -287,6 +287,106 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote cromos panini lamine yamal instant #1",
+        "example_title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
+        "example_url": "https://es.wallapop.com/item/lote-2-cromos-panini-lamine-yamal-instant-1-1255982256",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 14,
+        "median_price": 14,
+        "max_price": 14,
+        "first_seen": "2026-04-25T16:02:29.729Z",
+        "last_seen": "2026-04-25T16:02:29.729Z",
+        "sample": [
+          {
+            "price": 14,
+            "title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
+            "url": "https://es.wallapop.com/item/lote-2-cromos-panini-lamine-yamal-instant-1-1255982256",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "blu ray conoces joe black drama espanol",
+        "example_title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
+        "example_url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4.5,
+        "median_price": 4.5,
+        "max_price": 4.5,
+        "first_seen": "2026-04-25T16:02:29.729Z",
+        "last_seen": "2026-04-25T16:02:29.729Z",
+        "sample": [
+          {
+            "price": 4.5,
+            "title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
+            "url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
+            "city": "Parque Empresarial La Moraleja"
+          }
+        ]
+      },
+      {
+        "model": "capitan america marvel heroes",
+        "example_title": "Capitan América Marvel Héroes",
+        "example_url": "https://es.wallapop.com/item/capitan-america-marvel-heroes-1255983486",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T16:02:29.729Z",
+        "last_seen": "2026-04-25T16:02:29.729Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Capitan América Marvel Héroes",
+            "url": "https://es.wallapop.com/item/capitan-america-marvel-heroes-1255983486",
+            "city": "Cadrete"
+          }
+        ]
+      },
+      {
+        "model": "kazar senor tierra salvaje",
+        "example_title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
+        "example_url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T16:02:29.729Z",
+        "last_seen": "2026-04-25T16:02:29.729Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
+            "url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "carta pokemon genesect ex ingles",
         "example_title": "Carta Pokémon Genesect EX Inglés",
@@ -7569,9 +7669,9 @@
     "hot_24h": 0,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 291,
-    "total_unique_models": 300,
-    "total_reservations": 17,
+    "possible": 295,
+    "total_unique_models": 304,
+    "total_reservations": 21,
     "total_confirmed_sales": 299
   },
   "thresholds": {
