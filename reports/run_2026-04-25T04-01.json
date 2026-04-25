@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-04-25T04:00:37.197Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 198,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 235,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Juego PS5 GTA V",
+          "price": 15,
+          "city": "Vilanova del Camí",
+          "url": "https://es.wallapop.com/item/juego-ps5-gta-v-1255794238",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego ps5 gta",
+          "verdict": "skip",
+          "reason": "15€ vs mín reservado 19.99€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone SE 2020 64GB Negro Libre",
+          "price": 135,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-se-2020-64gb-negro-libre-1255793979",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 64gb negro libre",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 64gb negro libre' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone SE 2020",
+          "price": 40,
+          "city": "Santa Maria del Aguila",
+          "url": "https://es.wallapop.com/item/iphone-se-2020-1255793908",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 135€ vs mín reservado 1199€)"
+        },
+        {
+          "title": "iPhone 16 Pro Max dorado",
+          "price": 850,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-dorado-1255793875",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Max De  256GB",
+          "price": 365,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-de-256gb-1255793867",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 350€ vs mín reservado 1199€)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 151,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 76,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Mesa de billar profesional",
+          "price": 350,
+          "city": "El Perelló",
+          "url": "https://es.wallapop.com/item/mesa-de-billar-profesional-1255794077",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mesa billar profesional",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mesa billar profesional' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Puzzle Disney Panorama 1000 Piezas",
+          "price": 10,
+          "city": "Alcalá de Guadaíra",
+          "url": "https://es.wallapop.com/item/puzzle-disney-panorama-1000-piezas-1255794103",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "puzzle disney panorama piezas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'puzzle disney panorama piezas' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 32,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 7,
+  "total_signals": 0,
+  "duration_s": 67
+}
