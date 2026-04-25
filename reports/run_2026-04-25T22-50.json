@@ -1,0 +1,308 @@
+{
+  "timestamp": "2026-04-25T22:49:27.897Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 208,
+      "new_items": 9,
+      "items": [
+        {
+          "title": "Funko Pop Disney Stitch 125",
+          "price": 15,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-disney-stitch-125-1256080990",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko disney stitch 125",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko disney stitch 125' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Naruto Shippuden Mini Figura",
+          "price": 8.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/funko-pop-naruto-shippuden-mini-figura-1256080932",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "Funko Pop! Sleeping Stitch 1050",
+          "price": 20,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-sleeping-stitch-1050-1256080759",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! sleeping stitch 1050",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! sleeping stitch 1050' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Borja Iglesias Autograph - Red Prizm Panini",
+          "price": 28,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/borja-iglesias-autograph-red-prizm-panini-1256081085",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "borja iglesias autograph red prizm",
+          "verdict": "skip",
+          "reason": "0 reservados de 'borja iglesias autograph red prizm' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Magic Army of the Damned Carta Sorcery",
+          "price": 1,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/magic-army-of-the-damned-carta-sorcery-1256081151",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Magic Primo, the Unbounded",
+          "price": 1,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/carta-magic-primo-the-unbounded-1256081007",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Lote Cartas Pokémon Scovillain y Tatsugiri",
+          "price": 10,
+          "city": "Rota",
+          "url": "https://es.wallapop.com/item/lote-cartas-pokemon-scovillain-y-tatsugiri-1256080995",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon scovillain tatsugiri",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon scovillain tatsugiri' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Cartas Pokémon Raras VMAX V EX",
+          "price": 3500,
+          "city": "Constantina",
+          "url": "https://es.wallapop.com/item/lote-cartas-pokemon-raras-vmax-v-ex-1256080805",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon raras vmax",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon raras vmax' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Playmobil DC Kinder",
+          "price": 3,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/lote-playmobil-dc-kinder-1256080931",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 256,
+      "new_items": 12,
+      "items": [
+        {
+          "title": "Nintendo Switch OLED + 7 juegos y accesorios",
+          "price": 300,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled---7-juegos-y-accesorios-1256081004",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Nintendo Switch OLED + 4 Joycons",
+          "price": 300,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled---4-joycons-1256080997",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch oled joycons",
+          "verdict": "skip",
+          "reason": "300€ vs mín reservado 140€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda Nintendo Switch",
+          "price": 8,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/funda-nintendo-switch-1256080992",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Ratchet & Clank: Una Dimensión Aparte PS5",
+          "price": 25,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/ratchet-clank-una-dimension-aparte-ps5-1256080934",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ratchet clank: una dimension aparte",
+          "verdict": "skip",
+          "reason": "25€ vs mín reservado 16€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Battlefield 6 PS5 NUEVO",
+          "price": 50,
+          "city": "Almansa",
+          "url": "https://es.wallapop.com/item/battlefield-6-ps5-nuevo-1256080903",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "battlefield ps5",
+          "verdict": "skip",
+          "reason": "50€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Fallout 76 Amazon Special Edition PS4 Precintado",
+          "price": 10,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/fallout-76-amazon-special-edition-ps4-precintado-1256080785",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fallout amazon special edition ps4",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fallout amazon special edition ps4' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS4-PS5 Need For Speed",
+          "price": 9.99,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/ps4-nfs-heat-juego-carreras-arcade-1256080766",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 14 Azul",
+          "price": 350,
+          "city": "Illescas",
+          "url": "https://es.wallapop.com/item/iphone-14-azul-1256081180",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone azul",
+          "verdict": "skip",
+          "reason": "350€ vs mín reservado 180€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 15 pro 256gb azul marino",
+          "price": 550,
+          "city": "Orihuela",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-256gb-azul-marino-1256081164",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb azul marino",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": 643.5,
+          "margin_pct": 117,
+          "score": 70,
+          "from_cache": false,
+          "verdict": "SIGNAL"
+        },
+        {
+          "title": "iPhone 15",
+          "price": 150,
+          "city": "Linares",
+          "url": "https://es.wallapop.com/item/iphone-15-1256080941",
+          "reserved": true,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: roto"
+        },
+        {
+          "title": "iPhone 12 Apple",
+          "price": 220,
+          "city": "Linares",
+          "url": "https://es.wallapop.com/item/iphone-12-apple-1256080889",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone apple",
+          "verdict": "skip",
+          "reason": "220€ vs mín reservado 150€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Magsafe y Cristal Trasero iPhone 14",
+          "price": 13,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/magsafe-y-cristal-trasero-iphone-14-1256080750",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "magsafe cristal trasero iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'magsafe cristal trasero iphone' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 1
+    },
+    "Cine, libros y música": {
+      "total_items": 176,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Michael Jackson - Got To Be There LP Vinilo Sellad",
+          "price": 50,
+          "city": "La Flecha",
+          "url": "https://es.wallapop.com/item/michael-jackson-got-to-be-there-lp-vinilo-sellad-1256081078",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "michael jackson got there sellad",
+          "verdict": "skip",
+          "reason": "0 reservados de 'michael jackson got there sellad' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 5 tomos comics marvel",
+          "price": 50,
+          "city": "Toledo",
+          "url": "https://es.wallapop.com/item/lote-5-tomos-comics-marvel-1256081155",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "tomos comics marvel",
+          "verdict": "skip",
+          "reason": "0 reservados de 'tomos comics marvel' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 95,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Oscuridad Asfixiante + Anochecer",
+          "price": 35,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/oscuridad-asfixiante---anochecer-1256080939",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "oscuridad asfixiante anochecer",
+          "verdict": "skip",
+          "reason": "0 reservados de 'oscuridad asfixiante anochecer' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 49,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 24,
+  "total_signals": 1,
+  "duration_s": 65
+}

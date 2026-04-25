@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T22:46:34.237Z",
+  "updated_at": "2026-04-25T22:50:32.707Z",
   "tiers": {
     "proven_seller": [
       {
@@ -330,6 +330,106 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "iphone 15",
+        "example_title": "iPhone 15",
+        "example_url": "https://es.wallapop.com/item/iphone-15-1256080941",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 150,
+        "median_price": 150,
+        "max_price": 150,
+        "first_seen": "2026-04-25T22:50:32.706Z",
+        "last_seen": "2026-04-25T22:50:32.706Z",
+        "sample": [
+          {
+            "price": 150,
+            "title": "iPhone 15",
+            "url": "https://es.wallapop.com/item/iphone-15-1256080941",
+            "city": "Linares"
+          }
+        ]
+      },
+      {
+        "model": "iphone 13 128gb",
+        "example_title": "iPhone 13 128GB",
+        "example_url": "https://es.wallapop.com/item/iphone-13-128gb-1256063390",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 180,
+        "median_price": 180,
+        "max_price": 180,
+        "first_seen": "2026-04-25T22:50:32.706Z",
+        "last_seen": "2026-04-25T22:50:32.706Z",
+        "sample": [
+          {
+            "price": 180,
+            "title": "iPhone 13 128GB",
+            "url": "https://es.wallapop.com/item/iphone-13-128gb-1256063390",
+            "city": "A Coruña"
+          }
+        ]
+      },
+      {
+        "model": "mascaras nyarlathotep llamada cthul",
+        "example_title": "Las Máscaras de Nyarlathotep - La Llamada de Cthul",
+        "example_url": "https://es.wallapop.com/item/las-mascaras-de-nyarlathotep-la-llamada-de-cthul-1256063550",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T22:50:32.706Z",
+        "last_seen": "2026-04-25T22:50:32.706Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Las Máscaras de Nyarlathotep - La Llamada de Cthul",
+            "url": "https://es.wallapop.com/item/las-mascaras-de-nyarlathotep-la-llamada-de-cthul-1256063550",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "guia investigador anos 20 llamada",
+        "example_title": "Guía del Investigador de los Años 20 - La Llamada",
+        "example_url": "https://es.wallapop.com/item/guia-del-investigador-de-los-anos-20-la-llamada-1256062789",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-25T22:50:32.706Z",
+        "last_seen": "2026-04-25T22:50:32.706Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Guía del Investigador de los Años 20 - La Llamada",
+            "url": "https://es.wallapop.com/item/guia-del-investigador-de-los-anos-20-la-llamada-1256062789",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "enrique carta pokemon pikachu",
         "example_title": "Para Enrique - Carta Pokémon Pikachu",
@@ -752,81 +852,6 @@
             "title": "Apple Watch SE Gen2 44mm",
             "url": "https://es.wallapop.com/item/apple-watch-se-gen2-44mm-1256010023",
             "city": "Palma de Mallorca"
-          }
-        ]
-      },
-      {
-        "model": "iphone 13 128gb",
-        "example_title": "iPhone 13 128GB",
-        "example_url": "https://es.wallapop.com/item/iphone-13-128gb-1256063390",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 180,
-        "median_price": 180,
-        "max_price": 180,
-        "first_seen": "2026-04-25T20:46:58.664Z",
-        "last_seen": "2026-04-25T20:46:58.664Z",
-        "sample": [
-          {
-            "price": 180,
-            "title": "iPhone 13 128GB",
-            "url": "https://es.wallapop.com/item/iphone-13-128gb-1256063390",
-            "city": "A Coruña"
-          }
-        ]
-      },
-      {
-        "model": "mascaras nyarlathotep llamada cthul",
-        "example_title": "Las Máscaras de Nyarlathotep - La Llamada de Cthul",
-        "example_url": "https://es.wallapop.com/item/las-mascaras-de-nyarlathotep-la-llamada-de-cthul-1256063550",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-25T20:46:58.664Z",
-        "last_seen": "2026-04-25T20:46:58.664Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Las Máscaras de Nyarlathotep - La Llamada de Cthul",
-            "url": "https://es.wallapop.com/item/las-mascaras-de-nyarlathotep-la-llamada-de-cthul-1256063550",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "guia investigador anos 20 llamada",
-        "example_title": "Guía del Investigador de los Años 20 - La Llamada",
-        "example_url": "https://es.wallapop.com/item/guia-del-investigador-de-los-anos-20-la-llamada-1256062789",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-25T20:46:58.664Z",
-        "last_seen": "2026-04-25T20:46:58.664Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Guía del Investigador de los Años 20 - La Llamada",
-            "url": "https://es.wallapop.com/item/guia-del-investigador-de-los-anos-20-la-llamada-1256062789",
-            "city": "Barcelona"
           }
         ]
       },
@@ -8737,10 +8762,10 @@
     "hot_24h": 0,
     "trending_7d": 6,
     "recurring": 0,
-    "possible": 336,
-    "total_unique_models": 346,
-    "total_reservations": 16,
-    "total_confirmed_sales": 348
+    "possible": 337,
+    "total_unique_models": 347,
+    "total_reservations": 14,
+    "total_confirmed_sales": 351
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8753,28 +8778,40 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "xzogw4np1wj9",
-      "model": "enrique carta pokemon pikachu",
-      "title": "Para Enrique - Carta Pokémon Pikachu",
-      "sold_price": 20,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/para-carta-pokemon-pikachu-1256059933",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T20:32:32.376Z",
-      "last_seen": "2026-04-25T20:32:32.376Z",
-      "confirmed_at": "2026-04-25T22:46:34.235Z"
+      "id": "x6qq1gpkoo6y",
+      "model": "iphone 13 128gb",
+      "title": "iPhone 13 128GB",
+      "sold_price": 180,
+      "city": "A Coruña",
+      "url": "https://es.wallapop.com/item/iphone-13-128gb-1256063390",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T20:46:58.664Z",
+      "last_seen": "2026-04-25T20:46:58.664Z",
+      "confirmed_at": "2026-04-25T22:50:32.706Z"
     },
     {
-      "id": "w67vnow19y6x",
-      "model": "diligencia poblado indio playmobil",
-      "title": "Diligencia y poblado indio Playmobil",
-      "sold_price": 30,
-      "city": "Montcada i Reixac",
-      "url": "https://es.wallapop.com/item/diligencia-y-poblado-indio-playmobil-1256061028",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T20:32:32.376Z",
-      "last_seen": "2026-04-25T20:32:32.376Z",
-      "confirmed_at": "2026-04-25T22:46:34.235Z"
+      "id": "pzpkxenynkj3",
+      "model": "mascaras nyarlathotep llamada cthul",
+      "title": "Las Máscaras de Nyarlathotep - La Llamada de Cthul",
+      "sold_price": 40,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/las-mascaras-de-nyarlathotep-la-llamada-de-cthul-1256063550",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-25T20:46:58.664Z",
+      "last_seen": "2026-04-25T20:46:58.664Z",
+      "confirmed_at": "2026-04-25T22:50:32.706Z"
+    },
+    {
+      "id": "wzvgd719ddzl",
+      "model": "guia investigador anos 20 llamada",
+      "title": "Guía del Investigador de los Años 20 - La Llamada",
+      "sold_price": 25,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/guia-del-investigador-de-los-anos-20-la-llamada-1256062789",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-25T20:46:58.664Z",
+      "last_seen": "2026-04-25T20:46:58.664Z",
+      "confirmed_at": "2026-04-25T22:50:32.706Z"
     }
   ]
 }
