@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T11:47:40.164Z",
+  "updated_at": "2026-04-25T12:03:04.124Z",
   "tiers": {
     "proven_seller": [
       {
@@ -288,6 +288,256 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "mario strikers battle league football nintendo sw",
+        "example_title": "Mario Strikers: Battle League Football Nintendo Sw",
+        "example_url": "https://es.wallapop.com/item/mario-strikers-battle-league-football-nintendo-sw-1255907381",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Mario Strikers: Battle League Football Nintendo Sw",
+            "url": "https://es.wallapop.com/item/mario-strikers-battle-league-football-nintendo-sw-1255907381",
+            "city": "Bilbao"
+          }
+        ]
+      },
+      {
+        "model": "iphone negro",
+        "example_title": "iPhone 7 Negro",
+        "example_url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "iPhone 7 Negro",
+            "url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
+            "city": "Montblanc"
+          }
+        ]
+      },
+      {
+        "model": "cartas pokemon splendor astral",
+        "example_title": "Cartas Pokémon Splendor Astral",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-splendor-astral-1255862168",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 115,
+        "median_price": 115,
+        "max_price": 115,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 115,
+            "title": "Cartas Pokémon Splendor Astral",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-splendor-astral-1255862168",
+            "city": "Oropesa/Oropesa del Mar"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon meowth basico 106 094 charizard 13",
+        "example_title": "Carta Pokémon Meowth Básico 106/094 y charizard 13",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-meowth-basico-106-094-y-charizard-13-1255858885",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Carta Pokémon Meowth Básico 106/094 y charizard 13",
+            "url": "https://es.wallapop.com/item/carta-pokemon-meowth-basico-106-094-y-charizard-13-1255858885",
+            "city": "Bilbao"
+          }
+        ]
+      },
+      {
+        "model": "space hulk death angel expansiones",
+        "example_title": "Space Hulk Death Angel + Expansiones",
+        "example_url": "https://es.wallapop.com/item/space-hulk-death-angel---expansiones-1255862296",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Space Hulk Death Angel + Expansiones",
+            "url": "https://es.wallapop.com/item/space-hulk-death-angel---expansiones-1255862296",
+            "city": "Donostia-San Sebastián"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon charizard vstar sar 212 172",
+        "example_title": "Carta Pokémon Charizard VSTAR SAR 212/172",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-charizard-vstar-sar-212-172-1255865347",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 90,
+        "median_price": 90,
+        "max_price": 90,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 90,
+            "title": "Carta Pokémon Charizard VSTAR SAR 212/172",
+            "url": "https://es.wallapop.com/item/carta-pokemon-charizard-vstar-sar-212-172-1255865347",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "lote eduardo playmobil",
+        "example_title": "Lote Eduardo Playmobil",
+        "example_url": "https://es.wallapop.com/item/lote-eduardo-playmobil-1255866296",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 33.25,
+        "median_price": 33.25,
+        "max_price": 33.25,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 33.25,
+            "title": "Lote Eduardo Playmobil",
+            "url": "https://es.wallapop.com/item/lote-eduardo-playmobil-1255866296",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "playstation ps4 perfecto estado",
+        "example_title": "PlayStation 4 (PS4) en perfecto estado",
+        "example_url": "https://es.wallapop.com/item/playstation-4-ps4-en-perfecto-estado-1255854309",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 200,
+        "median_price": 200,
+        "max_price": 200,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 200,
+            "title": "PlayStation 4 (PS4) en perfecto estado",
+            "url": "https://es.wallapop.com/item/playstation-4-ps4-en-perfecto-estado-1255854309",
+            "city": "Alcalá de Henares"
+          }
+        ]
+      },
+      {
+        "model": "flex volumen iphone 14",
+        "example_title": "Flex Volumen iPhone 14",
+        "example_url": "https://es.wallapop.com/item/flex-volumen-iphone-14-1255866451",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Flex Volumen iPhone 14",
+            "url": "https://es.wallapop.com/item/flex-volumen-iphone-14-1255866451",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "pack fundas iphone 17 pro pro max",
+        "example_title": "Pack 2 Fundas iPhone 17 Pro y Pro Max",
+        "example_url": "https://es.wallapop.com/item/pack-2-fundas-iphone-17-pro-y-pro-max-1255866175",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-25T12:03:04.122Z",
+        "last_seen": "2026-04-25T12:03:04.122Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "Pack 2 Fundas iPhone 17 Pro y Pro Max",
+            "url": "https://es.wallapop.com/item/pack-2-fundas-iphone-17-pro-y-pro-max-1255866175",
+            "city": "Valencia"
+          }
+        ]
+      },
       {
         "model": "pokemon espada nintendo switch rpg",
         "example_title": "Pokemon Espada Nintendo Switch RPG",
@@ -860,206 +1110,6 @@
             "title": "Vinilo lp elena",
             "url": "https://es.wallapop.com/item/vinilo-lp-elena-1255820843",
             "city": "Mislata"
-          }
-        ]
-      },
-      {
-        "model": "carta pokemon charizard vstar sar 212 172",
-        "example_title": "Carta Pokémon Charizard VSTAR SAR 212/172",
-        "example_url": "https://es.wallapop.com/item/carta-pokemon-charizard-vstar-sar-212-172-1255865347",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 90,
-        "median_price": 90,
-        "max_price": 90,
-        "first_seen": "2026-04-25T10:02:14.291Z",
-        "last_seen": "2026-04-25T10:02:14.291Z",
-        "sample": [
-          {
-            "price": 90,
-            "title": "Carta Pokémon Charizard VSTAR SAR 212/172",
-            "url": "https://es.wallapop.com/item/carta-pokemon-charizard-vstar-sar-212-172-1255865347",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "lote eduardo playmobil",
-        "example_title": "Lote Eduardo Playmobil",
-        "example_url": "https://es.wallapop.com/item/lote-eduardo-playmobil-1255866296",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 33.25,
-        "median_price": 33.25,
-        "max_price": 33.25,
-        "first_seen": "2026-04-25T10:02:14.291Z",
-        "last_seen": "2026-04-25T10:02:14.291Z",
-        "sample": [
-          {
-            "price": 33.25,
-            "title": "Lote Eduardo Playmobil",
-            "url": "https://es.wallapop.com/item/lote-eduardo-playmobil-1255866296",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "playstation ps4 perfecto estado",
-        "example_title": "PlayStation 4 (PS4) en perfecto estado",
-        "example_url": "https://es.wallapop.com/item/playstation-4-ps4-en-perfecto-estado-1255854309",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 200,
-        "median_price": 200,
-        "max_price": 200,
-        "first_seen": "2026-04-25T10:02:14.291Z",
-        "last_seen": "2026-04-25T10:02:14.291Z",
-        "sample": [
-          {
-            "price": 200,
-            "title": "PlayStation 4 (PS4) en perfecto estado",
-            "url": "https://es.wallapop.com/item/playstation-4-ps4-en-perfecto-estado-1255854309",
-            "city": "Alcalá de Henares"
-          }
-        ]
-      },
-      {
-        "model": "flex volumen iphone 14",
-        "example_title": "Flex Volumen iPhone 14",
-        "example_url": "https://es.wallapop.com/item/flex-volumen-iphone-14-1255866451",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 6,
-        "median_price": 6,
-        "max_price": 6,
-        "first_seen": "2026-04-25T10:02:14.291Z",
-        "last_seen": "2026-04-25T10:02:14.291Z",
-        "sample": [
-          {
-            "price": 6,
-            "title": "Flex Volumen iPhone 14",
-            "url": "https://es.wallapop.com/item/flex-volumen-iphone-14-1255866451",
-            "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "pack fundas iphone 17 pro pro max",
-        "example_title": "Pack 2 Fundas iPhone 17 Pro y Pro Max",
-        "example_url": "https://es.wallapop.com/item/pack-2-fundas-iphone-17-pro-y-pro-max-1255866175",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 32,
-        "median_price": 32,
-        "max_price": 32,
-        "first_seen": "2026-04-25T10:02:14.291Z",
-        "last_seen": "2026-04-25T10:02:14.291Z",
-        "sample": [
-          {
-            "price": 32,
-            "title": "Pack 2 Fundas iPhone 17 Pro y Pro Max",
-            "url": "https://es.wallapop.com/item/pack-2-fundas-iphone-17-pro-y-pro-max-1255866175",
-            "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "cartas pokemon splendor astral",
-        "example_title": "Cartas Pokémon Splendor Astral",
-        "example_url": "https://es.wallapop.com/item/cartas-pokemon-splendor-astral-1255862168",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 115,
-        "median_price": 115,
-        "max_price": 115,
-        "first_seen": "2026-04-25T09:47:54.809Z",
-        "last_seen": "2026-04-25T09:47:54.809Z",
-        "sample": [
-          {
-            "price": 115,
-            "title": "Cartas Pokémon Splendor Astral",
-            "url": "https://es.wallapop.com/item/cartas-pokemon-splendor-astral-1255862168",
-            "city": "Oropesa/Oropesa del Mar"
-          }
-        ]
-      },
-      {
-        "model": "carta pokemon meowth basico 106 094 charizard 13",
-        "example_title": "Carta Pokémon Meowth Básico 106/094 y charizard 13",
-        "example_url": "https://es.wallapop.com/item/carta-pokemon-meowth-basico-106-094-y-charizard-13-1255858885",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-25T09:47:54.809Z",
-        "last_seen": "2026-04-25T09:47:54.809Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Carta Pokémon Meowth Básico 106/094 y charizard 13",
-            "url": "https://es.wallapop.com/item/carta-pokemon-meowth-basico-106-094-y-charizard-13-1255858885",
-            "city": "Bilbao"
-          }
-        ]
-      },
-      {
-        "model": "space hulk death angel expansiones",
-        "example_title": "Space Hulk Death Angel + Expansiones",
-        "example_url": "https://es.wallapop.com/item/space-hulk-death-angel---expansiones-1255862296",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-25T09:47:54.809Z",
-        "last_seen": "2026-04-25T09:47:54.809Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "Space Hulk Death Angel + Expansiones",
-            "url": "https://es.wallapop.com/item/space-hulk-death-angel---expansiones-1255862296",
-            "city": "Donostia-San Sebastián"
           }
         ]
       },
@@ -6945,10 +6995,10 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 266,
-    "total_unique_models": 275,
-    "total_reservations": 26,
-    "total_confirmed_sales": 261
+    "possible": 268,
+    "total_unique_models": 277,
+    "total_reservations": 20,
+    "total_confirmed_sales": 269
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6961,40 +7011,100 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "4z482xep58jy",
-      "model": "lote funko pop aragorn sauron lord of the rings",
-      "title": "Lote Funko Pop Aragorn y Sauron Lord of the Rings",
-      "sold_price": 60,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-funko-pop-aragorn-y-sauron-lord-of-the-rings-1255853262",
+      "id": "wzyrg1rvrx65",
+      "model": "cartas pokemon splendor astral",
+      "title": "Cartas Pokémon Splendor Astral",
+      "sold_price": 115,
+      "city": "Oropesa/Oropesa del Mar",
+      "url": "https://es.wallapop.com/item/cartas-pokemon-splendor-astral-1255862168",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T09:32:46.435Z",
-      "last_seen": "2026-04-25T09:32:46.435Z",
-      "confirmed_at": "2026-04-25T11:47:40.163Z"
+      "first_reserved": "2026-04-25T09:47:54.809Z",
+      "last_seen": "2026-04-25T09:47:54.809Z",
+      "confirmed_at": "2026-04-25T12:03:04.122Z"
     },
     {
-      "id": "nz081p890v6o",
-      "model": "playmobil circo romano 4270",
-      "title": "Playmobil Circo Romano 4270",
-      "sold_price": 135,
+      "id": "pj940244006e",
+      "model": "carta pokemon meowth basico 106 094 charizard 13",
+      "title": "Carta Pokémon Meowth Básico 106/094 y charizard 13",
+      "sold_price": 15,
+      "city": "Bilbao",
+      "url": "https://es.wallapop.com/item/carta-pokemon-meowth-basico-106-094-y-charizard-13-1255858885",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T09:47:54.809Z",
+      "last_seen": "2026-04-25T09:47:54.809Z",
+      "confirmed_at": "2026-04-25T12:03:04.122Z"
+    },
+    {
+      "id": "e65qd1q2ek6o",
+      "model": "space hulk death angel expansiones",
+      "title": "Space Hulk Death Angel + Expansiones",
+      "sold_price": 30,
+      "city": "Donostia-San Sebastián",
+      "url": "https://es.wallapop.com/item/space-hulk-death-angel---expansiones-1255862296",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-25T09:47:54.809Z",
+      "last_seen": "2026-04-25T09:47:54.809Z",
+      "confirmed_at": "2026-04-25T12:03:04.122Z"
+    },
+    {
+      "id": "ejkmn3m3oyzx",
+      "model": "carta pokemon charizard vstar sar 212 172",
+      "title": "Carta Pokémon Charizard VSTAR SAR 212/172",
+      "sold_price": 90,
       "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/playmobil-circo-romano-4270-1255855203",
+      "url": "https://es.wallapop.com/item/carta-pokemon-charizard-vstar-sar-212-172-1255865347",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T09:32:46.435Z",
-      "last_seen": "2026-04-25T09:32:46.435Z",
-      "confirmed_at": "2026-04-25T11:47:40.163Z"
+      "first_reserved": "2026-04-25T10:02:14.291Z",
+      "last_seen": "2026-04-25T10:02:14.291Z",
+      "confirmed_at": "2026-04-25T12:03:04.122Z"
     },
     {
-      "id": "pzpkxe2v0mj3",
-      "model": "consola sony ps4 1tb mando blanco",
-      "title": "Consola Sony PS4 1TB + Mando Blanco",
-      "sold_price": 9.95,
-      "city": "Badalona",
-      "url": "https://es.wallapop.com/item/consola-sony-ps4-1tb---mando-blanco-1255854998",
+      "id": "e65qd1qnrp6o",
+      "model": "lote eduardo playmobil",
+      "title": "Lote Eduardo Playmobil",
+      "sold_price": 33.25,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-eduardo-playmobil-1255866296",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T10:02:14.291Z",
+      "last_seen": "2026-04-25T10:02:14.291Z",
+      "confirmed_at": "2026-04-25T12:03:04.122Z"
+    },
+    {
+      "id": "xzogw42y15j9",
+      "model": "playstation ps4 perfecto estado",
+      "title": "PlayStation 4 (PS4) en perfecto estado",
+      "sold_price": 200,
+      "city": "Alcalá de Henares",
+      "url": "https://es.wallapop.com/item/playstation-4-ps4-en-perfecto-estado-1255854309",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T09:32:46.435Z",
-      "last_seen": "2026-04-25T09:32:46.435Z",
-      "confirmed_at": "2026-04-25T11:47:40.163Z"
+      "first_reserved": "2026-04-25T10:02:14.291Z",
+      "last_seen": "2026-04-25T10:02:14.291Z",
+      "confirmed_at": "2026-04-25T12:03:04.122Z"
+    },
+    {
+      "id": "nz081p8eoe6o",
+      "model": "flex volumen iphone 14",
+      "title": "Flex Volumen iPhone 14",
+      "sold_price": 6,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/flex-volumen-iphone-14-1255866451",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T10:02:14.291Z",
+      "last_seen": "2026-04-25T10:02:14.291Z",
+      "confirmed_at": "2026-04-25T12:03:04.122Z"
+    },
+    {
+      "id": "nz081p8e4r6o",
+      "model": "pack fundas iphone 17 pro pro max",
+      "title": "Pack 2 Fundas iPhone 17 Pro y Pro Max",
+      "sold_price": 32,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/pack-2-fundas-iphone-17-pro-y-pro-max-1255866175",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T10:02:14.291Z",
+      "last_seen": "2026-04-25T10:02:14.291Z",
+      "confirmed_at": "2026-04-25T12:03:04.122Z"
     }
   ]
 }
