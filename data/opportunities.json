@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T20:16:44.840Z",
+  "updated_at": "2026-04-25T20:32:32.378Z",
   "tiers": {
     "proven_seller": [
       {
@@ -151,7 +151,8 @@
         ]
       }
     ],
-    "hot_24h": [
+    "hot_24h": [],
+    "trending_7d": [
       {
         "model": "mario party superstars nintendo switch",
         "example_title": "Mario Party Superstars Nintendo Switch",
@@ -159,7 +160,7 @@
         "total_reservations": 0,
         "confirmed_sales": 2,
         "total_events": 2,
-        "reservations_24h": 2,
+        "reservations_24h": 1,
         "reservations_7d": 2,
         "reservations_30d": 2,
         "reservations_per_day": 2,
@@ -182,9 +183,7 @@
             "city": "Castellbisbal"
           }
         ]
-      }
-    ],
-    "trending_7d": [
+      },
       {
         "model": "figuras dc comics playmobil",
         "example_title": "Figuras DC Comics Playmobil",
@@ -343,6 +342,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "enrique carta pokemon pikachu",
+        "example_title": "Para Enrique - Carta Pokémon Pikachu",
+        "example_url": "https://es.wallapop.com/item/para-carta-pokemon-pikachu-1256059933",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-25T20:32:32.376Z",
+        "last_seen": "2026-04-25T20:32:32.376Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Para Enrique - Carta Pokémon Pikachu",
+            "url": "https://es.wallapop.com/item/para-carta-pokemon-pikachu-1256059933",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "diligencia poblado indio playmobil",
+        "example_title": "Diligencia y poblado indio Playmobil",
+        "example_url": "https://es.wallapop.com/item/diligencia-y-poblado-indio-playmobil-1256061028",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-25T20:32:32.376Z",
+        "last_seen": "2026-04-25T20:32:32.376Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Diligencia y poblado indio Playmobil",
+            "url": "https://es.wallapop.com/item/diligencia-y-poblado-indio-playmobil-1256061028",
+            "city": "Montcada i Reixac"
+          }
+        ]
+      },
+      {
+        "model": "lote vinilos cd rocio durcal chunguitos",
+        "example_title": "Lote 2 Vinilos +1 CD Rocio Durcal y Los Chunguitos",
+        "example_url": "https://es.wallapop.com/item/lote-2-vinilos--1-cd-rocio-durcal-y-los-chunguitos-1256061345",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5.5,
+        "median_price": 5.5,
+        "max_price": 5.5,
+        "first_seen": "2026-04-25T20:32:32.376Z",
+        "last_seen": "2026-04-25T20:32:32.376Z",
+        "sample": [
+          {
+            "price": 5.5,
+            "title": "Lote 2 Vinilos +1 CD Rocio Durcal y Los Chunguitos",
+            "url": "https://es.wallapop.com/item/lote-2-vinilos--1-cd-rocio-durcal-y-los-chunguitos-1256061345",
+            "city": "Tarrega"
+          }
+        ]
+      },
       {
         "model": "pack peliculas blu ray",
         "example_title": "Pack 5 Películas Blu-ray",
@@ -3500,7 +3574,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3525,7 +3599,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8447,12 +8521,12 @@
   },
   "stats": {
     "proven_seller": 4,
-    "hot_24h": 1,
-    "trending_7d": 5,
+    "hot_24h": 0,
+    "trending_7d": 6,
     "recurring": 0,
-    "possible": 324,
-    "total_unique_models": 334,
-    "total_reservations": 14,
+    "possible": 327,
+    "total_unique_models": 337,
+    "total_reservations": 17,
     "total_confirmed_sales": 337
   },
   "thresholds": {
@@ -8464,18 +8538,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "v6gp3xw7gl6e",
-      "model": "packs cargador 20w iphone 60w usb",
-      "title": "6 packs cargador 20W iphone+ 60W USB-C",
-      "sold_price": 54,
-      "city": "Guadalajara",
-      "url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T18:09:12.588Z",
-      "last_seen": "2026-04-25T18:09:12.588Z",
-      "confirmed_at": "2026-04-25T20:16:44.839Z"
-    }
-  ]
+  "new_sales": []
 }
