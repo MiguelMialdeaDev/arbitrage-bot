@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T19:02:34.715Z",
+  "updated_at": "2026-04-25T19:09:03.299Z",
   "tiers": {
     "proven_seller": [
       {
@@ -343,6 +343,106 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funkos ruben",
+        "example_title": "Funkos Rubén",
+        "example_url": "https://es.wallapop.com/item/funkos-ruben-1256040841",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-25T19:09:03.297Z",
+        "last_seen": "2026-04-25T19:09:03.297Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Funkos Rubén",
+            "url": "https://es.wallapop.com/item/funkos-ruben-1256040841",
+            "city": "Carpihuelo"
+          }
+        ]
+      },
+      {
+        "model": "lote cromos panini aspas momentum inaki ed lim",
+        "example_title": "Lote cromos Panini aspas momentum Iñaki ed lim",
+        "example_url": "https://es.wallapop.com/item/lote-cromos-panini-aspas-momentum-inaki-ed-lim-1256042744",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 11,
+        "median_price": 11,
+        "max_price": 11,
+        "first_seen": "2026-04-25T19:09:03.297Z",
+        "last_seen": "2026-04-25T19:09:03.297Z",
+        "sample": [
+          {
+            "price": 11,
+            "title": "Lote cromos Panini aspas momentum Iñaki ed lim",
+            "url": "https://es.wallapop.com/item/lote-cromos-panini-aspas-momentum-inaki-ed-lim-1256042744",
+            "city": "Villamediana de Iregua"
+          }
+        ]
+      },
+      {
+        "model": "magic the gathering lote",
+        "example_title": "Magic The Gathering - lote",
+        "example_url": "https://es.wallapop.com/item/magic-the-gathering-lote-1256042318",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 100,
+        "median_price": 100,
+        "max_price": 100,
+        "first_seen": "2026-04-25T19:09:03.297Z",
+        "last_seen": "2026-04-25T19:09:03.297Z",
+        "sample": [
+          {
+            "price": 100,
+            "title": "Magic The Gathering - lote",
+            "url": "https://es.wallapop.com/item/magic-the-gathering-lote-1256042318",
+            "city": "Altea"
+          }
+        ]
+      },
+      {
+        "model": "juegos nintendo switch pokemon",
+        "example_title": "3 Juegos Nintendo Switch Pokémon",
+        "example_url": "https://es.wallapop.com/item/3-juegos-nintendo-switch-pokemon-1256040985",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-25T19:09:03.297Z",
+        "last_seen": "2026-04-25T19:09:03.297Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "3 Juegos Nintendo Switch Pokémon",
+            "url": "https://es.wallapop.com/item/3-juegos-nintendo-switch-pokemon-1256040985",
+            "city": "El Campello"
+          }
+        ]
+      },
       {
         "model": "apple watch 40mm",
         "example_title": "Apple Watch SE 2 40mm",
@@ -3350,7 +3450,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8175,9 +8275,9 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 313,
-    "total_unique_models": 323,
-    "total_reservations": 11,
+    "possible": 317,
+    "total_unique_models": 327,
+    "total_reservations": 15,
     "total_confirmed_sales": 329
   },
   "thresholds": {
@@ -8189,78 +8289,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "4z482x4878jy",
-      "model": "capitan america marvel heroes",
-      "title": "Capitan América Marvel Héroes",
-      "sold_price": 12,
-      "city": "Cadrete",
-      "url": "https://es.wallapop.com/item/capitan-america-marvel-heroes-1255983486",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T16:02:29.729Z",
-      "last_seen": "2026-04-25T16:02:29.729Z",
-      "confirmed_at": "2026-04-25T19:02:34.713Z"
-    },
-    {
-      "id": "vjrem58q34zk",
-      "model": "kazar senor tierra salvaje",
-      "title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
-      "sold_price": 40,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T16:02:29.729Z",
-      "last_seen": "2026-04-25T16:02:29.729Z",
-      "confirmed_at": "2026-04-25T19:02:34.713Z"
-    },
-    {
-      "id": "pzpkxeogemj3",
-      "model": "funkos eva",
-      "title": "Funkos Eva",
-      "sold_price": 9,
-      "city": "Carpihuelo",
-      "url": "https://es.wallapop.com/item/funkos-eva-1255998374",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T16:47:34.835Z",
-      "last_seen": "2026-04-25T16:47:34.835Z",
-      "confirmed_at": "2026-04-25T19:02:34.713Z"
-    },
-    {
-      "id": "3zlmp2w9n8jx",
-      "model": "cajas pokemon bulk 300 cartas",
-      "title": "Cajas Pokémon bulk 300 cartas",
-      "sold_price": 12,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T16:47:34.835Z",
-      "last_seen": "2026-04-25T16:47:34.835Z",
-      "confirmed_at": "2026-04-25T19:02:34.713Z"
-    },
-    {
-      "id": "36e5m74nwy6d",
-      "model": "nintendo switch joy par morado verde",
-      "title": "Nintendo Switch Joy-Con Par Morado/Verde",
-      "sold_price": 34,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T16:47:34.835Z",
-      "last_seen": "2026-04-25T16:47:34.835Z",
-      "confirmed_at": "2026-04-25T19:02:34.713Z"
-    },
-    {
-      "id": "nz081pogk76o",
-      "model": "mandos nintendo switch colores",
-      "title": "Mandos Nintendo Switch Colores",
-      "sold_price": 39.8,
-      "city": "Alagón",
-      "url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T16:47:34.835Z",
-      "last_seen": "2026-04-25T16:47:34.835Z",
-      "confirmed_at": "2026-04-25T19:02:34.713Z"
-    }
-  ]
+  "new_sales": []
 }
