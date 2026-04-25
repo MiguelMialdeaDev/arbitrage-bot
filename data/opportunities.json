@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T19:16:35.425Z",
+  "updated_at": "2026-04-25T19:32:05.201Z",
   "tiers": {
     "proven_seller": [
       {
@@ -343,6 +343,156 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "nintendo switch mario kart deluxe",
+        "example_title": "Nintendo Switch + Mario Kart 8 Deluxe",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch---mario-kart-8-deluxe-1256046369",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 150,
+        "median_price": 150,
+        "max_price": 150,
+        "first_seen": "2026-04-25T19:32:05.199Z",
+        "last_seen": "2026-04-25T19:32:05.199Z",
+        "sample": [
+          {
+            "price": 150,
+            "title": "Nintendo Switch + Mario Kart 8 Deluxe",
+            "url": "https://es.wallapop.com/item/nintendo-switch---mario-kart-8-deluxe-1256046369",
+            "city": "Móstoles"
+          }
+        ]
+      },
+      {
+        "model": "iphone 16 plus 128gb bateria 91",
+        "example_title": "iPhone 16 Plus 128GB Batería 91%",
+        "example_url": "https://es.wallapop.com/item/iphone-16-plus-128gb-bateria-91-1256044885",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 560,
+        "median_price": 560,
+        "max_price": 560,
+        "first_seen": "2026-04-25T19:32:05.199Z",
+        "last_seen": "2026-04-25T19:32:05.199Z",
+        "sample": [
+          {
+            "price": 560,
+            "title": "iPhone 16 Plus 128GB Batería 91%",
+            "url": "https://es.wallapop.com/item/iphone-16-plus-128gb-bateria-91-1256044885",
+            "city": "Terrassa"
+          }
+        ]
+      },
+      {
+        "model": "lot gran peces lego",
+        "example_title": "Lot gran de peces LEGO",
+        "example_url": "https://es.wallapop.com/item/lot-gran-de-peces-lego-1256004639",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-25T19:32:05.199Z",
+        "last_seen": "2026-04-25T19:32:05.199Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Lot gran de peces LEGO",
+            "url": "https://es.wallapop.com/item/lot-gran-de-peces-lego-1256004639",
+            "city": "Cardedeu"
+          }
+        ]
+      },
+      {
+        "model": "disco vinilo michael jackson dangerous",
+        "example_title": "Disco de Vinilo Michael Jackson - Dangerous",
+        "example_url": "https://es.wallapop.com/item/disco-de-vinilo-michael-jackson-dangerous-1256008520",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-25T19:32:05.199Z",
+        "last_seen": "2026-04-25T19:32:05.199Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Disco de Vinilo Michael Jackson - Dangerous",
+            "url": "https://es.wallapop.com/item/disco-de-vinilo-michael-jackson-dangerous-1256008520",
+            "city": "Ávila"
+          }
+        ]
+      },
+      {
+        "model": "lote ramonrafaga elemental azul mtg",
+        "example_title": "LOTE RAMONRáfaga elemental azul MTG",
+        "example_url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-25T19:32:05.199Z",
+        "last_seen": "2026-04-25T19:32:05.199Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "LOTE RAMONRáfaga elemental azul MTG",
+            "url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
+            "city": "Mont-Ras"
+          }
+        ]
+      },
+      {
+        "model": "pack peliculas blu ray accion terror thriller",
+        "example_title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
+        "example_url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-25T19:32:05.199Z",
+        "last_seen": "2026-04-25T19:32:05.199Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
+            "url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
+            "city": "Parque Empresarial La Moraleja"
+          }
+        ]
+      },
       {
         "model": "funkos ruben",
         "example_title": "Funkos Rubén",
@@ -919,56 +1069,6 @@
         ]
       },
       {
-        "model": "lote ramonrafaga elemental azul mtg",
-        "example_title": "LOTE RAMONRáfaga elemental azul MTG",
-        "example_url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8,
-        "median_price": 8,
-        "max_price": 8,
-        "first_seen": "2026-04-25T17:32:01.279Z",
-        "last_seen": "2026-04-25T17:32:01.279Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "LOTE RAMONRáfaga elemental azul MTG",
-            "url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
-            "city": "Mont-Ras"
-          }
-        ]
-      },
-      {
-        "model": "pack peliculas blu ray accion terror thriller",
-        "example_title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
-        "example_url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 27,
-        "median_price": 27,
-        "max_price": 27,
-        "first_seen": "2026-04-25T17:32:01.279Z",
-        "last_seen": "2026-04-25T17:32:01.279Z",
-        "sample": [
-          {
-            "price": 27,
-            "title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
-            "url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
-            "city": "Parque Empresarial La Moraleja"
-          }
-        ]
-      },
-      {
         "model": "lote asier cromos panini balon oro mbapp",
         "example_title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
         "example_url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
@@ -1115,56 +1215,6 @@
             "title": "Apple Watch Ultra Plata/Verde",
             "url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
             "city": "Roma"
-          }
-        ]
-      },
-      {
-        "model": "lot gran peces lego",
-        "example_title": "Lot gran de peces LEGO",
-        "example_url": "https://es.wallapop.com/item/lot-gran-de-peces-lego-1256004639",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-25T17:17:29.360Z",
-        "last_seen": "2026-04-25T17:17:29.360Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Lot gran de peces LEGO",
-            "url": "https://es.wallapop.com/item/lot-gran-de-peces-lego-1256004639",
-            "city": "Cardedeu"
-          }
-        ]
-      },
-      {
-        "model": "disco vinilo michael jackson dangerous",
-        "example_title": "Disco de Vinilo Michael Jackson - Dangerous",
-        "example_url": "https://es.wallapop.com/item/disco-de-vinilo-michael-jackson-dangerous-1256008520",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-25T17:17:29.360Z",
-        "last_seen": "2026-04-25T17:17:29.360Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Disco de Vinilo Michael Jackson - Dangerous",
-            "url": "https://es.wallapop.com/item/disco-de-vinilo-michael-jackson-dangerous-1256008520",
-            "city": "Ávila"
           }
         ]
       },
@@ -8275,10 +8325,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 317,
-    "total_unique_models": 327,
-    "total_reservations": 15,
-    "total_confirmed_sales": 329
+    "possible": 319,
+    "total_unique_models": 329,
+    "total_reservations": 13,
+    "total_confirmed_sales": 333
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8289,5 +8339,54 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "36e5m74yrk6d",
+      "model": "lot gran peces lego",
+      "title": "Lot gran de peces LEGO",
+      "sold_price": 20,
+      "city": "Cardedeu",
+      "url": "https://es.wallapop.com/item/lot-gran-de-peces-lego-1256004639",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T17:17:29.360Z",
+      "last_seen": "2026-04-25T17:17:29.360Z",
+      "confirmed_at": "2026-04-25T19:32:05.199Z"
+    },
+    {
+      "id": "wzyrg11nxx65",
+      "model": "disco vinilo michael jackson dangerous",
+      "title": "Disco de Vinilo Michael Jackson - Dangerous",
+      "sold_price": 20,
+      "city": "Ávila",
+      "url": "https://es.wallapop.com/item/disco-de-vinilo-michael-jackson-dangerous-1256008520",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T17:17:29.360Z",
+      "last_seen": "2026-04-25T17:17:29.360Z",
+      "confirmed_at": "2026-04-25T19:32:05.199Z"
+    },
+    {
+      "id": "pzpkxee73kj3",
+      "model": "lote ramonrafaga elemental azul mtg",
+      "title": "LOTE RAMONRáfaga elemental azul MTG",
+      "sold_price": 8,
+      "city": "Mont-Ras",
+      "url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T17:32:01.279Z",
+      "last_seen": "2026-04-25T17:32:01.279Z",
+      "confirmed_at": "2026-04-25T19:32:05.199Z"
+    },
+    {
+      "id": "p618m00epxz5",
+      "model": "pack peliculas blu ray accion terror thriller",
+      "title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
+      "sold_price": 27,
+      "city": "Parque Empresarial La Moraleja",
+      "url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T17:32:01.279Z",
+      "last_seen": "2026-04-25T17:32:01.279Z",
+      "confirmed_at": "2026-04-25T19:32:05.199Z"
+    }
+  ]
 }
