@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T14:55:46.442Z",
+  "updated_at": "2026-04-25T15:02:13.105Z",
   "tiers": {
     "proven_seller": [
       {
@@ -276,6 +276,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote carlos",
+        "example_title": "Lote Carlos",
+        "example_url": "https://es.wallapop.com/item/lote-carlos-1255965916",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T15:02:13.103Z",
+        "last_seen": "2026-04-25T15:02:13.103Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Lote Carlos",
+            "url": "https://es.wallapop.com/item/lote-carlos-1255965916",
+            "city": "Aguilar de Campoo"
+          }
+        ]
+      },
+      {
+        "model": "pack peliculas blu ray dvd",
+        "example_title": "Pack Películas Blu-ray y DVD",
+        "example_url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 110,
+        "median_price": 110,
+        "max_price": 110,
+        "first_seen": "2026-04-25T15:02:13.103Z",
+        "last_seen": "2026-04-25T15:02:13.103Z",
+        "sample": [
+          {
+            "price": 110,
+            "title": "Pack Películas Blu-ray y DVD",
+            "url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
+            "city": "Parque Empresarial La Moraleja"
+          }
+        ]
+      },
       {
         "model": "apple watch ultra plata verde",
         "example_title": "Apple Watch Ultra Plata/Verde",
@@ -7358,9 +7408,9 @@
     "hot_24h": 1,
     "trending_7d": 4,
     "recurring": 0,
-    "possible": 283,
-    "total_unique_models": 292,
-    "total_reservations": 16,
+    "possible": 285,
+    "total_unique_models": 294,
+    "total_reservations": 18,
     "total_confirmed_sales": 292
   },
   "thresholds": {
@@ -7372,18 +7422,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "4z482xkvgljy",
-      "model": "cartas juego marvel",
-      "title": "Cartas Juego Marvel",
-      "sold_price": 60,
-      "city": "Villazain",
-      "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
-      "category": "Deporte y ocio",
-      "first_reserved": "2026-04-25T12:47:34.430Z",
-      "last_seen": "2026-04-25T12:47:34.430Z",
-      "confirmed_at": "2026-04-25T14:55:46.440Z"
-    }
-  ]
+  "new_sales": []
 }
