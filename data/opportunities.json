@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T13:31:41.638Z",
+  "updated_at": "2026-04-25T13:47:21.461Z",
   "tiers": {
     "proven_seller": [
       {
@@ -288,6 +288,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "carta pokemon mega eelektross ex 350 ps",
+        "example_title": "Carta Pokémon Mega-Eelektross EX 350 PS",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-mega-eelektross-ex-350-ps-1255941632",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T13:47:21.459Z",
+        "last_seen": "2026-04-25T13:47:21.459Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Carta Pokémon Mega-Eelektross EX 350 PS",
+            "url": "https://es.wallapop.com/item/carta-pokemon-mega-eelektross-ex-350-ps-1255941632",
+            "city": "Gijón"
+          }
+        ]
+      },
       {
         "model": "cromos panini animales salvajes",
         "example_title": "Cromos Panini Animales Salvajes",
@@ -3470,7 +3495,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3495,7 +3520,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3520,7 +3545,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3545,7 +3570,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7195,9 +7220,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 276,
-    "total_unique_models": 285,
-    "total_reservations": 15,
+    "possible": 277,
+    "total_unique_models": 286,
+    "total_reservations": 16,
     "total_confirmed_sales": 284
   },
   "thresholds": {
@@ -7209,18 +7234,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "vjrem51ekxzk",
-      "model": "pack mini latas pokemon poderes kanto",
-      "title": "Pack Mini-Latas Pokémon : Poderes de Kanto",
-      "sold_price": 75,
-      "city": "La Vegueta",
-      "url": "https://es.wallapop.com/item/pack-mini-latas-pokemon-poderes-de-kanto-1255900067",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T11:26:17.879Z",
-      "last_seen": "2026-04-25T11:26:17.879Z",
-      "confirmed_at": "2026-04-25T13:31:41.636Z"
-    }
-  ]
+  "new_sales": []
 }
