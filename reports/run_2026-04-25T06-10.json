@@ -1,0 +1,362 @@
+{
+  "timestamp": "2026-04-25T06:08:59.085Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 207,
+      "new_items": 11,
+      "items": [
+        {
+          "title": "+2kg SIN REPETIR PACK Commander Cartas Magic raras",
+          "price": 52,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/2kg-sin-repetir-pack-commander-cartas-magic-raras-1255801332",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "+2kg sin repetir pack commander",
+          "verdict": "skip",
+          "reason": "0 reservados de '+2kg sin repetir pack commander' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Oferta 1000 Cartas Raras Magic The Gathering MTG",
+          "price": 20,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/oferta-1000-cartas-raras-magic-the-gathering-mtg-1255801278",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: copia"
+        },
+        {
+          "title": "Carta Pokémon Umbreon V 084/132 RR",
+          "price": 2,
+          "city": "Bassano del Grappa",
+          "url": "https://es.wallapop.com/item/umbreon-v-carta-pokemon-084-132-rr-1255802216",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Dragonite V 038/063 RR",
+          "price": 2,
+          "city": "Bassano del Grappa",
+          "url": "https://es.wallapop.com/item/dragonite-v-carta-pokemon-038-063-rr-1255802108",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Soporte de cartas Pokémon Umbreon",
+          "price": 8.5,
+          "city": "Parma",
+          "url": "https://es.wallapop.com/item/pokemon-umbreon-stand-1255802096",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Cinccino AR NM JP",
+          "price": 10,
+          "city": "Verdellino",
+          "url": "https://es.wallapop.com/item/carta-pokemon-cinccino-ar-nm-jp-1255802033",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon cinccino",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon cinccino' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Charizard-EX Megaevolución",
+          "price": 3,
+          "city": "Bassano del Grappa",
+          "url": "https://es.wallapop.com/item/charizard-ex-megaevoluzione-carta-pokemon-1255801983",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Sylveon EX 156 PSA 9 MINT",
+          "price": 425,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/sylveon-ex-156-psa-9-mint-1255801855",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sylveon psa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'sylveon psa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Altaria - Carta Pokémon NM ITA GG19/GG70",
+          "price": 8,
+          "city": "Verdellino",
+          "url": "https://es.wallapop.com/item/altaria-carta-pokemon-nm-ita-gg19-gg70-1255801350",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lotto Pokemon SR e EX Mega Dream",
+          "price": 1,
+          "city": "Parma",
+          "url": "https://es.wallapop.com/item/lotto-pokemon-sr-e-ex-mega-dream-1255801315",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Playmobil Detective Serie 26",
+          "price": 4,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/playmobil-detective-serie-26-1255802029",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 245,
+      "new_items": 16,
+      "items": [
+        {
+          "title": "Nintendo Switch Azul y Rojo",
+          "price": 155,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/nintendo-switch-azul-y-rojo-1255802168",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch azul rojo",
+          "verdict": "skip",
+          "reason": "155€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "CAMBIO Nintendo Switch por Nintendo Switch LITE",
+          "price": 100,
+          "city": "San Antonio de Benagéber",
+          "url": "https://es.wallapop.com/item/cambio-nintendo-switch-por-nintendo-switch-lite-1255802117",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "cambio nintendo switch por nintendo",
+          "verdict": "skip",
+          "reason": "100€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch Azul y Rojo",
+          "price": 155,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/nintendo-switch-azul-y-rojo-1255801968",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch azul rojo",
+          "verdict": "skip",
+          "reason": "155€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch consola y accesorios",
+          "price": 155,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/nintendo-switch-consola-y-accesorios-1255801726",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: rayones"
+        },
+        {
+          "title": "Nintendo Switch: Leyendas Pokémon Z-A",
+          "price": 95,
+          "city": "Castellbisbal",
+          "url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
+          "reserved": true,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Funda Nintendo Switch Vengadores",
+          "price": 5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/funda-nintendo-switch-vengadores-1255801583",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Pack Joy-Con Nintendo Switch Amarillo y naranja.",
+          "price": 35,
+          "city": "El Puerto de Santa María",
+          "url": "https://es.wallapop.com/item/pack-joy-con-nintendo-switch-amarillo-y-naranja-1255801505",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: amarillo"
+        },
+        {
+          "title": "Nintendo Switch OLED sin pantalla",
+          "price": 60,
+          "city": "Los Arenales del Sol",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled-sin-pantalla-1255801498",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: roto"
+        },
+        {
+          "title": "Logitech G29 SE Driving Force con Shifter",
+          "price": 220,
+          "city": "Burgos",
+          "url": "https://es.wallapop.com/item/logitech-g29-se-driving-force-con-shifter-1255801841",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "logitech g29 driving force con",
+          "verdict": "skip",
+          "reason": "220€ vs mín reservado 140€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Rise of the Ronin PS5",
+          "price": 30,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/rise-of-the-ronin-ps5-1255801573",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "rise the ronin ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'rise the ronin ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Armored Core VI Fires of Rubicon PS5",
+          "price": 30,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/armored-core-vi-fires-of-rubicon-ps5-1255801421",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "armored core fires rubicon ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'armored core fires rubicon ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Xbox Series S + Mando Elite Series 2",
+          "price": 180,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/xbox-series-s---mando-elite-series-2-1255801513",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series mando elite series",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox series mando elite series' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 128GB Negro",
+          "price": 120,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-11-128gb-negro-1255802125",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 16 Pro Max 256Gb negro como nuevo!",
+          "price": 850,
+          "city": "Santander",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-negro-como-nuevo-1255801563",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cartera iPhone MagSafe Azul",
+          "price": 50,
+          "city": "Riba-Roja de Turia",
+          "url": "https://es.wallapop.com/item/cartera-iphone-magsafe-azul-1255801489",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartera iphone magsafe azul",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartera iphone magsafe azul' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch SE 2 40mm GPS",
+          "price": 115,
+          "city": "Castelldefels",
+          "url": "https://es.wallapop.com/item/apple-watch-se-2-40mm-gps-1255801972",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch 40mm gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch 40mm gps' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 155,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 77,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Reglamento Blood Bowl 3ª Edición Castellano",
+          "price": 29.95,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/reglamento-blood-bowl-3-edicion-castellano-1255801330",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "reglamento blood bowl edicion castellano",
+          "verdict": "skip",
+          "reason": "29.95€ vs mín reservado 29.95€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Raqueta Wilson Ultra con funda",
+          "price": 90,
+          "city": "Mediona",
+          "url": "https://es.wallapop.com/item/raqueta-wilson-ultra-con-funda-1255801566",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta wilson ultra con funda",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta wilson ultra con funda' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Raqueta Black Crown Win Ultra Light",
+          "price": 85,
+          "city": "Alaior",
+          "url": "https://es.wallapop.com/item/raqueta-black-crown-win-ultra-light-1255801379",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta black crown win ultra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta black crown win ultra' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 30,
+  "total_signals": 0,
+  "duration_s": 72
+}

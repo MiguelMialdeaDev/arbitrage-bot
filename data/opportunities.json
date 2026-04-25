@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T06:01:43.725Z",
+  "updated_at": "2026-04-25T06:10:10.982Z",
   "tiers": {
     "proven_seller": [
       {
@@ -9,7 +9,7 @@
         "total_reservations": 0,
         "confirmed_sales": 3,
         "total_events": 3,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 3,
         "reservations_30d": 3,
         "reservations_per_day": 3,
@@ -238,6 +238,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "nintendo switch leyendas pokemon",
+        "example_title": "Nintendo Switch: Leyendas Pokémon Z-A",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 95,
+        "median_price": 95,
+        "max_price": 95,
+        "first_seen": "2026-04-25T06:10:10.980Z",
+        "last_seen": "2026-04-25T06:10:10.980Z",
+        "sample": [
+          {
+            "price": 95,
+            "title": "Nintendo Switch: Leyendas Pokémon Z-A",
+            "url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
+            "city": "Castellbisbal"
+          }
+        ]
+      },
       {
         "model": "iphone 17 pro max 256gb precintado",
         "example_title": "iPhone 17 Pro Max 256GB Precintado",
@@ -3520,7 +3545,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3545,7 +3570,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3570,7 +3595,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6045,9 +6070,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 232,
-    "total_unique_models": 239,
-    "total_reservations": 6,
+    "possible": 233,
+    "total_unique_models": 240,
+    "total_reservations": 7,
     "total_confirmed_sales": 242
   },
   "thresholds": {
@@ -6059,18 +6084,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "p618m0v1qgz5",
-      "model": "iphone 17 pro max 256gb precintado",
-      "title": "iPhone 17 Pro Max 256GB Precintado",
-      "sold_price": 1199,
-      "city": "L' Eliana",
-      "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-precintado-1255793131",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T03:43:28.764Z",
-      "last_seen": "2026-04-25T03:43:28.764Z",
-      "confirmed_at": "2026-04-25T06:01:43.724Z"
-    }
-  ]
+  "new_sales": []
 }
