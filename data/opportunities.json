@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T09:17:28.822Z",
+  "updated_at": "2026-04-25T09:32:46.437Z",
   "tiers": {
     "proven_seller": [
       {
@@ -264,6 +264,131 @@
     "recurring": [],
     "possible": [
       {
+        "model": "lote funko pop aragorn sauron lord of the rings",
+        "example_title": "Lote Funko Pop Aragorn y Sauron Lord of the Rings",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-aragorn-y-sauron-lord-of-the-rings-1255853262",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-25T09:32:46.435Z",
+        "last_seen": "2026-04-25T09:32:46.435Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Lote Funko Pop Aragorn y Sauron Lord of the Rings",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-aragorn-y-sauron-lord-of-the-rings-1255853262",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "playmobil circo romano 4270",
+        "example_title": "Playmobil Circo Romano 4270",
+        "example_url": "https://es.wallapop.com/item/playmobil-circo-romano-4270-1255855203",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 135,
+        "median_price": 135,
+        "max_price": 135,
+        "first_seen": "2026-04-25T09:32:46.435Z",
+        "last_seen": "2026-04-25T09:32:46.435Z",
+        "sample": [
+          {
+            "price": 135,
+            "title": "Playmobil Circo Romano 4270",
+            "url": "https://es.wallapop.com/item/playmobil-circo-romano-4270-1255855203",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "consola sony ps4 1tb mando blanco",
+        "example_title": "Consola Sony PS4 1TB + Mando Blanco",
+        "example_url": "https://es.wallapop.com/item/consola-sony-ps4-1tb---mando-blanco-1255854998",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9.95,
+        "median_price": 9.95,
+        "max_price": 9.95,
+        "first_seen": "2026-04-25T09:32:46.435Z",
+        "last_seen": "2026-04-25T09:32:46.435Z",
+        "sample": [
+          {
+            "price": 9.95,
+            "title": "Consola Sony PS4 1TB + Mando Blanco",
+            "url": "https://es.wallapop.com/item/consola-sony-ps4-1tb---mando-blanco-1255854998",
+            "city": "Badalona"
+          }
+        ]
+      },
+      {
+        "model": "nintendo joy juego",
+        "example_title": "Nintendo Joy-Con + juego",
+        "example_url": "https://es.wallapop.com/item/nintendo-joy-con---juego-1255813662",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 78,
+        "median_price": 78,
+        "max_price": 78,
+        "first_seen": "2026-04-25T09:32:46.435Z",
+        "last_seen": "2026-04-25T09:32:46.435Z",
+        "sample": [
+          {
+            "price": 78,
+            "title": "Nintendo Joy-Con + juego",
+            "url": "https://es.wallapop.com/item/nintendo-joy-con---juego-1255813662",
+            "city": "Toledo"
+          }
+        ]
+      },
+      {
+        "model": "pack lander marvel crisis protocol",
+        "example_title": "Pack Lander Marvel Crisis Protocol",
+        "example_url": "https://es.wallapop.com/item/pack-lander-marvel-crisis-protocol-1255813479",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-25T09:32:46.435Z",
+        "last_seen": "2026-04-25T09:32:46.435Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Pack Lander Marvel Crisis Protocol",
+            "url": "https://es.wallapop.com/item/pack-lander-marvel-crisis-protocol-1255813479",
+            "city": "Santander"
+          }
+        ]
+      },
+      {
         "model": "lote 15 figuras lego",
         "example_title": "Lote 15 Figuras LEGO",
         "example_url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
@@ -510,56 +635,6 @@
             "title": "Pack Blu-ray Trilogía Crepúsculo",
             "url": "https://es.wallapop.com/item/pack-blu-ray-trilogia-crepusculo-1255817169",
             "city": "Daimiel"
-          }
-        ]
-      },
-      {
-        "model": "nintendo joy juego",
-        "example_title": "Nintendo Joy-Con + juego",
-        "example_url": "https://es.wallapop.com/item/nintendo-joy-con---juego-1255813662",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 78,
-        "median_price": 78,
-        "max_price": 78,
-        "first_seen": "2026-04-25T07:32:17.035Z",
-        "last_seen": "2026-04-25T07:32:17.035Z",
-        "sample": [
-          {
-            "price": 78,
-            "title": "Nintendo Joy-Con + juego",
-            "url": "https://es.wallapop.com/item/nintendo-joy-con---juego-1255813662",
-            "city": "Toledo"
-          }
-        ]
-      },
-      {
-        "model": "pack lander marvel crisis protocol",
-        "example_title": "Pack Lander Marvel Crisis Protocol",
-        "example_url": "https://es.wallapop.com/item/pack-lander-marvel-crisis-protocol-1255813479",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-25T07:32:17.035Z",
-        "last_seen": "2026-04-25T07:32:17.035Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Pack Lander Marvel Crisis Protocol",
-            "url": "https://es.wallapop.com/item/pack-lander-marvel-crisis-protocol-1255813479",
-            "city": "Santander"
           }
         ]
       },
@@ -6320,10 +6395,10 @@
     "hot_24h": 4,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 242,
-    "total_unique_models": 250,
-    "total_reservations": 13,
-    "total_confirmed_sales": 247
+    "possible": 245,
+    "total_unique_models": 253,
+    "total_reservations": 14,
+    "total_confirmed_sales": 249
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6336,16 +6411,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "wzyrg1np4e65",
-      "model": "pack cartas pokemon fezandipiti lucario snoru",
-      "title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
-      "sold_price": 12,
-      "city": "Yecla",
-      "url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T07:17:00.318Z",
-      "last_seen": "2026-04-25T07:17:00.318Z",
-      "confirmed_at": "2026-04-25T09:17:28.819Z"
+      "id": "4z482xgoy8jy",
+      "model": "nintendo joy juego",
+      "title": "Nintendo Joy-Con + juego",
+      "sold_price": 78,
+      "city": "Toledo",
+      "url": "https://es.wallapop.com/item/nintendo-joy-con---juego-1255813662",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T07:32:17.035Z",
+      "last_seen": "2026-04-25T07:32:17.035Z",
+      "confirmed_at": "2026-04-25T09:32:46.435Z"
+    },
+    {
+      "id": "p618m0ox02z5",
+      "model": "pack lander marvel crisis protocol",
+      "title": "Pack Lander Marvel Crisis Protocol",
+      "sold_price": 15,
+      "city": "Santander",
+      "url": "https://es.wallapop.com/item/pack-lander-marvel-crisis-protocol-1255813479",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-25T07:32:17.035Z",
+      "last_seen": "2026-04-25T07:32:17.035Z",
+      "confirmed_at": "2026-04-25T09:32:46.435Z"
     }
   ]
 }
