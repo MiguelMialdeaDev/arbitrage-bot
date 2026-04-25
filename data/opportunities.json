@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-04-25T12:17:14.271Z",
+  "updated_at": "2026-04-25T12:32:20.648Z",
   "tiers": {
     "proven_seller": [
+      {
+        "model": "super mario odyssey nintendo switch",
+        "example_title": "Super Mario Odyssey Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
+        "total_reservations": 1,
+        "confirmed_sales": 3,
+        "total_events": 4,
+        "reservations_24h": 1,
+        "reservations_7d": 4,
+        "reservations_30d": 4,
+        "reservations_per_day": 2.36,
+        "min_price": 15,
+        "median_price": 27,
+        "max_price": 28,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-25T12:32:20.646Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
+            "city": "Zaragoza"
+          }
+        ]
+      },
       {
         "model": "lote funko pop stranger things",
         "example_title": "Lote Funko Pop Stranger Things",
@@ -61,43 +86,6 @@
             "title": "Lote Cartas Pokémon",
             "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
             "city": "Parla"
-          }
-        ]
-      },
-      {
-        "model": "super mario odyssey nintendo switch",
-        "example_title": "Super Mario Odyssey Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
-        "total_reservations": 0,
-        "confirmed_sales": 3,
-        "total_events": 3,
-        "reservations_24h": 0,
-        "reservations_7d": 3,
-        "reservations_30d": 3,
-        "reservations_per_day": 3,
-        "min_price": 24.8,
-        "median_price": 27,
-        "max_price": 28,
-        "first_seen": "2026-04-23T19:47:30.951Z",
-        "last_seen": "2026-04-23T22:17:21.384Z",
-        "sample": [
-          {
-            "price": 28,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255391531",
-            "city": "Tomelloso"
-          },
-          {
-            "price": 24.8,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
-            "city": "A Coruña"
-          },
-          {
-            "price": 27,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
-            "city": "Lasarte-Oria"
           }
         ]
       }
@@ -202,19 +190,25 @@
         "model": "lote funko pop",
         "example_title": "Lote 8 Funko Pop",
         "example_url": "https://es.wallapop.com/item/lote-8-funko-pop-1255875866",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
+        "total_reservations": 0,
+        "confirmed_sales": 2,
         "total_events": 2,
         "reservations_24h": 1,
         "reservations_7d": 2,
         "reservations_30d": 2,
-        "reservations_per_day": 1.2,
+        "reservations_per_day": 1.14,
         "min_price": 8.5,
         "median_price": 42,
         "max_price": 42,
         "first_seen": "2026-04-23T18:18:18.324Z",
-        "last_seen": "2026-04-25T10:27:16.988Z",
+        "last_seen": "2026-04-25T12:32:20.646Z",
         "sample": [
+          {
+            "price": 8.5,
+            "title": "Lote Funko Pop",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
+            "city": "Madrid"
+          },
           {
             "price": 42,
             "title": "Lote 8 Funko Pop",
@@ -288,6 +282,156 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pokemon ascended heroes elite trainer box",
+        "example_title": "Pokémon Ascended Heroes Elite Trainer Box",
+        "example_url": "https://es.wallapop.com/item/pokemon-ascended-heroes-elite-trainer-box-1255919389",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 150,
+        "median_price": 150,
+        "max_price": 150,
+        "first_seen": "2026-04-25T12:32:20.646Z",
+        "last_seen": "2026-04-25T12:32:20.646Z",
+        "sample": [
+          {
+            "price": 150,
+            "title": "Pokémon Ascended Heroes Elite Trainer Box",
+            "url": "https://es.wallapop.com/item/pokemon-ascended-heroes-elite-trainer-box-1255919389",
+            "city": "Vila-Real/Villarreal"
+          }
+        ]
+      },
+      {
+        "model": "rex masters universo cueva guante",
+        "example_title": "T-Rex Masters del Universo con Cueva y Guante",
+        "example_url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 190,
+        "median_price": 190,
+        "max_price": 190,
+        "first_seen": "2026-04-25T12:32:20.646Z",
+        "last_seen": "2026-04-25T12:32:20.646Z",
+        "sample": [
+          {
+            "price": 190,
+            "title": "T-Rex Masters del Universo con Cueva y Guante",
+            "url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "ceruledge cgc 10 pokemon carta japonesa",
+        "example_title": "Ceruledge CGC 10 Pokémon Carta Japonesa",
+        "example_url": "https://es.wallapop.com/item/ceruledge-cgc-10-pokemon-carta-japonesa-1255869751",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-25T12:32:20.646Z",
+        "last_seen": "2026-04-25T12:32:20.646Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Ceruledge CGC 10 Pokémon Carta Japonesa",
+            "url": "https://es.wallapop.com/item/ceruledge-cgc-10-pokemon-carta-japonesa-1255869751",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "pack carteles pokemon leyendas donkey kong",
+        "example_title": "Pack Carteles Pokémon Leyendas + Donkey Kong",
+        "example_url": "https://es.wallapop.com/item/pack-carteles-pokemon-leyendas---donkey-kong-1255869146",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-25T12:32:20.646Z",
+        "last_seen": "2026-04-25T12:32:20.646Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Pack Carteles Pokémon Leyendas + Donkey Kong",
+            "url": "https://es.wallapop.com/item/pack-carteles-pokemon-leyendas---donkey-kong-1255869146",
+            "city": "Tarragona"
+          }
+        ]
+      },
+      {
+        "model": "dogma rog one sexto sentido doce monos",
+        "example_title": "Dogma, Rog One, El sexto sentido, Doce monos",
+        "example_url": "https://es.wallapop.com/item/dogma-rog-one-el-sexto-sentido-doce-monos-1255871641",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T12:32:20.646Z",
+        "last_seen": "2026-04-25T12:32:20.646Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Dogma, Rog One, El sexto sentido, Doce monos",
+            "url": "https://es.wallapop.com/item/dogma-rog-one-el-sexto-sentido-doce-monos-1255871641",
+            "city": "Castineiras"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas energia pokemon",
+        "example_title": "Lote Cartas Energía Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-energia-pokemon-1255876736",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T12:32:20.646Z",
+        "last_seen": "2026-04-25T12:32:20.646Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Lote Cartas Energía Pokémon",
+            "url": "https://es.wallapop.com/item/lote-cartas-energia-pokemon-1255876736",
+            "city": "Sevilla"
+          }
+        ]
+      },
       {
         "model": "mario strikers battle league football nintendo sw",
         "example_title": "Mario Strikers: Battle League Football Nintendo Sw",
@@ -960,106 +1104,6 @@
             "title": "Playmobil Superhéroes (4 figuras)",
             "url": "https://es.wallapop.com/item/playmobil-superheroes-4-figuras-1255831766",
             "city": "Burriana"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas energia pokemon",
-        "example_title": "Lote Cartas Energía Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-energia-pokemon-1255876736",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-25T10:27:16.988Z",
-        "last_seen": "2026-04-25T10:27:16.988Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Lote Cartas Energía Pokémon",
-            "url": "https://es.wallapop.com/item/lote-cartas-energia-pokemon-1255876736",
-            "city": "Sevilla"
-          }
-        ]
-      },
-      {
-        "model": "ceruledge cgc 10 pokemon carta japonesa",
-        "example_title": "Ceruledge CGC 10 Pokémon Carta Japonesa",
-        "example_url": "https://es.wallapop.com/item/ceruledge-cgc-10-pokemon-carta-japonesa-1255869751",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-25T10:18:20.643Z",
-        "last_seen": "2026-04-25T10:18:20.643Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "Ceruledge CGC 10 Pokémon Carta Japonesa",
-            "url": "https://es.wallapop.com/item/ceruledge-cgc-10-pokemon-carta-japonesa-1255869751",
-            "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "pack carteles pokemon leyendas donkey kong",
-        "example_title": "Pack Carteles Pokémon Leyendas + Donkey Kong",
-        "example_url": "https://es.wallapop.com/item/pack-carteles-pokemon-leyendas---donkey-kong-1255869146",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 7,
-        "median_price": 7,
-        "max_price": 7,
-        "first_seen": "2026-04-25T10:18:20.643Z",
-        "last_seen": "2026-04-25T10:18:20.643Z",
-        "sample": [
-          {
-            "price": 7,
-            "title": "Pack Carteles Pokémon Leyendas + Donkey Kong",
-            "url": "https://es.wallapop.com/item/pack-carteles-pokemon-leyendas---donkey-kong-1255869146",
-            "city": "Tarragona"
-          }
-        ]
-      },
-      {
-        "model": "dogma rog one sexto sentido doce monos",
-        "example_title": "Dogma, Rog One, El sexto sentido, Doce monos",
-        "example_url": "https://es.wallapop.com/item/dogma-rog-one-el-sexto-sentido-doce-monos-1255871641",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-25T10:18:20.643Z",
-        "last_seen": "2026-04-25T10:18:20.643Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Dogma, Rog One, El sexto sentido, Doce monos",
-            "url": "https://es.wallapop.com/item/dogma-rog-one-el-sexto-sentido-doce-monos-1255871641",
-            "city": "Castineiras"
           }
         ]
       },
@@ -6995,10 +7039,10 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 268,
-    "total_unique_models": 277,
-    "total_reservations": 20,
-    "total_confirmed_sales": 269
+    "possible": 270,
+    "total_unique_models": 279,
+    "total_reservations": 18,
+    "total_confirmed_sales": 274
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7009,5 +7053,66 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "nz081prg2r6o",
+      "model": "ceruledge cgc 10 pokemon carta japonesa",
+      "title": "Ceruledge CGC 10 Pokémon Carta Japonesa",
+      "sold_price": 30,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/ceruledge-cgc-10-pokemon-carta-japonesa-1255869751",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T10:18:20.643Z",
+      "last_seen": "2026-04-25T10:18:20.643Z",
+      "confirmed_at": "2026-04-25T12:32:20.646Z"
+    },
+    {
+      "id": "8z88p35v21z3",
+      "model": "pack carteles pokemon leyendas donkey kong",
+      "title": "Pack Carteles Pokémon Leyendas + Donkey Kong",
+      "sold_price": 7,
+      "city": "Tarragona",
+      "url": "https://es.wallapop.com/item/pack-carteles-pokemon-leyendas---donkey-kong-1255869146",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T10:18:20.643Z",
+      "last_seen": "2026-04-25T10:18:20.643Z",
+      "confirmed_at": "2026-04-25T12:32:20.646Z"
+    },
+    {
+      "id": "wzvgd72n7rzl",
+      "model": "dogma rog one sexto sentido doce monos",
+      "title": "Dogma, Rog One, El sexto sentido, Doce monos",
+      "sold_price": 5,
+      "city": "Castineiras",
+      "url": "https://es.wallapop.com/item/dogma-rog-one-el-sexto-sentido-doce-monos-1255871641",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T10:18:20.643Z",
+      "last_seen": "2026-04-25T10:18:20.643Z",
+      "confirmed_at": "2026-04-25T12:32:20.646Z"
+    },
+    {
+      "id": "x6qq1gv2ky6y",
+      "model": "lote funko pop",
+      "title": "Lote 8 Funko Pop",
+      "sold_price": 42,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-8-funko-pop-1255875866",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T10:27:16.988Z",
+      "last_seen": "2026-04-25T10:27:16.988Z",
+      "confirmed_at": "2026-04-25T12:32:20.646Z"
+    },
+    {
+      "id": "9jdw10811n6k",
+      "model": "lote cartas energia pokemon",
+      "title": "Lote Cartas Energía Pokémon",
+      "sold_price": 5,
+      "city": "Sevilla",
+      "url": "https://es.wallapop.com/item/lote-cartas-energia-pokemon-1255876736",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T10:27:16.988Z",
+      "last_seen": "2026-04-25T10:27:16.988Z",
+      "confirmed_at": "2026-04-25T12:32:20.646Z"
+    }
+  ]
 }
