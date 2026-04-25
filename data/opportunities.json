@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T15:31:47.506Z",
+  "updated_at": "2026-04-25T15:47:45.422Z",
   "tiers": {
     "proven_seller": [
       {
@@ -127,7 +127,8 @@
         ]
       }
     ],
-    "hot_24h": [
+    "hot_24h": [],
+    "trending_7d": [
       {
         "model": "figuras dc comics playmobil",
         "example_title": "Figuras DC Comics Playmobil",
@@ -135,7 +136,7 @@
         "total_reservations": 0,
         "confirmed_sales": 2,
         "total_events": 2,
-        "reservations_24h": 2,
+        "reservations_24h": 1,
         "reservations_7d": 2,
         "reservations_30d": 2,
         "reservations_per_day": 2,
@@ -158,9 +159,7 @@
             "city": "Moreaga"
           }
         ]
-      }
-    ],
-    "trending_7d": [
+      },
       {
         "model": "lote cromos futbol panini",
         "example_title": "Lote de cromos de fútbol Panini",
@@ -288,6 +287,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "carta pokemon genesect ex ingles",
+        "example_title": "Carta Pokémon Genesect EX Inglés",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-genesect-ex-ingles-1255980108",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 18.5,
+        "median_price": 18.5,
+        "max_price": 18.5,
+        "first_seen": "2026-04-25T15:47:45.421Z",
+        "last_seen": "2026-04-25T15:47:45.421Z",
+        "sample": [
+          {
+            "price": 18.5,
+            "title": "Carta Pokémon Genesect EX Inglés",
+            "url": "https://es.wallapop.com/item/carta-pokemon-genesect-ex-ingles-1255980108",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "tadeo jones manuscrito perdido ps4",
+        "example_title": "Tadeo Jones y el Manuscrito Perdido PS4",
+        "example_url": "https://es.wallapop.com/item/tadeo-jones-y-el-manuscrito-perdido-ps4-1255979523",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-25T15:47:45.421Z",
+        "last_seen": "2026-04-25T15:47:45.421Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Tadeo Jones y el Manuscrito Perdido PS4",
+            "url": "https://es.wallapop.com/item/tadeo-jones-y-el-manuscrito-perdido-ps4-1255979523",
+            "city": "Tavernes de la Valldigna"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon mega eelektross ex 350 ps",
+        "example_title": "Carta Pokémon Mega-Eelektross EX 350 PS",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-mega-eelektross-ex-350-ps-1255941632",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T15:47:45.421Z",
+        "last_seen": "2026-04-25T15:47:45.421Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Carta Pokémon Mega-Eelektross EX 350 PS",
+            "url": "https://es.wallapop.com/item/carta-pokemon-mega-eelektross-ex-350-ps-1255941632",
+            "city": "Gijón"
+          }
+        ]
+      },
       {
         "model": "duelo sol blu ray westerns",
         "example_title": "Duelo al Sol Blu-ray + 2 Westerns",
@@ -885,31 +959,6 @@
             "title": "iPhone 7 Negro",
             "url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
             "city": "Montblanc"
-          }
-        ]
-      },
-      {
-        "model": "carta pokemon mega eelektross ex 350 ps",
-        "example_title": "Carta Pokémon Mega-Eelektross EX 350 PS",
-        "example_url": "https://es.wallapop.com/item/carta-pokemon-mega-eelektross-ex-350-ps-1255941632",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-25T13:47:21.459Z",
-        "last_seen": "2026-04-25T13:47:21.459Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Carta Pokémon Mega-Eelektross EX 350 PS",
-            "url": "https://es.wallapop.com/item/carta-pokemon-mega-eelektross-ex-350-ps-1255941632",
-            "city": "Gijón"
           }
         ]
       },
@@ -3295,7 +3344,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3320,7 +3369,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3345,7 +3394,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3370,7 +3419,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3395,7 +3444,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3420,7 +3469,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3445,7 +3494,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3470,7 +3519,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7517,13 +7566,13 @@
   },
   "stats": {
     "proven_seller": 4,
-    "hot_24h": 1,
-    "trending_7d": 4,
+    "hot_24h": 0,
+    "trending_7d": 5,
     "recurring": 0,
-    "possible": 289,
-    "total_unique_models": 298,
-    "total_reservations": 16,
-    "total_confirmed_sales": 298
+    "possible": 291,
+    "total_unique_models": 300,
+    "total_reservations": 17,
+    "total_confirmed_sales": 299
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7536,40 +7585,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "9jdw104xln6k",
-      "model": "lote funko pop",
-      "title": "Lote 4 Funko Pop",
-      "sold_price": 19,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-4-funko-pop-1255939112",
+      "id": "qzmm0d1meozv",
+      "model": "carta pokemon mega eelektross ex 350 ps",
+      "title": "Carta Pokémon Mega-Eelektross EX 350 PS",
+      "sold_price": 5,
+      "city": "Gijón",
+      "url": "https://es.wallapop.com/item/carta-pokemon-mega-eelektross-ex-350-ps-1255941632",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T13:26:14.321Z",
-      "last_seen": "2026-04-25T13:26:14.321Z",
-      "confirmed_at": "2026-04-25T15:31:47.504Z"
-    },
-    {
-      "id": "wzyrg1vl2p65",
-      "model": "lote blu ray 4k blu ray",
-      "title": "Lote Blu-ray 4K y Blu-ray",
-      "sold_price": 390,
-      "city": "Jaén",
-      "url": "https://es.wallapop.com/item/lote-blu-ray-4k-y-blu-ray-1255939120",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T13:26:14.321Z",
-      "last_seen": "2026-04-25T13:26:14.321Z",
-      "confirmed_at": "2026-04-25T15:31:47.504Z"
-    },
-    {
-      "id": "v6gp3xn2256e",
-      "model": "cromos panini animales salvajes",
-      "title": "Cromos Panini Animales Salvajes",
-      "sold_price": 3.8,
-      "city": "Torrevieja",
-      "url": "https://es.wallapop.com/item/cromos-panini-animales-salvajes-1255940464",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T13:31:41.636Z",
-      "last_seen": "2026-04-25T13:31:41.636Z",
-      "confirmed_at": "2026-04-25T15:31:47.504Z"
+      "first_reserved": "2026-04-25T13:47:21.459Z",
+      "last_seen": "2026-04-25T13:47:21.459Z",
+      "confirmed_at": "2026-04-25T15:47:45.421Z"
     }
   ]
 }
