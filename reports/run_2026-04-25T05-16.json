@@ -1,0 +1,210 @@
+{
+  "timestamp": "2026-04-25T05:15:19.789Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Minifigura Lego Soldado Azul",
+          "price": 16,
+          "city": "Villata",
+          "url": "https://es.wallapop.com/item/minifigure-lego-soldato-blu-1255797976",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "minifigura lego soldado azul",
+          "verdict": "skip",
+          "reason": "16€ vs mín reservado 6.3€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Caja FIFA World Cup 2026 stickers de Panini",
+          "price": 61.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/caja-fifa-world-cup-2026-stickers-de-panini-1255798176",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fifa world cup stickers panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fifa world cup stickers panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote cromos Liga Este Panini 2000-2001",
+          "price": 42,
+          "city": "Fuensalida",
+          "url": "https://es.wallapop.com/item/lote-cromos-liga-este-panini-2000-2001-1255798120",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromos liga este panini 2000-2001",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromos liga este panini 2000-2001' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja FIFA World Cup 2026 stickers de Panini",
+          "price": 61.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/caja-fifa-world-cup-2026-stickers-de-panini-1255797964",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fifa world cup stickers panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fifa world cup stickers panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja FIFA World Cup 2026 stickers de Panini",
+          "price": 61.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/caja-fifa-world-cup-2026-stickers-de-panini-1255797752",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fifa world cup stickers panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fifa world cup stickers panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja + Álbum FIFA World Cup 2026 stickers Panini",
+          "price": 66,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/caja---album-fifa-world-cup-2026-stickers-panini-1255797574",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "album fifa world cup stickers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'album fifa world cup stickers' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Charizard EX Dorada",
+          "price": 100,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/carta-pokemon-charizard-ex-dorada-1255797840",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon charizard dorada",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon charizard dorada' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 237,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Joy-Con Nintendo Originales",
+          "price": 13,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/joy-con-nintendo-originales-1255798251",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "Xbox Series X Negra",
+          "price": 330,
+          "city": "Fuensalida",
+          "url": "https://es.wallapop.com/item/xbox-series-x-negra-1255797678",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series negra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox series negra' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro Max Azul Sierra",
+          "price": 330,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-max-azul-sierra-1255798311",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max azul sierra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max azul sierra' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone Air 512GB NUEVO",
+          "price": 799.99,
+          "city": "Alcorcón",
+          "url": "https://es.wallapop.com/item/iphone-air-512gb-nuevo-1255798088",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone air 512gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone air 512gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Naranja",
+          "price": 249,
+          "city": "Priverno",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-arancione-1255797968",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro naranja",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "iPhone 17 Pro Naranja",
+          "price": 920,
+          "city": "Elorregi",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-naranja-1255797959",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro naranja",
+          "verdict": "skip",
+          "reason": "920€ vs mín reservado 1150€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 16e 128GB NUEVO",
+          "price": 389.99,
+          "city": "Alcorcón",
+          "url": "https://es.wallapop.com/item/iphone-16e-128gb-nuevo-1255797842",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 16e 128gb",
+          "verdict": "skip",
+          "reason": "389.99€ vs mín reservado 399€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Brazalete de metal para Apple Watch negro",
+          "price": 5,
+          "city": "Trieste",
+          "url": "https://es.wallapop.com/item/cinturino-metallo-apple-watch-nero-1255798327",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 154,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 77,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 15,
+  "total_signals": 0,
+  "duration_s": 67
+}
