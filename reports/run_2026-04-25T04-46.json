@@ -1,0 +1,156 @@
+{
+  "timestamp": "2026-04-25T04:45:23.244Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 200,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "2 Cajas FIFA World Cup 2026 stickers de Panini",
+          "price": 123,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/2-cajas-fifa-world-cup-2026-stickers-de-panini-1255796803",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas fifa world cup stickers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas fifa world cup stickers' (sin evidencia de demanda)"
+        },
+        {
+          "title": "2 Cajas FIFA World Cup 2026 stickers de Panini",
+          "price": 123,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/2-cajas-fifa-world-cup-2026-stickers-de-panini-1255796654",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas fifa world cup stickers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas fifa world cup stickers' (sin evidencia de demanda)"
+        },
+        {
+          "title": "2 Cajas FIFA World Cup 2026 stickers de Panini",
+          "price": 123,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/2-cajas-fifa-world-cup-2026-stickers-de-panini-1255796543",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas fifa world cup stickers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas fifa world cup stickers' (sin evidencia de demanda)"
+        },
+        {
+          "title": "2 Cajas FIFA World Cup 2026 stickers de Panini",
+          "price": 123,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/2-cajas-fifa-world-cup-2026-stickers-de-panini-1255796324",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas fifa world cup stickers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas fifa world cup stickers' (sin evidencia de demanda)"
+        },
+        {
+          "title": "2 Cajas FIFA World Cup 2026 stickers de Panini",
+          "price": 123,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/2-cajas-fifa-world-cup-2026-stickers-de-panini-1255796176",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas fifa world cup stickers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas fifa world cup stickers' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 237,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Nintendo Switch 2 , con mas de 20 Juegos",
+          "price": 460,
+          "city": "Santa Cruz de la Palma",
+          "url": "https://es.wallapop.com/item/nintendo-switch-2-con-mas-de-20-juegos-1255796300",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Consola Playstation 3 Negra",
+          "price": 40,
+          "city": "Cartagena",
+          "url": "https://es.wallapop.com/item/consola-playstation-3-negra-1255796616",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola playstation negra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola playstation negra' (sin evidencia de demanda)"
+        },
+        {
+          "title": "SOPORTE DE REFRIGERACION, BASE DE VENTILA",
+          "price": 28,
+          "city": "Las Rozas de Madrid",
+          "url": "https://es.wallapop.com/item/soporte-de-refrigeracion-base-de-ventila-1255796166",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "soporte refrigeracion, base ventila",
+          "verdict": "skip",
+          "reason": "0 reservados de 'soporte refrigeracion, base ventila' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPhone 17 Pro Max 256GB",
+          "price": 900,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-1255796723",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "900€ vs mín reservado 1199€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 154,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "🇪🇸 Cómic El Víbora número 218.",
+          "price": 3,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/comic-el-vibora-numero-218-1255796254",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 75,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 10,
+  "total_signals": 0,
+  "duration_s": 64
+}
