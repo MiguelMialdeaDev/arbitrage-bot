@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T16:10:30.756Z",
+  "updated_at": "2026-04-25T16:16:49.598Z",
   "tiers": {
     "proven_seller": [
       {
@@ -7758,30 +7758,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "36e5m7ggx86d",
-      "model": "resident evil requiem",
-      "title": "Resident Evil requiem",
-      "sold_price": 40,
-      "city": "Villaviciosa de Odón",
-      "url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T14:03:19.637Z",
-      "last_seen": "2026-04-25T14:03:19.637Z",
-      "confirmed_at": "2026-04-25T16:10:30.754Z"
-    },
-    {
-      "id": "p618m01gpdz5",
-      "model": "mando ps5 morado despiece",
-      "title": "Mando PS5 Morado para despiece",
-      "sold_price": 10,
-      "city": "Granada",
-      "url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T14:03:19.637Z",
-      "last_seen": "2026-04-25T14:03:19.637Z",
-      "confirmed_at": "2026-04-25T16:10:30.754Z"
-    }
-  ]
+  "new_sales": []
 }
