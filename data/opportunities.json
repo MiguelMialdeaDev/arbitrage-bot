@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T10:27:16.989Z",
+  "updated_at": "2026-04-25T10:31:55.935Z",
   "tiers": {
     "proven_seller": [
       {
@@ -6714,39 +6714,6 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "lote funko pop",
-      "from_tier": "possible",
-      "to_tier": "trending_7d",
-      "from_label": "💡 Posible",
-      "to_label": "✨ Trending 7d",
-      "entry": {
-        "model": "lote funko pop",
-        "example_title": "Lote 8 Funko Pop",
-        "example_url": "https://es.wallapop.com/item/lote-8-funko-pop-1255875866",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 1,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 1.2,
-        "min_price": 8.5,
-        "median_price": 42,
-        "max_price": 42,
-        "first_seen": "2026-04-23T18:18:18.324Z",
-        "last_seen": "2026-04-25T10:27:16.988Z",
-        "sample": [
-          {
-            "price": 42,
-            "title": "Lote 8 Funko Pop",
-            "url": "https://es.wallapop.com/item/lote-8-funko-pop-1255875866",
-            "city": "Madrid"
-          }
-        ]
-      }
-    }
-  ],
+  "tier_ups": [],
   "new_sales": []
 }
