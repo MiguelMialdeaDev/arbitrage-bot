@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T18:46:59.997Z",
+  "updated_at": "2026-04-25T19:02:34.715Z",
   "tiers": {
     "proven_seller": [
       {
@@ -9,7 +9,7 @@
         "total_reservations": 0,
         "confirmed_sales": 4,
         "total_events": 4,
-        "reservations_24h": 3,
+        "reservations_24h": 2,
         "reservations_7d": 4,
         "reservations_30d": 4,
         "reservations_per_day": 1.94,
@@ -285,7 +285,7 @@
         "total_reservations": 0,
         "confirmed_sales": 2,
         "total_events": 2,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 2,
         "reservations_30d": 2,
         "reservations_per_day": 2,
@@ -343,6 +343,181 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "apple watch 40mm",
+        "example_title": "Apple Watch SE 2 40mm",
+        "example_url": "https://es.wallapop.com/item/apple-watch-se-2-40mm-1256038538",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 95,
+        "median_price": 95,
+        "max_price": 95,
+        "first_seen": "2026-04-25T19:02:34.713Z",
+        "last_seen": "2026-04-25T19:02:34.713Z",
+        "sample": [
+          {
+            "price": 95,
+            "title": "Apple Watch SE 2 40mm",
+            "url": "https://es.wallapop.com/item/apple-watch-se-2-40mm-1256038538",
+            "city": "Castelldefels"
+          }
+        ]
+      },
+      {
+        "model": "capitan america marvel heroes",
+        "example_title": "Capitan América Marvel Héroes",
+        "example_url": "https://es.wallapop.com/item/capitan-america-marvel-heroes-1255983486",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T19:02:34.713Z",
+        "last_seen": "2026-04-25T19:02:34.713Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Capitan América Marvel Héroes",
+            "url": "https://es.wallapop.com/item/capitan-america-marvel-heroes-1255983486",
+            "city": "Cadrete"
+          }
+        ]
+      },
+      {
+        "model": "kazar senor tierra salvaje",
+        "example_title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
+        "example_url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T19:02:34.713Z",
+        "last_seen": "2026-04-25T19:02:34.713Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
+            "url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "funkos eva",
+        "example_title": "Funkos Eva",
+        "example_url": "https://es.wallapop.com/item/funkos-eva-1255998374",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-25T19:02:34.713Z",
+        "last_seen": "2026-04-25T19:02:34.713Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Funkos Eva",
+            "url": "https://es.wallapop.com/item/funkos-eva-1255998374",
+            "city": "Carpihuelo"
+          }
+        ]
+      },
+      {
+        "model": "cajas pokemon bulk 300 cartas",
+        "example_title": "Cajas Pokémon bulk 300 cartas",
+        "example_url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T19:02:34.713Z",
+        "last_seen": "2026-04-25T19:02:34.713Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Cajas Pokémon bulk 300 cartas",
+            "url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch joy par morado verde",
+        "example_title": "Nintendo Switch Joy-Con Par Morado/Verde",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 34,
+        "median_price": 34,
+        "max_price": 34,
+        "first_seen": "2026-04-25T19:02:34.713Z",
+        "last_seen": "2026-04-25T19:02:34.713Z",
+        "sample": [
+          {
+            "price": 34,
+            "title": "Nintendo Switch Joy-Con Par Morado/Verde",
+            "url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "mandos nintendo switch colores",
+        "example_title": "Mandos Nintendo Switch Colores",
+        "example_url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 39.8,
+        "median_price": 39.8,
+        "max_price": 39.8,
+        "first_seen": "2026-04-25T19:02:34.713Z",
+        "last_seen": "2026-04-25T19:02:34.713Z",
+        "sample": [
+          {
+            "price": 39.8,
+            "title": "Mandos Nintendo Switch Colores",
+            "url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
+            "city": "Alagón"
+          }
+        ]
+      },
       {
         "model": "mando xbox elite series",
         "example_title": "Mando Xbox Elite Series 2",
@@ -944,106 +1119,6 @@
         ]
       },
       {
-        "model": "funkos eva",
-        "example_title": "Funkos Eva",
-        "example_url": "https://es.wallapop.com/item/funkos-eva-1255998374",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9,
-        "median_price": 9,
-        "max_price": 9,
-        "first_seen": "2026-04-25T16:47:34.835Z",
-        "last_seen": "2026-04-25T16:47:34.835Z",
-        "sample": [
-          {
-            "price": 9,
-            "title": "Funkos Eva",
-            "url": "https://es.wallapop.com/item/funkos-eva-1255998374",
-            "city": "Carpihuelo"
-          }
-        ]
-      },
-      {
-        "model": "cajas pokemon bulk 300 cartas",
-        "example_title": "Cajas Pokémon bulk 300 cartas",
-        "example_url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 12,
-        "median_price": 12,
-        "max_price": 12,
-        "first_seen": "2026-04-25T16:47:34.835Z",
-        "last_seen": "2026-04-25T16:47:34.835Z",
-        "sample": [
-          {
-            "price": 12,
-            "title": "Cajas Pokémon bulk 300 cartas",
-            "url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch joy par morado verde",
-        "example_title": "Nintendo Switch Joy-Con Par Morado/Verde",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 34,
-        "median_price": 34,
-        "max_price": 34,
-        "first_seen": "2026-04-25T16:47:34.835Z",
-        "last_seen": "2026-04-25T16:47:34.835Z",
-        "sample": [
-          {
-            "price": 34,
-            "title": "Nintendo Switch Joy-Con Par Morado/Verde",
-            "url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "mandos nintendo switch colores",
-        "example_title": "Mandos Nintendo Switch Colores",
-        "example_url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 39.8,
-        "median_price": 39.8,
-        "max_price": 39.8,
-        "first_seen": "2026-04-25T16:47:34.835Z",
-        "last_seen": "2026-04-25T16:47:34.835Z",
-        "sample": [
-          {
-            "price": 39.8,
-            "title": "Mandos Nintendo Switch Colores",
-            "url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
-            "city": "Alagón"
-          }
-        ]
-      },
-      {
         "model": "apple watch ultra",
         "example_title": "Apple Watch Ultra 3",
         "example_url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
@@ -1215,56 +1290,6 @@
             "title": "Mando PS5 Morado para despiece",
             "url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
             "city": "Granada"
-          }
-        ]
-      },
-      {
-        "model": "capitan america marvel heroes",
-        "example_title": "Capitan América Marvel Héroes",
-        "example_url": "https://es.wallapop.com/item/capitan-america-marvel-heroes-1255983486",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 12,
-        "median_price": 12,
-        "max_price": 12,
-        "first_seen": "2026-04-25T16:02:29.729Z",
-        "last_seen": "2026-04-25T16:02:29.729Z",
-        "sample": [
-          {
-            "price": 12,
-            "title": "Capitan América Marvel Héroes",
-            "url": "https://es.wallapop.com/item/capitan-america-marvel-heroes-1255983486",
-            "city": "Cadrete"
-          }
-        ]
-      },
-      {
-        "model": "kazar senor tierra salvaje",
-        "example_title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
-        "example_url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-25T16:02:29.729Z",
-        "last_seen": "2026-04-25T16:02:29.729Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
-            "url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
-            "city": "Barcelona"
           }
         ]
       },
@@ -3350,7 +3375,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3375,7 +3400,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8150,10 +8175,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 312,
-    "total_unique_models": 322,
-    "total_reservations": 16,
-    "total_confirmed_sales": 323
+    "possible": 313,
+    "total_unique_models": 323,
+    "total_reservations": 11,
+    "total_confirmed_sales": 329
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8164,5 +8189,78 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "4z482x4878jy",
+      "model": "capitan america marvel heroes",
+      "title": "Capitan América Marvel Héroes",
+      "sold_price": 12,
+      "city": "Cadrete",
+      "url": "https://es.wallapop.com/item/capitan-america-marvel-heroes-1255983486",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T16:02:29.729Z",
+      "last_seen": "2026-04-25T16:02:29.729Z",
+      "confirmed_at": "2026-04-25T19:02:34.713Z"
+    },
+    {
+      "id": "vjrem58q34zk",
+      "model": "kazar senor tierra salvaje",
+      "title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
+      "sold_price": 40,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T16:02:29.729Z",
+      "last_seen": "2026-04-25T16:02:29.729Z",
+      "confirmed_at": "2026-04-25T19:02:34.713Z"
+    },
+    {
+      "id": "pzpkxeogemj3",
+      "model": "funkos eva",
+      "title": "Funkos Eva",
+      "sold_price": 9,
+      "city": "Carpihuelo",
+      "url": "https://es.wallapop.com/item/funkos-eva-1255998374",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z",
+      "confirmed_at": "2026-04-25T19:02:34.713Z"
+    },
+    {
+      "id": "3zlmp2w9n8jx",
+      "model": "cajas pokemon bulk 300 cartas",
+      "title": "Cajas Pokémon bulk 300 cartas",
+      "sold_price": 12,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z",
+      "confirmed_at": "2026-04-25T19:02:34.713Z"
+    },
+    {
+      "id": "36e5m74nwy6d",
+      "model": "nintendo switch joy par morado verde",
+      "title": "Nintendo Switch Joy-Con Par Morado/Verde",
+      "sold_price": 34,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z",
+      "confirmed_at": "2026-04-25T19:02:34.713Z"
+    },
+    {
+      "id": "nz081pogk76o",
+      "model": "mandos nintendo switch colores",
+      "title": "Mandos Nintendo Switch Colores",
+      "sold_price": 39.8,
+      "city": "Alagón",
+      "url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z",
+      "confirmed_at": "2026-04-25T19:02:34.713Z"
+    }
+  ]
 }
