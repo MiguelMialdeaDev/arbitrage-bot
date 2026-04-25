@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T21:01:46.224Z",
+  "updated_at": "2026-04-25T21:09:30.035Z",
   "tiers": {
     "proven_seller": [
       {
@@ -342,6 +342,131 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "figuras funko pop stranger things",
+        "example_title": "Figuras Funko Pop Stranger Things",
+        "example_url": "https://es.wallapop.com/item/figuras-funko-pop-stranger-things-1256066976",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T21:09:30.033Z",
+        "last_seen": "2026-04-25T21:09:30.033Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Figuras Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/figuras-funko-pop-stranger-things-1256066976",
+            "city": "Navalcarnero"
+          }
+        ]
+      },
+      {
+        "model": "llamada cthulhu manual guardian",
+        "example_title": "La Llamada de Cthulhu: Manual del Guardián",
+        "example_url": "https://es.wallapop.com/item/la-llamada-de-cthulhu-manual-del-guardian-1256066997",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-25T21:09:30.033Z",
+        "last_seen": "2026-04-25T21:09:30.033Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "La Llamada de Cthulhu: Manual del Guardián",
+            "url": "https://es.wallapop.com/item/la-llamada-de-cthulhu-manual-del-guardian-1256066997",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "funkos ruben",
+        "example_title": "Funkos Rubén",
+        "example_url": "https://es.wallapop.com/item/funkos-ruben-1256040841",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-25T21:09:30.033Z",
+        "last_seen": "2026-04-25T21:09:30.033Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Funkos Rubén",
+            "url": "https://es.wallapop.com/item/funkos-ruben-1256040841",
+            "city": "Carpihuelo"
+          }
+        ]
+      },
+      {
+        "model": "lote cromos panini aspas momentum inaki ed lim",
+        "example_title": "Lote cromos Panini aspas momentum Iñaki ed lim",
+        "example_url": "https://es.wallapop.com/item/lote-cromos-panini-aspas-momentum-inaki-ed-lim-1256042744",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 11,
+        "median_price": 11,
+        "max_price": 11,
+        "first_seen": "2026-04-25T21:09:30.033Z",
+        "last_seen": "2026-04-25T21:09:30.033Z",
+        "sample": [
+          {
+            "price": 11,
+            "title": "Lote cromos Panini aspas momentum Iñaki ed lim",
+            "url": "https://es.wallapop.com/item/lote-cromos-panini-aspas-momentum-inaki-ed-lim-1256042744",
+            "city": "Villamediana de Iregua"
+          }
+        ]
+      },
+      {
+        "model": "juegos nintendo switch pokemon",
+        "example_title": "3 Juegos Nintendo Switch Pokémon",
+        "example_url": "https://es.wallapop.com/item/3-juegos-nintendo-switch-pokemon-1256040985",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 50,
+        "median_price": 50,
+        "max_price": 50,
+        "first_seen": "2026-04-25T21:09:30.033Z",
+        "last_seen": "2026-04-25T21:09:30.033Z",
+        "sample": [
+          {
+            "price": 50,
+            "title": "3 Juegos Nintendo Switch Pokémon",
+            "url": "https://es.wallapop.com/item/3-juegos-nintendo-switch-pokemon-1256040985",
+            "city": "El Campello"
+          }
+        ]
+      },
       {
         "model": "apple watch gen2 44mm",
         "example_title": "Apple Watch SE Gen2 44mm",
@@ -893,56 +1018,6 @@
         ]
       },
       {
-        "model": "funkos ruben",
-        "example_title": "Funkos Rubén",
-        "example_url": "https://es.wallapop.com/item/funkos-ruben-1256040841",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9,
-        "median_price": 9,
-        "max_price": 9,
-        "first_seen": "2026-04-25T19:09:03.297Z",
-        "last_seen": "2026-04-25T19:09:03.297Z",
-        "sample": [
-          {
-            "price": 9,
-            "title": "Funkos Rubén",
-            "url": "https://es.wallapop.com/item/funkos-ruben-1256040841",
-            "city": "Carpihuelo"
-          }
-        ]
-      },
-      {
-        "model": "lote cromos panini aspas momentum inaki ed lim",
-        "example_title": "Lote cromos Panini aspas momentum Iñaki ed lim",
-        "example_url": "https://es.wallapop.com/item/lote-cromos-panini-aspas-momentum-inaki-ed-lim-1256042744",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 11,
-        "median_price": 11,
-        "max_price": 11,
-        "first_seen": "2026-04-25T19:09:03.297Z",
-        "last_seen": "2026-04-25T19:09:03.297Z",
-        "sample": [
-          {
-            "price": 11,
-            "title": "Lote cromos Panini aspas momentum Iñaki ed lim",
-            "url": "https://es.wallapop.com/item/lote-cromos-panini-aspas-momentum-inaki-ed-lim-1256042744",
-            "city": "Villamediana de Iregua"
-          }
-        ]
-      },
-      {
         "model": "magic the gathering lote",
         "example_title": "Magic The Gathering - lote",
         "example_url": "https://es.wallapop.com/item/magic-the-gathering-lote-1256042318",
@@ -964,31 +1039,6 @@
             "title": "Magic The Gathering - lote",
             "url": "https://es.wallapop.com/item/magic-the-gathering-lote-1256042318",
             "city": "Altea"
-          }
-        ]
-      },
-      {
-        "model": "juegos nintendo switch pokemon",
-        "example_title": "3 Juegos Nintendo Switch Pokémon",
-        "example_url": "https://es.wallapop.com/item/3-juegos-nintendo-switch-pokemon-1256040985",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 50,
-        "median_price": 50,
-        "max_price": 50,
-        "first_seen": "2026-04-25T19:09:03.297Z",
-        "last_seen": "2026-04-25T19:09:03.297Z",
-        "sample": [
-          {
-            "price": 50,
-            "title": "3 Juegos Nintendo Switch Pokémon",
-            "url": "https://es.wallapop.com/item/3-juegos-nintendo-switch-pokemon-1256040985",
-            "city": "El Campello"
           }
         ]
       },
@@ -3624,7 +3674,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8599,10 +8649,10 @@
     "hot_24h": 0,
     "trending_7d": 6,
     "recurring": 0,
-    "possible": 330,
-    "total_unique_models": 340,
-    "total_reservations": 19,
-    "total_confirmed_sales": 338
+    "possible": 332,
+    "total_unique_models": 342,
+    "total_reservations": 18,
+    "total_confirmed_sales": 341
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8613,5 +8663,42 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzvgd7ok3rzl",
+      "model": "funkos ruben",
+      "title": "Funkos Rubén",
+      "sold_price": 9,
+      "city": "Carpihuelo",
+      "url": "https://es.wallapop.com/item/funkos-ruben-1256040841",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T19:09:03.297Z",
+      "last_seen": "2026-04-25T19:09:03.297Z",
+      "confirmed_at": "2026-04-25T21:09:30.033Z"
+    },
+    {
+      "id": "wzyrg1kgwx65",
+      "model": "lote cromos panini aspas momentum inaki ed lim",
+      "title": "Lote cromos Panini aspas momentum Iñaki ed lim",
+      "sold_price": 11,
+      "city": "Villamediana de Iregua",
+      "url": "https://es.wallapop.com/item/lote-cromos-panini-aspas-momentum-inaki-ed-lim-1256042744",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T19:09:03.297Z",
+      "last_seen": "2026-04-25T19:09:03.297Z",
+      "confirmed_at": "2026-04-25T21:09:30.033Z"
+    },
+    {
+      "id": "pj9402wr2k6e",
+      "model": "juegos nintendo switch pokemon",
+      "title": "3 Juegos Nintendo Switch Pokémon",
+      "sold_price": 50,
+      "city": "El Campello",
+      "url": "https://es.wallapop.com/item/3-juegos-nintendo-switch-pokemon-1256040985",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T19:09:03.297Z",
+      "last_seen": "2026-04-25T19:09:03.297Z",
+      "confirmed_at": "2026-04-25T21:09:30.033Z"
+    }
+  ]
 }
