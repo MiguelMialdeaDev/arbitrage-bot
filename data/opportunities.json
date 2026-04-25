@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T17:17:29.363Z",
+  "updated_at": "2026-04-25T17:23:10.112Z",
   "tiers": {
     "proven_seller": [
       {
@@ -337,6 +337,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "apple watch gen2 44mm",
+        "example_title": "Apple Watch SE Gen2 44mm",
+        "example_url": "https://es.wallapop.com/item/apple-watch-se-gen2-44mm-1256010023",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 140,
+        "median_price": 140,
+        "max_price": 140,
+        "first_seen": "2026-04-25T17:23:10.110Z",
+        "last_seen": "2026-04-25T17:23:10.110Z",
+        "sample": [
+          {
+            "price": 140,
+            "title": "Apple Watch SE Gen2 44mm",
+            "url": "https://es.wallapop.com/item/apple-watch-se-gen2-44mm-1256010023",
+            "city": "Palma de Mallorca"
+          }
+        ]
+      },
+      {
+        "model": "apple watch ultra plata verde",
+        "example_title": "Apple Watch Ultra Plata/Verde",
+        "example_url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 250,
+        "median_price": 250,
+        "max_price": 250,
+        "first_seen": "2026-04-25T17:23:10.110Z",
+        "last_seen": "2026-04-25T17:23:10.110Z",
+        "sample": [
+          {
+            "price": 250,
+            "title": "Apple Watch Ultra Plata/Verde",
+            "url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
+            "city": "Roma"
+          }
+        ]
+      },
       {
         "model": "lot gran peces lego",
         "example_title": "Lot gran de peces LEGO",
@@ -1209,31 +1259,6 @@
             "title": "Lote cartas Pokémon Fósil",
             "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
             "city": "Algeciras"
-          }
-        ]
-      },
-      {
-        "model": "apple watch ultra plata verde",
-        "example_title": "Apple Watch Ultra Plata/Verde",
-        "example_url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 250,
-        "median_price": 250,
-        "max_price": 250,
-        "first_seen": "2026-04-25T14:55:46.440Z",
-        "last_seen": "2026-04-25T14:55:46.440Z",
-        "sample": [
-          {
-            "price": 250,
-            "title": "Apple Watch Ultra Plata/Verde",
-            "url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
-            "city": "Roma"
           }
         ]
       },
@@ -7969,10 +7994,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 305,
-    "total_unique_models": 315,
+    "possible": 306,
+    "total_unique_models": 316,
     "total_reservations": 23,
-    "total_confirmed_sales": 309
+    "total_confirmed_sales": 310
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7983,5 +8008,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "36e5m7m0yy6d",
+      "model": "apple watch ultra plata verde",
+      "title": "Apple Watch Ultra Plata/Verde",
+      "sold_price": 250,
+      "city": "Roma",
+      "url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T14:55:46.440Z",
+      "last_seen": "2026-04-25T14:55:46.440Z",
+      "confirmed_at": "2026-04-25T17:23:10.110Z"
+    }
+  ]
 }
