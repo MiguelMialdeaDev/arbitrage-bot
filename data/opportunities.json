@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T08:47:06.472Z",
+  "updated_at": "2026-04-25T09:02:53.542Z",
   "tiers": {
     "proven_seller": [
       {
@@ -263,6 +263,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote vinilos elvis the beatles",
+        "example_title": "Lote Vinilos Elvis y The Beatles",
+        "example_url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-25T09:02:53.540Z",
+        "last_seen": "2026-04-25T09:02:53.540Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Lote Vinilos Elvis y The Beatles",
+            "url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "playmobil superheroes figuras",
         "example_title": "Playmobil Superhéroes (4 figuras)",
@@ -3595,7 +3620,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6270,9 +6295,9 @@
     "hot_24h": 4,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 240,
-    "total_unique_models": 248,
-    "total_reservations": 12,
+    "possible": 241,
+    "total_unique_models": 249,
+    "total_reservations": 13,
     "total_confirmed_sales": 246
   },
   "thresholds": {
