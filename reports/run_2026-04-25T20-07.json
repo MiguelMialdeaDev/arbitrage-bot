@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-25T20:05:57.366Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 208,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Lego militar original",
+          "price": 35,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/lego-militar-original-1256055502",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lego militar",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lego militar' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cromo Panini Extra Gold Mbappé",
+          "price": 20,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/cromo-panini-extra-gold-mbappe-1256055632",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromo panini extra gold mbappe",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromo panini extra gold mbappe' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cromo Panini Mundial Cristiano Ronaldo 2026",
+          "price": 8,
+          "city": "Santander",
+          "url": "https://es.wallapop.com/item/cromo-panini-mundial-cristiano-ronaldo-2026-1256055304",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cromo Panini Haaland Extra Sticker Mundial 2026",
+          "price": 40,
+          "city": "Santander",
+          "url": "https://es.wallapop.com/item/cromo-panini-haaland-extra-sticker-mundial-2026-1256055086",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromo panini haaland extra sticker",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromo panini haaland extra sticker' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cartas Magic The Gathering",
+          "price": 35,
+          "city": "Albal",
+          "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-1256055985",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "cartas magic the gathering",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 6€ vs mín reservado 100€)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 265,
+      "new_items": 10,
+      "items": [
+        {
+          "title": "3 Juegos Zelda + 3 Amiibo Nintendo Switch",
+          "price": 95,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/3-juegos-zelda---3-amiibo-nintendo-switch-1256055636",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Koh Lanta Le Retour Des Aventuriers Switch",
+          "price": 12.5,
+          "city": "Bergamo",
+          "url": "https://es.wallapop.com/item/koh-lanta-le-retour-des-aventuriers-switch-1256055619",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "Joycons Pikachu Nintendo Switch",
+          "price": 23.99,
+          "city": "Moncofa",
+          "url": "https://es.wallapop.com/item/joycons-pikachu-nintendo-switch-1256055220",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "joycons pikachu nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'joycons pikachu nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego Sonic Mania Plus Nintendo Switch",
+          "price": 5,
+          "city": "Sant Just Desvern",
+          "url": "https://es.wallapop.com/item/juego-sonic-mania-plus-nintendo-switch-1256055087",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego <8€, margen imposible tras envío"
+        },
+        {
+          "title": "iPhone 16 Pro 128GB",
+          "price": 500,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-128gb-1256055972",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 128gb",
+          "verdict": "skip",
+          "reason": "500€ vs mín reservado 150€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 14 128GB Azul",
+          "price": 310,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-14-128gb-azul-1256055873",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb azul",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "iPhone 14 Pro Max 1TB Deep Purple",
+          "price": 699,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-1tb-deep-purple-1256055799",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 1tb deep",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 1tb deep' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 128G",
+          "price": 110,
+          "city": "La Herradura",
+          "url": "https://es.wallapop.com/item/iphone-11-128g-1256055727",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128g",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128g' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Max 256GB Negro",
+          "price": 670,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-negro-1256055497",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "iphone pro max 256gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro 256GB Naranja",
+          "price": 1070,
+          "city": "El Ejido",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-256gb-naranja-1256055046",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb naranja",
+          "verdict": "skip",
+          "reason": "1070€ vs mín reservado 998€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 182,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Victor Frankenstein Bluray",
+          "price": 5.95,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/victor-frankenstein-bluray-1256056043",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Yummy Bluray",
+          "price": 23.95,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/yummy-bluray-1256055772",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "yummy bluray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'yummy bluray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Y todos arderán Bluray",
+          "price": 23.95,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/y-todos-arderan-bluray-1256055496",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "todos arderan bluray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'todos arderan bluray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "VHS 85 Bluray",
+          "price": 23.95,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/vhs-85-bluray-1256055331",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "vhs bluray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'vhs bluray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Werewolves El despertar de la bestia Bluray",
+          "price": 23.95,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/werewolves-el-despertar-de-la-bestia-bluray-1256055042",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "werewolves despertar bestia bluray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'werewolves despertar bestia bluray' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 93,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Set de colección Subbuteo Edición Retro AS Roma",
+          "price": 30,
+          "city": "Napoli",
+          "url": "https://es.wallapop.com/item/subbuteo-set-collectors-retro-edition-as-roma-1256057049",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "set subbuteo edicion retro roma",
+          "verdict": "skip",
+          "reason": "0 reservados de 'set subbuteo edicion retro roma' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 35,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 21,
+  "total_signals": 0,
+  "duration_s": 70
+}

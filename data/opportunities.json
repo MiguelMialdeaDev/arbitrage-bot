@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T20:01:43.254Z",
+  "updated_at": "2026-04-25T20:07:07.413Z",
   "tiers": {
     "proven_seller": [
       {
@@ -343,6 +343,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "cartas magic the gathering",
+        "example_title": "Cartas Magic The Gathering",
+        "example_url": "https://es.wallapop.com/item/cartas-magic-the-gathering-1256055985",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-25T20:07:07.411Z",
+        "last_seen": "2026-04-25T20:07:07.411Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Cartas Magic The Gathering",
+            "url": "https://es.wallapop.com/item/cartas-magic-the-gathering-1256055985",
+            "city": "Albal"
+          }
+        ]
+      },
+      {
+        "model": "cartas pokemon snorlax mightyena",
+        "example_title": "Cartas Pokémon Snorlax y Mightyena",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T20:07:07.411Z",
+        "last_seen": "2026-04-25T20:07:07.411Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Cartas Pokémon Snorlax y Mightyena",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
+            "city": "Palma de Mallorca"
+          }
+        ]
+      },
       {
         "model": "apple watch ultra",
         "example_title": "Apple Watch Ultra 3",
@@ -1090,31 +1140,6 @@
             "title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
             "url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
             "city": "Parque Empresarial La Moraleja"
-          }
-        ]
-      },
-      {
-        "model": "cartas pokemon snorlax mightyena",
-        "example_title": "Cartas Pokémon Snorlax y Mightyena",
-        "example_url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-25T18:02:18.345Z",
-        "last_seen": "2026-04-25T18:02:18.345Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Cartas Pokémon Snorlax y Mightyena",
-            "url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
-            "city": "Palma de Mallorca"
           }
         ]
       },
@@ -8400,10 +8425,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 322,
-    "total_unique_models": 332,
+    "possible": 323,
+    "total_unique_models": 333,
     "total_reservations": 14,
-    "total_confirmed_sales": 335
+    "total_confirmed_sales": 336
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8416,16 +8441,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "p618m03ox5z5",
-      "model": "apple watch ultra",
-      "title": "Apple Watch Ultra 3",
-      "sold_price": 400,
-      "city": "Aspe",
-      "url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T16:47:34.835Z",
-      "last_seen": "2026-04-25T16:47:34.835Z",
-      "confirmed_at": "2026-04-25T20:01:43.252Z"
+      "id": "qjwrgw0pwe6o",
+      "model": "cartas pokemon snorlax mightyena",
+      "title": "Cartas Pokémon Snorlax y Mightyena",
+      "sold_price": 10,
+      "city": "Palma de Mallorca",
+      "url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T18:02:18.345Z",
+      "last_seen": "2026-04-25T18:02:18.345Z",
+      "confirmed_at": "2026-04-25T20:07:07.411Z"
     }
   ]
 }
