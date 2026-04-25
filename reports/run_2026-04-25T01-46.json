@@ -1,0 +1,338 @@
+{
+  "timestamp": "2026-04-25T01:45:23.341Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 205,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Funko Pop! Harry Potter Albus Dumbledore #04",
+          "price": 8,
+          "city": "San Cristóbal de La Laguna",
+          "url": "https://es.wallapop.com/item/funko-pop-harry-potter-albus-dumbledore-04-1255786815",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! harry potter albus dumbledore 04",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! harry potter albus dumbledore 04' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil. Remolque con caballo de la policía.",
+          "price": 14,
+          "city": "Coca de La Piñera",
+          "url": "https://es.wallapop.com/item/playmobil-remolque-con-caballo-de-la-policia-1255787600",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil. remolque con caballo policia.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playmobil. remolque con caballo policia.' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil Caballeros Medievales con bandera",
+          "price": 6,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/playmobil-caballeros-medievales-con-bandera-1255786881",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Caballeros Medievales Set",
+          "price": 5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/playmobil-caballeros-medievales-set-1255786711",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Caballeros Medievales Set",
+          "price": 5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/playmobil-caballeros-medievales-set-1255786657",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 221,
+      "new_items": 21,
+      "items": [
+        {
+          "title": "Wild Hearts S Nintendo Switch",
+          "price": 40,
+          "city": "Baza",
+          "url": "https://es.wallapop.com/item/wild-hearts-s-nintendo-switch-1255787526",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "wild hearts nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'wild hearts nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch Azul y Roja",
+          "price": 150,
+          "city": "Tarazona",
+          "url": "https://es.wallapop.com/item/nintendo-switch-azul-y-roja-1255787181",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch azul roja",
+          "verdict": "skip",
+          "reason": "150€ vs mín reservado 110€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "JUEGOS + Nintendo Switch OLED",
+          "price": 319.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/juegos---nintendo-switch-oled-1255787155",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch oled",
+          "verdict": "skip",
+          "reason": "319.95€ vs mín reservado 210€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "True Crime: Streets of LA PS2",
+          "price": 7,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/true-crime-streets-of-la-ps2-1255787147",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Pokémon Escarlata Nintendo Switch +dlc + Steelbook",
+          "price": 90,
+          "city": "Navatejera",
+          "url": "https://es.wallapop.com/item/pokemon-escarlata-nintendo-switch--dlc---steelbook-1255786804",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "código digital, no físico"
+        },
+        {
+          "title": "Crash Bandicoot La Venganza de Cortex PS2",
+          "price": 12,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/crash-bandicoot-la-venganza-de-cortex-ps2-1255786803",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "crash bandicoot venganza cortex ps2",
+          "verdict": "skip",
+          "reason": "0 reservados de 'crash bandicoot venganza cortex ps2' (sin evidencia de demanda)"
+        },
+        {
+          "title": "HyperX Cloud II Auriculares Gaming",
+          "price": 50,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/hyperx-cloud-ii-auriculares-gaming-1255787806",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "hyperx cloud auriculares gaming",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 30€ vs mín reservado 75€)"
+        },
+        {
+          "title": "Ps5 Slim De Disco De 1TB",
+          "price": 299,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/ps5-slim-de-disco-de-1tb-1255787655",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "299€ vs mín reservado 300€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Mando PS5 Morado",
+          "price": 40,
+          "city": "Vigo",
+          "url": "https://es.wallapop.com/item/mando-ps5-morado-1255787173",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando ps5 morado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando ps5 morado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando PS5 DualSense  Nuevo",
+          "price": 49.99,
+          "city": "Torrellano",
+          "url": "https://es.wallapop.com/item/mando-ps5-dualsense-nuevo-1255787072",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando ps5 dualsense",
+          "verdict": "skip",
+          "reason": "49.99€ vs mín reservado 19.99€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "PlayStation 4 Slim , edición gran turismo",
+          "price": 120,
+          "city": "Les Pinedes de L'ermengol",
+          "url": "https://es.wallapop.com/item/playstation-4-slim-edicion-gran-turismo-1255787035",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation slim edicion gran turismo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playstation slim edicion gran turismo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Xbox Series X 1TB SSD Negro",
+          "price": 379,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/xbox-series-x-1tb-ssd-negro-1255787601",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series 1tb ssd negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox series 1tb ssd negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 Mini Blanco 128GB --- PERFECTO ESTADO",
+          "price": 220,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-12-mini-blanco-128gb-perfecto-estado-1255787796",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone mini blanco 128gb ---",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone mini blanco 128gb ---' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Blanco 128GB - Batería 91%",
+          "price": 620,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-blanco-128gb-bateria-91-1255787736",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro blanco 128gb bateria",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro blanco 128gb bateria' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Pro Max Plata",
+          "price": 800,
+          "city": "Martorelles",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-plata-1255787682",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max plata",
+          "verdict": "skip",
+          "reason": "800€ vs mín reservado 700€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 13 Mini 128GBs BATERÍA NUEVA -- LEED --",
+          "price": 220,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-13-mini-128gbs-bateria-nueva-leed-1255787441",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: no funciona"
+        },
+        {
+          "title": "iPhone 13 Pro Azul",
+          "price": 290,
+          "city": "Ourense",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-azul-1255787351",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro azul",
+          "verdict": "skip",
+          "reason": "290€ vs mín reservado 350€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Fundas iphone x hello kitty",
+          "price": 10,
+          "city": "Atarfe",
+          "url": "https://es.wallapop.com/item/funda-hello-kitty-rosa-brillante-1255787269",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fundas iphone hello kitty",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fundas iphone hello kitty' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro Azul",
+          "price": 310,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-azul-1255786984",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro azul",
+          "verdict": "skip",
+          "reason": "310€ vs mín reservado 350€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 12 256GB Batería 100% IMPECABLE",
+          "price": 240,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-12-256gb-bateria-100-impecable-1255786722",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb bateria 100%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb bateria 100%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch Series 7 GPS 45mm BATERÍA 100%",
+          "price": 200,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-watch-series-7-gps-45mm-bateria-100-1255787642",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series gps 45mm",
+          "verdict": "skip",
+          "reason": "200€ vs mín reservado 150€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 147,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "juego de mesa, Juego de viaje cetraxal",
+          "price": 7.7,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-juego-de-viaje-cetraxal-1255787115",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 27,
+  "total_signals": 0,
+  "duration_s": 76
+}
