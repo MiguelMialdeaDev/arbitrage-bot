@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T13:47:21.461Z",
+  "updated_at": "2026-04-25T14:03:19.639Z",
   "tiers": {
     "proven_seller": [
       {
@@ -160,37 +160,6 @@
         ]
       },
       {
-        "model": "lote cromos futbol panini",
-        "example_title": "Lote de cromos de fútbol Panini",
-        "example_url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
-        "total_reservations": 0,
-        "confirmed_sales": 2,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 5,
-        "median_price": 17,
-        "max_price": 17,
-        "first_seen": "2026-04-24T13:47:33.468Z",
-        "last_seen": "2026-04-24T21:17:30.661Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Lote cromos fútbol Panini",
-            "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
-            "city": "Jaén"
-          },
-          {
-            "price": 17,
-            "title": "Lote de cromos de fútbol Panini",
-            "url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
-            "city": "Viladecavalls"
-          }
-        ]
-      },
-      {
         "model": "nintendo switch sports",
         "example_title": "Nintendo Switch Sports",
         "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
@@ -223,6 +192,37 @@
       }
     ],
     "trending_7d": [
+      {
+        "model": "lote cromos futbol panini",
+        "example_title": "Lote de cromos de fútbol Panini",
+        "example_url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
+        "total_reservations": 0,
+        "confirmed_sales": 2,
+        "total_events": 2,
+        "reservations_24h": 1,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 5,
+        "median_price": 17,
+        "max_price": 17,
+        "first_seen": "2026-04-24T13:47:33.468Z",
+        "last_seen": "2026-04-24T21:17:30.661Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Lote cromos fútbol Panini",
+            "url": "https://es.wallapop.com/item/lote-cromos-futbol-panini-1255585828",
+            "city": "Jaén"
+          },
+          {
+            "price": 17,
+            "title": "Lote de cromos de fútbol Panini",
+            "url": "https://es.wallapop.com/item/lote-de-cromos-de-futbol-panini-1255727605",
+            "city": "Viladecavalls"
+          }
+        ]
+      },
       {
         "model": "pack juegos nintendo switch",
         "example_title": "Pack 2 Juegos Nintendo Switch",
@@ -288,6 +288,156 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "resident evil requiem",
+        "example_title": "Resident Evil requiem",
+        "example_url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T14:03:19.637Z",
+        "last_seen": "2026-04-25T14:03:19.637Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Resident Evil requiem",
+            "url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
+            "city": "Villaviciosa de Odón"
+          }
+        ]
+      },
+      {
+        "model": "mando ps5 morado despiece",
+        "example_title": "Mando PS5 Morado para despiece",
+        "example_url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T14:03:19.637Z",
+        "last_seen": "2026-04-25T14:03:19.637Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Mando PS5 Morado para despiece",
+            "url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
+            "city": "Granada"
+          }
+        ]
+      },
+      {
+        "model": "pokemon espada nintendo switch rpg",
+        "example_title": "Pokemon Espada Nintendo Switch RPG",
+        "example_url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-rpg-1255904810",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-25T14:03:19.637Z",
+        "last_seen": "2026-04-25T14:03:19.637Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Pokemon Espada Nintendo Switch RPG",
+            "url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-rpg-1255904810",
+            "city": "Seseña"
+          }
+        ]
+      },
+      {
+        "model": "crossingw",
+        "example_title": "A. Crossingw",
+        "example_url": "https://es.wallapop.com/item/a-crossingw-1255904244",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-25T14:03:19.637Z",
+        "last_seen": "2026-04-25T14:03:19.637Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "A. Crossingw",
+            "url": "https://es.wallapop.com/item/a-crossingw-1255904244",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "mario strikers battle league football nintendo sw",
+        "example_title": "Mario Strikers: Battle League Football Nintendo Sw",
+        "example_url": "https://es.wallapop.com/item/mario-strikers-battle-league-football-nintendo-sw-1255907381",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 24,
+        "median_price": 24,
+        "max_price": 24,
+        "first_seen": "2026-04-25T14:03:19.637Z",
+        "last_seen": "2026-04-25T14:03:19.637Z",
+        "sample": [
+          {
+            "price": 24,
+            "title": "Mario Strikers: Battle League Football Nintendo Sw",
+            "url": "https://es.wallapop.com/item/mario-strikers-battle-league-football-nintendo-sw-1255907381",
+            "city": "Bilbao"
+          }
+        ]
+      },
+      {
+        "model": "iphone negro",
+        "example_title": "iPhone 7 Negro",
+        "example_url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-25T14:03:19.637Z",
+        "last_seen": "2026-04-25T14:03:19.637Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "iPhone 7 Negro",
+            "url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
+            "city": "Montblanc"
+          }
+        ]
+      },
       {
         "model": "carta pokemon mega eelektross ex 350 ps",
         "example_title": "Carta Pokémon Mega-Eelektross EX 350 PS",
@@ -839,56 +989,6 @@
         ]
       },
       {
-        "model": "mario strikers battle league football nintendo sw",
-        "example_title": "Mario Strikers: Battle League Football Nintendo Sw",
-        "example_url": "https://es.wallapop.com/item/mario-strikers-battle-league-football-nintendo-sw-1255907381",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 24,
-        "median_price": 24,
-        "max_price": 24,
-        "first_seen": "2026-04-25T12:03:04.122Z",
-        "last_seen": "2026-04-25T12:03:04.122Z",
-        "sample": [
-          {
-            "price": 24,
-            "title": "Mario Strikers: Battle League Football Nintendo Sw",
-            "url": "https://es.wallapop.com/item/mario-strikers-battle-league-football-nintendo-sw-1255907381",
-            "city": "Bilbao"
-          }
-        ]
-      },
-      {
-        "model": "iphone negro",
-        "example_title": "iPhone 7 Negro",
-        "example_url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 32,
-        "median_price": 32,
-        "max_price": 32,
-        "first_seen": "2026-04-25T12:03:04.122Z",
-        "last_seen": "2026-04-25T12:03:04.122Z",
-        "sample": [
-          {
-            "price": 32,
-            "title": "iPhone 7 Negro",
-            "url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
-            "city": "Montblanc"
-          }
-        ]
-      },
-      {
         "model": "cartas pokemon splendor astral",
         "example_title": "Cartas Pokémon Splendor Astral",
         "example_url": "https://es.wallapop.com/item/cartas-pokemon-splendor-astral-1255862168",
@@ -1085,56 +1185,6 @@
             "title": "Pack 2 Fundas iPhone 17 Pro y Pro Max",
             "url": "https://es.wallapop.com/item/pack-2-fundas-iphone-17-pro-y-pro-max-1255866175",
             "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "pokemon espada nintendo switch rpg",
-        "example_title": "Pokemon Espada Nintendo Switch RPG",
-        "example_url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-rpg-1255904810",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-25T11:47:40.163Z",
-        "last_seen": "2026-04-25T11:47:40.163Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Pokemon Espada Nintendo Switch RPG",
-            "url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-rpg-1255904810",
-            "city": "Seseña"
-          }
-        ]
-      },
-      {
-        "model": "crossingw",
-        "example_title": "A. Crossingw",
-        "example_url": "https://es.wallapop.com/item/a-crossingw-1255904244",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-25T11:47:40.163Z",
-        "last_seen": "2026-04-25T11:47:40.163Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "A. Crossingw",
-            "url": "https://es.wallapop.com/item/a-crossingw-1255904244",
-            "city": "Barcelona"
           }
         ]
       },
@@ -3445,7 +3495,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3470,7 +3520,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7217,13 +7267,13 @@
   },
   "stats": {
     "proven_seller": 4,
-    "hot_24h": 3,
-    "trending_7d": 2,
+    "hot_24h": 2,
+    "trending_7d": 3,
     "recurring": 0,
-    "possible": 277,
-    "total_unique_models": 286,
-    "total_reservations": 16,
-    "total_confirmed_sales": 284
+    "possible": 279,
+    "total_unique_models": 288,
+    "total_reservations": 14,
+    "total_confirmed_sales": 288
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7234,5 +7284,54 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "8j38kwrlpyz9",
+      "model": "pokemon espada nintendo switch rpg",
+      "title": "Pokemon Espada Nintendo Switch RPG",
+      "sold_price": 25,
+      "city": "Seseña",
+      "url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-rpg-1255904810",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T11:47:40.163Z",
+      "last_seen": "2026-04-25T11:47:40.163Z",
+      "confirmed_at": "2026-04-25T14:03:19.637Z"
+    },
+    {
+      "id": "wzyrg1qgyv65",
+      "model": "crossingw",
+      "title": "A. Crossingw",
+      "sold_price": 30,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/a-crossingw-1255904244",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T11:47:40.163Z",
+      "last_seen": "2026-04-25T11:47:40.163Z",
+      "confirmed_at": "2026-04-25T14:03:19.637Z"
+    },
+    {
+      "id": "xzogw47992j9",
+      "model": "mario strikers battle league football nintendo sw",
+      "title": "Mario Strikers: Battle League Football Nintendo Sw",
+      "sold_price": 24,
+      "city": "Bilbao",
+      "url": "https://es.wallapop.com/item/mario-strikers-battle-league-football-nintendo-sw-1255907381",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T12:03:04.122Z",
+      "last_seen": "2026-04-25T12:03:04.122Z",
+      "confirmed_at": "2026-04-25T14:03:19.637Z"
+    },
+    {
+      "id": "8j38kwr7m2z9",
+      "model": "iphone negro",
+      "title": "iPhone 7 Negro",
+      "sold_price": 32,
+      "city": "Montblanc",
+      "url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T12:03:04.122Z",
+      "last_seen": "2026-04-25T12:03:04.122Z",
+      "confirmed_at": "2026-04-25T14:03:19.637Z"
+    }
+  ]
 }

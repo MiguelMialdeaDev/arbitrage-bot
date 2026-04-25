@@ -1,8 +1,8 @@
 {
-  "runs": 325,
-  "total_wp_items_fetched": 47092,
-  "total_signals_sent": 68,
-  "last_run": "2026-04-25T13:45:21.818Z",
+  "runs": 326,
+  "total_wp_items_fetched": 47317,
+  "total_signals_sent": 69,
+  "last_run": "2026-04-25T14:00:42.200Z",
   "by_keyword": {
     "protector funko pop": {
       "items_today": 40,
@@ -41,27 +41,27 @@
       "signals_today": 0
     }
   },
-  "last_run_items": 206,
+  "last_run_items": 225,
   "last_run_signals": 1,
   "by_category": {
     "Coleccionismo": {
-      "items_today": 44,
-      "signals_today": 0
-    },
-    "Tecnología y electrónica": {
-      "items_today": 104,
+      "items_today": 51,
       "signals_today": 1
     },
+    "Tecnología y electrónica": {
+      "items_today": 126,
+      "signals_today": 0
+    },
     "Cine, libros y música": {
-      "items_today": 36,
+      "items_today": 22,
       "signals_today": 0
     },
     "Deporte y ocio": {
-      "items_today": 20,
+      "items_today": 22,
       "signals_today": 0
     },
     "Niños y bebés": {
-      "items_today": 2,
+      "items_today": 4,
       "signals_today": 0
     }
   }
