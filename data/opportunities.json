@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T19:32:05.201Z",
+  "updated_at": "2026-04-25T19:47:03.191Z",
   "tiers": {
     "proven_seller": [
       {
@@ -254,7 +254,7 @@
         "total_reservations": 0,
         "confirmed_sales": 2,
         "total_events": 2,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 2,
         "reservations_30d": 2,
         "reservations_per_day": 1.85,
@@ -343,6 +343,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack cartas pokemon tyrunt aurorus charcadet",
+        "example_title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
+        "example_url": "https://es.wallapop.com/item/pack-cartas-pokemon-tyrunt-aurorus-charcadet-1256050380",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 22,
+        "median_price": 22,
+        "max_price": 22,
+        "first_seen": "2026-04-25T19:47:03.189Z",
+        "last_seen": "2026-04-25T19:47:03.189Z",
+        "sample": [
+          {
+            "price": 22,
+            "title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
+            "url": "https://es.wallapop.com/item/pack-cartas-pokemon-tyrunt-aurorus-charcadet-1256050380",
+            "city": "Fuengirola"
+          }
+        ]
+      },
+      {
+        "model": "playmobil anuncio diego",
+        "example_title": "Playmobil. Anuncio para Diego.",
+        "example_url": "https://es.wallapop.com/item/playmobil-anuncio-para-diego-1256049779",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T19:47:03.189Z",
+        "last_seen": "2026-04-25T19:47:03.189Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Playmobil. Anuncio para Diego.",
+            "url": "https://es.wallapop.com/item/playmobil-anuncio-para-diego-1256049779",
+            "city": "Écija"
+          }
+        ]
+      },
+      {
+        "model": "television marquee moon vinilo lp",
+        "example_title": "Television Marquee Moon Vinilo LP",
+        "example_url": "https://es.wallapop.com/item/television-marquee-moon-vinilo-lp-1256050347",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T19:47:03.189Z",
+        "last_seen": "2026-04-25T19:47:03.189Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Television Marquee Moon Vinilo LP",
+            "url": "https://es.wallapop.com/item/television-marquee-moon-vinilo-lp-1256050347",
+            "city": "Valencia"
+          }
+        ]
+      },
       {
         "model": "nintendo switch mario kart deluxe",
         "example_title": "Nintendo Switch + Mario Kart 8 Deluxe",
@@ -3450,7 +3525,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3475,7 +3550,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8325,9 +8400,9 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 319,
-    "total_unique_models": 329,
-    "total_reservations": 13,
+    "possible": 322,
+    "total_unique_models": 332,
+    "total_reservations": 16,
     "total_confirmed_sales": 333
   },
   "thresholds": {
@@ -8339,54 +8414,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "36e5m74yrk6d",
-      "model": "lot gran peces lego",
-      "title": "Lot gran de peces LEGO",
-      "sold_price": 20,
-      "city": "Cardedeu",
-      "url": "https://es.wallapop.com/item/lot-gran-de-peces-lego-1256004639",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T17:17:29.360Z",
-      "last_seen": "2026-04-25T17:17:29.360Z",
-      "confirmed_at": "2026-04-25T19:32:05.199Z"
-    },
-    {
-      "id": "wzyrg11nxx65",
-      "model": "disco vinilo michael jackson dangerous",
-      "title": "Disco de Vinilo Michael Jackson - Dangerous",
-      "sold_price": 20,
-      "city": "Ávila",
-      "url": "https://es.wallapop.com/item/disco-de-vinilo-michael-jackson-dangerous-1256008520",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T17:17:29.360Z",
-      "last_seen": "2026-04-25T17:17:29.360Z",
-      "confirmed_at": "2026-04-25T19:32:05.199Z"
-    },
-    {
-      "id": "pzpkxee73kj3",
-      "model": "lote ramonrafaga elemental azul mtg",
-      "title": "LOTE RAMONRáfaga elemental azul MTG",
-      "sold_price": 8,
-      "city": "Mont-Ras",
-      "url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T17:32:01.279Z",
-      "last_seen": "2026-04-25T17:32:01.279Z",
-      "confirmed_at": "2026-04-25T19:32:05.199Z"
-    },
-    {
-      "id": "p618m00epxz5",
-      "model": "pack peliculas blu ray accion terror thriller",
-      "title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
-      "sold_price": 27,
-      "city": "Parque Empresarial La Moraleja",
-      "url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T17:32:01.279Z",
-      "last_seen": "2026-04-25T17:32:01.279Z",
-      "confirmed_at": "2026-04-25T19:32:05.199Z"
-    }
-  ]
+  "new_sales": []
 }
