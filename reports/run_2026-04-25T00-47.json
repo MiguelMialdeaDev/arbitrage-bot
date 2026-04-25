@@ -1,0 +1,683 @@
+{
+  "timestamp": "2026-04-25T00:45:19.770Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 205,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Funko Pop! John Wick 2 Chase 387",
+          "price": 60,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funko-pop-john-wick-2-chase-387-1255778260",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! john wick chase 387",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! john wick chase 387' (sin evidencia de demanda)"
+        },
+        {
+          "title": "8 cartas POKEMON, Energía Planta (BS 99), energy",
+          "price": 2.48,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/8-cartas-pokemon-energia-planta-bs-99-energy-1255778721",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "5 cartas POKEMON, Energía Psíquica (BS 101)",
+          "price": 1.38,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/5-cartas-pokemon-energia-psiquica-bs-101-1255778676",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "carta POKEMON, Abra (BS 43) 30 PI",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-abra-bs-43-30-pi-1255778648",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "carta POKEMON pokédex Trainer",
+          "price": 1.65,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-pokedex-trainer-1255778633",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Celebi V 190 HP",
+          "price": 120,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/carta-pokemon-celebi-v-190-hp-1255778395",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Colección Figuras Naruto Burger King Completa",
+          "price": 65,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/coleccion-figuras-naruto-burger-king-completa-1255779155",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "figuras naruto burger king completa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'figuras naruto burger king completa' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 211,
+      "new_items": 52,
+      "items": [
+        {
+          "title": "Tomodachi Life Nintendo Switch",
+          "price": 55,
+          "city": "Castelldefels",
+          "url": "https://es.wallapop.com/item/tomodachi-life-nintendo-switch-1255779356",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "tomodachi life nintendo switch",
+          "verdict": "skip",
+          "reason": "55€ vs mín reservado 52€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch 2",
+          "price": 366,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/nintendo-switch-2-1255778949",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja para juegos Nintendo Switch",
+          "price": 5,
+          "city": "Colonia Covibar",
+          "url": "https://es.wallapop.com/item/caja-para-juegos-nintendo-switch-1255778538",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "estado: amarillo"
+        },
+        {
+          "title": "Monster Hunter Stories 2: Wings of Ruin",
+          "price": 21.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/monster-hunter-stories-2-wings-of-ruin-nintendo-s-1255778487",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "monster hunter stories wings ruin Nintendo Switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'monster hunter stories wings ruin Nintendo Switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Trials of Mana Nintendo Switch",
+          "price": 17.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/trials-of-mana-nintendo-switch-1255778092",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "trials mana nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'trials mana nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Persona 5 Royal Nintendo Switch",
+          "price": 25.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/persona-5-royal-nintendo-switch-1255777625",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "persona royal nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'persona royal nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pokémon Legends: A-Z Nintendo Switch 2 (Europa)",
+          "price": 30,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/pokemon-legends-a-z-nintendo-switch-2-europa-1255777503",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "pokemon legends: a-z nintendo switch",
+          "verdict": "skip",
+          "reason": "30€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "AMD BC-250 bazzite FUNCIONANDO Steam Machine DIY",
+          "price": 250,
+          "city": "Cáceres",
+          "url": "https://es.wallapop.com/item/amd-bc-250-bazzite-funcionando-steam-machine-diy-1255777558",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "amd bc-250 bazzite funcionando steam",
+          "verdict": "skip",
+          "reason": "0 reservados de 'amd bc-250 bazzite funcionando steam' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Otterbox Funda para Auriculares LifeProof para AirPods 3.ª gen 2021, Resistente a Golpes y Caídas, Ultra Fina,Protege contra Ara",
+          "price": 2.96,
+          "city": "Úbeda",
+          "url": "https://es.wallapop.com/item/otterbox-funda-para-auriculares-lifeproof-para-airpods-3-gen-2021-resistente-a-golpes-y-caidas-ultra-fina-protege-contra-ara-1255779041",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Belkin Cargador inalámbrico 3 en 1 (7,5 W para AirPods y AirPods), base de carga inalámbrica, estación de carga inalámbrica para",
+          "price": 26.23,
+          "city": "Úbeda",
+          "url": "https://es.wallapop.com/item/belkin-cargador-inalambrico-3-en-1-7-5-w-para-airpods-y-airpods-base-de-carga-inalambrica-estacion-de-carga-inalambrica-para-1255778081",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "belkin cargador inalambrico (7,5 para",
+          "verdict": "skip",
+          "reason": "0 reservados de 'belkin cargador inalambrico (7,5 para' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 pro 256gb",
+          "price": 1095,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-256gb-1255779444",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 pro 256gb",
+          "price": 1095,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-256gb-1255779415",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mkej Funda para iPhone 12 con Cuerda, TPU Suave Silicona diseño de corazón con Chapado en Oro de Lujo, Funda iPhone 12 Cuerda pa",
+          "price": 1.55,
+          "city": "Úbeda",
+          "url": "https://es.wallapop.com/item/mkej-funda-para-iphone-12-con-cuerda-tpu-suave-silicona-diseno-de-corazon-con-chapado-en-oro-de-lujo-funda-iphone-12-cuerda-pa-1255779380",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "iPhone 14 Negro 128GB Batería 100%",
+          "price": 345,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-negro-128gb-bateria-100-1255779357",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro 128gb bateria 100%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro 128gb bateria 100%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pnakqil Funda con Cordon para iPhone 13 Pro MAX 6.7\" Carcasa Transparente Suave TPU Silicona Case con Oro Rosa Colgante Cordon C",
+          "price": 1.89,
+          "city": "Úbeda",
+          "url": "https://es.wallapop.com/item/pnakqil-funda-con-cordon-para-iphone-13-pro-max-6-7-carcasa-transparente-suave-tpu-silicona-case-con-oro-rosa-colgante-cordon-c-1255779347",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "apple iphone 17 pro 256gb",
+          "price": 1049,
+          "city": "La Cerruda",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-256gb-1255779262",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda para iPhone 13 Pro The North Face",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/cover-iphone-13-pro-the-north-face-1255779216",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 14 Pro Max 128GB Violeta Batería 87%",
+          "price": 500,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-128gb-violeta-bateria-87-1255779156",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 128gb violeta",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 128gb violeta' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 PRO NUEVO NEGOCIABLE",
+          "price": 609,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-nuevo-negociable-1255779118",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 256gb",
+          "price": 715,
+          "city": "La Cerruda",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-256gb-1255779105",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "ERT GROUP Funda para teléfono móvil Apple iPhone 12 Pro MAX Original y con Licencia Oficial de Disney con diseño Mickey & Minnie",
+          "price": 2.7,
+          "city": "Úbeda",
+          "url": "https://es.wallapop.com/item/ert-group-funda-para-telefono-movil-apple-iphone-12-pro-max-original-y-con-licencia-oficial-de-disney-con-diseno-mickey-minnie-1255779074",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "apple iphone 16 pro max 256gb",
+          "price": 859,
+          "city": "La Cerruda",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-pro-max-256gb-1255779040",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nupcknn Funda Magnética para iPhone 15 Pro MAX con Magsafe, Carga Inalámbrica, Protección Total de Cámara, Antigolpes y Translúc",
+          "price": 1.46,
+          "city": "Úbeda",
+          "url": "https://es.wallapop.com/item/nupcknn-funda-magnetica-para-iphone-15-pro-max-con-magsafe-carga-inalambrica-proteccion-total-de-camara-antigolpes-y-transluc-1255778855",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "iPhone 16 PRECINTADO NEGOCIABLE",
+          "price": 679,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16-precintado-negociable-1255778758",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone precintado",
+          "verdict": "skip",
+          "reason": "679€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "kwmobile Carcasa Compatible con Apple iPhone SE (2022) / iPhone SE (2020) / iPhone 8 / iPhone 7 Funda - Case TPU y Silicona anti",
+          "price": 1.66,
+          "city": "Úbeda",
+          "url": "https://es.wallapop.com/item/kwmobile-carcasa-compatible-con-apple-iphone-se-2022-iphone-se-2020-iphone-8-iphone-7-funda-case-tpu-y-silicona-anti-1255778638",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "iPhone 16 PLUS NUEVO NEGOCIABLE",
+          "price": 655,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16-plus-nuevo-negociable-1255778439",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda iPhone 16 Plus Transparente",
+          "price": 750,
+          "city": "Gijón",
+          "url": "https://es.wallapop.com/item/funda-iphone-16-plus-transparente-1255778427",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda iphone plus transparente",
+          "verdict": "skip",
+          "reason": "0 reservados de 'funda iphone plus transparente' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 Negro 64GB A2111 Nuevo",
+          "price": 100,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-11-negro-64gb-a2111-nuevo-1255778381",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro 64gb a2111",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro 64gb a2111' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone air 256gb",
+          "price": 759,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-iphone-air-256gb-1255778332",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "iPhone 15 NEGOCIABLE",
+          "price": 489,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-negociable-1255778169",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17e 256gb",
+          "price": 559,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-17e-256gb-1255777918",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 17e 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 17e 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 256gb",
+          "price": 715,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-256gb-1255777841",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 256GB NUEVO NEGOCIABLE",
+          "price": 815,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-nuevo-negociable-1255777802",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Negro 128GB Batería 84%",
+          "price": 340,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-negro-128gb-bateria-84-1255777744",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro 128gb bateria 84%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro 128gb bateria 84%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 13 pro max 128gb",
+          "price": 469,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-pro-max-128gb-1255777727",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 13 128gb",
+          "price": 285,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-128gb-1255777658",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 512GB NUEVO NEGOCIABLE",
+          "price": 899,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-17-512gb-nuevo-negociable-1255777478",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 512gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 512gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "LADYSON INCELL para iPhone 11 Pantalla LCD reemplazo para iPhone 11 Pantalla reemplazo 6.1 Pulgadas A2111 A2223 A2221 Pantalla L",
+          "price": 17.5,
+          "city": "Úbeda",
+          "url": "https://es.wallapop.com/item/ladyson-incell-para-iphone-11-pantalla-lcd-reemplazo-para-iphone-11-pantalla-reemplazo-6-1-pulgadas-a2111-a2223-a2221-pantalla-l-1255777410",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ladyson incell para iphone pantalla",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ladyson incell para iphone pantalla' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Gris 128GB Batería 100%",
+          "price": 475,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-gris-128gb-bateria-100-1255777254",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro gris 128gb bateria",
+          "verdict": "skip",
+          "reason": "475€ vs mín reservado 200€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 14 PRO 256GB NUEVO NEGOCIABLE",
+          "price": 549,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-256gb-nuevo-negociable-1255777243",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Fundas iPhone 14, 15, 15 Plus, S22",
+          "price": 10,
+          "city": "Ribeira",
+          "url": "https://es.wallapop.com/item/fundas-iphone-14-15-15-plus-s22-1255777235",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fundas iphone 14, 15, plus,",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fundas iphone 14, 15, plus,' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 PRO MAX 256GB NUEVO NEGOCIABLE",
+          "price": 849,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-256gb-nuevo-negociable-1255776937",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Negro 128GB Batería 88%",
+          "price": 340,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-negro-128gb-bateria-88-1255776918",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro 128gb bateria 88%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro 128gb bateria 88%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 16 128gb",
+          "price": 639,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/apple-iphone-16-128gb-1255776837",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 256gb",
+          "price": 749,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-256gb-1255776768",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 PLUS NUEVO NEGOCIABLE",
+          "price": 669,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16-plus-nuevo-negociable-1255776670",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Azul 128GB Batería 100%",
+          "price": 345,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-azul-128gb-bateria-100-1255776646",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone azul 128gb bateria 100%",
+          "verdict": "skip",
+          "reason": "345€ vs mín reservado 169€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 15 Pro Max 256GB Pantalla Rota",
+          "price": 320,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-256gb-pantalla-rota-1255776407",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "apple watch series 10 46mm (gps) aluminio",
+          "price": 249,
+          "city": "San Cristóbal de La Laguna",
+          "url": "https://es.wallapop.com/item/apple-watch-series-10-46mm-gps-aluminio-1255778551",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 46mm (gps)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 46mm (gps)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple apple watch se 3 2025 44mm (gps ) aluminio",
+          "price": 165,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-3-2025-44mm-gps-aluminio-1255777894",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 44mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 44mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple apple watch se 3 2025 44mm (gps 5g) aluminio",
+          "price": 265,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-3-2025-44mm-gps-5g-aluminio-1255776192",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 44mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 44mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple apple watch se 2022 40mm (gps 4g) aluminio",
+          "price": 145,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-2022-40mm-gps-4g-aluminio-1255776102",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 40mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 40mm (gps' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 156,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 81,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 34,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Baby Pelón Juegaterapia Gamer Edición Especial",
+          "price": 50,
+          "city": "Ponferrada",
+          "url": "https://es.wallapop.com/item/baby-pelon-juegaterapia-gamer-edicion-especial-1255778615",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "baby pelon juegaterapia gamer edicion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'baby pelon juegaterapia gamer edicion' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 60,
+  "total_signals": 0,
+  "duration_s": 118
+}

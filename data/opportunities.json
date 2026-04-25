@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T00:32:05.354Z",
+  "updated_at": "2026-04-25T00:47:17.504Z",
   "tiers": {
     "proven_seller": [
       {
@@ -239,6 +239,31 @@
     "recurring": [],
     "possible": [
       {
+        "model": "lote cartas pokemon variadas",
+        "example_title": "Lote Cartas Pokémon Variadas",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-25T00:47:17.503Z",
+        "last_seen": "2026-04-25T00:47:17.503Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Lote Cartas Pokémon Variadas",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
+            "city": "Manresa"
+          }
+        ]
+      },
+      {
         "model": "lote joss sets lego star wars",
         "example_title": "Lote Joss 3 Sets Lego Star Wars",
         "example_url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
@@ -435,31 +460,6 @@
             "title": "Funko Pop! The Walking Dead Daryl Dixon #14",
             "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-daryl-dixon-14-1255745940",
             "city": "Alicante/Alacant"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas pokemon variadas",
-        "example_title": "Lote Cartas Pokémon Variadas",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-24T22:46:44.972Z",
-        "last_seen": "2026-04-24T22:46:44.972Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Lote Cartas Pokémon Variadas",
-            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
-            "city": "Manresa"
           }
         ]
       },
@@ -3620,7 +3620,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3645,7 +3645,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3670,7 +3670,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3695,7 +3695,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3720,7 +3720,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6022,8 +6022,8 @@
     "recurring": 0,
     "possible": 231,
     "total_unique_models": 238,
-    "total_reservations": 8,
-    "total_confirmed_sales": 239
+    "total_reservations": 7,
+    "total_confirmed_sales": 240
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6034,5 +6034,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "nz081o7yd36o",
+      "model": "lote cartas pokemon variadas",
+      "title": "Lote Cartas Pokémon Variadas",
+      "sold_price": 15,
+      "city": "Manresa",
+      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T22:46:44.972Z",
+      "last_seen": "2026-04-24T22:46:44.972Z",
+      "confirmed_at": "2026-04-25T00:47:17.503Z"
+    }
+  ]
 }
