@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T00:47:17.504Z",
+  "updated_at": "2026-04-25T01:02:31.688Z",
   "tiers": {
     "proven_seller": [
       {
@@ -6034,18 +6034,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "nz081o7yd36o",
-      "model": "lote cartas pokemon variadas",
-      "title": "Lote Cartas Pokémon Variadas",
-      "sold_price": 15,
-      "city": "Manresa",
-      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T22:46:44.972Z",
-      "last_seen": "2026-04-24T22:46:44.972Z",
-      "confirmed_at": "2026-04-25T00:47:17.503Z"
-    }
-  ]
+  "new_sales": []
 }
