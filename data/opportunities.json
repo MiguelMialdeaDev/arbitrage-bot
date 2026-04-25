@@ -1,24 +1,36 @@
 {
-  "updated_at": "2026-04-25T16:32:31.617Z",
+  "updated_at": "2026-04-25T16:47:34.837Z",
   "tiers": {
     "proven_seller": [
       {
         "model": "lote funko pop stranger things",
         "example_title": "Lote Funko Pop Stranger Things",
         "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
-        "total_reservations": 1,
-        "confirmed_sales": 3,
+        "total_reservations": 0,
+        "confirmed_sales": 4,
         "total_events": 4,
         "reservations_24h": 3,
         "reservations_7d": 4,
         "reservations_30d": 4,
-        "reservations_per_day": 2.02,
+        "reservations_per_day": 1.94,
         "min_price": 5.5,
         "median_price": 8,
         "max_price": 17,
         "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-25T14:47:15.036Z",
+        "last_seen": "2026-04-25T16:47:34.835Z",
         "sample": [
+          {
+            "price": 7.5,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
+            "city": "Santa Coloma de Gramenet"
+          },
+          {
+            "price": 8,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
+            "city": "Torrox Park"
+          },
           {
             "price": 17,
             "title": "Lote Funko Pop Stranger Things",
@@ -325,6 +337,181 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funkos eva",
+        "example_title": "Funkos Eva",
+        "example_url": "https://es.wallapop.com/item/funkos-eva-1255998374",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9,
+        "median_price": 9,
+        "max_price": 9,
+        "first_seen": "2026-04-25T16:47:34.835Z",
+        "last_seen": "2026-04-25T16:47:34.835Z",
+        "sample": [
+          {
+            "price": 9,
+            "title": "Funkos Eva",
+            "url": "https://es.wallapop.com/item/funkos-eva-1255998374",
+            "city": "Carpihuelo"
+          }
+        ]
+      },
+      {
+        "model": "cajas pokemon bulk 300 cartas",
+        "example_title": "Cajas Pokémon bulk 300 cartas",
+        "example_url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T16:47:34.835Z",
+        "last_seen": "2026-04-25T16:47:34.835Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Cajas Pokémon bulk 300 cartas",
+            "url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch joy par morado verde",
+        "example_title": "Nintendo Switch Joy-Con Par Morado/Verde",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 34,
+        "median_price": 34,
+        "max_price": 34,
+        "first_seen": "2026-04-25T16:47:34.835Z",
+        "last_seen": "2026-04-25T16:47:34.835Z",
+        "sample": [
+          {
+            "price": 34,
+            "title": "Nintendo Switch Joy-Con Par Morado/Verde",
+            "url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "mandos nintendo switch colores",
+        "example_title": "Mandos Nintendo Switch Colores",
+        "example_url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 39.8,
+        "median_price": 39.8,
+        "max_price": 39.8,
+        "first_seen": "2026-04-25T16:47:34.835Z",
+        "last_seen": "2026-04-25T16:47:34.835Z",
+        "sample": [
+          {
+            "price": 39.8,
+            "title": "Mandos Nintendo Switch Colores",
+            "url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
+            "city": "Alagón"
+          }
+        ]
+      },
+      {
+        "model": "apple watch ultra",
+        "example_title": "Apple Watch Ultra 3",
+        "example_url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 400,
+        "median_price": 400,
+        "max_price": 400,
+        "first_seen": "2026-04-25T16:47:34.835Z",
+        "last_seen": "2026-04-25T16:47:34.835Z",
+        "sample": [
+          {
+            "price": 400,
+            "title": "Apple Watch Ultra 3",
+            "url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
+            "city": "Aspe"
+          }
+        ]
+      },
+      {
+        "model": "funko pop stranger things",
+        "example_title": "¡Funko Pop! Stranger Things",
+        "example_url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5.5,
+        "median_price": 5.5,
+        "max_price": 5.5,
+        "first_seen": "2026-04-25T16:47:34.835Z",
+        "last_seen": "2026-04-25T16:47:34.835Z",
+        "sample": [
+          {
+            "price": 5.5,
+            "title": "¡Funko Pop! Stranger Things",
+            "url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
+            "city": "Cabeço M Jacob"
+          }
+        ]
+      },
+      {
+        "model": "2x greninja ex 2x drampa cartas pokemon",
+        "example_title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 130,
+        "median_price": 130,
+        "max_price": 130,
+        "first_seen": "2026-04-25T16:47:34.835Z",
+        "last_seen": "2026-04-25T16:47:34.835Z",
+        "sample": [
+          {
+            "price": 130,
+            "title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
+            "city": "Meliana"
+          }
+        ]
+      },
       {
         "model": "cromos edicion limitada futbol panini",
         "example_title": "3 Cromos Edición Limitada Fútbol Panini",
@@ -1022,56 +1209,6 @@
             "title": "Cartas Juego Marvel",
             "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
             "city": "Villazain"
-          }
-        ]
-      },
-      {
-        "model": "funko pop stranger things",
-        "example_title": "¡Funko Pop! Stranger Things",
-        "example_url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5.5,
-        "median_price": 5.5,
-        "max_price": 5.5,
-        "first_seen": "2026-04-25T14:32:46.660Z",
-        "last_seen": "2026-04-25T14:32:46.660Z",
-        "sample": [
-          {
-            "price": 5.5,
-            "title": "¡Funko Pop! Stranger Things",
-            "url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
-            "city": "Cabeço M Jacob"
-          }
-        ]
-      },
-      {
-        "model": "2x greninja ex 2x drampa cartas pokemon",
-        "example_title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 130,
-        "median_price": 130,
-        "max_price": 130,
-        "first_seen": "2026-04-25T14:32:46.660Z",
-        "last_seen": "2026-04-25T14:32:46.660Z",
-        "sample": [
-          {
-            "price": 130,
-            "title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
-            "url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
-            "city": "Meliana"
           }
         ]
       },
@@ -3432,7 +3569,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3457,7 +3594,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3482,7 +3619,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7782,10 +7919,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 298,
-    "total_unique_models": 308,
-    "total_reservations": 21,
-    "total_confirmed_sales": 304
+    "possible": 303,
+    "total_unique_models": 313,
+    "total_reservations": 23,
+    "total_confirmed_sales": 307
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7795,76 +7932,43 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "mario party superstars nintendo switch",
-      "from_tier": "possible",
-      "to_tier": "hot_24h",
-      "from_label": "💡 Posible",
-      "to_label": "🔥 Hot 24h",
-      "entry": {
-        "model": "mario party superstars nintendo switch",
-        "example_title": "Mario Party Superstars Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255990578",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 24,
-        "median_price": 28.5,
-        "max_price": 28.5,
-        "first_seen": "2026-04-24T20:17:05.740Z",
-        "last_seen": "2026-04-25T16:32:31.615Z",
-        "sample": [
-          {
-            "price": 28.5,
-            "title": "Mario Party Superstars Nintendo Switch",
-            "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255990578",
-            "city": "Castellbisbal"
-          }
-        ]
-      }
-    }
-  ],
+  "tier_ups": [],
   "new_sales": [
     {
-      "id": "p618m3pw0gz5",
-      "model": "naruto myhtos trading card game eng",
-      "title": "Naruto Myhtos Trading Card Game ENG",
-      "sold_price": 180,
-      "city": "Santa Margarida de Montbui",
-      "url": "https://es.wallapop.com/item/naruto-myhtos-trading-card-game-eng-1255755307",
+      "id": "x6qq1g1n9o6y",
+      "model": "funko pop stranger things",
+      "title": "¡Funko Pop! Stranger Things",
+      "sold_price": 5.5,
+      "city": "Cabeço M Jacob",
+      "url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T21:46:59.053Z",
-      "last_seen": "2026-04-24T21:46:59.053Z",
-      "confirmed_at": "2026-04-25T16:32:31.615Z"
+      "first_reserved": "2026-04-25T14:32:46.660Z",
+      "last_seen": "2026-04-25T14:32:46.660Z",
+      "confirmed_at": "2026-04-25T16:47:34.835Z"
     },
     {
-      "id": "nz081p1m8r6o",
-      "model": "lote cartas pokemon",
-      "title": "Lote Cartas Pokémon",
-      "sold_price": 12,
-      "city": "Valladolid",
-      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
+      "id": "mzn37k725kjn",
+      "model": "2x greninja ex 2x drampa cartas pokemon",
+      "title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
+      "sold_price": 130,
+      "city": "Meliana",
+      "url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T14:17:39.751Z",
-      "last_seen": "2026-04-25T14:17:39.751Z",
-      "confirmed_at": "2026-04-25T16:32:31.615Z"
+      "first_reserved": "2026-04-25T14:32:46.660Z",
+      "last_seen": "2026-04-25T14:32:46.660Z",
+      "confirmed_at": "2026-04-25T16:47:34.835Z"
     },
     {
-      "id": "v6gp3x30v26e",
-      "model": "mario kart world nintendo switch",
-      "title": "Mario Kart World para Nintendo Switch",
-      "sold_price": 40,
-      "city": "Recale",
-      "url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T14:17:39.751Z",
-      "last_seen": "2026-04-25T14:17:39.751Z",
-      "confirmed_at": "2026-04-25T16:32:31.615Z"
+      "id": "nz081p1o3v6o",
+      "model": "lote funko pop stranger things",
+      "title": "Lote Funko Pop Stranger Things",
+      "sold_price": 17,
+      "city": "Valdemanco",
+      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T14:47:15.036Z",
+      "last_seen": "2026-04-25T14:47:15.036Z",
+      "confirmed_at": "2026-04-25T16:47:34.835Z"
     }
   ]
 }

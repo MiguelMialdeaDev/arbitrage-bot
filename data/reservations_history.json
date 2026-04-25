@@ -1,39 +1,6 @@
 {
   "reservations": [
     {
-      "id": "x6qq1g1n9o6y",
-      "title": "¡Funko Pop! Stranger Things",
-      "model": "funko pop stranger things",
-      "price": 5.5,
-      "city": "Cabeço M Jacob",
-      "url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-25T14:32:46.660Z",
-      "last_seen": "2026-04-25T14:32:46.660Z"
-    },
-    {
-      "id": "mzn37k725kjn",
-      "title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
-      "model": "2x greninja ex 2x drampa cartas pokemon",
-      "price": 130,
-      "city": "Meliana",
-      "url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-25T14:32:46.660Z",
-      "last_seen": "2026-04-25T14:32:46.660Z"
-    },
-    {
-      "id": "nz081p1o3v6o",
-      "title": "Lote Funko Pop Stranger Things",
-      "model": "lote funko pop stranger things",
-      "price": 17,
-      "city": "Valdemanco",
-      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-25T14:47:15.036Z",
-      "last_seen": "2026-04-25T14:47:15.036Z"
-    },
-    {
       "id": "36e5m7m0yy6d",
       "title": "Apple Watch Ultra Plata/Verde",
       "model": "apple watch ultra plata verde",
@@ -230,6 +197,61 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-25T16:32:31.615Z",
       "last_seen": "2026-04-25T16:32:31.615Z"
+    },
+    {
+      "id": "pzpkxeogemj3",
+      "title": "Funkos Eva",
+      "model": "funkos eva",
+      "price": 9,
+      "city": "Carpihuelo",
+      "url": "https://es.wallapop.com/item/funkos-eva-1255998374",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z"
+    },
+    {
+      "id": "3zlmp2w9n8jx",
+      "title": "Cajas Pokémon bulk 300 cartas",
+      "model": "cajas pokemon bulk 300 cartas",
+      "price": 12,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/cajas-pokemon-bulk-300-cartas-1255995293",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z"
+    },
+    {
+      "id": "36e5m74nwy6d",
+      "title": "Nintendo Switch Joy-Con Par Morado/Verde",
+      "model": "nintendo switch joy par morado verde",
+      "price": 34,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/nintendo-switch-joy-con-par-morado-verde-1255995139",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z"
+    },
+    {
+      "id": "nz081pogk76o",
+      "title": "Mandos Nintendo Switch Colores",
+      "model": "mandos nintendo switch colores",
+      "price": 39.8,
+      "city": "Alagón",
+      "url": "https://es.wallapop.com/item/mandos-nintendo-switch-colores-1255994375",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z"
+    },
+    {
+      "id": "p618m03ox5z5",
+      "title": "Apple Watch Ultra 3",
+      "model": "apple watch ultra",
+      "price": 400,
+      "city": "Aspe",
+      "url": "https://es.wallapop.com/item/apple-watch-ultra-3-1255995055",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T16:47:34.835Z",
+      "last_seen": "2026-04-25T16:47:34.835Z"
     }
   ]
 }
