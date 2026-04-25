@@ -3491,6 +3491,18 @@
       "first_reserved": "2026-04-25T12:32:20.646Z",
       "last_seen": "2026-04-25T12:32:20.646Z",
       "confirmed_at": "2026-04-25T14:32:46.660Z"
+    },
+    {
+      "id": "4z482xkvgljy",
+      "model": "cartas juego marvel",
+      "title": "Cartas Juego Marvel",
+      "sold_price": 60,
+      "city": "Villazain",
+      "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-25T12:47:34.430Z",
+      "last_seen": "2026-04-25T12:47:34.430Z",
+      "confirmed_at": "2026-04-25T14:55:46.440Z"
     }
   ]
 }

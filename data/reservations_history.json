@@ -12,17 +12,6 @@
       "last_seen": "2026-04-24T21:46:59.053Z"
     },
     {
-      "id": "4z482xkvgljy",
-      "title": "Cartas Juego Marvel",
-      "model": "cartas juego marvel",
-      "price": 60,
-      "city": "Villazain",
-      "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
-      "category": "Deporte y ocio",
-      "first_seen": "2026-04-25T12:47:34.430Z",
-      "last_seen": "2026-04-25T12:47:34.430Z"
-    },
-    {
       "id": "x6qq1gwx256y",
       "title": "Cartas Pokémon Varias (Lote)",
       "model": "cartas pokemon varias lote",
@@ -175,6 +164,17 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-25T14:47:15.036Z",
       "last_seen": "2026-04-25T14:47:15.036Z"
+    },
+    {
+      "id": "36e5m7m0yy6d",
+      "title": "Apple Watch Ultra Plata/Verde",
+      "model": "apple watch ultra plata verde",
+      "price": 250,
+      "city": "Roma",
+      "url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T14:55:46.440Z",
+      "last_seen": "2026-04-25T14:55:46.440Z"
     }
   ]
 }

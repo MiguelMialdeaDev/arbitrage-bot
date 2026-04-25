@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T14:47:15.038Z",
+  "updated_at": "2026-04-25T14:55:46.442Z",
   "tiers": {
     "proven_seller": [
       {
@@ -276,6 +276,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "apple watch ultra plata verde",
+        "example_title": "Apple Watch Ultra Plata/Verde",
+        "example_url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 250,
+        "median_price": 250,
+        "max_price": 250,
+        "first_seen": "2026-04-25T14:55:46.440Z",
+        "last_seen": "2026-04-25T14:55:46.440Z",
+        "sample": [
+          {
+            "price": 250,
+            "title": "Apple Watch Ultra Plata/Verde",
+            "url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
+            "city": "Roma"
+          }
+        ]
+      },
+      {
+        "model": "cartas juego marvel",
+        "example_title": "Cartas Juego Marvel",
+        "example_url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-25T14:55:46.440Z",
+        "last_seen": "2026-04-25T14:55:46.440Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Cartas Juego Marvel",
+            "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
+            "city": "Villazain"
+          }
+        ]
+      },
       {
         "model": "funko pop stranger things",
         "example_title": "¡Funko Pop! Stranger Things",
@@ -923,31 +973,6 @@
             "title": "Figura de acción con cable",
             "url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "cartas juego marvel",
-        "example_title": "Cartas Juego Marvel",
-        "example_url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 60,
-        "median_price": 60,
-        "max_price": 60,
-        "first_seen": "2026-04-25T12:47:34.430Z",
-        "last_seen": "2026-04-25T12:47:34.430Z",
-        "sample": [
-          {
-            "price": 60,
-            "title": "Cartas Juego Marvel",
-            "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
-            "city": "Villazain"
           }
         ]
       },
@@ -3333,7 +3358,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3358,7 +3383,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3383,7 +3408,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3408,7 +3433,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7333,10 +7358,10 @@
     "hot_24h": 1,
     "trending_7d": 4,
     "recurring": 0,
-    "possible": 282,
-    "total_unique_models": 291,
+    "possible": 283,
+    "total_unique_models": 292,
     "total_reservations": 16,
-    "total_confirmed_sales": 291
+    "total_confirmed_sales": 292
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7347,5 +7372,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "4z482xkvgljy",
+      "model": "cartas juego marvel",
+      "title": "Cartas Juego Marvel",
+      "sold_price": 60,
+      "city": "Villazain",
+      "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-25T12:47:34.430Z",
+      "last_seen": "2026-04-25T12:47:34.430Z",
+      "confirmed_at": "2026-04-25T14:55:46.440Z"
+    }
+  ]
 }
