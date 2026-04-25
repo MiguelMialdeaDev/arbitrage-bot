@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-04-25T04:30:28.570Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "2 Cajas + Álbum FIFA World Cup 26 stickers Panini",
+          "price": 127.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/2-cajas---album-fifa-world-cup-26-stickers-panini-1255795850",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas album fifa world cup",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas album fifa world cup' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 234,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Nintendo Switch Negra con Garantía comprada 21-3",
+          "price": 380,
+          "city": "Valladolid",
+          "url": "https://es.wallapop.com/item/nintendo-switch-negra-con-garantia-comprada-21-3-1255795418",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego >80€ difícil arbitrar"
+        },
+        {
+          "title": "Cascos Apple AirPods Max Negro Espacial",
+          "price": 150,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/cascos-apple-airpods-max-negro-espacial-1255795839",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cascos apple airpods max negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cascos apple airpods max negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda iPhone 15 Pro FineWoven MagSafe Negro",
+          "price": 35,
+          "city": "Roma",
+          "url": "https://es.wallapop.com/item/cover-iphone-15-pro-finewoven-magsafe-nero-1255795827",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda iphone pro finewoven magsafe",
+          "verdict": "skip",
+          "reason": "0 reservados de 'funda iphone pro finewoven magsafe' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPhone 16 Pro Max De 256GB",
+          "price": 625,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-de-256gb-1255795693",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 350€ vs mín reservado 1199€)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 153,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Película Hulk Blu ray (Español)",
+          "price": 32,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/pelicula-hulk-dvd-espanol-1255789187",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pelicula hulk blu ray (espanol)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pelicula hulk blu ray (espanol)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "🇪🇸 Cómic El Víbora número 216.",
+          "price": 3,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/comic-el-vibora-numero-216-1255796036",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "🇪🇸 Cómic El Víbora número 215.",
+          "price": 3,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/comic-el-vibora-numero-215-1255795934",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 75,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Bakugan",
+          "price": 4,
+          "city": "Pontevedra",
+          "url": "https://es.wallapop.com/item/bakugan-1255795956",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Bakugan",
+          "price": 5,
+          "city": "Pontevedra",
+          "url": "https://es.wallapop.com/item/bakugan-1255795874",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 10,
+  "total_signals": 0,
+  "duration_s": 65
+}
