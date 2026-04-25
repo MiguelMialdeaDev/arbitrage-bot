@@ -186,6 +186,39 @@
       "category": "Cine, libros y música",
       "first_seen": "2026-04-25T20:32:32.376Z",
       "last_seen": "2026-04-25T20:32:32.376Z"
+    },
+    {
+      "id": "x6qq1gpkoo6y",
+      "title": "iPhone 13 128GB",
+      "model": "iphone 13 128gb",
+      "price": 180,
+      "city": "A Coruña",
+      "url": "https://es.wallapop.com/item/iphone-13-128gb-1256063390",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T20:46:58.664Z",
+      "last_seen": "2026-04-25T20:46:58.664Z"
+    },
+    {
+      "id": "pzpkxenynkj3",
+      "title": "Las Máscaras de Nyarlathotep - La Llamada de Cthul",
+      "model": "mascaras nyarlathotep llamada cthul",
+      "price": 40,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/las-mascaras-de-nyarlathotep-la-llamada-de-cthul-1256063550",
+      "category": "Deporte y ocio",
+      "first_seen": "2026-04-25T20:46:58.664Z",
+      "last_seen": "2026-04-25T20:46:58.664Z"
+    },
+    {
+      "id": "wzvgd719ddzl",
+      "title": "Guía del Investigador de los Años 20 - La Llamada",
+      "model": "guia investigador anos 20 llamada",
+      "price": 25,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/guia-del-investigador-de-los-anos-20-la-llamada-1256062789",
+      "category": "Deporte y ocio",
+      "first_seen": "2026-04-25T20:46:58.664Z",
+      "last_seen": "2026-04-25T20:46:58.664Z"
     }
   ]
 }
