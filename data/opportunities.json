@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T07:32:17.038Z",
+  "updated_at": "2026-04-25T07:43:38.140Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "will",
+        "example_title": "2 Will",
+        "example_url": "https://es.wallapop.com/item/2-will-1255817448",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-25T07:43:38.138Z",
+        "last_seen": "2026-04-25T07:43:38.138Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "2 Will",
+            "url": "https://es.wallapop.com/item/2-will-1255817448",
+            "city": "Albal"
+          }
+        ]
+      },
+      {
+        "model": "pack blu ray trilogia crepusculo",
+        "example_title": "Pack Blu-ray Trilogía Crepúsculo",
+        "example_url": "https://es.wallapop.com/item/pack-blu-ray-trilogia-crepusculo-1255817169",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-25T07:43:38.138Z",
+        "last_seen": "2026-04-25T07:43:38.138Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Pack Blu-ray Trilogía Crepúsculo",
+            "url": "https://es.wallapop.com/item/pack-blu-ray-trilogia-crepusculo-1255817169",
+            "city": "Daimiel"
+          }
+        ]
+      },
       {
         "model": "nintendo joy juego",
         "example_title": "Nintendo Joy-Con + juego",
@@ -3545,7 +3595,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3570,7 +3620,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6170,9 +6220,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 237,
-    "total_unique_models": 244,
-    "total_reservations": 10,
+    "possible": 239,
+    "total_unique_models": 246,
+    "total_reservations": 12,
     "total_confirmed_sales": 243
   },
   "thresholds": {
