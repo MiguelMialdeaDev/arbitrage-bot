@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T22:31:43.877Z",
+  "updated_at": "2026-04-25T22:46:34.237Z",
   "tiers": {
     "proven_seller": [
       {
@@ -330,6 +330,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "enrique carta pokemon pikachu",
+        "example_title": "Para Enrique - Carta Pokémon Pikachu",
+        "example_url": "https://es.wallapop.com/item/para-carta-pokemon-pikachu-1256059933",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-25T22:46:34.235Z",
+        "last_seen": "2026-04-25T22:46:34.235Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Para Enrique - Carta Pokémon Pikachu",
+            "url": "https://es.wallapop.com/item/para-carta-pokemon-pikachu-1256059933",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "diligencia poblado indio playmobil",
+        "example_title": "Diligencia y poblado indio Playmobil",
+        "example_url": "https://es.wallapop.com/item/diligencia-y-poblado-indio-playmobil-1256061028",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-25T22:46:34.235Z",
+        "last_seen": "2026-04-25T22:46:34.235Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Diligencia y poblado indio Playmobil",
+            "url": "https://es.wallapop.com/item/diligencia-y-poblado-indio-playmobil-1256061028",
+            "city": "Montcada i Reixac"
+          }
+        ]
+      },
       {
         "model": "pack pokemon sergio",
         "example_title": "Pack Pokémon para Sergio",
@@ -777,56 +827,6 @@
             "title": "Guía del Investigador de los Años 20 - La Llamada",
             "url": "https://es.wallapop.com/item/guia-del-investigador-de-los-anos-20-la-llamada-1256062789",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "enrique carta pokemon pikachu",
-        "example_title": "Para Enrique - Carta Pokémon Pikachu",
-        "example_url": "https://es.wallapop.com/item/para-carta-pokemon-pikachu-1256059933",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-25T20:32:32.376Z",
-        "last_seen": "2026-04-25T20:32:32.376Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Para Enrique - Carta Pokémon Pikachu",
-            "url": "https://es.wallapop.com/item/para-carta-pokemon-pikachu-1256059933",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "diligencia poblado indio playmobil",
-        "example_title": "Diligencia y poblado indio Playmobil",
-        "example_url": "https://es.wallapop.com/item/diligencia-y-poblado-indio-playmobil-1256061028",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30,
-        "median_price": 30,
-        "max_price": 30,
-        "first_seen": "2026-04-25T20:32:32.376Z",
-        "last_seen": "2026-04-25T20:32:32.376Z",
-        "sample": [
-          {
-            "price": 30,
-            "title": "Diligencia y poblado indio Playmobil",
-            "url": "https://es.wallapop.com/item/diligencia-y-poblado-indio-playmobil-1256061028",
-            "city": "Montcada i Reixac"
           }
         ]
       },
@@ -8739,8 +8739,8 @@
     "recurring": 0,
     "possible": 336,
     "total_unique_models": 346,
-    "total_reservations": 18,
-    "total_confirmed_sales": 346
+    "total_reservations": 16,
+    "total_confirmed_sales": 348
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8751,5 +8751,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "xzogw4np1wj9",
+      "model": "enrique carta pokemon pikachu",
+      "title": "Para Enrique - Carta Pokémon Pikachu",
+      "sold_price": 20,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/para-carta-pokemon-pikachu-1256059933",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T20:32:32.376Z",
+      "last_seen": "2026-04-25T20:32:32.376Z",
+      "confirmed_at": "2026-04-25T22:46:34.235Z"
+    },
+    {
+      "id": "w67vnow19y6x",
+      "model": "diligencia poblado indio playmobil",
+      "title": "Diligencia y poblado indio Playmobil",
+      "sold_price": 30,
+      "city": "Montcada i Reixac",
+      "url": "https://es.wallapop.com/item/diligencia-y-poblado-indio-playmobil-1256061028",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T20:32:32.376Z",
+      "last_seen": "2026-04-25T20:32:32.376Z",
+      "confirmed_at": "2026-04-25T22:46:34.235Z"
+    }
+  ]
 }
