@@ -1,0 +1,220 @@
+{
+  "timestamp": "2026-04-25T01:30:27.702Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 204,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Colección Mega-Meganium ex Héroes Ascendentes",
+          "price": 34.95,
+          "city": "Lasarte-Oria",
+          "url": "https://es.wallapop.com/item/coleccion-mega-meganium-ex-heroes-ascendentes-1255786355",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mega-meganium heroes ascendentes",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mega-meganium heroes ascendentes' (sin evidencia de demanda)"
+        },
+        {
+          "title": "VINTAGE",
+          "price": 25,
+          "city": "Torrevieja",
+          "url": "https://es.wallapop.com/item/vintage-1255785519",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "vintage",
+          "verdict": "skip",
+          "reason": "0 reservados de 'vintage' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Mega Gengar EX 230/193 MA",
+          "price": 22,
+          "city": "Silla",
+          "url": "https://es.wallapop.com/item/carta-pokemon-mega-gengar-ex-230-193-ma-1255785375",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon mega gengar 230/193",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon mega gengar 230/193' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil Caballeros Medievales con Accesorios",
+          "price": 5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/playmobil-caballeros-medievales-con-accesorios-1255786144",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 216,
+      "new_items": 11,
+      "items": [
+        {
+          "title": "Nintendo Switch Edición Roja y Azul",
+          "price": 160,
+          "city": "Ferrol",
+          "url": "https://es.wallapop.com/item/nintendo-switch-edicion-roja-y-azul-1255786640",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch roja azul",
+          "verdict": "skip",
+          "reason": "160€ vs mín reservado 110€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nintendo Switch 2",
+          "price": 371,
+          "city": "Las Pitas",
+          "url": "https://es.wallapop.com/item/nintendo-switch-2-1255786358",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "JUEGOS + Nintendo Switch Lite",
+          "price": 179.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/juegos---nintendo-switch-lite-1255786062",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch lite",
+          "verdict": "skip",
+          "reason": "179.95€ vs mín reservado 90€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Dead Island 2 PS5 Day One Edition",
+          "price": 15,
+          "city": "Medina del Campo",
+          "url": "https://es.wallapop.com/item/dead-island-2-ps5-day-one-edition-1255786189",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "dead island ps5 day one",
+          "verdict": "skip",
+          "reason": "0 reservados de 'dead island ps5 day one' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Far Cry 6 PS4 Yara Edition",
+          "price": 40,
+          "city": "Burgos",
+          "url": "https://es.wallapop.com/item/far-cry-6-ps4-yara-edition-1255785879",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "far cry ps4 yara edition",
+          "verdict": "skip",
+          "reason": "0 reservados de 'far cry ps4 yara edition' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS5 Tennis World Tour 2 Complete Edition",
+          "price": 9.9,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/ps5-tennis-world-tour-2-complete-edition-1255784803",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Planet Coaster PS4 (Consola)",
+          "price": 38,
+          "city": "Burgos",
+          "url": "https://es.wallapop.com/item/planet-coaster-ps4-consola-1255786172",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "planet coaster ps4 (consola)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'planet coaster ps4 (consola)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Xbox Guardianes de la Galaxia Marvel",
+          "price": 10,
+          "city": "Burgos",
+          "url": "https://es.wallapop.com/item/xbox-guardianes-de-la-galaxia-marvel-1255786418",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox guardianes galaxia marvel",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox guardianes galaxia marvel' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Azul Marino 128GB",
+          "price": 560,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-azul-marino-128gb-1255785808",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro azul marino 128gb",
+          "verdict": "skip",
+          "reason": "560€ vs mín reservado 350€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 13 Pro Gris 256GB Batería 100%",
+          "price": 340,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-gris-256gb-bateria-100-1255785303",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro gris 256gb bateria",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro gris 256gb bateria' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch Series 7 GPS 45mm -- OFERTA",
+          "price": 150,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-watch-series-7-gps-45mm-oferta-1255786585",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series gps 45mm",
+          "verdict": "skip",
+          "reason": "150€ vs mín reservado 150€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 152,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "DISCO vinilo, Lp, E.G. Daily - Lace Around The Wound (LP, Album)",
+          "price": 2.2,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-vinilo-lp-e-g-daily-lace-around-the-wound-lp-album-1255786073",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 16,
+  "total_signals": 0,
+  "duration_s": 77
+}
