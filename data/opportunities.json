@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T13:02:35.234Z",
+  "updated_at": "2026-04-25T13:17:42.181Z",
   "tiers": {
     "proven_seller": [
       {
@@ -294,6 +294,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "cromos groquet mdb",
+        "example_title": "Cromos para groquet,MDB",
+        "example_url": "https://es.wallapop.com/item/cromos-para-groquet-mdb-1255932284",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 29,
+        "median_price": 29,
+        "max_price": 29,
+        "first_seen": "2026-04-25T13:17:42.179Z",
+        "last_seen": "2026-04-25T13:17:42.179Z",
+        "sample": [
+          {
+            "price": 29,
+            "title": "Cromos para groquet,MDB",
+            "url": "https://es.wallapop.com/item/cromos-para-groquet-mdb-1255932284",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "cartas pokemon varias lote",
         "example_title": "Cartas Pokémon Varias (Lote)",
@@ -3501,7 +3526,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3526,7 +3551,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3551,7 +3576,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3576,7 +3601,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7126,9 +7151,9 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 273,
-    "total_unique_models": 282,
-    "total_reservations": 17,
+    "possible": 274,
+    "total_unique_models": 283,
+    "total_reservations": 18,
     "total_confirmed_sales": 278
   },
   "thresholds": {
@@ -7140,54 +7165,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "wzyrgp2r4565",
-      "model": "pedido bralw stars isabel",
-      "title": "PEDIDO BRALW STARS (ISABEL)",
-      "sold_price": 8,
-      "city": "Talavera de la Reina",
-      "url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T19:03:03.770Z",
-      "last_seen": "2026-04-24T19:03:03.770Z",
-      "confirmed_at": "2026-04-25T13:02:35.233Z"
-    },
-    {
-      "id": "mzn37ko8gkjn",
-      "model": "minifigura lego ninjago blanco verde",
-      "title": "Minifigura de Lego Ninjago - Blanco y Verde",
-      "sold_price": 6,
-      "city": "Russi",
-      "url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T10:47:51.040Z",
-      "last_seen": "2026-04-25T10:47:51.040Z",
-      "confirmed_at": "2026-04-25T13:02:35.233Z"
-    },
-    {
-      "id": "w67vno781w6x",
-      "model": "figura accion cable",
-      "title": "Figura de acción con cable",
-      "sold_price": 250,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
-      "category": "Niños y bebés",
-      "first_reserved": "2026-04-25T10:47:51.040Z",
-      "last_seen": "2026-04-25T10:47:51.040Z",
-      "confirmed_at": "2026-04-25T13:02:35.233Z"
-    },
-    {
-      "id": "w67vno77q56x",
-      "model": "lote funko pop stranger things",
-      "title": "Lote Funko Pop Stranger Things",
-      "sold_price": 8,
-      "city": "Torrox Park",
-      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T10:56:13.890Z",
-      "last_seen": "2026-04-25T10:56:13.890Z",
-      "confirmed_at": "2026-04-25T13:02:35.233Z"
-    }
-  ]
+  "new_sales": []
 }
