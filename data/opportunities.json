@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T11:32:19.643Z",
+  "updated_at": "2026-04-25T11:47:40.164Z",
   "tiers": {
     "proven_seller": [
       {
@@ -288,6 +288,131 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pokemon espada nintendo switch rpg",
+        "example_title": "Pokemon Espada Nintendo Switch RPG",
+        "example_url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-rpg-1255904810",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-25T11:47:40.163Z",
+        "last_seen": "2026-04-25T11:47:40.163Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Pokemon Espada Nintendo Switch RPG",
+            "url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-rpg-1255904810",
+            "city": "Seseña"
+          }
+        ]
+      },
+      {
+        "model": "crossingw",
+        "example_title": "A. Crossingw",
+        "example_url": "https://es.wallapop.com/item/a-crossingw-1255904244",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-25T11:47:40.163Z",
+        "last_seen": "2026-04-25T11:47:40.163Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "A. Crossingw",
+            "url": "https://es.wallapop.com/item/a-crossingw-1255904244",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "lote funko pop aragorn sauron lord of the rings",
+        "example_title": "Lote Funko Pop Aragorn y Sauron Lord of the Rings",
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-aragorn-y-sauron-lord-of-the-rings-1255853262",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 60,
+        "median_price": 60,
+        "max_price": 60,
+        "first_seen": "2026-04-25T11:47:40.163Z",
+        "last_seen": "2026-04-25T11:47:40.163Z",
+        "sample": [
+          {
+            "price": 60,
+            "title": "Lote Funko Pop Aragorn y Sauron Lord of the Rings",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-aragorn-y-sauron-lord-of-the-rings-1255853262",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "playmobil circo romano 4270",
+        "example_title": "Playmobil Circo Romano 4270",
+        "example_url": "https://es.wallapop.com/item/playmobil-circo-romano-4270-1255855203",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 135,
+        "median_price": 135,
+        "max_price": 135,
+        "first_seen": "2026-04-25T11:47:40.163Z",
+        "last_seen": "2026-04-25T11:47:40.163Z",
+        "sample": [
+          {
+            "price": 135,
+            "title": "Playmobil Circo Romano 4270",
+            "url": "https://es.wallapop.com/item/playmobil-circo-romano-4270-1255855203",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "consola sony ps4 1tb mando blanco",
+        "example_title": "Consola Sony PS4 1TB + Mando Blanco",
+        "example_url": "https://es.wallapop.com/item/consola-sony-ps4-1tb---mando-blanco-1255854998",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 9.95,
+        "median_price": 9.95,
+        "max_price": 9.95,
+        "first_seen": "2026-04-25T11:47:40.163Z",
+        "last_seen": "2026-04-25T11:47:40.163Z",
+        "sample": [
+          {
+            "price": 9.95,
+            "title": "Consola Sony PS4 1TB + Mando Blanco",
+            "url": "https://es.wallapop.com/item/consola-sony-ps4-1tb---mando-blanco-1255854998",
+            "city": "Badalona"
+          }
+        ]
+      },
       {
         "model": "pack mini latas pokemon poderes kanto",
         "example_title": "Pack Mini-Latas Pokémon : Poderes de Kanto",
@@ -985,81 +1110,6 @@
             "title": "Pack Blu-ray Trilogía Crepúsculo",
             "url": "https://es.wallapop.com/item/pack-blu-ray-trilogia-crepusculo-1255817169",
             "city": "Daimiel"
-          }
-        ]
-      },
-      {
-        "model": "lote funko pop aragorn sauron lord of the rings",
-        "example_title": "Lote Funko Pop Aragorn y Sauron Lord of the Rings",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-aragorn-y-sauron-lord-of-the-rings-1255853262",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 60,
-        "median_price": 60,
-        "max_price": 60,
-        "first_seen": "2026-04-25T09:32:46.435Z",
-        "last_seen": "2026-04-25T09:32:46.435Z",
-        "sample": [
-          {
-            "price": 60,
-            "title": "Lote Funko Pop Aragorn y Sauron Lord of the Rings",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-aragorn-y-sauron-lord-of-the-rings-1255853262",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "playmobil circo romano 4270",
-        "example_title": "Playmobil Circo Romano 4270",
-        "example_url": "https://es.wallapop.com/item/playmobil-circo-romano-4270-1255855203",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 135,
-        "median_price": 135,
-        "max_price": 135,
-        "first_seen": "2026-04-25T09:32:46.435Z",
-        "last_seen": "2026-04-25T09:32:46.435Z",
-        "sample": [
-          {
-            "price": 135,
-            "title": "Playmobil Circo Romano 4270",
-            "url": "https://es.wallapop.com/item/playmobil-circo-romano-4270-1255855203",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "consola sony ps4 1tb mando blanco",
-        "example_title": "Consola Sony PS4 1TB + Mando Blanco",
-        "example_url": "https://es.wallapop.com/item/consola-sony-ps4-1tb---mando-blanco-1255854998",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 9.95,
-        "median_price": 9.95,
-        "max_price": 9.95,
-        "first_seen": "2026-04-25T09:32:46.435Z",
-        "last_seen": "2026-04-25T09:32:46.435Z",
-        "sample": [
-          {
-            "price": 9.95,
-            "title": "Consola Sony PS4 1TB + Mando Blanco",
-            "url": "https://es.wallapop.com/item/consola-sony-ps4-1tb---mando-blanco-1255854998",
-            "city": "Badalona"
           }
         ]
       },
@@ -6895,10 +6945,10 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 264,
-    "total_unique_models": 273,
-    "total_reservations": 27,
-    "total_confirmed_sales": 258
+    "possible": 266,
+    "total_unique_models": 275,
+    "total_reservations": 26,
+    "total_confirmed_sales": 261
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6909,5 +6959,42 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "4z482xep58jy",
+      "model": "lote funko pop aragorn sauron lord of the rings",
+      "title": "Lote Funko Pop Aragorn y Sauron Lord of the Rings",
+      "sold_price": 60,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-funko-pop-aragorn-y-sauron-lord-of-the-rings-1255853262",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T09:32:46.435Z",
+      "last_seen": "2026-04-25T09:32:46.435Z",
+      "confirmed_at": "2026-04-25T11:47:40.163Z"
+    },
+    {
+      "id": "nz081p890v6o",
+      "model": "playmobil circo romano 4270",
+      "title": "Playmobil Circo Romano 4270",
+      "sold_price": 135,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/playmobil-circo-romano-4270-1255855203",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T09:32:46.435Z",
+      "last_seen": "2026-04-25T09:32:46.435Z",
+      "confirmed_at": "2026-04-25T11:47:40.163Z"
+    },
+    {
+      "id": "pzpkxe2v0mj3",
+      "model": "consola sony ps4 1tb mando blanco",
+      "title": "Consola Sony PS4 1TB + Mando Blanco",
+      "sold_price": 9.95,
+      "city": "Badalona",
+      "url": "https://es.wallapop.com/item/consola-sony-ps4-1tb---mando-blanco-1255854998",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T09:32:46.435Z",
+      "last_seen": "2026-04-25T09:32:46.435Z",
+      "confirmed_at": "2026-04-25T11:47:40.163Z"
+    }
+  ]
 }
