@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T15:17:02.672Z",
+  "updated_at": "2026-04-25T15:24:50.755Z",
   "tiers": {
     "proven_seller": [
       {
@@ -276,6 +276,106 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote asier cromos panini balon oro mbapp",
+        "example_title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
+        "example_url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T15:24:50.753Z",
+        "last_seen": "2026-04-25T15:24:50.753Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
+            "url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "cartas luis",
+        "example_title": "Cartas para Luis",
+        "example_url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-25T15:24:50.753Z",
+        "last_seen": "2026-04-25T15:24:50.753Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "Cartas para Luis",
+            "url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "juegos nintendo switch mario wonder sports kart",
+        "example_title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
+        "example_url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 70,
+        "median_price": 70,
+        "max_price": 70,
+        "first_seen": "2026-04-25T15:24:50.753Z",
+        "last_seen": "2026-04-25T15:24:50.753Z",
+        "sample": [
+          {
+            "price": 70,
+            "title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
+            "url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
+            "city": "Santa Eulalia de Ronçana"
+          }
+        ]
+      },
+      {
+        "model": "cromos groquet mdb",
+        "example_title": "Cromos para groquet,MDB",
+        "example_url": "https://es.wallapop.com/item/cromos-para-groquet-mdb-1255932284",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 29,
+        "median_price": 29,
+        "max_price": 29,
+        "first_seen": "2026-04-25T15:24:50.753Z",
+        "last_seen": "2026-04-25T15:24:50.753Z",
+        "sample": [
+          {
+            "price": 29,
+            "title": "Cromos para groquet,MDB",
+            "url": "https://es.wallapop.com/item/cromos-para-groquet-mdb-1255932284",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "cartas pokemon varias lote",
         "example_title": "Cartas Pokémon Varias (Lote)",
@@ -923,31 +1023,6 @@
             "title": "Blu-ray El fotógrafo de Mauthausen",
             "url": "https://es.wallapop.com/item/blu-ray-el-fotografo-de-mauthausen-1255897012",
             "city": "Alhaurín de la Torre"
-          }
-        ]
-      },
-      {
-        "model": "cromos groquet mdb",
-        "example_title": "Cromos para groquet,MDB",
-        "example_url": "https://es.wallapop.com/item/cromos-para-groquet-mdb-1255932284",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 29,
-        "median_price": 29,
-        "max_price": 29,
-        "first_seen": "2026-04-25T13:17:42.179Z",
-        "last_seen": "2026-04-25T13:17:42.179Z",
-        "sample": [
-          {
-            "price": 29,
-            "title": "Cromos para groquet,MDB",
-            "url": "https://es.wallapop.com/item/cromos-para-groquet-mdb-1255932284",
-            "city": "Madrid"
           }
         ]
       },
@@ -3383,7 +3458,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7408,10 +7483,10 @@
     "hot_24h": 1,
     "trending_7d": 4,
     "recurring": 0,
-    "possible": 285,
-    "total_unique_models": 294,
-    "total_reservations": 16,
-    "total_confirmed_sales": 294
+    "possible": 288,
+    "total_unique_models": 297,
+    "total_reservations": 18,
+    "total_confirmed_sales": 295
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7424,28 +7499,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "x6qq1gwx256y",
-      "model": "cartas pokemon varias lote",
-      "title": "Cartas Pokémon Varias (Lote)",
-      "sold_price": 15,
-      "city": "Aranjuez",
-      "url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
+      "id": "9jdw10v1gl6k",
+      "model": "cromos groquet mdb",
+      "title": "Cromos para groquet,MDB",
+      "sold_price": 29,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/cromos-para-groquet-mdb-1255932284",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T13:02:35.233Z",
-      "last_seen": "2026-04-25T13:02:35.233Z",
-      "confirmed_at": "2026-04-25T15:17:02.670Z"
-    },
-    {
-      "id": "4z482xk8w8jy",
-      "model": "lote cartas pokemon fosil",
-      "title": "Lote cartas Pokémon Fósil",
-      "sold_price": 25,
-      "city": "Algeciras",
-      "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T13:02:35.233Z",
-      "last_seen": "2026-04-25T13:02:35.233Z",
-      "confirmed_at": "2026-04-25T15:17:02.670Z"
+      "first_reserved": "2026-04-25T13:17:42.179Z",
+      "last_seen": "2026-04-25T13:17:42.179Z",
+      "confirmed_at": "2026-04-25T15:24:50.753Z"
     }
   ]
 }
