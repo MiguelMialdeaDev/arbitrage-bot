@@ -1,0 +1,209 @@
+{
+  "timestamp": "2026-04-25T02:45:18.732Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 203,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 229,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Uncharted: Colección Legado de los ladrones PS5",
+          "price": 22.95,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/uncharted-coleccion-legado-de-los-ladrones-ps5-1255790767",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "uncharted: legado los ladrones ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'uncharted: legado los ladrones ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS5 Slim 1TB",
+          "price": 369.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/playstation-5-slim-1tb-1255790543",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps5 slim 1tb",
+          "verdict": "skip",
+          "reason": "369.95€ vs mín reservado 300€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "EA Sports FC 26 PS5 Juego Digital",
+          "price": 20,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/ea-sports-fc-26-ps5-juego-digital-1255790491",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sports ps5 juego digital",
+          "verdict": "skip",
+          "reason": "0 reservados de 'sports ps5 juego digital' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Plus 128GB Negro",
+          "price": 350,
+          "city": "Santafe",
+          "url": "https://es.wallapop.com/item/iphone-14-plus-128gb-negro-1255790602",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus 128gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus 128gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Iphone 15 pro como nuevo 512",
+          "price": 350,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-como-nuevo-512-1255790184",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro como",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro como' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 150,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Shooter: El Tirador Blu-ray Mark Wahlberg",
+          "price": 4,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/shooter-el-tirador-blu-ray-mark-wahlberg-1255790788",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Blu-ray Constantine Italiana con castellano",
+          "price": 7,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-constantine-italiana-con-castellano-1255790721",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Blu-ray El Renacido (Español)",
+          "price": 6,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-el-renacido-espanol-1255790636",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Blu-ray La Alianza del Mal (Terror)",
+          "price": 15,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-la-alianza-del-mal-terror-1255790538",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "blu-ray alianza del mal (terror)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'blu-ray alianza del mal (terror)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Blu-ray Doble Gran Torino y Million Dollar Baby",
+          "price": 12,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-doble-gran-torino-y-million-dollar-baby-1255790367",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "blu-ray doble gran torino million",
+          "verdict": "skip",
+          "reason": "0 reservados de 'blu-ray doble gran torino million' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Colección 2 Películas Blu-ray: Sucker Punch y Cape",
+          "price": 10,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/coleccion-2-peliculas-blu-ray-sucker-punch-y-cape-1255790263",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "peliculas blu-ray: sucker punch cape",
+          "verdict": "skip",
+          "reason": "0 reservados de 'peliculas blu-ray: sucker punch cape' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Blu-ray Megalodón + Película Digital",
+          "price": 7,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-megalodon---pelicula-digital-1255790125",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 76,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Babolat Technical Viper 2025 A ESTRENAR!!",
+          "price": 130,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/babolat-technical-viper-2025-a-estrenar-1255790604",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "babolat technical viper estrenar!!",
+          "verdict": "skip",
+          "reason": "0 reservados de 'babolat technical viper estrenar!!' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pala pádel Babolat Viper 3.0 A ESTRENAR!! 2026",
+          "price": 170,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/pala-padel-babolat-viper-3-0-a-estrenar-2026-1255790478",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "pala padel babolat viper 3.0",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pala padel babolat viper 3.0' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Babolat Air Veron 2025 A ESTRENAR",
+          "price": 120,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/babolat-air-veron-2025-a-estrenar-1255790335",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "babolat air veron estrenar",
+          "verdict": "skip",
+          "reason": "0 reservados de 'babolat air veron estrenar' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 15,
+  "total_signals": 0,
+  "duration_s": 63
+}
