@@ -1,0 +1,834 @@
+{
+  "timestamp": "2026-04-25T22:15:18.781Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 209,
+      "new_items": 23,
+      "items": [
+        {
+          "title": "Figuras Funko Pop Stranger Things",
+          "price": 2,
+          "city": "Mairena del Alcor",
+          "url": "https://es.wallapop.com/item/figuras-funko-pop-stranger-things-1256077590",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Funko Pop! Marvel Spider-Man 593 80 Años",
+          "price": 10,
+          "city": "Carrión de los Céspedes",
+          "url": "https://es.wallapop.com/item/funko-pop-marvel-spider-man-593-80-anos-1256077456",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! marvel spider-man anos 593",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! marvel spider-man anos 593' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Zenitsu Agatsuma 987 Demon Slayer",
+          "price": 20,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/funko-pop-zenitsu-agatsuma-987-demon-slayer-1256077422",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! zenitsu agatsuma demon slayer 987",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! zenitsu agatsuma demon slayer 987' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Doctor Strange 1000 Multiverse Madness",
+          "price": 10,
+          "city": "Carrión de los Céspedes",
+          "url": "https://es.wallapop.com/item/funko-pop-doctor-strange-1000-multiverse-madness-1256077351",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko doctor strange multiverse madness 1000",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko doctor strange multiverse madness 1000' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko will El Mundo Al Revés",
+          "price": 13.9,
+          "city": "Mairena del Alcor",
+          "url": "https://es.wallapop.com/item/funko-will-el-mundo-al-reves-1256076503",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "Tchouaméni /99 Real Madrid Panini Inmaculate",
+          "price": 18,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/tchouameni-99-real-madrid-panini-inmaculate-1256077471",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "tchouameni /99 real madrid panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'tchouameni /99 real madrid panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Dragon Ball tokubetsudan",
+          "price": 0,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/dragon-ball-tokubetsudan-1256077451",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Cromo Panini Guruzeta Autógrafo Premium",
+          "price": 120,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/cromo-panini-guruzeta-autografo-premium-1256077415",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromo panini guruzeta autografo premium",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromo panini guruzeta autografo premium' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote de 700 cartas con foil y cartas raras/míticas MTG Magic",
+          "price": 12.5,
+          "city": "Verona",
+          "url": "https://es.wallapop.com/item/lotto-700-carte-con-foil-e-rare-mitiche-mtg-magic-1256077411",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas con foil cartas raras/miticas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas con foil cartas raras/miticas' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote cartas MTG",
+          "price": 5,
+          "city": "Santander",
+          "url": "https://es.wallapop.com/item/lote-cartas-mtg-1256077014",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Magic The Gathering: Corona de Llamas y Latulla",
+          "price": 0,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/magic-the-gathering-corona-de-llamas-y-latulla-1256076867",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Pokémon Misdreavus (ENG) Héroes Ascendentes",
+          "price": 5,
+          "city": "Torrent",
+          "url": "https://es.wallapop.com/item/carta-pokemon-misdreavus-asc-233-217-1256077202",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Celebraciones Zapdos de Rocket 15/132",
+          "price": 7.99,
+          "city": "Baixa da Banheira",
+          "url": "https://es.wallapop.com/item/rocket-s-zapdos-15-132-celebrations-1256076860",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote Pokémon: Cinderace ex Full Art, Zekrom, Togep",
+          "price": 15,
+          "city": "Valgranda",
+          "url": "https://es.wallapop.com/item/lote-pokemon-cinderace-ex-full-art-zekrom-togep-1256076539",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon: cinderace full art, zekrom,",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon: cinderace full art, zekrom,' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Cartas Pokémon V",
+          "price": 20,
+          "city": "Burriana",
+          "url": "https://es.wallapop.com/item/lote-cartas-pokemon-v-1256076529",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil Pareja con Flores y Corazones",
+          "price": 4,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/playmobil-pareja-con-flores-y-corazones-1256077647",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Sirena y Focas",
+          "price": 3.5,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/playmobil-sirena-y-focas-1256077448",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Guerrero",
+          "price": 3,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/playmobil-guerrero-1256077361",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil lote con Animales y Figuras",
+          "price": 5,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/playmobil-lote-con-animales-y-figuras-1256077260",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Soldado Azul con Arma y Lanza",
+          "price": 2.5,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/playmobil-soldado-azul-con-arma-y-lanza-1256077144",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Playmobil Robin Hood con zorros",
+          "price": 3,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/playmobil-robin-hood-con-zorros-1256077043",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Figura Alien Azul",
+          "price": 2,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/playmobil-figura-alien-azul-1256076958",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Playmobil",
+          "price": 2,
+          "city": "Granada",
+          "url": "https://es.wallapop.com/item/playmobil-1256076872",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 265,
+      "new_items": 39,
+      "items": [
+        {
+          "title": "Animal Crossing: New Horizons Switch",
+          "price": 40,
+          "city": "Carrión de los Céspedes",
+          "url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-1256077505",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "animal crossing: new horizons switch",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "NUEVO Telenet Shooting Collection [Switch]",
+          "price": 56,
+          "city": "Xirivella",
+          "url": "https://es.wallapop.com/item/telenet-shooting-collection-switch-edia-1256077499",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "telenet shooting collection [switch]",
+          "verdict": "skip",
+          "reason": "0 reservados de 'telenet shooting collection [switch]' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Animal Crossing merch Japón (Bandai) ichiban kuji",
+          "price": 24,
+          "city": "Priego de Córdoba",
+          "url": "https://es.wallapop.com/item/animal-crossing-merch-japon-bandai-ichiban-kuji-1256077457",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "animal crossing merch japon (bandai) Nintendo Switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'animal crossing merch japon (bandai) Nintendo Switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Just Dance 2021 Nintendo Switch",
+          "price": 20,
+          "city": "Carrión de los Céspedes",
+          "url": "https://es.wallapop.com/item/just-dance-2021-nintendo-switch-1256077413",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "just dance nintendo switch",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 8.5€ vs mín reservado 140€)"
+        },
+        {
+          "title": "Super Mario Party Nintendo Switch",
+          "price": 30,
+          "city": "Carrión de los Céspedes",
+          "url": "https://es.wallapop.com/item/super-mario-party-nintendo-switch-1256077300",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario party nintendo switch",
+          "verdict": "skip",
+          "reason": "30€ vs mín reservado 20€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "It Takes Two Nintendo Switch",
+          "price": 25,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/it-takes-two-nintendo-switch-1256077231",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "takes two nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'takes two nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carnival Games Nintendo Switch 2K",
+          "price": 25,
+          "city": "Carrión de los Céspedes",
+          "url": "https://es.wallapop.com/item/carnival-games-nintendo-switch-2k-1256077206",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "carnival games nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carnival games nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "FIFA 21 Legacy Edition Nintendo Switch",
+          "price": 5,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/fifa-21-legacy-edition-nintendo-switch-1256077005",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "juego <8€, margen imposible tras envío"
+        },
+        {
+          "title": "LEGO Jurassic World Nintendo Switch",
+          "price": 20,
+          "city": "Carrión de los Céspedes",
+          "url": "https://es.wallapop.com/item/lego-jurassic-world-nintendo-switch-1256076986",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "lego jurassic world nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lego jurassic world nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "NUEVO The Outer Worlds [Switch]",
+          "price": 36,
+          "city": "Xirivella",
+          "url": "https://es.wallapop.com/item/nuevo-the-outer-worlds-switch-1256076862",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "the outer worlds [switch]",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the outer worlds [switch]' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Go Vacation Nintendo Switch",
+          "price": 30,
+          "city": "Carrión de los Céspedes",
+          "url": "https://es.wallapop.com/item/go-vacation-nintendo-switch-1256076856",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "vacation nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'vacation nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Wario Ware: Get It Together! Nintendo Switch",
+          "price": 30,
+          "city": "Sant Joan de Palamos",
+          "url": "https://es.wallapop.com/item/wario-ware-get-it-together-nintendo-switch-1256076793",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "consola <80€ sospechoso"
+        },
+        {
+          "title": "FC 24 y FC 25 Nintendo Switch",
+          "price": 22,
+          "city": "Sant Joan de Palamos",
+          "url": "https://es.wallapop.com/item/fc-24-y-fc-25-nintendo-switch-1256076531",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "consola <80€ sospechoso"
+        },
+        {
+          "title": "Animal Crossing New Horizons Switch 2 Ed.",
+          "price": 40,
+          "city": "Ripollet",
+          "url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-2-ed-1256076528",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "animal crossing new horizons switch",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Mando PS5 Blanco",
+          "price": 55,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/mando-ps5-blanco-1256077433",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando ps5 blanco",
+          "verdict": "skip",
+          "reason": "55€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Mando PS5 Edición Disco",
+          "price": 300,
+          "city": "Vilarrodis",
+          "url": "https://es.wallapop.com/item/mando-ps5-edicion-disco-1256077108",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando ps5 edicion",
+          "verdict": "skip",
+          "reason": "300€ vs mín reservado 75€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Mando PS5 Custom Ghost of Tsushima",
+          "price": 65,
+          "city": "Orbazai",
+          "url": "https://es.wallapop.com/item/mando-ps5-custom-ghost-of-tsushima-1256076939",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando ps5 custom ghost tsushima",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando ps5 custom ghost tsushima' (sin evidencia de demanda)"
+        },
+        {
+          "title": "The Rogue Prince of Persia PS5",
+          "price": 18,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/the-rogue-prince-of-persia-ps5-1256076709",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "the rogue prince persia ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the rogue prince persia ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "AirPods Max 2",
+          "price": 499,
+          "city": "Las Cabezas de San Juan",
+          "url": "https://es.wallapop.com/item/airpods-max-2-1256077657",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'airpods max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cámara Trasera iPhone 14",
+          "price": 30,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/camara-trasera-iphone-14-1256077550",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "camara trasera iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'camara trasera iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Max Impecable",
+          "price": 445,
+          "city": "Sant Adrià de Besòs",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-impecable-1256077498",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Pro Max Dorado/Blanco",
+          "price": 750,
+          "city": "Caniles",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-dorado-blanco-1256077496",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: grieta"
+        },
+        {
+          "title": "Fundas iPhone XR, 11,15 14, 14 Pro, 13 Pro, 15 Pro",
+          "price": 15,
+          "city": "Sant Boi de Llobregat",
+          "url": "https://es.wallapop.com/item/fundas-iphone-xr-11-15-14-14-pro-13-pro-15-pro-1256077358",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fundas iphone xr, 11,15 14,",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fundas iphone xr, 11,15 14,' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Pro Titanio Natural",
+          "price": 580,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-titanio-natural-1256077338",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro titanio natural",
+          "verdict": "skip",
+          "reason": "580€ vs mín reservado 400€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda para iPhone 13",
+          "price": 10,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funda-para-iphone-13-1256077329",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda para iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'funda para iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Mini - 256GB",
+          "price": 210,
+          "city": "Huertas",
+          "url": "https://es.wallapop.com/item/iphone-13-mini-256gb-1256077223",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone mini 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone mini 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Chip SIM iPhone 14",
+          "price": 10,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/chip-sim-iphone-14-1256077156",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "chip sim iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'chip sim iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PARA PIEZAS | iPhone 17 Pro Max",
+          "price": 890,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/para-piezas-iphone-17-pro-max-1256077038",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "para piezas iphone pro max",
+          "verdict": "skip",
+          "reason": "890€ vs mín reservado 250€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 13 Azul – 128GB | Estado excelente",
+          "price": 310,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/iphone-13-azul-128gb-estado-excelente-1256077037",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone azul 128gb excelente",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone azul 128gb excelente' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Power Bank Mini Rosa",
+          "price": 29.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/power-bank-mini-rosa-1256077028",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "power bank mini rosa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'power bank mini rosa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Fundas iPhone 17 Pro",
+          "price": 12,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/fundas-iphone-17-pro-1256076824",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fundas iphone pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fundas iphone pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 128GB + 6 Fundas",
+          "price": 250,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/iphone-13-128gb---6-fundas-1256076798",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb fundas",
+          "verdict": "skip",
+          "reason": "250€ vs mín reservado 160€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda iPhone Apple Naranja",
+          "price": 10,
+          "city": "Pontedeume",
+          "url": "https://es.wallapop.com/item/funda-iphone-apple-naranja-1256076777",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda iphone apple naranja",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 6€ vs mín reservado 998€)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 256Gb (Azul, Naranja, Plata)",
+          "price": 1280,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-maz-256gb-azul-naranja-plata-1256076684",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb (azul,",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max 256gb (azul,' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 Pro 256GB Space Gray",
+          "price": 160,
+          "city": "Mercado Parque Corredor del Henares",
+          "url": "https://es.wallapop.com/item/iphone-11-pro-256gb-space-gray-1256076654",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb space gray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 256gb space gray' (sin evidencia de demanda)"
+        },
+        {
+          "title": "¡¡iPhone 16 Pro Max 512GB!! ¡NO LO DEJES ESCAPAR!",
+          "price": 950,
+          "city": "Corredoria",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-512gb-no-lo-dejes-escapar-1256076609",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: grieta"
+        },
+        {
+          "title": "Funda de iPhone 8 / 7 / SE de silicona",
+          "price": 5,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/funda-de-iphone-8-7-se-de-silicona-1256076542",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Apple Watch SE Gris Azul Marino SE 44",
+          "price": 179,
+          "city": "Torreguadiaro",
+          "url": "https://es.wallapop.com/item/apple-watch-se-gris-azul-marino-se-44-1256076719",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch gris azul marino",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch gris azul marino' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch SE 2 Negro",
+          "price": 130,
+          "city": "Cabrils",
+          "url": "https://es.wallapop.com/item/apple-watch-se-2-negro-1256076506",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch negro",
+          "verdict": "skip",
+          "reason": "130€ vs mín reservado 95€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 182,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Michael Jackson Bad 25 LP Picture Disc",
+          "price": 45,
+          "city": "La Flecha",
+          "url": "https://es.wallapop.com/item/michael-jackson-bad-25-lp-picture-disc-1256077593",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "michael jackson bad picture disc",
+          "verdict": "skip",
+          "reason": "0 reservados de 'michael jackson bad picture disc' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vinilo Marilyn Manson Smells Like Children",
+          "price": 44,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/vinilo-marilyn-manson-smells-like-children-1256076752",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "marilyn manson smells like children",
+          "verdict": "skip",
+          "reason": "0 reservados de 'marilyn manson smells like children' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Marilyn Manson Eat me Vinilo Pop Rock",
+          "price": 44,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/marilin-manson-eat-me-vinilo-pop-rock-1256076538",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "2 cómics Marvel",
+          "price": 12,
+          "city": "Ourense",
+          "url": "https://es.wallapop.com/item/2-comics-marvel-1256076509",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "comics marvel",
+          "verdict": "skip",
+          "reason": "0 reservados de 'comics marvel' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 106,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "D&D Guía de Van Richten para Ravenlofte en español",
+          "price": 90,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/d-d-guia-de-van-richten-para-ravenlofte-en-espanol-1256077473",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "d&d guia van richten para",
+          "verdict": "skip",
+          "reason": "0 reservados de 'd&d guia van richten para' (sin evidencia de demanda)"
+        },
+        {
+          "title": "A Red & Pleasant Land - Lamentations of the Flame",
+          "price": 45,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/a-red-pleasant-land-lamentations-of-the-flame-1256076797",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "red pleasant land lamentations the",
+          "verdict": "skip",
+          "reason": "0 reservados de 'red pleasant land lamentations the' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego de ajedrez para beber con vasos de licor",
+          "price": 30,
+          "city": "Salerno",
+          "url": "https://es.wallapop.com/item/scacchi-drink-bicchieri-liquore-gioco-1256076663",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego ajedrez para beber con",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego ajedrez para beber con' (sin evidencia de demanda)"
+        },
+        {
+          "title": "D&D 5 edición Descenso a Averno Puerta de Baldur",
+          "price": 100,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/d-d-5-edicion-descenso-a-averno-puerta-de-baldur-1256076612",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "d&d edicion descenso averno puerta",
+          "verdict": "skip",
+          "reason": "0 reservados de 'd&d edicion descenso averno puerta' (sin evidencia de demanda)"
+        },
+        {
+          "title": "3X2 En Puzzles",
+          "price": 9,
+          "city": "Cáceres",
+          "url": "https://es.wallapop.com/item/3x2-en-puzzles-1256077217",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "3X2 En Puzzles",
+          "price": 9,
+          "city": "Cáceres",
+          "url": "https://es.wallapop.com/item/3x2-en-puzzles-1256076870",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Raqueta Wilson Blade V9 305g",
+          "price": 135.99,
+          "city": "Bologna",
+          "url": "https://es.wallapop.com/item/racchetta-wilson-blade-v9-305g-1256076567",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta wilson blade 305g",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta wilson blade 305g' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 50,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Figuras Pokémon",
+          "price": 29,
+          "city": "Coslada",
+          "url": "https://es.wallapop.com/item/figuras-pokemon-1256077283",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "figuras pokemon",
+          "verdict": "skip",
+          "reason": "29€ vs mín reservado 5€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 74,
+  "total_signals": 0,
+  "duration_s": 90
+}
