@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T07:17:00.320Z",
+  "updated_at": "2026-04-25T07:32:17.038Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "nintendo joy juego",
+        "example_title": "Nintendo Joy-Con + juego",
+        "example_url": "https://es.wallapop.com/item/nintendo-joy-con---juego-1255813662",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 78,
+        "median_price": 78,
+        "max_price": 78,
+        "first_seen": "2026-04-25T07:32:17.035Z",
+        "last_seen": "2026-04-25T07:32:17.035Z",
+        "sample": [
+          {
+            "price": 78,
+            "title": "Nintendo Joy-Con + juego",
+            "url": "https://es.wallapop.com/item/nintendo-joy-con---juego-1255813662",
+            "city": "Toledo"
+          }
+        ]
+      },
+      {
+        "model": "pack lander marvel crisis protocol",
+        "example_title": "Pack Lander Marvel Crisis Protocol",
+        "example_url": "https://es.wallapop.com/item/pack-lander-marvel-crisis-protocol-1255813479",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-25T07:32:17.035Z",
+        "last_seen": "2026-04-25T07:32:17.035Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Pack Lander Marvel Crisis Protocol",
+            "url": "https://es.wallapop.com/item/pack-lander-marvel-crisis-protocol-1255813479",
+            "city": "Santander"
+          }
+        ]
+      },
       {
         "model": "pack cartas pokemon fezandipiti lucario snoru",
         "example_title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
@@ -6120,9 +6170,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 235,
-    "total_unique_models": 242,
-    "total_reservations": 8,
+    "possible": 237,
+    "total_unique_models": 244,
+    "total_reservations": 10,
     "total_confirmed_sales": 243
   },
   "thresholds": {
@@ -6134,18 +6184,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "xzogwmeq3wj9",
-      "model": "pack funko pop silent hill heather james",
-      "title": "Pack Funko Pop! Silent Hill Heather & James",
-      "sold_price": 30.9,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-24T23:16:34.190Z",
-      "last_seen": "2026-04-24T23:16:34.190Z",
-      "confirmed_at": "2026-04-25T07:17:00.318Z"
-    }
-  ]
+  "new_sales": []
 }
