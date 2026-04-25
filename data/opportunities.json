@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T16:16:49.598Z",
+  "updated_at": "2026-04-25T16:32:31.617Z",
   "tiers": {
     "proven_seller": [
       {
@@ -24,6 +24,43 @@
             "title": "Lote Funko Pop Stranger Things",
             "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
             "city": "Valdemanco"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas pokemon",
+        "example_title": "Lote Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
+        "total_reservations": 0,
+        "confirmed_sales": 4,
+        "total_events": 4,
+        "reservations_24h": 1,
+        "reservations_7d": 4,
+        "reservations_30d": 4,
+        "reservations_per_day": 2.04,
+        "min_price": 12,
+        "median_price": 40,
+        "max_price": 280,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-25T16:32:31.615Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "Lote de cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
+            "city": "Madrid"
+          },
+          {
+            "price": 40,
+            "title": "Lote Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
+            "city": "Parla"
+          },
+          {
+            "price": 12,
+            "title": "Lote Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
+            "city": "Valladolid"
           }
         ]
       },
@@ -65,31 +102,6 @@
         ]
       },
       {
-        "model": "lote cartas pokemon",
-        "example_title": "Lote Cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
-        "total_reservations": 1,
-        "confirmed_sales": 3,
-        "total_events": 4,
-        "reservations_24h": 1,
-        "reservations_7d": 4,
-        "reservations_30d": 4,
-        "reservations_per_day": 2.15,
-        "min_price": 12,
-        "median_price": 40,
-        "max_price": 280,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-25T14:17:39.751Z",
-        "sample": [
-          {
-            "price": 12,
-            "title": "Lote Cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
-            "city": "Valladolid"
-          }
-        ]
-      },
-      {
         "model": "lote funko pop",
         "example_title": "Lote 4 Funko Pop",
         "example_url": "https://es.wallapop.com/item/lote-4-funko-pop-1255939112",
@@ -127,7 +139,33 @@
         ]
       }
     ],
-    "hot_24h": [],
+    "hot_24h": [
+      {
+        "model": "mario party superstars nintendo switch",
+        "example_title": "Mario Party Superstars Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255990578",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 24,
+        "median_price": 28.5,
+        "max_price": 28.5,
+        "first_seen": "2026-04-24T20:17:05.740Z",
+        "last_seen": "2026-04-25T16:32:31.615Z",
+        "sample": [
+          {
+            "price": 28.5,
+            "title": "Mario Party Superstars Nintendo Switch",
+            "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255990578",
+            "city": "Castellbisbal"
+          }
+        ]
+      }
+    ],
     "trending_7d": [
       {
         "model": "figuras dc comics playmobil",
@@ -287,6 +325,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "cromos edicion limitada futbol panini",
+        "example_title": "3 Cromos Edición Limitada Fútbol Panini",
+        "example_url": "https://es.wallapop.com/item/3-cromos-edicion-limitada-futbol-panini-1255994023",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T16:32:31.615Z",
+        "last_seen": "2026-04-25T16:32:31.615Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "3 Cromos Edición Limitada Fútbol Panini",
+            "url": "https://es.wallapop.com/item/3-cromos-edicion-limitada-futbol-panini-1255994023",
+            "city": "Torrelavega"
+          }
+        ]
+      },
+      {
+        "model": "naruto myhtos trading card game eng",
+        "example_title": "Naruto Myhtos Trading Card Game ENG",
+        "example_url": "https://es.wallapop.com/item/naruto-myhtos-trading-card-game-eng-1255755307",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 180,
+        "median_price": 180,
+        "max_price": 180,
+        "first_seen": "2026-04-25T16:32:31.615Z",
+        "last_seen": "2026-04-25T16:32:31.615Z",
+        "sample": [
+          {
+            "price": 180,
+            "title": "Naruto Myhtos Trading Card Game ENG",
+            "url": "https://es.wallapop.com/item/naruto-myhtos-trading-card-game-eng-1255755307",
+            "city": "Santa Margarida de Montbui"
+          }
+        ]
+      },
+      {
+        "model": "mario kart world nintendo switch",
+        "example_title": "Mario Kart World para Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T16:32:31.615Z",
+        "last_seen": "2026-04-25T16:32:31.615Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Mario Kart World para Nintendo Switch",
+            "url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
+            "city": "Recale"
+          }
+        ]
+      },
       {
         "model": "pares joy nintendo switch",
         "example_title": "2 Pares Joy-Con Nintendo Switch",
@@ -1009,31 +1122,6 @@
             "title": "T-Rex Masters del Universo con Cueva y Guante",
             "url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "mario kart world nintendo switch",
-        "example_title": "Mario Kart World para Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-25T14:17:39.751Z",
-        "last_seen": "2026-04-25T14:17:39.751Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Mario Kart World para Nintendo Switch",
-            "url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
-            "city": "Recale"
           }
         ]
       },
@@ -2488,31 +2576,6 @@
         ]
       },
       {
-        "model": "naruto myhtos trading card game eng",
-        "example_title": "Naruto Myhtos Trading Card Game ENG",
-        "example_url": "https://es.wallapop.com/item/naruto-myhtos-trading-card-game-eng-1255755307",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 180,
-        "median_price": 180,
-        "max_price": 180,
-        "first_seen": "2026-04-24T21:46:59.053Z",
-        "last_seen": "2026-04-24T21:46:59.053Z",
-        "sample": [
-          {
-            "price": 180,
-            "title": "Naruto Myhtos Trading Card Game ENG",
-            "url": "https://es.wallapop.com/item/naruto-myhtos-trading-card-game-eng-1255755307",
-            "city": "Santa Margarida de Montbui"
-          }
-        ]
-      },
-      {
         "model": "funko pop zazu disney 499",
         "example_title": "Funko Pop Zazu Disney 499",
         "example_url": "https://es.wallapop.com/item/funko-pop-zazu-disney-499-1255728573",
@@ -2759,31 +2822,6 @@
             "title": "Funko Pop! Will y Eddie Kinder",
             "url": "https://es.wallapop.com/item/funko-pop-will-y-eddie-kinder-1255719577",
             "city": "Ponteareas"
-          }
-        ]
-      },
-      {
-        "model": "mario party superstars nintendo switch",
-        "example_title": "Mario Party Superstars Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
-        "total_reservations": 0,
-        "confirmed_sales": 1,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 24,
-        "median_price": 24,
-        "max_price": 24,
-        "first_seen": "2026-04-24T20:17:05.740Z",
-        "last_seen": "2026-04-24T20:17:05.740Z",
-        "sample": [
-          {
-            "price": 24,
-            "title": "Mario Party Superstars Nintendo Switch",
-            "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
-            "city": "Torredembarra"
           }
         ]
       },
@@ -7741,13 +7779,13 @@
   },
   "stats": {
     "proven_seller": 4,
-    "hot_24h": 0,
+    "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
     "possible": 298,
-    "total_unique_models": 307,
-    "total_reservations": 22,
-    "total_confirmed_sales": 301
+    "total_unique_models": 308,
+    "total_reservations": 21,
+    "total_confirmed_sales": 304
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7757,6 +7795,76 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
-  "new_sales": []
+  "tier_ups": [
+    {
+      "model": "mario party superstars nintendo switch",
+      "from_tier": "possible",
+      "to_tier": "hot_24h",
+      "from_label": "💡 Posible",
+      "to_label": "🔥 Hot 24h",
+      "entry": {
+        "model": "mario party superstars nintendo switch",
+        "example_title": "Mario Party Superstars Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255990578",
+        "total_reservations": 1,
+        "confirmed_sales": 1,
+        "total_events": 2,
+        "reservations_24h": 2,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 24,
+        "median_price": 28.5,
+        "max_price": 28.5,
+        "first_seen": "2026-04-24T20:17:05.740Z",
+        "last_seen": "2026-04-25T16:32:31.615Z",
+        "sample": [
+          {
+            "price": 28.5,
+            "title": "Mario Party Superstars Nintendo Switch",
+            "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255990578",
+            "city": "Castellbisbal"
+          }
+        ]
+      }
+    }
+  ],
+  "new_sales": [
+    {
+      "id": "p618m3pw0gz5",
+      "model": "naruto myhtos trading card game eng",
+      "title": "Naruto Myhtos Trading Card Game ENG",
+      "sold_price": 180,
+      "city": "Santa Margarida de Montbui",
+      "url": "https://es.wallapop.com/item/naruto-myhtos-trading-card-game-eng-1255755307",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T21:46:59.053Z",
+      "last_seen": "2026-04-24T21:46:59.053Z",
+      "confirmed_at": "2026-04-25T16:32:31.615Z"
+    },
+    {
+      "id": "nz081p1m8r6o",
+      "model": "lote cartas pokemon",
+      "title": "Lote Cartas Pokémon",
+      "sold_price": 12,
+      "city": "Valladolid",
+      "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T14:17:39.751Z",
+      "last_seen": "2026-04-25T14:17:39.751Z",
+      "confirmed_at": "2026-04-25T16:32:31.615Z"
+    },
+    {
+      "id": "v6gp3x30v26e",
+      "model": "mario kart world nintendo switch",
+      "title": "Mario Kart World para Nintendo Switch",
+      "sold_price": 40,
+      "city": "Recale",
+      "url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T14:17:39.751Z",
+      "last_seen": "2026-04-25T14:17:39.751Z",
+      "confirmed_at": "2026-04-25T16:32:31.615Z"
+    }
+  ]
 }
