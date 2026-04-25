@@ -1,0 +1,466 @@
+{
+  "timestamp": "2026-04-25T21:15:22.991Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 220,
+      "new_items": 21,
+      "items": [
+        {
+          "title": "Llaveros Funko Pop! Marvel What If Zombies",
+          "price": 15,
+          "city": "La Pobla de Montornès",
+          "url": "https://es.wallapop.com/item/llaveros-funko-pop-marvel-what-if-zombies-1256069287",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "Funko Pop Miércoles Addams 1311",
+          "price": 20,
+          "city": "Valladolid",
+          "url": "https://es.wallapop.com/item/funko-pop-miercoles-addams-1311-1256069267",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko miercoles addams 1311",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko miercoles addams 1311' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Diorama Tortugas Ninja (Figuras no Incluidas)",
+          "price": 110,
+          "city": "Rubí",
+          "url": "https://es.wallapop.com/item/diorama-tortugas-ninja-figuras-no-incluidas-1256069243",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko diorama tortugas ninja (figuras incluidas)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko diorama tortugas ninja (figuras incluidas)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Figura Funko Pop Dustin del Revés",
+          "price": 0,
+          "city": "Ourense",
+          "url": "https://es.wallapop.com/item/figura-funko-pop-dustin-del-reves-1256069134",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Funko Pop! Stitch con Flotador 1565",
+          "price": 12,
+          "city": "Valladolid",
+          "url": "https://es.wallapop.com/item/funko-pop-stitch-con-flotador-1565-1256069058",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! stitch con flotador 1565",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! stitch con flotador 1565' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! The Boys Billy Butcher 977",
+          "price": 15,
+          "city": "Nucleo Sant Josep de Sa Talaia",
+          "url": "https://es.wallapop.com/item/funko-pop-the-boys-billy-butcher-977-1256069020",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! the boys billy butcher 977",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! the boys billy butcher 977' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Old Man Logan X-Men 235",
+          "price": 12,
+          "city": "Nucleo Sant Josep de Sa Talaia",
+          "url": "https://es.wallapop.com/item/funko-pop-old-man-logan-x-men-235-1256068896",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! old man logan x-men 235",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! old man logan x-men 235' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Max Stranger Things",
+          "price": 0,
+          "city": "Ourense",
+          "url": "https://es.wallapop.com/item/funko-pop-max-stranger-things-1256068883",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Funko Pop! Makima Chainsaw Man 1679",
+          "price": 12,
+          "city": "Nucleo Sant Josep de Sa Talaia",
+          "url": "https://es.wallapop.com/item/funko-pop-makima-chainsaw-man-1679-1256068768",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! makima chainsaw man 1679",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! makima chainsaw man 1679' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Protectores para Funko Pop pack de 10",
+          "price": 12,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/protectores-para-funko-pop-pack-de-10-1256068687",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko protectores para pack 10",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko protectores para pack 10' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Peanas expositoras Lego Star Wars",
+          "price": 7,
+          "city": "Ajalvir",
+          "url": "https://es.wallapop.com/item/peanas-expositoras-lego-star-wars-1256069383",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Hero Factory  Nitroblast",
+          "price": 7,
+          "city": "Alcalá de Guadaíra",
+          "url": "https://es.wallapop.com/item/hero-factory-nitroblast-1256068989",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Cromos Liga Este 21-22 Panini",
+          "price": 12,
+          "city": "Pozuelo de Alarcón",
+          "url": "https://es.wallapop.com/item/cromos-liga-este-21-22-panini-1256069096",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromos liga este 21-22 panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromos liga este 21-22 panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Gengar & Mimikyu GX PSA 10",
+          "price": 20,
+          "city": "Cobeña",
+          "url": "https://es.wallapop.com/item/carta-pokemon-gengar-mimikyu-gx-psa-10-1256069399",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon gengar mimikyu psa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon gengar mimikyu psa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mega Camerupt EX 022/132 Carta Pokémon",
+          "price": 2,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/mega-camerupt-ex-022-132-carta-pokemon-1256069348",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Lapras GX 139/149 Sol y Luna Pokemon 2017",
+          "price": 20,
+          "city": "Castellar Oliveral",
+          "url": "https://es.wallapop.com/item/lapras-gx-139-149-sol-y-luna-pokemon-2017-1256069154",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "lapras 139/149 sol luna pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lapras 139/149 sol luna pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Fezandipiti EX Carta Pokémon 038/064 RR japones",
+          "price": 8,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/fezandipiti-ex-carta-pokemon-038-064-rr-japones-1256069135",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Mew ex SV4a JP 347/190 SAR",
+          "price": 20,
+          "city": "Cobeña",
+          "url": "https://es.wallapop.com/item/carta-pokemon-mew-ex-sv4a-jp-347-190-sar-1256069123",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon mew sv4a 347/190",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon mew sv4a 347/190' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Fezandipiti EX Carta Pokémon 038/064",
+          "price": 9,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/fezandipiti-ex-carta-pokemon-038-064-1256069044",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Pikachu Van Gogh 085 SVP EN",
+          "price": 20,
+          "city": "Cobeña",
+          "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-van-gogh-085-svp-en-1256068988",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon pikachu van gogh",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon pikachu van gogh' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Poké Ball Blaster 1999 - Moltres Zapdos Articuno",
+          "price": 300,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/poke-ball-blaster-1999-moltres-zapdos-articuno-1256067891",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 258,
+      "new_items": 12,
+      "items": [
+        {
+          "title": "Animal Crossing New Horizons Switch Completo ITA",
+          "price": 34.9,
+          "city": "Caivano",
+          "url": "https://es.wallapop.com/item/animal-crossing-new-horizons-switch-completo-ita-1256069306",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "animal crossing new horizons switch",
+          "verdict": "skip",
+          "reason": "34.9€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Blue Fire para Nintendo Switch",
+          "price": 25,
+          "city": "Casalino",
+          "url": "https://es.wallapop.com/item/blue-fire-per-nintendo-switch-1256069280",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "blue fire nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'blue fire nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Hollow Knight para Nintendo Switch",
+          "price": 35,
+          "city": "Casalino",
+          "url": "https://es.wallapop.com/item/hollow-knight-per-nintendo-switch-1256069126",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "hollow knight nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hollow knight nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pokémon Let's Go Pikachu Nintendo Switch",
+          "price": 32,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/pokemon-let-s-go-pikachu-nintendo-switch-1256069067",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "pokemon let's pikachu nintendo switch",
+          "verdict": "skip",
+          "reason": "32€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Sonic Origins Plus para Nintendo Switch",
+          "price": 18,
+          "city": "Casalino",
+          "url": "https://es.wallapop.com/item/sonic-origins-plus-per-nintendo-switch-1256069022",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "sonic origins plus nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'sonic origins plus nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando DualSense PS5 Blanco y Negro",
+          "price": 40,
+          "city": "Sueca",
+          "url": "https://es.wallapop.com/item/mando-dualsense-ps5-blanco-y-negro-1256069182",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mando dualsense ps5 blanco negro",
+          "verdict": "skip",
+          "reason": "40€ vs mín reservado null€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Final Fantasy XVI PS5",
+          "price": 20,
+          "city": "Pinseque",
+          "url": "https://es.wallapop.com/item/final-fantasy-xvi-ps5-1256069114",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "final fantasy xvi ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'final fantasy xvi ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Ghostwire Tokio Playstation 5",
+          "price": 23,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/ghostwire-tokio-playstation-5-1256068898",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ghostwire tokio playstation",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ghostwire tokio playstation' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PlayStation 5 Slim 1TB Blanca",
+          "price": 380,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/playstation-5-slim-1tb-blanca-1256068625",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation slim 1tb blanca",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playstation slim 1tb blanca' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Airpods 4 ANC Blancos",
+          "price": 140,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/airpods-4-anc-blancos-1256068749",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods anc blancos",
+          "verdict": "skip",
+          "reason": "140€ vs mín reservado 55.97€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda iPhone 11 Anuel AA",
+          "price": 5,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/funda-iphone-11-anuel-aa-1256069153",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Apple Watch Ultra 3 Negro",
+          "price": 750,
+          "city": "Las Chumberas",
+          "url": "https://es.wallapop.com/item/apple-watch-ultra-3-negro-1256069204",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch ultra negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch ultra negro' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 183,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Max Mix - El Primer Megamix Español",
+          "price": 40,
+          "city": "Larrekoetxe",
+          "url": "https://es.wallapop.com/item/max-mix-el-primer-megamix-espanol-1256068848",
+          "reserved": true,
+          "profile": "vinilo",
+          "query_ebay": "max mix primer megamix espanol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'max mix primer megamix espanol' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 107,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Set oficial de Subbuteo edición FC Juventus Nuevo",
+          "price": 20,
+          "city": "Napoli",
+          "url": "https://es.wallapop.com/item/subbuteo-set-official-edition-fc-juventus-nuovo-1256069110",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "set oficial subbuteo edicion juventus",
+          "verdict": "skip",
+          "reason": "0 reservados de 'set oficial subbuteo edicion juventus' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego Pirámides Geyper. NO HAGO ENVÍOS. Años 80.",
+          "price": 20,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/juego-piramides-geyper-no-hago-envios-1256069077",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego piramides geyper. hago envios.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego piramides geyper. hago envios.' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Stone Age 10º Aniversario y expansión",
+          "price": 65,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/stone-age-10-aniversario-y-expansion-1256068903",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "stone age 10º aniversario expansion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'stone age 10º aniversario expansion' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 38,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Figuras de acción tipo LEGO",
+          "price": 20,
+          "city": "Aranjuez",
+          "url": "https://es.wallapop.com/item/figuras-de-accion-tipo-lego-1256069336",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "figuras accion tipo lego",
+          "verdict": "skip",
+          "reason": "0 reservados de 'figuras accion tipo lego' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Figura Indominus Rex",
+          "price": 10,
+          "city": "Plans",
+          "url": "https://es.wallapop.com/item/figura-indominus-rex-1256068879",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "figura indominus rex",
+          "verdict": "skip",
+          "reason": "0 reservados de 'figura indominus rex' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 39,
+  "total_signals": 0,
+  "duration_s": 61
+}

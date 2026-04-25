@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T21:09:30.035Z",
+  "updated_at": "2026-04-25T21:16:23.692Z",
   "tiers": {
     "proven_seller": [
       {
@@ -342,6 +342,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "max mix primer megamix espanol",
+        "example_title": "Max Mix - El Primer Megamix Español",
+        "example_url": "https://es.wallapop.com/item/max-mix-el-primer-megamix-espanol-1256068848",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T21:16:23.690Z",
+        "last_seen": "2026-04-25T21:16:23.690Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Max Mix - El Primer Megamix Español",
+            "url": "https://es.wallapop.com/item/max-mix-el-primer-megamix-espanol-1256068848",
+            "city": "Larrekoetxe"
+          }
+        ]
+      },
       {
         "model": "figuras funko pop stranger things",
         "example_title": "Figuras Funko Pop Stranger Things",
@@ -8649,9 +8674,9 @@
     "hot_24h": 0,
     "trending_7d": 6,
     "recurring": 0,
-    "possible": 332,
-    "total_unique_models": 342,
-    "total_reservations": 18,
+    "possible": 333,
+    "total_unique_models": 343,
+    "total_reservations": 19,
     "total_confirmed_sales": 341
   },
   "thresholds": {
@@ -8663,42 +8688,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "wzvgd7ok3rzl",
-      "model": "funkos ruben",
-      "title": "Funkos Rubén",
-      "sold_price": 9,
-      "city": "Carpihuelo",
-      "url": "https://es.wallapop.com/item/funkos-ruben-1256040841",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T19:09:03.297Z",
-      "last_seen": "2026-04-25T19:09:03.297Z",
-      "confirmed_at": "2026-04-25T21:09:30.033Z"
-    },
-    {
-      "id": "wzyrg1kgwx65",
-      "model": "lote cromos panini aspas momentum inaki ed lim",
-      "title": "Lote cromos Panini aspas momentum Iñaki ed lim",
-      "sold_price": 11,
-      "city": "Villamediana de Iregua",
-      "url": "https://es.wallapop.com/item/lote-cromos-panini-aspas-momentum-inaki-ed-lim-1256042744",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T19:09:03.297Z",
-      "last_seen": "2026-04-25T19:09:03.297Z",
-      "confirmed_at": "2026-04-25T21:09:30.033Z"
-    },
-    {
-      "id": "pj9402wr2k6e",
-      "model": "juegos nintendo switch pokemon",
-      "title": "3 Juegos Nintendo Switch Pokémon",
-      "sold_price": 50,
-      "city": "El Campello",
-      "url": "https://es.wallapop.com/item/3-juegos-nintendo-switch-pokemon-1256040985",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T19:09:03.297Z",
-      "last_seen": "2026-04-25T19:09:03.297Z",
-      "confirmed_at": "2026-04-25T21:09:30.033Z"
-    }
-  ]
+  "new_sales": []
 }
