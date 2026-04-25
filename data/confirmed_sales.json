@@ -3683,6 +3683,30 @@
       "first_reserved": "2026-04-25T14:47:15.036Z",
       "last_seen": "2026-04-25T14:47:15.036Z",
       "confirmed_at": "2026-04-25T16:47:34.835Z"
+    },
+    {
+      "id": "v6gp3xrme26e",
+      "model": "lote carlos",
+      "title": "Lote Carlos",
+      "sold_price": 12,
+      "city": "Aguilar de Campoo",
+      "url": "https://es.wallapop.com/item/lote-carlos-1255965916",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T15:02:13.103Z",
+      "last_seen": "2026-04-25T15:02:13.103Z",
+      "confirmed_at": "2026-04-25T17:02:20.034Z"
+    },
+    {
+      "id": "qjwrgwneke6o",
+      "model": "pack peliculas blu ray dvd",
+      "title": "Pack Películas Blu-ray y DVD",
+      "sold_price": 110,
+      "city": "Parque Empresarial La Moraleja",
+      "url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T15:02:13.103Z",
+      "last_seen": "2026-04-25T15:02:13.103Z",
+      "confirmed_at": "2026-04-25T17:02:20.034Z"
     }
   ]
 }

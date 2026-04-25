@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T16:57:33.268Z",
+  "updated_at": "2026-04-25T17:02:20.036Z",
   "tiers": {
     "proven_seller": [
       {
@@ -337,6 +337,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote carlos",
+        "example_title": "Lote Carlos",
+        "example_url": "https://es.wallapop.com/item/lote-carlos-1255965916",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T17:02:20.034Z",
+        "last_seen": "2026-04-25T17:02:20.034Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Lote Carlos",
+            "url": "https://es.wallapop.com/item/lote-carlos-1255965916",
+            "city": "Aguilar de Campoo"
+          }
+        ]
+      },
+      {
+        "model": "pack peliculas blu ray dvd",
+        "example_title": "Pack Películas Blu-ray y DVD",
+        "example_url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 110,
+        "median_price": 110,
+        "max_price": 110,
+        "first_seen": "2026-04-25T17:02:20.034Z",
+        "last_seen": "2026-04-25T17:02:20.034Z",
+        "sample": [
+          {
+            "price": 110,
+            "title": "Pack Películas Blu-ray y DVD",
+            "url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
+            "city": "Parque Empresarial La Moraleja"
+          }
+        ]
+      },
       {
         "model": "funkos eva",
         "example_title": "Funkos Eva",
@@ -1109,56 +1159,6 @@
             "title": "Lote cartas Pokémon Fósil",
             "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
             "city": "Algeciras"
-          }
-        ]
-      },
-      {
-        "model": "lote carlos",
-        "example_title": "Lote Carlos",
-        "example_url": "https://es.wallapop.com/item/lote-carlos-1255965916",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 12,
-        "median_price": 12,
-        "max_price": 12,
-        "first_seen": "2026-04-25T15:02:13.103Z",
-        "last_seen": "2026-04-25T15:02:13.103Z",
-        "sample": [
-          {
-            "price": 12,
-            "title": "Lote Carlos",
-            "url": "https://es.wallapop.com/item/lote-carlos-1255965916",
-            "city": "Aguilar de Campoo"
-          }
-        ]
-      },
-      {
-        "model": "pack peliculas blu ray dvd",
-        "example_title": "Pack Películas Blu-ray y DVD",
-        "example_url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 110,
-        "median_price": 110,
-        "max_price": 110,
-        "first_seen": "2026-04-25T15:02:13.103Z",
-        "last_seen": "2026-04-25T15:02:13.103Z",
-        "sample": [
-          {
-            "price": 110,
-            "title": "Pack Películas Blu-ray y DVD",
-            "url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
-            "city": "Parque Empresarial La Moraleja"
           }
         ]
       },
@@ -7921,8 +7921,8 @@
     "recurring": 0,
     "possible": 303,
     "total_unique_models": 313,
-    "total_reservations": 23,
-    "total_confirmed_sales": 307
+    "total_reservations": 21,
+    "total_confirmed_sales": 309
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7933,5 +7933,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "v6gp3xrme26e",
+      "model": "lote carlos",
+      "title": "Lote Carlos",
+      "sold_price": 12,
+      "city": "Aguilar de Campoo",
+      "url": "https://es.wallapop.com/item/lote-carlos-1255965916",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T15:02:13.103Z",
+      "last_seen": "2026-04-25T15:02:13.103Z",
+      "confirmed_at": "2026-04-25T17:02:20.034Z"
+    },
+    {
+      "id": "qjwrgwneke6o",
+      "model": "pack peliculas blu ray dvd",
+      "title": "Pack Películas Blu-ray y DVD",
+      "sold_price": 110,
+      "city": "Parque Empresarial La Moraleja",
+      "url": "https://es.wallapop.com/item/pack-peliculas-blu-ray-y-dvd-1255966777",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T15:02:13.103Z",
+      "last_seen": "2026-04-25T15:02:13.103Z",
+      "confirmed_at": "2026-04-25T17:02:20.034Z"
+    }
+  ]
 }
