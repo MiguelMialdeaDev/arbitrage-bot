@@ -1,0 +1,196 @@
+{
+  "timestamp": "2026-04-25T02:30:29.104Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 205,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "CARTAS A 1 EURO",
+          "price": 20,
+          "city": "Torrevieja",
+          "url": "https://es.wallapop.com/item/cartas-a-1-euro-1255789565",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas euro",
+          "verdict": "skip",
+          "reason": "20€ vs mín reservado 15€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 228,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "COMO NUEVA: Nintendo Switch",
+          "price": 169.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/como-nueva-nintendo-switch-1255789854",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "como nueva: nintendo switch",
+          "verdict": "skip",
+          "reason": "169.95€ vs mín reservado 99.95€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Call of Duty Vanguard PS5 Español",
+          "price": 22,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/call-of-duty-vanguard-ps5-espanol-1255789932",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "call duty vanguard ps5 espanol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'call duty vanguard ps5 espanol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 Pro Max 256GB Gris Espacial",
+          "price": 350,
+          "city": "Santa Eularia Des Riu",
+          "url": "https://es.wallapop.com/item/iphone-11-pro-max-256gb-gris-espacial-1255789875",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb gris",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 320€ vs mín reservado 750€)"
+        },
+        {
+          "title": "iPhone 17 Lavanda 256GB",
+          "price": 0,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/iphone-17-lavanda-256gb-1255789622",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Lote 4 fundas iPhone 8 Plus",
+          "price": 6.5,
+          "city": "Mollet del Vallès",
+          "url": "https://es.wallapop.com/item/lote-4-fundas-iphone-8-plus-1255789506",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote 4 fundas Disney iPhone 8 Plus",
+          "price": 7.5,
+          "city": "Mollet del Vallès",
+          "url": "https://es.wallapop.com/item/lote-4-fundas-disney-iphone-8-plus-1255789428",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "FUNDA ORN TRANTE CON MAGSAFE IPHONE 14 PRO MAX",
+          "price": 30,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funda-orn-trante-con-magsafe-iphone-14-pro-max-1255789423",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda orn trante con magsafe",
+          "verdict": "skip",
+          "reason": "0 reservados de 'funda orn trante con magsafe' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 147,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Blu-ray Malditos Bastardos",
+          "price": 5,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-malditos-bastardos-1255790065",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Blu-ray Doctor Sueño (Stephen King)",
+          "price": 8,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-doctor-sueno-stephen-king-1255789905",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Wonder Woman 1984 4K Ultra HD Blu-ray",
+          "price": 9,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/wonder-woman-1984-4k-ultra-hd-blu-ray-1255789819",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Blu-ray Spectre 007 Steelbook  NUEVO",
+          "price": 50,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-spectre-007-steelbook-nuevo-1255789729",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "blu-ray spectre steelbook",
+          "verdict": "skip",
+          "reason": "0 reservados de 'blu-ray spectre steelbook' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Tomos Guardianes de la noche/ Kimetsu no yaiba",
+          "price": 70,
+          "city": "Casa Pastores",
+          "url": "https://es.wallapop.com/item/tomos-guardianes-de-la-noche-kimetsu-no-yaiba-1255789835",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "tomos guardianes noche/ kimetsu yaiba",
+          "verdict": "skip",
+          "reason": "0 reservados de 'tomos guardianes noche/ kimetsu yaiba' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 77,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta de tenis con funda roja",
+          "price": 12,
+          "city": "Huesca",
+          "url": "https://es.wallapop.com/item/raqueta-de-tenis-con-funda-roja-1255789894",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta tenis con funda roja",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta tenis con funda roja' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 14,
+  "total_signals": 0,
+  "duration_s": 72
+}
