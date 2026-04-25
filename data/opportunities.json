@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T19:47:03.191Z",
+  "updated_at": "2026-04-25T19:52:25.596Z",
   "tiers": {
     "proven_seller": [
       {
@@ -343,6 +343,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "mando ps5 sony blanco",
+        "example_title": "Mando PS5 Sony Blanco",
+        "example_url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T19:52:25.594Z",
+        "last_seen": "2026-04-25T19:52:25.594Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Mando PS5 Sony Blanco",
+            "url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "pack cartas pokemon tyrunt aurorus charcadet",
         "example_title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
@@ -1065,31 +1090,6 @@
             "title": "Cartas Pokémon Snorlax y Mightyena",
             "url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
             "city": "Palma de Mallorca"
-          }
-        ]
-      },
-      {
-        "model": "mando ps5 sony blanco",
-        "example_title": "Mando PS5 Sony Blanco",
-        "example_url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-25T17:47:49.550Z",
-        "last_seen": "2026-04-25T17:47:49.550Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Mando PS5 Sony Blanco",
-            "url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
-            "city": "Madrid"
           }
         ]
       },
@@ -8402,8 +8402,8 @@
     "recurring": 0,
     "possible": 322,
     "total_unique_models": 332,
-    "total_reservations": 16,
-    "total_confirmed_sales": 333
+    "total_reservations": 15,
+    "total_confirmed_sales": 334
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8414,5 +8414,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "vjrem552y4zk",
+      "model": "mando ps5 sony blanco",
+      "title": "Mando PS5 Sony Blanco",
+      "sold_price": 40,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T17:47:49.550Z",
+      "last_seen": "2026-04-25T17:47:49.550Z",
+      "confirmed_at": "2026-04-25T19:52:25.594Z"
+    }
+  ]
 }
