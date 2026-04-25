@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T13:17:42.181Z",
+  "updated_at": "2026-04-25T13:26:14.323Z",
   "tiers": {
     "proven_seller": [
       {
@@ -24,6 +24,31 @@
             "title": "Super Mario Odyssey Nintendo Switch",
             "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
             "city": "Zaragoza"
+          }
+        ]
+      },
+      {
+        "model": "lote funko pop",
+        "example_title": "Lote 4 Funko Pop",
+        "example_url": "https://es.wallapop.com/item/lote-4-funko-pop-1255939112",
+        "total_reservations": 1,
+        "confirmed_sales": 2,
+        "total_events": 3,
+        "reservations_24h": 2,
+        "reservations_7d": 3,
+        "reservations_30d": 3,
+        "reservations_per_day": 1.67,
+        "min_price": 8.5,
+        "median_price": 19,
+        "max_price": 42,
+        "first_seen": "2026-04-23T18:18:18.324Z",
+        "last_seen": "2026-04-25T13:26:14.321Z",
+        "sample": [
+          {
+            "price": 19,
+            "title": "Lote 4 Funko Pop",
+            "url": "https://es.wallapop.com/item/lote-4-funko-pop-1255939112",
+            "city": "Madrid"
           }
         ]
       },
@@ -199,37 +224,6 @@
     ],
     "trending_7d": [
       {
-        "model": "lote funko pop",
-        "example_title": "Lote 8 Funko Pop",
-        "example_url": "https://es.wallapop.com/item/lote-8-funko-pop-1255875866",
-        "total_reservations": 0,
-        "confirmed_sales": 2,
-        "total_events": 2,
-        "reservations_24h": 1,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 1.14,
-        "min_price": 8.5,
-        "median_price": 42,
-        "max_price": 42,
-        "first_seen": "2026-04-23T18:18:18.324Z",
-        "last_seen": "2026-04-25T12:32:20.646Z",
-        "sample": [
-          {
-            "price": 8.5,
-            "title": "Lote Funko Pop",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-1255360554",
-            "city": "Madrid"
-          },
-          {
-            "price": 42,
-            "title": "Lote 8 Funko Pop",
-            "url": "https://es.wallapop.com/item/lote-8-funko-pop-1255875866",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
         "model": "pack juegos nintendo switch",
         "example_title": "Pack 2 Juegos Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/pack-2-juegos-nintendo-switch-1255696817",
@@ -294,6 +288,156 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote blu ray 4k blu ray",
+        "example_title": "Lote Blu-ray 4K y Blu-ray",
+        "example_url": "https://es.wallapop.com/item/lote-blu-ray-4k-y-blu-ray-1255939120",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 390,
+        "median_price": 390,
+        "max_price": 390,
+        "first_seen": "2026-04-25T13:26:14.321Z",
+        "last_seen": "2026-04-25T13:26:14.321Z",
+        "sample": [
+          {
+            "price": 390,
+            "title": "Lote Blu-ray 4K y Blu-ray",
+            "url": "https://es.wallapop.com/item/lote-blu-ray-4k-y-blu-ray-1255939120",
+            "city": "Jaén"
+          }
+        ]
+      },
+      {
+        "model": "funkos kathia",
+        "example_title": "Funkos Kathia",
+        "example_url": "https://es.wallapop.com/item/lote-funkos-1255892155",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6.5,
+        "median_price": 6.5,
+        "max_price": 6.5,
+        "first_seen": "2026-04-25T13:26:14.321Z",
+        "last_seen": "2026-04-25T13:26:14.321Z",
+        "sample": [
+          {
+            "price": 6.5,
+            "title": "Funkos Kathia",
+            "url": "https://es.wallapop.com/item/lote-funkos-1255892155",
+            "city": "Carpihuelo"
+          }
+        ]
+      },
+      {
+        "model": "lego star wars minifiguras",
+        "example_title": "Lego Star Wars Minifiguras",
+        "example_url": "https://es.wallapop.com/item/lego-star-wars-minifiguras-1255892726",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T13:26:14.321Z",
+        "last_seen": "2026-04-25T13:26:14.321Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Lego Star Wars Minifiguras",
+            "url": "https://es.wallapop.com/item/lego-star-wars-minifiguras-1255892726",
+            "city": "Vilanova i la Geltrú"
+          }
+        ]
+      },
+      {
+        "model": "elite trainer box pokemon fuegos fantasmales",
+        "example_title": "Elite Trainer Box Pokémon: Fuegos Fantasmales",
+        "example_url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-fuegos-fantasmales-1255894795",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 70,
+        "median_price": 70,
+        "max_price": 70,
+        "first_seen": "2026-04-25T13:26:14.321Z",
+        "last_seen": "2026-04-25T13:26:14.321Z",
+        "sample": [
+          {
+            "price": 70,
+            "title": "Elite Trainer Box Pokémon: Fuegos Fantasmales",
+            "url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-fuegos-fantasmales-1255894795",
+            "city": "La Vegueta"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas pokemon reshiram zekrom",
+        "example_title": "Lote 2 Cartas Pokémon Reshiram y Zekrom",
+        "example_url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-reshiram-y-zekrom-1255891976",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 85,
+        "median_price": 85,
+        "max_price": 85,
+        "first_seen": "2026-04-25T13:26:14.321Z",
+        "last_seen": "2026-04-25T13:26:14.321Z",
+        "sample": [
+          {
+            "price": 85,
+            "title": "Lote 2 Cartas Pokémon Reshiram y Zekrom",
+            "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-reshiram-y-zekrom-1255891976",
+            "city": "Aranjuez"
+          }
+        ]
+      },
+      {
+        "model": "blu ray fotografo mauthausen",
+        "example_title": "Blu-ray El fotógrafo de Mauthausen",
+        "example_url": "https://es.wallapop.com/item/blu-ray-el-fotografo-de-mauthausen-1255897012",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-25T13:26:14.321Z",
+        "last_seen": "2026-04-25T13:26:14.321Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Blu-ray El fotógrafo de Mauthausen",
+            "url": "https://es.wallapop.com/item/blu-ray-el-fotografo-de-mauthausen-1255897012",
+            "city": "Alhaurín de la Torre"
+          }
+        ]
+      },
       {
         "model": "cromos groquet mdb",
         "example_title": "Cromos para groquet,MDB",
@@ -1041,131 +1185,6 @@
             "title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
             "url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
             "city": "Campiello"
-          }
-        ]
-      },
-      {
-        "model": "funkos kathia",
-        "example_title": "Funkos Kathia",
-        "example_url": "https://es.wallapop.com/item/lote-funkos-1255892155",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 6.5,
-        "median_price": 6.5,
-        "max_price": 6.5,
-        "first_seen": "2026-04-25T11:17:49.397Z",
-        "last_seen": "2026-04-25T11:17:49.397Z",
-        "sample": [
-          {
-            "price": 6.5,
-            "title": "Funkos Kathia",
-            "url": "https://es.wallapop.com/item/lote-funkos-1255892155",
-            "city": "Carpihuelo"
-          }
-        ]
-      },
-      {
-        "model": "lego star wars minifiguras",
-        "example_title": "Lego Star Wars Minifiguras",
-        "example_url": "https://es.wallapop.com/item/lego-star-wars-minifiguras-1255892726",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-25T11:17:49.397Z",
-        "last_seen": "2026-04-25T11:17:49.397Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Lego Star Wars Minifiguras",
-            "url": "https://es.wallapop.com/item/lego-star-wars-minifiguras-1255892726",
-            "city": "Vilanova i la Geltrú"
-          }
-        ]
-      },
-      {
-        "model": "elite trainer box pokemon fuegos fantasmales",
-        "example_title": "Elite Trainer Box Pokémon: Fuegos Fantasmales",
-        "example_url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-fuegos-fantasmales-1255894795",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 70,
-        "median_price": 70,
-        "max_price": 70,
-        "first_seen": "2026-04-25T11:17:49.397Z",
-        "last_seen": "2026-04-25T11:17:49.397Z",
-        "sample": [
-          {
-            "price": 70,
-            "title": "Elite Trainer Box Pokémon: Fuegos Fantasmales",
-            "url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-fuegos-fantasmales-1255894795",
-            "city": "La Vegueta"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas pokemon reshiram zekrom",
-        "example_title": "Lote 2 Cartas Pokémon Reshiram y Zekrom",
-        "example_url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-reshiram-y-zekrom-1255891976",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 85,
-        "median_price": 85,
-        "max_price": 85,
-        "first_seen": "2026-04-25T11:17:49.397Z",
-        "last_seen": "2026-04-25T11:17:49.397Z",
-        "sample": [
-          {
-            "price": 85,
-            "title": "Lote 2 Cartas Pokémon Reshiram y Zekrom",
-            "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-reshiram-y-zekrom-1255891976",
-            "city": "Aranjuez"
-          }
-        ]
-      },
-      {
-        "model": "blu ray fotografo mauthausen",
-        "example_title": "Blu-ray El fotógrafo de Mauthausen",
-        "example_url": "https://es.wallapop.com/item/blu-ray-el-fotografo-de-mauthausen-1255897012",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8,
-        "median_price": 8,
-        "max_price": 8,
-        "first_seen": "2026-04-25T11:17:49.397Z",
-        "last_seen": "2026-04-25T11:17:49.397Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "Blu-ray El fotógrafo de Mauthausen",
-            "url": "https://es.wallapop.com/item/blu-ray-el-fotografo-de-mauthausen-1255897012",
-            "city": "Alhaurín de la Torre"
           }
         ]
       },
@@ -7147,14 +7166,14 @@
     ]
   },
   "stats": {
-    "proven_seller": 3,
+    "proven_seller": 4,
     "hot_24h": 3,
-    "trending_7d": 3,
+    "trending_7d": 2,
     "recurring": 0,
-    "possible": 274,
-    "total_unique_models": 283,
-    "total_reservations": 18,
-    "total_confirmed_sales": 278
+    "possible": 275,
+    "total_unique_models": 284,
+    "total_reservations": 15,
+    "total_confirmed_sales": 283
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7164,6 +7183,100 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [],
-  "new_sales": []
+  "tier_ups": [
+    {
+      "model": "lote funko pop",
+      "from_tier": "trending_7d",
+      "to_tier": "proven_seller",
+      "from_label": "✨ Trending 7d",
+      "to_label": "🚀 Proven seller",
+      "entry": {
+        "model": "lote funko pop",
+        "example_title": "Lote 4 Funko Pop",
+        "example_url": "https://es.wallapop.com/item/lote-4-funko-pop-1255939112",
+        "total_reservations": 1,
+        "confirmed_sales": 2,
+        "total_events": 3,
+        "reservations_24h": 2,
+        "reservations_7d": 3,
+        "reservations_30d": 3,
+        "reservations_per_day": 1.67,
+        "min_price": 8.5,
+        "median_price": 19,
+        "max_price": 42,
+        "first_seen": "2026-04-23T18:18:18.324Z",
+        "last_seen": "2026-04-25T13:26:14.321Z",
+        "sample": [
+          {
+            "price": 19,
+            "title": "Lote 4 Funko Pop",
+            "url": "https://es.wallapop.com/item/lote-4-funko-pop-1255939112",
+            "city": "Madrid"
+          }
+        ]
+      }
+    }
+  ],
+  "new_sales": [
+    {
+      "id": "p618m0k35gz5",
+      "model": "funkos kathia",
+      "title": "Funkos Kathia",
+      "sold_price": 6.5,
+      "city": "Carpihuelo",
+      "url": "https://es.wallapop.com/item/lote-funkos-1255892155",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T11:17:49.397Z",
+      "last_seen": "2026-04-25T11:17:49.397Z",
+      "confirmed_at": "2026-04-25T13:26:14.321Z"
+    },
+    {
+      "id": "pzpkxegedmj3",
+      "model": "lego star wars minifiguras",
+      "title": "Lego Star Wars Minifiguras",
+      "sold_price": 5,
+      "city": "Vilanova i la Geltrú",
+      "url": "https://es.wallapop.com/item/lego-star-wars-minifiguras-1255892726",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T11:17:49.397Z",
+      "last_seen": "2026-04-25T11:17:49.397Z",
+      "confirmed_at": "2026-04-25T13:26:14.321Z"
+    },
+    {
+      "id": "ejkmn3elvyzx",
+      "model": "elite trainer box pokemon fuegos fantasmales",
+      "title": "Elite Trainer Box Pokémon: Fuegos Fantasmales",
+      "sold_price": 70,
+      "city": "La Vegueta",
+      "url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-fuegos-fantasmales-1255894795",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T11:17:49.397Z",
+      "last_seen": "2026-04-25T11:17:49.397Z",
+      "confirmed_at": "2026-04-25T13:26:14.321Z"
+    },
+    {
+      "id": "w67vno75876x",
+      "model": "lote cartas pokemon reshiram zekrom",
+      "title": "Lote 2 Cartas Pokémon Reshiram y Zekrom",
+      "sold_price": 85,
+      "city": "Aranjuez",
+      "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-reshiram-y-zekrom-1255891976",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T11:17:49.397Z",
+      "last_seen": "2026-04-25T11:17:49.397Z",
+      "confirmed_at": "2026-04-25T13:26:14.321Z"
+    },
+    {
+      "id": "9jdw10edp26k",
+      "model": "blu ray fotografo mauthausen",
+      "title": "Blu-ray El fotógrafo de Mauthausen",
+      "sold_price": 8,
+      "city": "Alhaurín de la Torre",
+      "url": "https://es.wallapop.com/item/blu-ray-el-fotografo-de-mauthausen-1255897012",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T11:17:49.397Z",
+      "last_seen": "2026-04-25T11:17:49.397Z",
+      "confirmed_at": "2026-04-25T13:26:14.321Z"
+    }
+  ]
 }
