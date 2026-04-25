@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T10:02:14.292Z",
+  "updated_at": "2026-04-25T10:18:20.645Z",
   "tiers": {
     "proven_seller": [
       {
@@ -82,8 +82,8 @@
         "model": "figuras dc comics playmobil",
         "example_title": "Figuras DC Comics Playmobil",
         "example_url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255824382",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
+        "total_reservations": 0,
+        "confirmed_sales": 2,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -93,8 +93,14 @@
         "median_price": 5,
         "max_price": 5,
         "first_seen": "2026-04-24T15:32:28.188Z",
-        "last_seen": "2026-04-25T08:17:08.985Z",
+        "last_seen": "2026-04-25T10:18:20.643Z",
         "sample": [
+          {
+            "price": 5,
+            "title": "Figuras DC Comics Playmobil",
+            "url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255620121",
+            "city": "Arroyomolinos"
+          },
           {
             "price": 4.5,
             "title": "Figuras DC Comics Playmobil",
@@ -263,6 +269,131 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "ceruledge cgc 10 pokemon carta japonesa",
+        "example_title": "Ceruledge CGC 10 Pokémon Carta Japonesa",
+        "example_url": "https://es.wallapop.com/item/ceruledge-cgc-10-pokemon-carta-japonesa-1255869751",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30,
+        "median_price": 30,
+        "max_price": 30,
+        "first_seen": "2026-04-25T10:18:20.643Z",
+        "last_seen": "2026-04-25T10:18:20.643Z",
+        "sample": [
+          {
+            "price": 30,
+            "title": "Ceruledge CGC 10 Pokémon Carta Japonesa",
+            "url": "https://es.wallapop.com/item/ceruledge-cgc-10-pokemon-carta-japonesa-1255869751",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "pack carteles pokemon leyendas donkey kong",
+        "example_title": "Pack Carteles Pokémon Leyendas + Donkey Kong",
+        "example_url": "https://es.wallapop.com/item/pack-carteles-pokemon-leyendas---donkey-kong-1255869146",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 7,
+        "median_price": 7,
+        "max_price": 7,
+        "first_seen": "2026-04-25T10:18:20.643Z",
+        "last_seen": "2026-04-25T10:18:20.643Z",
+        "sample": [
+          {
+            "price": 7,
+            "title": "Pack Carteles Pokémon Leyendas + Donkey Kong",
+            "url": "https://es.wallapop.com/item/pack-carteles-pokemon-leyendas---donkey-kong-1255869146",
+            "city": "Tarragona"
+          }
+        ]
+      },
+      {
+        "model": "dogma rog one sexto sentido doce monos",
+        "example_title": "Dogma, Rog One, El sexto sentido, Doce monos",
+        "example_url": "https://es.wallapop.com/item/dogma-rog-one-el-sexto-sentido-doce-monos-1255871641",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T10:18:20.643Z",
+        "last_seen": "2026-04-25T10:18:20.643Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Dogma, Rog One, El sexto sentido, Doce monos",
+            "url": "https://es.wallapop.com/item/dogma-rog-one-el-sexto-sentido-doce-monos-1255871641",
+            "city": "Castineiras"
+          }
+        ]
+      },
+      {
+        "model": "lote joss sets lego star wars",
+        "example_title": "Lote Joss 3 Sets Lego Star Wars",
+        "example_url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 31.21,
+        "median_price": 31.21,
+        "max_price": 31.21,
+        "first_seen": "2026-04-25T10:18:20.643Z",
+        "last_seen": "2026-04-25T10:18:20.643Z",
+        "sample": [
+          {
+            "price": 31.21,
+            "title": "Lote Joss 3 Sets Lego Star Wars",
+            "url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
+            "city": "Cornella de Llobregat"
+          }
+        ]
+      },
+      {
+        "model": "vinilo lp elena",
+        "example_title": "Vinilo lp elena",
+        "example_url": "https://es.wallapop.com/item/vinilo-lp-elena-1255820843",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 13,
+        "median_price": 13,
+        "max_price": 13,
+        "first_seen": "2026-04-25T10:18:20.643Z",
+        "last_seen": "2026-04-25T10:18:20.643Z",
+        "sample": [
+          {
+            "price": 13,
+            "title": "Vinilo lp elena",
+            "url": "https://es.wallapop.com/item/vinilo-lp-elena-1255820843",
+            "city": "Mislata"
+          }
+        ]
+      },
       {
         "model": "carta pokemon charizard vstar sar 212 172",
         "example_title": "Carta Pokémon Charizard VSTAR SAR 212/172",
@@ -789,31 +920,6 @@
         ]
       },
       {
-        "model": "vinilo lp elena",
-        "example_title": "Vinilo lp elena",
-        "example_url": "https://es.wallapop.com/item/vinilo-lp-elena-1255820843",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 13,
-        "median_price": 13,
-        "max_price": 13,
-        "first_seen": "2026-04-25T08:02:16.845Z",
-        "last_seen": "2026-04-25T08:02:16.845Z",
-        "sample": [
-          {
-            "price": 13,
-            "title": "Vinilo lp elena",
-            "url": "https://es.wallapop.com/item/vinilo-lp-elena-1255820843",
-            "city": "Mislata"
-          }
-        ]
-      },
-      {
         "model": "vinilos lp hardcore punk screamo",
         "example_title": "Vinilos LP Hardcore Punk Screamo",
         "example_url": "https://es.wallapop.com/item/vinilos-lp-hardcore-punk-screamo-1255767554",
@@ -935,31 +1041,6 @@
             "title": "Lote Cartas Pokémon Variadas",
             "url": "https://es.wallapop.com/item/lote-cartas-pokemon-variadas-1255763799",
             "city": "Manresa"
-          }
-        ]
-      },
-      {
-        "model": "lote joss sets lego star wars",
-        "example_title": "Lote Joss 3 Sets Lego Star Wars",
-        "example_url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 31.21,
-        "median_price": 31.21,
-        "max_price": 31.21,
-        "first_seen": "2026-04-24T23:46:46.476Z",
-        "last_seen": "2026-04-24T23:46:46.476Z",
-        "sample": [
-          {
-            "price": 31.21,
-            "title": "Lote Joss 3 Sets Lego Star Wars",
-            "url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
-            "city": "Cornella de Llobregat"
           }
         ]
       },
@@ -3770,7 +3851,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3795,7 +3876,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3820,7 +3901,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3845,7 +3926,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6595,10 +6676,10 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 253,
-    "total_unique_models": 261,
+    "possible": 256,
+    "total_unique_models": 264,
     "total_reservations": 20,
-    "total_confirmed_sales": 251
+    "total_confirmed_sales": 254
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6609,5 +6690,42 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzyrgpdk5p65",
+      "model": "lote joss sets lego star wars",
+      "title": "Lote Joss 3 Sets Lego Star Wars",
+      "sold_price": 31.21,
+      "city": "Cornella de Llobregat",
+      "url": "https://es.wallapop.com/item/lote-joss-3-sets-lego-star-wars-1255769392",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-24T23:46:46.476Z",
+      "last_seen": "2026-04-24T23:46:46.476Z",
+      "confirmed_at": "2026-04-25T10:18:20.643Z"
+    },
+    {
+      "id": "vjrem59vvxzk",
+      "model": "vinilo lp elena",
+      "title": "Vinilo lp elena",
+      "sold_price": 13,
+      "city": "Mislata",
+      "url": "https://es.wallapop.com/item/vinilo-lp-elena-1255820843",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T08:02:16.845Z",
+      "last_seen": "2026-04-25T08:02:16.845Z",
+      "confirmed_at": "2026-04-25T10:18:20.643Z"
+    },
+    {
+      "id": "8j38kwx197z9",
+      "model": "figuras dc comics playmobil",
+      "title": "Figuras DC Comics Playmobil",
+      "sold_price": 4.5,
+      "city": "Moreaga",
+      "url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255824382",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T08:17:08.985Z",
+      "last_seen": "2026-04-25T08:17:08.985Z",
+      "confirmed_at": "2026-04-25T10:18:20.643Z"
+    }
+  ]
 }
