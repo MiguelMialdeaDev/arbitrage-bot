@@ -1,0 +1,259 @@
+{
+  "timestamp": "2026-04-25T05:53:56.114Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 211,
+      "new_items": 9,
+      "items": [
+        {
+          "title": "Funko Pop Stranger Things llaveros",
+          "price": 39,
+          "city": "Carral",
+          "url": "https://es.wallapop.com/item/funko-pop-stranger-things-llaveros-1255800466",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "4 Mazos Pauper de pack de Magic: The Gathering",
+          "price": 20,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/4-mazos-pauper-de-pack-de-magic-the-gathering-1255800738",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mazos pauper pack magic: the",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mazos pauper pack magic: the' (sin evidencia de demanda)"
+        },
+        {
+          "title": "MTG Infrecuentes de lotes de Cartas Magic",
+          "price": 8,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/mtg-infrecuentes-de-lotes-de-cartas-magic-1255800608",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "OFERTA de Magic: Blancas The Gathering distintas",
+          "price": 5.99,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/oferta-de-magic-blancas-the-gathering-distintas-1255800503",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Mazo Commander Anax Cartas Magic mtg edh oferta",
+          "price": 13.99,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/mazo-commander-anax-cartas-magic-mtg-edh-oferta-1255800412",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "precio ambiguo: field=13.99€ pero desc menciona 45€"
+        },
+        {
+          "title": "PACK Ahorro de Cartas Rojas no repetidas Magic mtg",
+          "price": 6,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/pack-ahorro-de-cartas-rojas-no-repetidas-magic-mtg-1255800314",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Carta Pokémon Voltorb de Hisui NM Ita",
+          "price": 8,
+          "city": "Verdellino",
+          "url": "https://es.wallapop.com/item/pokemon-voltorb-di-hisui-nm-ita-1255800857",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "105 Cartas Pokémon",
+          "price": 30,
+          "city": "Mataró",
+          "url": "https://es.wallapop.com/item/105-cartas-pokemon-1255800587",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Pikachu EX Teracristal 057/191",
+          "price": 8,
+          "city": "Verdellino",
+          "url": "https://es.wallapop.com/item/carta-pokemon-pikachu-ex-teracristal-057-191-1255800241",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 239,
+      "new_items": 10,
+      "items": [
+        {
+          "title": "Trilogía Spyro Reignited para Nintendo Switch",
+          "price": 19,
+          "city": "Spinadesco",
+          "url": "https://es.wallapop.com/item/spyro-reignited-trilogy-nintendo-switch-1255800808",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "trilogia spyro reignited nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'trilogia spyro reignited nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Auriculares Logitech G435 LIGHTSPEED",
+          "price": 50,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/auriculares-logitech-g435-lightspeed-1255800190",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "accesorio commodity (confunde eBay con consolas)"
+        },
+        {
+          "title": "Resident Evil Requiem PS5",
+          "price": 60,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/resident-evil-requiem-ps5-1255800651",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "resident evil requiem ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'resident evil requiem ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Power Bank 10000mAh Carga Rápida 22.5W",
+          "price": 18,
+          "city": "Las Rozas de Madrid",
+          "url": "https://es.wallapop.com/item/power-bank-10000mah-carga-rapida-22-5w-1255800557",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "power bank 10000mah carga rapida",
+          "verdict": "skip",
+          "reason": "0 reservados de 'power bank 10000mah carga rapida' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda iPhone 14 Pro Max Original MagSafe",
+          "price": 30,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/funda-iphone-14-pro-max-original-magsafe-1255800547",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda iphone pro max magsafe",
+          "verdict": "skip",
+          "reason": "30€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 11 128GB Negro",
+          "price": 120,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-11-128gb-negro-1255800504",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb negro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb negro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda Quad Lock iPhone 16 Pro Max 6.9",
+          "price": 22,
+          "city": "San Sebastián de Los Reyes",
+          "url": "https://es.wallapop.com/item/funda-quad-lock-iphone-16-pro-max-6-9-1255800335",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "funda quad lock iphone pro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'funda quad lock iphone pro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 128GB Negro/Plateado",
+          "price": 255,
+          "city": "Coslada",
+          "url": "https://es.wallapop.com/item/iphone-13-128gb-negro-plateado-1255800334",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 128gb negro/plateado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 128gb negro/plateado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 15 Oro Rosa IMPOLUTO",
+          "price": 410,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/iphone-15-oro-rosa-impoluto-1255800323",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone oro rosa impoluto",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone oro rosa impoluto' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda Caudabe Sheath para iPhone 16 pro Max NUEVA",
+          "price": 21,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/funda-caudabe-sheath-para-iphone-16-pro-max-nueva-1255800320",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "precio ambiguo: field=21€ pero desc menciona 50€"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 156,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Steelbook Retroceder Nunca Rendirse Jamás Blu-ray",
+          "price": 10,
+          "city": "Atarfe",
+          "url": "https://es.wallapop.com/item/steelbook-retroceder-nunca-rendirse-jamas-blu-ray-1255800841",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "steelbook retroceder nunca rendirse jamas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'steelbook retroceder nunca rendirse jamas' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 77,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 20,
+  "total_signals": 0,
+  "duration_s": 69
+}
