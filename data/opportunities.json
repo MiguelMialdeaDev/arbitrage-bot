@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T16:02:29.730Z",
+  "updated_at": "2026-04-25T16:10:30.756Z",
   "tiers": {
     "proven_seller": [
       {
@@ -287,6 +287,131 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pares joy nintendo switch",
+        "example_title": "2 Pares Joy-Con Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/2-pares-joy-con-nintendo-switch-1255985586",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 55,
+        "median_price": 55,
+        "max_price": 55,
+        "first_seen": "2026-04-25T16:10:30.754Z",
+        "last_seen": "2026-04-25T16:10:30.754Z",
+        "sample": [
+          {
+            "price": 55,
+            "title": "2 Pares Joy-Con Nintendo Switch",
+            "url": "https://es.wallapop.com/item/2-pares-joy-con-nintendo-switch-1255985586",
+            "city": "Reus"
+          }
+        ]
+      },
+      {
+        "model": "chasis tapa trasera iphone 14 negro",
+        "example_title": "Chasis y Tapa Trasera iPhone 14 Negro",
+        "example_url": "https://es.wallapop.com/item/chasis-y-tapa-trasera-iphone-14-negro-1255987486",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 45,
+        "median_price": 45,
+        "max_price": 45,
+        "first_seen": "2026-04-25T16:10:30.754Z",
+        "last_seen": "2026-04-25T16:10:30.754Z",
+        "sample": [
+          {
+            "price": 45,
+            "title": "Chasis y Tapa Trasera iPhone 14 Negro",
+            "url": "https://es.wallapop.com/item/chasis-y-tapa-trasera-iphone-14-negro-1255987486",
+            "city": "La Mojonera"
+          }
+        ]
+      },
+      {
+        "model": "iphone plus rose gold",
+        "example_title": "iPhone 7 Plus Rose Gold",
+        "example_url": "https://es.wallapop.com/item/iphone-7-plus-rose-gold-1255985996",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 35,
+        "median_price": 35,
+        "max_price": 35,
+        "first_seen": "2026-04-25T16:10:30.754Z",
+        "last_seen": "2026-04-25T16:10:30.754Z",
+        "sample": [
+          {
+            "price": 35,
+            "title": "iPhone 7 Plus Rose Gold",
+            "url": "https://es.wallapop.com/item/iphone-7-plus-rose-gold-1255985996",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "resident evil requiem",
+        "example_title": "Resident Evil requiem",
+        "example_url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T16:10:30.754Z",
+        "last_seen": "2026-04-25T16:10:30.754Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Resident Evil requiem",
+            "url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
+            "city": "Villaviciosa de Odón"
+          }
+        ]
+      },
+      {
+        "model": "mando ps5 morado despiece",
+        "example_title": "Mando PS5 Morado para despiece",
+        "example_url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T16:10:30.754Z",
+        "last_seen": "2026-04-25T16:10:30.754Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Mando PS5 Morado para despiece",
+            "url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
+            "city": "Granada"
+          }
+        ]
+      },
       {
         "model": "lote cromos panini lamine yamal instant #1",
         "example_title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
@@ -909,56 +1034,6 @@
             "title": "Mario Kart World para Nintendo Switch",
             "url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
             "city": "Recale"
-          }
-        ]
-      },
-      {
-        "model": "resident evil requiem",
-        "example_title": "Resident Evil requiem",
-        "example_url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-25T14:03:19.637Z",
-        "last_seen": "2026-04-25T14:03:19.637Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Resident Evil requiem",
-            "url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
-            "city": "Villaviciosa de Odón"
-          }
-        ]
-      },
-      {
-        "model": "mando ps5 morado despiece",
-        "example_title": "Mando PS5 Morado para despiece",
-        "example_url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-25T14:03:19.637Z",
-        "last_seen": "2026-04-25T14:03:19.637Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Mando PS5 Morado para despiece",
-            "url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
-            "city": "Granada"
           }
         ]
       },
@@ -3394,7 +3469,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3419,7 +3494,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7669,10 +7744,10 @@
     "hot_24h": 0,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 295,
-    "total_unique_models": 304,
-    "total_reservations": 21,
-    "total_confirmed_sales": 299
+    "possible": 298,
+    "total_unique_models": 307,
+    "total_reservations": 22,
+    "total_confirmed_sales": 301
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7683,5 +7758,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "36e5m7ggx86d",
+      "model": "resident evil requiem",
+      "title": "Resident Evil requiem",
+      "sold_price": 40,
+      "city": "Villaviciosa de Odón",
+      "url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T14:03:19.637Z",
+      "last_seen": "2026-04-25T14:03:19.637Z",
+      "confirmed_at": "2026-04-25T16:10:30.754Z"
+    },
+    {
+      "id": "p618m01gpdz5",
+      "model": "mando ps5 morado despiece",
+      "title": "Mando PS5 Morado para despiece",
+      "sold_price": 10,
+      "city": "Granada",
+      "url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T14:03:19.637Z",
+      "last_seen": "2026-04-25T14:03:19.637Z",
+      "confirmed_at": "2026-04-25T16:10:30.754Z"
+    }
+  ]
 }

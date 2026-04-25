@@ -12,28 +12,6 @@
       "last_seen": "2026-04-24T21:46:59.053Z"
     },
     {
-      "id": "36e5m7ggx86d",
-      "title": "Resident Evil requiem",
-      "model": "resident evil requiem",
-      "price": 40,
-      "city": "Villaviciosa de Odón",
-      "url": "https://es.wallapop.com/item/resident-evil-requiem-1255945063",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-25T14:03:19.637Z",
-      "last_seen": "2026-04-25T14:03:19.637Z"
-    },
-    {
-      "id": "p618m01gpdz5",
-      "title": "Mando PS5 Morado para despiece",
-      "model": "mando ps5 morado despiece",
-      "price": 10,
-      "city": "Granada",
-      "url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-25T14:03:19.637Z",
-      "last_seen": "2026-04-25T14:03:19.637Z"
-    },
-    {
       "id": "nz081p1m8r6o",
       "title": "Lote Cartas Pokémon",
       "model": "lote cartas pokemon",
@@ -230,6 +208,39 @@
       "category": "Cine, libros y música",
       "first_seen": "2026-04-25T16:02:29.729Z",
       "last_seen": "2026-04-25T16:02:29.729Z"
+    },
+    {
+      "id": "4z482x4r3mjy",
+      "title": "2 Pares Joy-Con Nintendo Switch",
+      "model": "pares joy nintendo switch",
+      "price": 55,
+      "city": "Reus",
+      "url": "https://es.wallapop.com/item/2-pares-joy-con-nintendo-switch-1255985586",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T16:10:30.754Z",
+      "last_seen": "2026-04-25T16:10:30.754Z"
+    },
+    {
+      "id": "4z482x425wjy",
+      "title": "Chasis y Tapa Trasera iPhone 14 Negro",
+      "model": "chasis tapa trasera iphone 14 negro",
+      "price": 45,
+      "city": "La Mojonera",
+      "url": "https://es.wallapop.com/item/chasis-y-tapa-trasera-iphone-14-negro-1255987486",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T16:10:30.754Z",
+      "last_seen": "2026-04-25T16:10:30.754Z"
+    },
+    {
+      "id": "e65qd15e806o",
+      "title": "iPhone 7 Plus Rose Gold",
+      "model": "iphone plus rose gold",
+      "price": 35,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/iphone-7-plus-rose-gold-1255985996",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T16:10:30.754Z",
+      "last_seen": "2026-04-25T16:10:30.754Z"
     }
   ]
 }
