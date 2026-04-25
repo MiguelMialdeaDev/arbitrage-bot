@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T10:56:13.892Z",
+  "updated_at": "2026-04-25T11:02:44.623Z",
   "tiers": {
     "proven_seller": [
       {
@@ -3795,7 +3795,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6758,39 +6758,6 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "lote funko pop stranger things",
-      "from_tier": "trending_7d",
-      "to_tier": "proven_seller",
-      "from_label": "✨ Trending 7d",
-      "to_label": "🚀 Proven seller",
-      "entry": {
-        "model": "lote funko pop stranger things",
-        "example_title": "Lote Funko Pop Stranger Things",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
-        "total_reservations": 1,
-        "confirmed_sales": 2,
-        "total_events": 3,
-        "reservations_24h": 2,
-        "reservations_7d": 3,
-        "reservations_30d": 3,
-        "reservations_per_day": 1.65,
-        "min_price": 5.5,
-        "median_price": 7.5,
-        "max_price": 8,
-        "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-25T10:56:13.890Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
-            "city": "Torrox Park"
-          }
-        ]
-      }
-    }
-  ],
+  "tier_ups": [],
   "new_sales": []
 }
