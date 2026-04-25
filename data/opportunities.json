@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-04-25T14:03:19.639Z",
+  "updated_at": "2026-04-25T14:17:39.752Z",
   "tiers": {
     "proven_seller": [
+      {
+        "model": "lote cartas pokemon",
+        "example_title": "Lote Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
+        "total_reservations": 1,
+        "confirmed_sales": 3,
+        "total_events": 4,
+        "reservations_24h": 1,
+        "reservations_7d": 4,
+        "reservations_30d": 4,
+        "reservations_per_day": 2.15,
+        "min_price": 12,
+        "median_price": 40,
+        "max_price": 280,
+        "first_seen": "2026-04-23T17:33:09.995Z",
+        "last_seen": "2026-04-25T14:17:39.751Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Lote Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
+            "city": "Valladolid"
+          }
+        ]
+      },
       {
         "model": "super mario odyssey nintendo switch",
         "example_title": "Super Mario Odyssey Nintendo Switch",
@@ -86,43 +111,6 @@
             "title": "Lote Funko Pop Stranger Things",
             "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
             "city": "Torrox Park"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas pokemon",
-        "example_title": "Lote Cartas Pokémon",
-        "example_url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
-        "total_reservations": 0,
-        "confirmed_sales": 3,
-        "total_events": 3,
-        "reservations_24h": 0,
-        "reservations_7d": 3,
-        "reservations_30d": 3,
-        "reservations_per_day": 3,
-        "min_price": 35,
-        "median_price": 40,
-        "max_price": 280,
-        "first_seen": "2026-04-23T17:33:09.995Z",
-        "last_seen": "2026-04-24T06:01:59.985Z",
-        "sample": [
-          {
-            "price": 280,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255335816",
-            "city": "Aguilar de Campoo"
-          },
-          {
-            "price": 35,
-            "title": "Lote de cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-de-cartas-pokemon-1255359345",
-            "city": "Madrid"
-          },
-          {
-            "price": 40,
-            "title": "Lote Cartas Pokémon",
-            "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255468805",
-            "city": "Parla"
           }
         ]
       }
@@ -288,6 +276,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "mario kart world nintendo switch",
+        "example_title": "Mario Kart World para Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T14:17:39.751Z",
+        "last_seen": "2026-04-25T14:17:39.751Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Mario Kart World para Nintendo Switch",
+            "url": "https://es.wallapop.com/item/mario-kart-world-nintendo-switch-1255952716",
+            "city": "Recale"
+          }
+        ]
+      },
       {
         "model": "resident evil requiem",
         "example_title": "Resident Evil requiem",
@@ -7270,9 +7283,9 @@
     "hot_24h": 2,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 279,
-    "total_unique_models": 288,
-    "total_reservations": 14,
+    "possible": 280,
+    "total_unique_models": 289,
+    "total_reservations": 16,
     "total_confirmed_sales": 288
   },
   "thresholds": {
@@ -7284,54 +7297,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "8j38kwrlpyz9",
-      "model": "pokemon espada nintendo switch rpg",
-      "title": "Pokemon Espada Nintendo Switch RPG",
-      "sold_price": 25,
-      "city": "Seseña",
-      "url": "https://es.wallapop.com/item/pokemon-espada-nintendo-switch-rpg-1255904810",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T11:47:40.163Z",
-      "last_seen": "2026-04-25T11:47:40.163Z",
-      "confirmed_at": "2026-04-25T14:03:19.637Z"
-    },
-    {
-      "id": "wzyrg1qgyv65",
-      "model": "crossingw",
-      "title": "A. Crossingw",
-      "sold_price": 30,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/a-crossingw-1255904244",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T11:47:40.163Z",
-      "last_seen": "2026-04-25T11:47:40.163Z",
-      "confirmed_at": "2026-04-25T14:03:19.637Z"
-    },
-    {
-      "id": "xzogw47992j9",
-      "model": "mario strikers battle league football nintendo sw",
-      "title": "Mario Strikers: Battle League Football Nintendo Sw",
-      "sold_price": 24,
-      "city": "Bilbao",
-      "url": "https://es.wallapop.com/item/mario-strikers-battle-league-football-nintendo-sw-1255907381",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T12:03:04.122Z",
-      "last_seen": "2026-04-25T12:03:04.122Z",
-      "confirmed_at": "2026-04-25T14:03:19.637Z"
-    },
-    {
-      "id": "8j38kwr7m2z9",
-      "model": "iphone negro",
-      "title": "iPhone 7 Negro",
-      "sold_price": 32,
-      "city": "Montblanc",
-      "url": "https://es.wallapop.com/item/iphone-7-negro-1255909282",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T12:03:04.122Z",
-      "last_seen": "2026-04-25T12:03:04.122Z",
-      "confirmed_at": "2026-04-25T14:03:19.637Z"
-    }
-  ]
+  "new_sales": []
 }
