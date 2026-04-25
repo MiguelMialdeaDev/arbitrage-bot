@@ -1,0 +1,262 @@
+{
+  "timestamp": "2026-04-25T04:15:21.204Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 202,
+      "new_items": 13,
+      "items": [
+        {
+          "title": "Funko Pop Star Wars Capitán Rex 274",
+          "price": 165,
+          "city": "Paracuellos de Jarama",
+          "url": "https://es.wallapop.com/item/funko-pop-star-wars-capitan-rex-274-1255794635",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko star wars capitan rex 274",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko star wars capitan rex 274' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Bolsas Lego Nexo Knights 70372 y Ninjago 71019",
+          "price": 4,
+          "city": "Arenella",
+          "url": "https://es.wallapop.com/item/buste-lego-nexo-knights-70372-e-ninjago-71019-1255795260",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "3 Cajas FIFA World Cup 2026 stickers de Panini",
+          "price": 184.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/3-cajas-fifa-world-cup-2026-stickers-de-panini-1255795169",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas fifa world cup stickers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas fifa world cup stickers' (sin evidencia de demanda)"
+        },
+        {
+          "title": "4 Cajas FIFA World Cup 2026 stickers de Panini",
+          "price": 246,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/4-cajas-fifa-world-cup-2026-stickers-de-panini-1255794697",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cajas fifa world cup stickers",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cajas fifa world cup stickers' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja de gemas Pokémon Gempack Volumen 3 v3",
+          "price": 135,
+          "city": "Ragusa ibla",
+          "url": "https://es.wallapop.com/item/pokemon-gempack-volume-3-gem-box-v3-1255795261",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "gemas pokemon gempack volumen",
+          "verdict": "skip",
+          "reason": "0 reservados de 'gemas pokemon gempack volumen' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cartas Pokémon V y VMAX variadas",
+          "price": 10,
+          "city": "Pobla",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-v-y-vmax-variadas-1255795049",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas pokemon vmax variadas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas pokemon vmax variadas' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Charizard V ASTRO Dorado",
+          "price": 20,
+          "city": "Pobla",
+          "url": "https://es.wallapop.com/item/carta-pokemon-charizard-v-astro-dorado-1255794565",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon charizard astro dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon charizard astro dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil Soldados confederados.",
+          "price": 35,
+          "city": "Esplugues de Llobregat",
+          "url": "https://es.wallapop.com/item/playmobil-soldados-confederados-1255795234",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil soldados confederados.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playmobil soldados confederados.' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil Soldados de la Unión (2 uds). Ref. 4628",
+          "price": 15,
+          "city": "Esplugues de Llobregat",
+          "url": "https://es.wallapop.com/item/playmobil-soldados-de-la-union-2-uds-ref-4628-1255794912",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil soldados union uds). ref.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playmobil soldados union uds). ref.' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Playmobil Rocas y Accesorios",
+          "price": 5,
+          "city": "Esplugues de Llobregat",
+          "url": "https://es.wallapop.com/item/playmobil-rocas-y-accesorios-1255794774",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Safari con Flamencos y Cesta",
+          "price": 5,
+          "city": "Esplugues de Llobregat",
+          "url": "https://es.wallapop.com/item/playmobil-safari-con-flamencos-y-cesta-1255794664",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote Playmobil Figuras Variadas",
+          "price": 18,
+          "city": "Esplugues de Llobregat",
+          "url": "https://es.wallapop.com/item/lote-playmobil-figuras-variadas-1255794607",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playmobil figuras variadas",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 6€ vs mín reservado 70€)"
+        },
+        {
+          "title": "Bolsas Playmobil Serie 21 y Serie 19, elige una pieza",
+          "price": 4,
+          "city": "Arenella",
+          "url": "https://es.wallapop.com/item/bustine-playmobil-serie-21-serie-19-scegli-un-pz-1255794549",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 232,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "iPhone 15 Pro Max Plata",
+          "price": 449,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-plata-1255795176",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max plata",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": 245.5,
+          "margin_pct": 55,
+          "score": 65,
+          "from_cache": false,
+          "verdict": "SIGNAL"
+        },
+        {
+          "title": "iPhone XS Max 64GB Gris Espacial",
+          "price": 145,
+          "city": "Santa Ponça",
+          "url": "https://es.wallapop.com/item/iphone-xs-max-64gb-gris-espacial-1255795155",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Batería Externa iPhone MagSafe",
+          "price": 24,
+          "city": "Benirredrà",
+          "url": "https://es.wallapop.com/item/bateria-externa-iphone-magsafe-1255795029",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bateria externa iphone magsafe",
+          "verdict": "skip",
+          "reason": "24€ vs mín reservado 25€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Batería Externa iPhone MagSafe Apple",
+          "price": 14,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/bateria-externa-iphone-magsafe-apple-1255794886",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "bateria externa iphone magsafe apple",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": 5.5,
+          "margin_pct": 39,
+          "score": 25,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=5.5€, pct=39%, score=25)"
+        },
+        {
+          "title": "IPhone 15 Plus De 256GB",
+          "price": 375,
+          "city": "Albacete",
+          "url": "https://es.wallapop.com/item/iphone-15-plus-de-256gb-1255794498",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17e 256GB blanco",
+          "price": 570,
+          "city": "Girona",
+          "url": "https://es.wallapop.com/item/iphone-17e-256gb-blanco-1255794443",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 17e 256gb blanco",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 17e 256gb blanco' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 1
+    },
+    "Cine, libros y música": {
+      "total_items": 151,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 76,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 32,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 19,
+  "total_signals": 1,
+  "duration_s": 65
+}
