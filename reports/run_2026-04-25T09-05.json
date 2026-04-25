@@ -1,0 +1,166 @@
+{
+  "timestamp": "2026-04-25T09:04:55.964Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 201,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Funko Pop! Invincible Omni-Man 1500",
+          "price": 29.95,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/funko-pop-invincible-omni-man-1500-1255848429",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! invincible omni-man 1500",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! invincible omni-man 1500' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Roronoa Zoro Kinder Sorpresa",
+          "price": 16.7,
+          "city": "Manlleu",
+          "url": "https://es.wallapop.com/item/roronoa-zoro-kinder-sorpresa-1255847552",
+          "reserved": false,
+          "profile": "funko",
+          "verdict": "skip",
+          "reason": "no es Pop estándar (kinder/mini/llavero)"
+        },
+        {
+          "title": "2021-22 2023-24 Megacracks Barcelona Pedri",
+          "price": 12,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/2021-22-2023-24-megacracks-barcelona-pedri-1255848305",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "2021-22 2023-24 megacracks barcelona pedri",
+          "verdict": "skip",
+          "reason": "0 reservados de '2021-22 2023-24 megacracks barcelona pedri' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Vendo Cromo Panini Adrenalyn 25/26 Julián Álvarez",
+          "price": 4,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/vendo-cromo-panini-adrenalyn-25-26-julian-alvarez-1255848077",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Álbum Adrenalyn 22/23 - 608 cartas",
+          "price": 60,
+          "city": "Villamediana de Iregua",
+          "url": "https://es.wallapop.com/item/album-adrenalyn-22-23-608-cartas-1255847950",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "album adrenalyn 22/23 cartas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'album adrenalyn 22/23 cartas' (sin evidencia de demanda)"
+        },
+        {
+          "title": "2021-22 Megacracks Iconos Ronaldinho Ronaldo",
+          "price": 11,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/2021-22-megacracks-iconos-ronaldinho-ronaldo-1255847452",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "2021-22 megacracks iconos ronaldinho ronaldo",
+          "verdict": "skip",
+          "reason": "0 reservados de '2021-22 megacracks iconos ronaldinho ronaldo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote Mallorca errores Megacracks panini 2004-05",
+          "price": 30,
+          "city": "Cardedeu",
+          "url": "https://es.wallapop.com/item/lote-mallorca-errores-megacracks-panini-2004-05-1255846975",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mallorca errores megacracks panini 2004-05",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mallorca errores megacracks panini 2004-05' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lote 500 Cartas Magic Infr. Inglés",
+          "price": 12,
+          "city": "Castello/Castellon de La Plana",
+          "url": "https://es.wallapop.com/item/lote-500-cartas-magic-infr-ingles-1255848174",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cartas magic infr. ingles",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cartas magic infr. ingles' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 253,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 169,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 79,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta de tenis Head con funda",
+          "price": 50,
+          "city": "Becerril de la Sierra",
+          "url": "https://es.wallapop.com/item/raqueta-de-tenis-head-con-funda-1255848628",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta tenis head con funda",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta tenis head con funda' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 43,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Casa Blanca de Blancanieves Polly Pocket Bluebird",
+          "price": 35,
+          "city": "Ercolano",
+          "url": "https://es.wallapop.com/item/casetta-biancaneve-polly-pocket-bluebird-1255849476",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "casa blanca blancanieves polly pocket",
+          "verdict": "skip",
+          "reason": "0 reservados de 'casa blanca blancanieves polly pocket' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Figura Lego Bionicle PVC",
+          "price": 5,
+          "city": "Alcobendas",
+          "url": "https://es.wallapop.com/item/figura-lego-bionicle-pvc-1255849806",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 11,
+  "total_signals": 0,
+  "duration_s": 62
+}
