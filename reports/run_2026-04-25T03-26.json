@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-04-25T03:25:37.746Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 197,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Funko Pop! Disney Sally 1380",
+          "price": 12,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/funko-pop-disney-sally-1380-1255792678",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! disney sally 1380",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! disney sally 1380' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Charizard EX Teracristal 215/197",
+          "price": 0,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/carta-pokemon-charizard-ex-teracristal-215-197-1255792688",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Cartas Pokémon: Clauncher, Alakazam, Espurr, Korai",
+          "price": 0,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-clauncher-alakazam-espurr-korai-1255792581",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 232,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 151,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Lote 8 CDs de Labordeta",
+          "price": 49,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/lote-8-cds-de-labordeta-1255792485",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cds labordeta",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cds labordeta' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pack Trilogía La Momia Blu-ray",
+          "price": 20,
+          "city": "Estepona",
+          "url": "https://es.wallapop.com/item/pack-trilogia-la-momia-blu-ray-1255792751",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pack trilogia momia blu-ray",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pack trilogia momia blu-ray' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 76,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 32,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 5,
+  "total_signals": 0,
+  "duration_s": 63
+}

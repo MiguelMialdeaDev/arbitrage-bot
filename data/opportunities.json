@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T03:16:34.005Z",
+  "updated_at": "2026-04-25T03:26:41.115Z",
   "tiers": {
     "proven_seller": [
       {
@@ -6034,18 +6034,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "e65qdk480g6o",
-      "model": "caballero zodiaco figura",
-      "title": "Caballero del Zodiaco Figura",
-      "sold_price": 15,
-      "city": "Sevilla",
-      "url": "https://es.wallapop.com/item/caballero-del-zodiaco-figura-1255761700",
-      "category": "Niños y bebés",
-      "first_reserved": "2026-04-24T22:25:48.207Z",
-      "last_seen": "2026-04-24T22:25:48.207Z",
-      "confirmed_at": "2026-04-25T03:16:34.004Z"
-    }
-  ]
+  "new_sales": []
 }
