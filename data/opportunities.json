@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T10:31:55.935Z",
+  "updated_at": "2026-04-25T10:47:51.042Z",
   "tiers": {
     "proven_seller": [
       {
@@ -294,6 +294,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "minifigura lego ninjago blanco verde",
+        "example_title": "Minifigura de Lego Ninjago - Blanco y Verde",
+        "example_url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-25T10:47:51.040Z",
+        "last_seen": "2026-04-25T10:47:51.040Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Minifigura de Lego Ninjago - Blanco y Verde",
+            "url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
+            "city": "Russi"
+          }
+        ]
+      },
+      {
+        "model": "figura accion cable",
+        "example_title": "Figura de acción con cable",
+        "example_url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 250,
+        "median_price": 250,
+        "max_price": 250,
+        "first_seen": "2026-04-25T10:47:51.040Z",
+        "last_seen": "2026-04-25T10:47:51.040Z",
+        "sample": [
+          {
+            "price": 250,
+            "title": "Figura de acción con cable",
+            "url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "playmobil superheroes figuras",
+        "example_title": "Playmobil Superhéroes (4 figuras)",
+        "example_url": "https://es.wallapop.com/item/playmobil-superheroes-4-figuras-1255831766",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4,
+        "median_price": 4,
+        "max_price": 4,
+        "first_seen": "2026-04-25T10:47:51.040Z",
+        "last_seen": "2026-04-25T10:47:51.040Z",
+        "sample": [
+          {
+            "price": 4,
+            "title": "Playmobil Superhéroes (4 figuras)",
+            "url": "https://es.wallapop.com/item/playmobil-superheroes-4-figuras-1255831766",
+            "city": "Burriana"
+          }
+        ]
+      },
       {
         "model": "lote cartas energia pokemon",
         "example_title": "Lote Cartas Energía Pokémon",
@@ -891,31 +966,6 @@
             "title": "Lote Vinilos Elvis y The Beatles",
             "url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "playmobil superheroes figuras",
-        "example_title": "Playmobil Superhéroes (4 figuras)",
-        "example_url": "https://es.wallapop.com/item/playmobil-superheroes-4-figuras-1255831766",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 4,
-        "median_price": 4,
-        "max_price": 4,
-        "first_seen": "2026-04-25T08:32:38.560Z",
-        "last_seen": "2026-04-25T08:32:38.560Z",
-        "sample": [
-          {
-            "price": 4,
-            "title": "Playmobil Superhéroes (4 figuras)",
-            "url": "https://es.wallapop.com/item/playmobil-superheroes-4-figuras-1255831766",
-            "city": "Burriana"
           }
         ]
       },
@@ -3801,7 +3851,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3826,7 +3876,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3851,7 +3901,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6701,10 +6751,10 @@
     "hot_24h": 3,
     "trending_7d": 4,
     "recurring": 0,
-    "possible": 256,
-    "total_unique_models": 265,
-    "total_reservations": 22,
-    "total_confirmed_sales": 254
+    "possible": 258,
+    "total_unique_models": 267,
+    "total_reservations": 23,
+    "total_confirmed_sales": 255
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6715,5 +6765,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "x6qq1gdvwo6y",
+      "model": "playmobil superheroes figuras",
+      "title": "Playmobil Superhéroes (4 figuras)",
+      "sold_price": 4,
+      "city": "Burriana",
+      "url": "https://es.wallapop.com/item/playmobil-superheroes-4-figuras-1255831766",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T08:32:38.560Z",
+      "last_seen": "2026-04-25T08:32:38.560Z",
+      "confirmed_at": "2026-04-25T10:47:51.040Z"
+    }
+  ]
 }
