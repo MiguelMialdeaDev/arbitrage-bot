@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T15:02:13.105Z",
+  "updated_at": "2026-04-25T15:17:02.672Z",
   "tiers": {
     "proven_seller": [
       {
@@ -276,6 +276,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "cartas pokemon varias lote",
+        "example_title": "Cartas Pokémon Varias (Lote)",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-25T15:17:02.670Z",
+        "last_seen": "2026-04-25T15:17:02.670Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Cartas Pokémon Varias (Lote)",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
+            "city": "Aranjuez"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas pokemon fosil",
+        "example_title": "Lote cartas Pokémon Fósil",
+        "example_url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-25T15:17:02.670Z",
+        "last_seen": "2026-04-25T15:17:02.670Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Lote cartas Pokémon Fósil",
+            "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
+            "city": "Algeciras"
+          }
+        ]
+      },
       {
         "model": "lote carlos",
         "example_title": "Lote Carlos",
@@ -898,56 +948,6 @@
             "title": "Cromos para groquet,MDB",
             "url": "https://es.wallapop.com/item/cromos-para-groquet-mdb-1255932284",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "cartas pokemon varias lote",
-        "example_title": "Cartas Pokémon Varias (Lote)",
-        "example_url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-25T13:02:35.233Z",
-        "last_seen": "2026-04-25T13:02:35.233Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Cartas Pokémon Varias (Lote)",
-            "url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
-            "city": "Aranjuez"
-          }
-        ]
-      },
-      {
-        "model": "lote cartas pokemon fosil",
-        "example_title": "Lote cartas Pokémon Fósil",
-        "example_url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-25T13:02:35.233Z",
-        "last_seen": "2026-04-25T13:02:35.233Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Lote cartas Pokémon Fósil",
-            "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
-            "city": "Algeciras"
           }
         ]
       },
@@ -7410,8 +7410,8 @@
     "recurring": 0,
     "possible": 285,
     "total_unique_models": 294,
-    "total_reservations": 18,
-    "total_confirmed_sales": 292
+    "total_reservations": 16,
+    "total_confirmed_sales": 294
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7422,5 +7422,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "x6qq1gwx256y",
+      "model": "cartas pokemon varias lote",
+      "title": "Cartas Pokémon Varias (Lote)",
+      "sold_price": 15,
+      "city": "Aranjuez",
+      "url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T13:02:35.233Z",
+      "last_seen": "2026-04-25T13:02:35.233Z",
+      "confirmed_at": "2026-04-25T15:17:02.670Z"
+    },
+    {
+      "id": "4z482xk8w8jy",
+      "model": "lote cartas pokemon fosil",
+      "title": "Lote cartas Pokémon Fósil",
+      "sold_price": 25,
+      "city": "Algeciras",
+      "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T13:02:35.233Z",
+      "last_seen": "2026-04-25T13:02:35.233Z",
+      "confirmed_at": "2026-04-25T15:17:02.670Z"
+    }
+  ]
 }

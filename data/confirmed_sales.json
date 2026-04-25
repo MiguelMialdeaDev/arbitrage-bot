@@ -3503,6 +3503,30 @@
       "first_reserved": "2026-04-25T12:47:34.430Z",
       "last_seen": "2026-04-25T12:47:34.430Z",
       "confirmed_at": "2026-04-25T14:55:46.440Z"
+    },
+    {
+      "id": "x6qq1gwx256y",
+      "model": "cartas pokemon varias lote",
+      "title": "Cartas Pokémon Varias (Lote)",
+      "sold_price": 15,
+      "city": "Aranjuez",
+      "url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T13:02:35.233Z",
+      "last_seen": "2026-04-25T13:02:35.233Z",
+      "confirmed_at": "2026-04-25T15:17:02.670Z"
+    },
+    {
+      "id": "4z482xk8w8jy",
+      "model": "lote cartas pokemon fosil",
+      "title": "Lote cartas Pokémon Fósil",
+      "sold_price": 25,
+      "city": "Algeciras",
+      "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T13:02:35.233Z",
+      "last_seen": "2026-04-25T13:02:35.233Z",
+      "confirmed_at": "2026-04-25T15:17:02.670Z"
     }
   ]
 }
