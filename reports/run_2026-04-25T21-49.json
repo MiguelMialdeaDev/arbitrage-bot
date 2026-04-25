@@ -1,0 +1,285 @@
+{
+  "timestamp": "2026-04-25T21:48:09.245Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 208,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Funko Pop! Aaahh!!! Real Monsters (3 figuras)",
+          "price": 39.95,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/funko-pop-aaahh-real-monsters-3-figuras-1256074536",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! aaahh!!! real monsters figuras)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! aaahh!!! real monsters figuras)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Eminem B-Rabbit Descatalogado",
+          "price": 100,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/funko-pop-eminem-b-rabbit-descatalogado-1256074531",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko eminem b-rabbit descatalogado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko eminem b-rabbit descatalogado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cromo Cristiano Ronaldo Panini Total Kings",
+          "price": 2,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/cromo-cristiano-ronaldo-panini-total-kings-1256074356",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Cromos Adrenalyn Futbol Panini",
+          "price": 99,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/cromos-adrenalyn-futbol-panini-1256074002",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromos adrenalyn futbol panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromos adrenalyn futbol panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Chaos Rising Elite Trainer Box Pokemon TCG",
+          "price": 89.99,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/pokemon-tcg-chaos-rising-elite-trainer-box-1256074466",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "chaos rising elite trainer box",
+          "verdict": "skip",
+          "reason": "0 reservados de 'chaos rising elite trainer box' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Triunfo Amargo Foil (Magic The Gathering)",
+          "price": 13,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/triunfo-amargo-foil-magic-the-gathering-1256074516",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "triunfo amargo foil (magic the",
+          "verdict": "skip",
+          "reason": "0 reservados de 'triunfo amargo foil (magic the' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Dark Gyarados Team Rocket",
+          "price": 39.99,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/carta-pokemon-dark-gyarados-team-rocket-1256074494",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon dark gyarados team",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon dark gyarados team' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja metacrilato para Pokémon",
+          "price": 10,
+          "city": "Cobeña",
+          "url": "https://es.wallapop.com/item/caja-metacrilato-para-pokemon-1256074328",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "metacrilato para pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'metacrilato para pokemon' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 266,
+      "new_items": 12,
+      "items": [
+        {
+          "title": "Donkey Kong Country Tropical Freeze Switch",
+          "price": 0,
+          "city": "Puerto de Sagunto",
+          "url": "https://es.wallapop.com/item/donkey-kong-country-tropical-freeze-switch-1256074295",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Mortal Kombat 11 Nintendo Switch",
+          "price": 19,
+          "city": "O Con",
+          "url": "https://es.wallapop.com/item/mortal-kombat-11-nintendo-switch-1256074035",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mortal kombat nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mortal kombat nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PlayStation 5 Blanca",
+          "price": 390,
+          "city": "Toledo",
+          "url": "https://es.wallapop.com/item/consola-sony-playstation-5-blanca-1256074508",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony playstation blanca",
+          "verdict": "skip",
+          "reason": "390€ vs mín reservado 280€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Sony Dualsense Wireless Controller - White Ps5 (Pl",
+          "price": 40,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/sony-dualsense-wireless-controller-white-ps5-pl-1256074481",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sony dualsense wireless controller white",
+          "verdict": "skip",
+          "reason": "0 reservados de 'sony dualsense wireless controller white' (sin evidencia de demanda)"
+        },
+        {
+          "title": "FIFA 18 Xbox One",
+          "price": 5,
+          "city": "Torremolinos",
+          "url": "https://es.wallapop.com/item/fifa-18-xbox-one-1256074297",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Metal Gear Solid V Ground Zeroes Xbox One",
+          "price": 10,
+          "city": "Torremolinos",
+          "url": "https://es.wallapop.com/item/metal-gear-solid-v-ground-zeroes-xbox-one-1256074075",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "metal gear solid ground zeroes",
+          "verdict": "skip",
+          "reason": "10€ vs mín reservado 5€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 15",
+          "price": 410,
+          "city": "Barbate",
+          "url": "https://es.wallapop.com/item/iphone-15-1256074523",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Pro Dorado",
+          "price": 850,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-dorado-1256074474",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Azul 128GB",
+          "price": 229,
+          "city": "Arévalo",
+          "url": "https://es.wallapop.com/item/iphone-13-azul-128gb-1256074215",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone azul 128gb",
+          "verdict": "skip",
+          "reason": "229€ vs mín reservado 180€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 16 Pro Max 512GB con caja factura",
+          "price": 1000,
+          "city": "Santa Coloma de Gramenet",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-512gb-con-caja-factura-1256074019",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 512gb con",
+          "verdict": "skip",
+          "reason": "1000€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Apple Watch Series 10 46mm Nuevo",
+          "price": 250,
+          "city": "Mataró",
+          "url": "https://es.wallapop.com/item/apple-watch-series-10-46mm-nuevo-1256074378",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series 46mm",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series 46mm' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cambio Garmin Fenix 8 Pro 51mm",
+          "price": 900,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/cambio-garmin-fenix-8-pro-51mm-1256073938",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cambio garmin fenix pro 51mm",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cambio garmin fenix pro 51mm' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 183,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Conversaciones con Otras Mujeres (Blu-Ray + DVD)",
+          "price": 8,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/conversaciones-con-otras-mujeres-blu-ray---dvd-1256074542",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 113,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Juego de mesa Guatafac El Punto G",
+          "price": 25,
+          "city": "Oviedo",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-guatafac-el-punto-g-1256074106",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa guatafac punto",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego mesa guatafac punto' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 46,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 22,
+  "total_signals": 0,
+  "duration_s": 78
+}

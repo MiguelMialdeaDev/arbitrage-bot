@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T21:46:56.883Z",
+  "updated_at": "2026-04-25T21:49:26.763Z",
   "tiers": {
     "proven_seller": [
       {
@@ -330,6 +330,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack cartas pokemon tyrunt aurorus charcadet",
+        "example_title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
+        "example_url": "https://es.wallapop.com/item/pack-cartas-pokemon-tyrunt-aurorus-charcadet-1256050380",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 22,
+        "median_price": 22,
+        "max_price": 22,
+        "first_seen": "2026-04-25T21:49:26.762Z",
+        "last_seen": "2026-04-25T21:49:26.762Z",
+        "sample": [
+          {
+            "price": 22,
+            "title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
+            "url": "https://es.wallapop.com/item/pack-cartas-pokemon-tyrunt-aurorus-charcadet-1256050380",
+            "city": "Fuengirola"
+          }
+        ]
+      },
+      {
+        "model": "playmobil anuncio diego",
+        "example_title": "Playmobil. Anuncio para Diego.",
+        "example_url": "https://es.wallapop.com/item/playmobil-anuncio-para-diego-1256049779",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T21:49:26.762Z",
+        "last_seen": "2026-04-25T21:49:26.762Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Playmobil. Anuncio para Diego.",
+            "url": "https://es.wallapop.com/item/playmobil-anuncio-para-diego-1256049779",
+            "city": "Écija"
+          }
+        ]
+      },
+      {
+        "model": "television marquee moon vinilo lp",
+        "example_title": "Television Marquee Moon Vinilo LP",
+        "example_url": "https://es.wallapop.com/item/television-marquee-moon-vinilo-lp-1256050347",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T21:49:26.762Z",
+        "last_seen": "2026-04-25T21:49:26.762Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Television Marquee Moon Vinilo LP",
+            "url": "https://es.wallapop.com/item/television-marquee-moon-vinilo-lp-1256050347",
+            "city": "Valencia"
+          }
+        ]
+      },
       {
         "model": "vinilo zz top afterburner lp",
         "example_title": "Vinilo ZZ Top Afterburner LP",
@@ -902,81 +977,6 @@
             "title": "Mando PS5 Sony Blanco",
             "url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
             "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "pack cartas pokemon tyrunt aurorus charcadet",
-        "example_title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
-        "example_url": "https://es.wallapop.com/item/pack-cartas-pokemon-tyrunt-aurorus-charcadet-1256050380",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 22,
-        "median_price": 22,
-        "max_price": 22,
-        "first_seen": "2026-04-25T19:47:03.189Z",
-        "last_seen": "2026-04-25T19:47:03.189Z",
-        "sample": [
-          {
-            "price": 22,
-            "title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
-            "url": "https://es.wallapop.com/item/pack-cartas-pokemon-tyrunt-aurorus-charcadet-1256050380",
-            "city": "Fuengirola"
-          }
-        ]
-      },
-      {
-        "model": "playmobil anuncio diego",
-        "example_title": "Playmobil. Anuncio para Diego.",
-        "example_url": "https://es.wallapop.com/item/playmobil-anuncio-para-diego-1256049779",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 40,
-        "median_price": 40,
-        "max_price": 40,
-        "first_seen": "2026-04-25T19:47:03.189Z",
-        "last_seen": "2026-04-25T19:47:03.189Z",
-        "sample": [
-          {
-            "price": 40,
-            "title": "Playmobil. Anuncio para Diego.",
-            "url": "https://es.wallapop.com/item/playmobil-anuncio-para-diego-1256049779",
-            "city": "Écija"
-          }
-        ]
-      },
-      {
-        "model": "television marquee moon vinilo lp",
-        "example_title": "Television Marquee Moon Vinilo LP",
-        "example_url": "https://es.wallapop.com/item/television-marquee-moon-vinilo-lp-1256050347",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-25T19:47:03.189Z",
-        "last_seen": "2026-04-25T19:47:03.189Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "Television Marquee Moon Vinilo LP",
-            "url": "https://es.wallapop.com/item/television-marquee-moon-vinilo-lp-1256050347",
-            "city": "Valencia"
           }
         ]
       },
@@ -3512,7 +3512,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3537,7 +3537,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8714,8 +8714,8 @@
     "recurring": 0,
     "possible": 335,
     "total_unique_models": 345,
-    "total_reservations": 20,
-    "total_confirmed_sales": 343
+    "total_reservations": 17,
+    "total_confirmed_sales": 346
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8726,5 +8726,42 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "qzmm0dl3g1zv",
+      "model": "pack cartas pokemon tyrunt aurorus charcadet",
+      "title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
+      "sold_price": 22,
+      "city": "Fuengirola",
+      "url": "https://es.wallapop.com/item/pack-cartas-pokemon-tyrunt-aurorus-charcadet-1256050380",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T19:47:03.189Z",
+      "last_seen": "2026-04-25T19:47:03.189Z",
+      "confirmed_at": "2026-04-25T21:49:26.762Z"
+    },
+    {
+      "id": "p618m0rvxdz5",
+      "model": "playmobil anuncio diego",
+      "title": "Playmobil. Anuncio para Diego.",
+      "sold_price": 40,
+      "city": "Écija",
+      "url": "https://es.wallapop.com/item/playmobil-anuncio-para-diego-1256049779",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T19:47:03.189Z",
+      "last_seen": "2026-04-25T19:47:03.189Z",
+      "confirmed_at": "2026-04-25T21:49:26.762Z"
+    },
+    {
+      "id": "ejkmn3l419zx",
+      "model": "television marquee moon vinilo lp",
+      "title": "Television Marquee Moon Vinilo LP",
+      "sold_price": 5,
+      "city": "Valencia",
+      "url": "https://es.wallapop.com/item/television-marquee-moon-vinilo-lp-1256050347",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T19:47:03.189Z",
+      "last_seen": "2026-04-25T19:47:03.189Z",
+      "confirmed_at": "2026-04-25T21:49:26.762Z"
+    }
+  ]
 }
