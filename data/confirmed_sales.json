@@ -2987,6 +2987,30 @@
       "first_reserved": "2026-04-25T07:32:17.035Z",
       "last_seen": "2026-04-25T07:32:17.035Z",
       "confirmed_at": "2026-04-25T09:32:46.435Z"
+    },
+    {
+      "id": "e65qd13q5m6o",
+      "model": "will",
+      "title": "2 Will",
+      "sold_price": 20,
+      "city": "Albal",
+      "url": "https://es.wallapop.com/item/2-will-1255817448",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T07:43:38.138Z",
+      "last_seen": "2026-04-25T07:43:38.138Z",
+      "confirmed_at": "2026-04-25T09:47:54.809Z"
+    },
+    {
+      "id": "3zlmp29m9njx",
+      "model": "pack blu ray trilogia crepusculo",
+      "title": "Pack Blu-ray Trilogía Crepúsculo",
+      "sold_price": 15,
+      "city": "Daimiel",
+      "url": "https://es.wallapop.com/item/pack-blu-ray-trilogia-crepusculo-1255817169",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T07:43:38.138Z",
+      "last_seen": "2026-04-25T07:43:38.138Z",
+      "confirmed_at": "2026-04-25T09:47:54.809Z"
     }
   ]
 }

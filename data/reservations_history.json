@@ -45,28 +45,6 @@
       "last_seen": "2026-04-24T23:46:46.476Z"
     },
     {
-      "id": "e65qd13q5m6o",
-      "title": "2 Will",
-      "model": "will",
-      "price": 20,
-      "city": "Albal",
-      "url": "https://es.wallapop.com/item/2-will-1255817448",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-25T07:43:38.138Z",
-      "last_seen": "2026-04-25T07:43:38.138Z"
-    },
-    {
-      "id": "3zlmp29m9njx",
-      "title": "Pack Blu-ray Trilogía Crepúsculo",
-      "model": "pack blu ray trilogia crepusculo",
-      "price": 15,
-      "city": "Daimiel",
-      "url": "https://es.wallapop.com/item/pack-blu-ray-trilogia-crepusculo-1255817169",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-25T07:43:38.138Z",
-      "last_seen": "2026-04-25T07:43:38.138Z"
-    },
-    {
       "id": "vjrem59vvxzk",
       "title": "Vinilo lp elena",
       "model": "vinilo lp elena",
@@ -153,6 +131,39 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-25T09:32:46.435Z",
       "last_seen": "2026-04-25T09:32:46.435Z"
+    },
+    {
+      "id": "wzyrg1rvrx65",
+      "title": "Cartas Pokémon Splendor Astral",
+      "model": "cartas pokemon splendor astral",
+      "price": 115,
+      "city": "Oropesa/Oropesa del Mar",
+      "url": "https://es.wallapop.com/item/cartas-pokemon-splendor-astral-1255862168",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-25T09:47:54.809Z",
+      "last_seen": "2026-04-25T09:47:54.809Z"
+    },
+    {
+      "id": "pj940244006e",
+      "title": "Carta Pokémon Meowth Básico 106/094 y charizard 13",
+      "model": "carta pokemon meowth basico 106 094 charizard 13",
+      "price": 15,
+      "city": "Bilbao",
+      "url": "https://es.wallapop.com/item/carta-pokemon-meowth-basico-106-094-y-charizard-13-1255858885",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-25T09:47:54.809Z",
+      "last_seen": "2026-04-25T09:47:54.809Z"
+    },
+    {
+      "id": "e65qd1q2ek6o",
+      "title": "Space Hulk Death Angel + Expansiones",
+      "model": "space hulk death angel expansiones",
+      "price": 30,
+      "city": "Donostia-San Sebastián",
+      "url": "https://es.wallapop.com/item/space-hulk-death-angel---expansiones-1255862296",
+      "category": "Deporte y ocio",
+      "first_seen": "2026-04-25T09:47:54.809Z",
+      "last_seen": "2026-04-25T09:47:54.809Z"
     }
   ]
 }
