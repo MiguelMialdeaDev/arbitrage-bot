@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T17:51:04.600Z",
+  "updated_at": "2026-04-25T18:02:18.347Z",
   "tiers": {
     "proven_seller": [
       {
@@ -337,6 +337,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "cartas pokemon snorlax mightyena",
+        "example_title": "Cartas Pokémon Snorlax y Mightyena",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T18:02:18.345Z",
+        "last_seen": "2026-04-25T18:02:18.345Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Cartas Pokémon Snorlax y Mightyena",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
+            "city": "Palma de Mallorca"
+          }
+        ]
+      },
       {
         "model": "mando ps5 sony blanco",
         "example_title": "Mando PS5 Sony Blanco",
@@ -8069,9 +8094,9 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 309,
-    "total_unique_models": 319,
-    "total_reservations": 20,
+    "possible": 310,
+    "total_unique_models": 320,
+    "total_reservations": 21,
     "total_confirmed_sales": 316
   },
   "thresholds": {
