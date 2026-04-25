@@ -1,0 +1,198 @@
+{
+  "timestamp": "2026-04-25T03:15:23.011Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 198,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Lote 20 Cartas Pokémon Variadas",
+          "price": 2,
+          "city": "León",
+          "url": "https://es.wallapop.com/item/lote-20-cartas-pokemon-variadas-1255792244",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 232,
+      "new_items": 11,
+      "items": [
+        {
+          "title": "Consola Sony PS5 Firmware Bajo 8.00",
+          "price": 499,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/consola-sony-ps5-firmware-bajo-8-00-1255792197",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: no funciona"
+        },
+        {
+          "title": "Lote 3 Juegos PS5 Tortugas Ninja",
+          "price": 74.95,
+          "city": "Valladolid",
+          "url": "https://es.wallapop.com/item/lote-3-juegos-ps5-tortugas-ninja-1255792072",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juegos ps5 tortugas ninja",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juegos ps5 tortugas ninja' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS4 Slim 500GB Negra",
+          "price": 110,
+          "city": "Getxo",
+          "url": "https://es.wallapop.com/item/ps4-slim-500gb-negra-1255792249",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 slim 500gb negra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps4 slim 500gb negra' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 17 PRO MAX SILVER",
+          "price": 1099.99,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-silver-1255792088",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max silver",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max silver' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 16 PLUS",
+          "price": 549.99,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-16-plus-1255792015",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus' (sin evidencia de demanda)"
+        },
+        {
+          "title": "\"0casión\" IPhone 11•64Gb (Púrpura ó Morado)",
+          "price": 140,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/0casion-iphone-11-64gb-purpura-o-morado-1255791897",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: no funciona"
+        },
+        {
+          "title": "IPHONE 17 DE 256 GB",
+          "price": 699.99,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-17-de-256-gb-1255791893",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 17 PRO MAX",
+          "price": 1049.99,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-1255791772",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "IPHONE 17 PRO MAX SILVER",
+          "price": 1149.99,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-silver-1255791697",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max silver",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max silver' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro 256 GB Dorado",
+          "price": 280,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-256-gb-dorado-1255791634",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch Series 7 Cellular + GPS Beige",
+          "price": 150,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/apple-watch-series-7-cellular---gps-beige-1255792187",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch series cellular gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch series cellular gps' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 151,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "🇪🇸 Cómic El Víbora número 204.",
+          "price": 3,
+          "city": "Santiago de Compostela",
+          "url": "https://es.wallapop.com/item/comic-el-vibora-numero-204-1255792293",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 76,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Orleans + La Plaga",
+          "price": 75,
+          "city": "Pontevedra",
+          "url": "https://es.wallapop.com/item/orleans---la-plaga-1255791640",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "orleans plaga",
+          "verdict": "skip",
+          "reason": "0 reservados de 'orleans plaga' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 32,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 14,
+  "total_signals": 0,
+  "duration_s": 71
+}

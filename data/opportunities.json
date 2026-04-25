@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T03:01:47.610Z",
+  "updated_at": "2026-04-25T03:16:34.005Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "caballero zodiaco figura",
+        "example_title": "Caballero del Zodiaco Figura",
+        "example_url": "https://es.wallapop.com/item/caballero-del-zodiaco-figura-1255761700",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-25T03:16:34.004Z",
+        "last_seen": "2026-04-25T03:16:34.004Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Caballero del Zodiaco Figura",
+            "url": "https://es.wallapop.com/item/caballero-del-zodiaco-figura-1255761700",
+            "city": "Sevilla"
+          }
+        ]
+      },
       {
         "model": "lote cartas pokemon variadas",
         "example_title": "Lote Cartas Pokémon Variadas",
@@ -510,31 +535,6 @@
             "title": "Lote Cartas Magic the Gathering +3kg",
             "url": "https://es.wallapop.com/item/lote-cartas-magic-the-gathering--3kg-1255743740",
             "city": "Vilariño"
-          }
-        ]
-      },
-      {
-        "model": "caballero zodiaco figura",
-        "example_title": "Caballero del Zodiaco Figura",
-        "example_url": "https://es.wallapop.com/item/caballero-del-zodiaco-figura-1255761700",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 15,
-        "median_price": 15,
-        "max_price": 15,
-        "first_seen": "2026-04-24T22:25:48.207Z",
-        "last_seen": "2026-04-24T22:25:48.207Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Caballero del Zodiaco Figura",
-            "url": "https://es.wallapop.com/item/caballero-del-zodiaco-figura-1255761700",
-            "city": "Sevilla"
           }
         ]
       },
@@ -6022,8 +6022,8 @@
     "recurring": 0,
     "possible": 231,
     "total_unique_models": 238,
-    "total_reservations": 7,
-    "total_confirmed_sales": 240
+    "total_reservations": 6,
+    "total_confirmed_sales": 241
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6034,5 +6034,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "e65qdk480g6o",
+      "model": "caballero zodiaco figura",
+      "title": "Caballero del Zodiaco Figura",
+      "sold_price": 15,
+      "city": "Sevilla",
+      "url": "https://es.wallapop.com/item/caballero-del-zodiaco-figura-1255761700",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-24T22:25:48.207Z",
+      "last_seen": "2026-04-24T22:25:48.207Z",
+      "confirmed_at": "2026-04-25T03:16:34.004Z"
+    }
+  ]
 }
