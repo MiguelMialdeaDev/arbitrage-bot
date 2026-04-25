@@ -1,0 +1,130 @@
+{
+  "timestamp": "2026-04-25T03:00:39.324Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 199,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Pokémon Escarlata y Púrpura: Corona Astral",
+          "price": 1,
+          "city": "Colmenar Viejo",
+          "url": "https://es.wallapop.com/item/pokemon-escarlata-y-purpura-corona-astral-1255791031",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 230,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Nintendo Switch Lite Verde + 5 Juegos",
+          "price": 365,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/nintendo-switch-lite-verde---5-juegos-1255791185",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch lite verde",
+          "verdict": "skip",
+          "reason": "365€ vs mín reservado 90€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Mando PS5 DualSense Negro/Blanco",
+          "price": 1,
+          "city": "Almería",
+          "url": "https://es.wallapop.com/item/mando-ps5-dualsense-negro-blanco-1255791165",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "iPhone 14 Pro Max 512 GB",
+          "price": 384,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-512-gb-1255791444",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 150,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "¡Aterriza Como Puedas! Blu-ray Comedia",
+          "price": 6,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/aterriza-como-puedas-blu-ray-comedia-1255791049",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Blu-ray Mulan Disney Español",
+          "price": 6,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-mulan-disney-espanol-1255790961",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Resident Evil Degeneración Blu-ray Español",
+          "price": 4,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/resident-evil-degeneracion-blu-ray-espanol-1255790884",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 76,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Héroes Urbanos y Shintiara: Aventuras en el Cronoverso",
+          "price": 100,
+          "city": "Confreria",
+          "url": "https://es.wallapop.com/item/urban-heroes-e-shintiara-avventure-nel-cronoverso-1255790973",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "heroes urbanos shintiara: aventuras cronoverso",
+          "verdict": "skip",
+          "reason": "0 reservados de 'heroes urbanos shintiara: aventuras cronoverso' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 8,
+  "total_signals": 0,
+  "duration_s": 68
+}
