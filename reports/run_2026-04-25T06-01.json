@@ -1,0 +1,200 @@
+{
+  "timestamp": "2026-04-25T06:00:38.866Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 211,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "4 Mazos Commander Cartas Magic OFERTA LOTE EDH MTG",
+          "price": 44.99,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/4-mazos-commander-cartas-magic-oferta-lote-edh-mtg-1255801200",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mazos commander cartas magic oferta",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mazos commander cartas magic oferta' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PACK de Foils no repetidas mtg",
+          "price": 4,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/pack-de-foils-no-repetidas-mtg-1255801077",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote de Azules SIN REPETIR Magic: The Gathering",
+          "price": 6,
+          "city": "Móstoles",
+          "url": "https://es.wallapop.com/item/lote-de-azules-sin-repetir-magic-the-gathering-1255800974",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Espeon EX 155 PSA 9",
+          "price": 325,
+          "city": "Alcalá de Henares",
+          "url": "https://es.wallapop.com/item/espeon-ex-155-psa-9-1255801267",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "espeon psa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'espeon psa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Tangela de Erika ASC 218/217 (NM)",
+          "price": 9,
+          "city": "San Giovanni in Marignano",
+          "url": "https://es.wallapop.com/item/tangela-di-erika-asc-218-217-nm-1255801145",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 239,
+      "new_items": 6,
+      "items": [
+        {
+          "title": "Peppa Pig World Adventures Switch",
+          "price": 22,
+          "city": "Jerez de la Frontera",
+          "url": "https://es.wallapop.com/item/peppa-pig-world-adventures-switch-1255801188",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "peppa pig world adventures switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'peppa pig world adventures switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "The Last of Us Parte I - PS5",
+          "price": 30,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/the-last-of-us-parte-i-ps5-1255800874",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "the last parte ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the last parte ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Air Negro Nuevo",
+          "price": 720,
+          "city": "Sant Cugat del Vallès",
+          "url": "https://es.wallapop.com/item/iphone-17-air-negro-nuevo-1255801135",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone air negro",
+          "verdict": "skip",
+          "reason": "720€ vs mín reservado 699€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Pantalla iPhone 15",
+          "price": 45,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/pantalla-iphone-15-1255801115",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "pantalla iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pantalla iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro dorado",
+          "price": 415,
+          "city": "Tarragona",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-plata-1255801067",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch SE 40mm GPS",
+          "price": 70,
+          "city": "Castelldefels",
+          "url": "https://es.wallapop.com/item/apple-watch-se-40mm-gps-1255801079",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch 40mm gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch 40mm gps' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 157,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Vinilo Eternos Triana BOX",
+          "price": 47,
+          "city": "A Coruña",
+          "url": "https://es.wallapop.com/item/vinilo-eternos-triana-box-1255800958",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "eternos triana box",
+          "verdict": "skip",
+          "reason": "0 reservados de 'eternos triana box' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mad Men Blu-ray Temporadas 1-4",
+          "price": 30,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mad-men-blu-ray-temporadas-1-4-1255801175",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "mad men blu-ray temporadas 1-4",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mad men blu-ray temporadas 1-4' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 76,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Raqueta Wilson Hammer Series y funda",
+          "price": 90,
+          "city": "Mediona",
+          "url": "https://es.wallapop.com/item/raqueta-wilson-hammer-series-y-funda-1255801069",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta wilson hammer series funda",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta wilson hammer series funda' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 14,
+  "total_signals": 0,
+  "duration_s": 65
+}

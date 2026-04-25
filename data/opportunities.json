@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T05:55:05.066Z",
+  "updated_at": "2026-04-25T06:01:43.725Z",
   "tiers": {
     "proven_seller": [
       {
@@ -242,8 +242,8 @@
         "model": "iphone 17 pro max 256gb precintado",
         "example_title": "iPhone 17 Pro Max 256GB Precintado",
         "example_url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-precintado-1255793131",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
+        "total_reservations": 0,
+        "confirmed_sales": 1,
         "total_events": 1,
         "reservations_24h": 1,
         "reservations_7d": 1,
@@ -252,8 +252,8 @@
         "min_price": 1199,
         "median_price": 1199,
         "max_price": 1199,
-        "first_seen": "2026-04-25T03:43:28.764Z",
-        "last_seen": "2026-04-25T03:43:28.764Z",
+        "first_seen": "2026-04-25T06:01:43.724Z",
+        "last_seen": "2026-04-25T06:01:43.724Z",
         "sample": [
           {
             "price": 1199,
@@ -6047,8 +6047,8 @@
     "recurring": 0,
     "possible": 232,
     "total_unique_models": 239,
-    "total_reservations": 7,
-    "total_confirmed_sales": 241
+    "total_reservations": 6,
+    "total_confirmed_sales": 242
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6059,5 +6059,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "p618m0v1qgz5",
+      "model": "iphone 17 pro max 256gb precintado",
+      "title": "iPhone 17 Pro Max 256GB Precintado",
+      "sold_price": 1199,
+      "city": "L' Eliana",
+      "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-precintado-1255793131",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T03:43:28.764Z",
+      "last_seen": "2026-04-25T03:43:28.764Z",
+      "confirmed_at": "2026-04-25T06:01:43.724Z"
+    }
+  ]
 }
