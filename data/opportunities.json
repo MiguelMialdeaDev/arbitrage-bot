@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T11:26:17.882Z",
+  "updated_at": "2026-04-25T11:32:19.643Z",
   "tiers": {
     "proven_seller": [
       {
@@ -3770,7 +3770,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3795,7 +3795,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3820,7 +3820,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6909,18 +6909,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "ejkmn70999zx",
-      "model": "ed 11# novadell joyas bolsillo novaro",
-      "title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
-      "sold_price": 27,
-      "city": "Campiello",
-      "url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-24T14:18:07.704Z",
-      "last_seen": "2026-04-24T14:18:07.704Z",
-      "confirmed_at": "2026-04-25T11:26:17.879Z"
-    }
-  ]
+  "new_sales": []
 }
