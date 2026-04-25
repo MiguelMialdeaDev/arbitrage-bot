@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T17:32:01.281Z",
+  "updated_at": "2026-04-25T17:47:49.551Z",
   "tiers": {
     "proven_seller": [
       {
@@ -337,6 +337,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "mando ps5 sony blanco",
+        "example_title": "Mando PS5 Sony Blanco",
+        "example_url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 40,
+        "median_price": 40,
+        "max_price": 40,
+        "first_seen": "2026-04-25T17:47:49.550Z",
+        "last_seen": "2026-04-25T17:47:49.550Z",
+        "sample": [
+          {
+            "price": 40,
+            "title": "Mando PS5 Sony Blanco",
+            "url": "https://es.wallapop.com/item/mando-ps5-sony-blanco-1256016391",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "carta pokemon genesect ex ingles",
+        "example_title": "Carta Pokémon Genesect EX Inglés",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-genesect-ex-ingles-1255980108",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 18.5,
+        "median_price": 18.5,
+        "max_price": 18.5,
+        "first_seen": "2026-04-25T17:47:49.550Z",
+        "last_seen": "2026-04-25T17:47:49.550Z",
+        "sample": [
+          {
+            "price": 18.5,
+            "title": "Carta Pokémon Genesect EX Inglés",
+            "url": "https://es.wallapop.com/item/carta-pokemon-genesect-ex-ingles-1255980108",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "tadeo jones manuscrito perdido ps4",
+        "example_title": "Tadeo Jones y el Manuscrito Perdido PS4",
+        "example_url": "https://es.wallapop.com/item/tadeo-jones-y-el-manuscrito-perdido-ps4-1255979523",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-25T17:47:49.550Z",
+        "last_seen": "2026-04-25T17:47:49.550Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Tadeo Jones y el Manuscrito Perdido PS4",
+            "url": "https://es.wallapop.com/item/tadeo-jones-y-el-manuscrito-perdido-ps4-1255979523",
+            "city": "Tavernes de la Valldigna"
+          }
+        ]
+      },
       {
         "model": "lote ramonrafaga elemental azul mtg",
         "example_title": "LOTE RAMONRáfaga elemental azul MTG",
@@ -1109,56 +1184,6 @@
             "title": "KAZAR SEÑOR DE LA TIERRA SALVAJE",
             "url": "https://es.wallapop.com/item/kazar-senor-de-la-tierra-salvaje-1255982743",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "carta pokemon genesect ex ingles",
-        "example_title": "Carta Pokémon Genesect EX Inglés",
-        "example_url": "https://es.wallapop.com/item/carta-pokemon-genesect-ex-ingles-1255980108",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 18.5,
-        "median_price": 18.5,
-        "max_price": 18.5,
-        "first_seen": "2026-04-25T15:47:45.421Z",
-        "last_seen": "2026-04-25T15:47:45.421Z",
-        "sample": [
-          {
-            "price": 18.5,
-            "title": "Carta Pokémon Genesect EX Inglés",
-            "url": "https://es.wallapop.com/item/carta-pokemon-genesect-ex-ingles-1255980108",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "tadeo jones manuscrito perdido ps4",
-        "example_title": "Tadeo Jones y el Manuscrito Perdido PS4",
-        "example_url": "https://es.wallapop.com/item/tadeo-jones-y-el-manuscrito-perdido-ps4-1255979523",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 25,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-25T15:47:45.421Z",
-        "last_seen": "2026-04-25T15:47:45.421Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Tadeo Jones y el Manuscrito Perdido PS4",
-            "url": "https://es.wallapop.com/item/tadeo-jones-y-el-manuscrito-perdido-ps4-1255979523",
-            "city": "Tavernes de la Valldigna"
           }
         ]
       },
@@ -3469,7 +3494,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3494,7 +3519,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3519,7 +3544,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3544,7 +3569,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3569,7 +3594,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3594,7 +3619,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8044,10 +8069,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 308,
-    "total_unique_models": 318,
-    "total_reservations": 21,
-    "total_confirmed_sales": 314
+    "possible": 309,
+    "total_unique_models": 319,
+    "total_reservations": 20,
+    "total_confirmed_sales": 316
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8060,52 +8085,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "p618m0l12dz5",
-      "model": "lote asier cromos panini balon oro mbapp",
-      "title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
-      "sold_price": 10,
+      "id": "qzmm0d89g1zv",
+      "model": "carta pokemon genesect ex ingles",
+      "title": "Carta Pokémon Genesect EX Inglés",
+      "sold_price": 18.5,
       "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
+      "url": "https://es.wallapop.com/item/carta-pokemon-genesect-ex-ingles-1255980108",
       "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T15:24:50.753Z",
-      "last_seen": "2026-04-25T15:24:50.753Z",
-      "confirmed_at": "2026-04-25T17:32:01.279Z"
+      "first_reserved": "2026-04-25T15:47:45.421Z",
+      "last_seen": "2026-04-25T15:47:45.421Z",
+      "confirmed_at": "2026-04-25T17:47:49.550Z"
     },
     {
-      "id": "e65qd1ld0p6o",
-      "model": "cartas luis",
-      "title": "Cartas para Luis",
-      "sold_price": 32,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T15:24:50.753Z",
-      "last_seen": "2026-04-25T15:24:50.753Z",
-      "confirmed_at": "2026-04-25T17:32:01.279Z"
-    },
-    {
-      "id": "9jdw10r1dd6k",
-      "model": "juegos nintendo switch mario wonder sports kart",
-      "title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
-      "sold_price": 70,
-      "city": "Santa Eulalia de Ronçana",
-      "url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T15:24:50.753Z",
-      "last_seen": "2026-04-25T15:24:50.753Z",
-      "confirmed_at": "2026-04-25T17:32:01.279Z"
-    },
-    {
-      "id": "4z482xlmgvjy",
-      "model": "duelo sol blu ray westerns",
-      "title": "Duelo al Sol Blu-ray + 2 Westerns",
-      "sold_price": 11,
-      "city": "Torroella de Montgrí",
-      "url": "https://es.wallapop.com/item/duelo-al-sol-blu-ray---2-westerns-1255976138",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T15:31:47.504Z",
-      "last_seen": "2026-04-25T15:31:47.504Z",
-      "confirmed_at": "2026-04-25T17:32:01.279Z"
+      "id": "ejkmn3q229zx",
+      "model": "tadeo jones manuscrito perdido ps4",
+      "title": "Tadeo Jones y el Manuscrito Perdido PS4",
+      "sold_price": 25,
+      "city": "Tavernes de la Valldigna",
+      "url": "https://es.wallapop.com/item/tadeo-jones-y-el-manuscrito-perdido-ps4-1255979523",
+      "category": "Deporte y ocio",
+      "first_reserved": "2026-04-25T15:47:45.421Z",
+      "last_seen": "2026-04-25T15:47:45.421Z",
+      "confirmed_at": "2026-04-25T17:47:49.550Z"
     }
   ]
 }
