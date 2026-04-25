@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T16:47:34.837Z",
+  "updated_at": "2026-04-25T16:57:33.268Z",
   "tiers": {
     "proven_seller": [
       {
@@ -7933,42 +7933,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "x6qq1g1n9o6y",
-      "model": "funko pop stranger things",
-      "title": "¡Funko Pop! Stranger Things",
-      "sold_price": 5.5,
-      "city": "Cabeço M Jacob",
-      "url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T14:32:46.660Z",
-      "last_seen": "2026-04-25T14:32:46.660Z",
-      "confirmed_at": "2026-04-25T16:47:34.835Z"
-    },
-    {
-      "id": "mzn37k725kjn",
-      "model": "2x greninja ex 2x drampa cartas pokemon",
-      "title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
-      "sold_price": 130,
-      "city": "Meliana",
-      "url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T14:32:46.660Z",
-      "last_seen": "2026-04-25T14:32:46.660Z",
-      "confirmed_at": "2026-04-25T16:47:34.835Z"
-    },
-    {
-      "id": "nz081p1o3v6o",
-      "model": "lote funko pop stranger things",
-      "title": "Lote Funko Pop Stranger Things",
-      "sold_price": 17,
-      "city": "Valdemanco",
-      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T14:47:15.036Z",
-      "last_seen": "2026-04-25T14:47:15.036Z",
-      "confirmed_at": "2026-04-25T16:47:34.835Z"
-    }
-  ]
+  "new_sales": []
 }
