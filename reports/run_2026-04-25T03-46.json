@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-04-25T03:45:17.990Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 198,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 234,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 151,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 75,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 32,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 0,
+  "total_signals": 0,
+  "duration_s": 59
+}
