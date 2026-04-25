@@ -1,0 +1,430 @@
+{
+  "timestamp": "2026-04-25T05:30:33.816Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 215,
+      "new_items": 29,
+      "items": [
+        {
+          "title": "Funko Pop! The Walking Dead Alpha 890",
+          "price": 12,
+          "city": "Alicante/Alacant",
+          "url": "https://es.wallapop.com/item/funko-pop-the-walking-dead-alpha-890-1255798743",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! the walking dead alpha 890",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! the walking dead alpha 890' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop Star Wars Luke Skywalker 90 y 94",
+          "price": 60,
+          "city": "Paracuellos de Jarama",
+          "url": "https://es.wallapop.com/item/funko-pop-star-wars-luke-skywalker-90-y-94-1255798703",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko star wars luke skywalker 90",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko star wars luke skywalker 90' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Lego Technic Lamborghini Sian FKP 37 Precintado",
+          "price": 450,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/lego-technic-lamborghini-sian-fkp-37-precintado-1255798837",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: replica"
+        },
+        {
+          "title": "Caja FIFA World Cup 2026 stickers de Panini",
+          "price": 61.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/caja-fifa-world-cup-2026-stickers-de-panini-1255799045",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fifa world cup stickers panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fifa world cup stickers panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja FIFA World Cup 2026 stickers de Panini",
+          "price": 61.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/caja-fifa-world-cup-2026-stickers-de-panini-1255798854",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fifa world cup stickers panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fifa world cup stickers panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "LOTE 47 CROMOS LA LIGA PANINI MEGACRACKS 2025-26",
+          "price": 3,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/lote-47-cromos-la-liga-panini-megacracks-2025-26-1255798809",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Caja FIFA World Cup 2026 stickers de Panini",
+          "price": 61.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/caja-fifa-world-cup-2026-stickers-de-panini-1255798704",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fifa world cup stickers panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fifa world cup stickers panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja FIFA World Cup 2026 stickers de Panini",
+          "price": 61.5,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/caja-fifa-world-cup-2026-stickers-de-panini-1255798566",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "fifa world cup stickers panini",
+          "verdict": "skip",
+          "reason": "0 reservados de 'fifa world cup stickers panini' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Umbreon NM EN 130/197",
+          "price": 3,
+          "city": "Verdellino",
+          "url": "https://es.wallapop.com/item/carta-pokemon-umbreon-nm-en-130-197-1255798971",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lugia EX Prismatic Evolutions Español",
+          "price": 1,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/lugia-ex-prismatic-evolutions-espanol-1255798835",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Probopass Equilibrio perfecto Español",
+          "price": 1.6,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/probopass-equilibrio-perfecto-espanol-1255798593",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon Umbreon Holo NM Española",
+          "price": 4,
+          "city": "Verdellino",
+          "url": "https://es.wallapop.com/item/carta-pokemon-umbreon-holo-nm-spagnola-1255798552",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Talonflame Equilibrio perfecto español",
+          "price": 3.5,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/talonflame-equilibrio-perfecto-espanol-1255798497",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Lote 50 Cartas Pokémon EX Holográficas",
+          "price": 5,
+          "city": "Les Casetes",
+          "url": "https://es.wallapop.com/item/lote-50-cartas-pokemon-ex-holograficas-1255798476",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales Caballeros con Escudo",
+          "price": 6,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-caballeros-con-escudo-1255798919",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales - 4 Figuras",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-4-figuras-1255798878",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales - Figuras y Accesorios",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-figuras-y-accesorios-1255798839",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales 4 Figuras",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-4-figuras-1255798801",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales 4 Figuras",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-4-figuras-1255798780",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales Caballeros",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-caballeros-1255798752",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales - 4 Figuras",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-4-figuras-1255798725",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Playmobil Medievales Figuras y Accesorios",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-figuras-y-accesorios-1255798689",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales Figuras y Accesorios",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-figuras-y-accesorios-1255798657",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales 4 Figuras",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-4-figuras-1255798621",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales 4 Figuras",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-4-figuras-1255798584",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales Caballeros",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-caballeros-1255798554",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales - 4 Figuras",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-4-figuras-1255798525",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales 4 Figuras con Escudos",
+          "price": 5,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-4-figuras-con-escudos-1255798491",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Playmobil Medievales: Catapulta y Soldados",
+          "price": 6,
+          "city": "Torrejón de Ardoz",
+          "url": "https://es.wallapop.com/item/playmobil-medievales-catapulta-y-soldados-1255798442",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 238,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Marvel Ultimate Alliance 3: The Black Order Ninten",
+          "price": 22.5,
+          "city": "Puertollano",
+          "url": "https://es.wallapop.com/item/marvel-ultimate-alliance-3-the-black-order-ninten-1255798450",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "marvel ultimate alliance the black Nintendo Switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'marvel ultimate alliance the black Nintendo Switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Jurassic World Evolution 3 PS5",
+          "price": 45,
+          "city": "Mutxamel",
+          "url": "https://es.wallapop.com/item/jurassic-world-evolution-3-ps5-1255799104",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "jurassic world evolution ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'jurassic world evolution ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "FC 25 Xbox Series X/One",
+          "price": 15,
+          "city": "Vilafranca del Penedès",
+          "url": "https://es.wallapop.com/item/fc-25-xbox-series-x-one-1255798606",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "xbox series x/one",
+          "verdict": "skip",
+          "reason": "0 reservados de 'xbox series x/one' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Max",
+          "price": 960,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-1255798829",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "960€ vs mín reservado 1199€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Iphone Air Negro 256GB con Apple Care+ nuevo",
+          "price": 790,
+          "city": "Santander",
+          "url": "https://es.wallapop.com/item/iphone-air-negro-256gb-con-apple-care--nuevo-1255798631",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone air negro 256gb con",
+          "verdict": "skip",
+          "reason": "790€ vs mín reservado 699€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 16 Pro 256 GB",
+          "price": 800,
+          "city": "Alcorcón",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-256-gb-1255798569",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 220€ vs mín reservado 1199€)"
+        },
+        {
+          "title": "iPhone 14",
+          "price": 260,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-14-1255798507",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 249€ vs mín reservado 1199€)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 154,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 78,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "El Valle de la Eternidad Juego de Mesa",
+          "price": 20,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/el-valle-de-la-eternidad-juego-de-mesa-1255799087",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "valle eternidad juego mesa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'valle eternidad juego mesa' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 37,
+  "total_signals": 0,
+  "duration_s": 70
+}
