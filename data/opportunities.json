@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T20:46:58.666Z",
+  "updated_at": "2026-04-25T20:53:38.524Z",
   "tiers": {
     "proven_seller": [
       {
@@ -342,6 +342,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "apple watch gen2 44mm",
+        "example_title": "Apple Watch SE Gen2 44mm",
+        "example_url": "https://es.wallapop.com/item/apple-watch-se-gen2-44mm-1256010023",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 140,
+        "median_price": 140,
+        "max_price": 140,
+        "first_seen": "2026-04-25T20:53:38.523Z",
+        "last_seen": "2026-04-25T20:53:38.523Z",
+        "sample": [
+          {
+            "price": 140,
+            "title": "Apple Watch SE Gen2 44mm",
+            "url": "https://es.wallapop.com/item/apple-watch-se-gen2-44mm-1256010023",
+            "city": "Palma de Mallorca"
+          }
+        ]
+      },
       {
         "model": "iphone 13 128gb",
         "example_title": "iPhone 13 128GB",
@@ -1464,31 +1489,6 @@
             "title": "Duelo al Sol Blu-ray + 2 Westerns",
             "url": "https://es.wallapop.com/item/duelo-al-sol-blu-ray---2-westerns-1255976138",
             "city": "Torroella de Montgrí"
-          }
-        ]
-      },
-      {
-        "model": "apple watch gen2 44mm",
-        "example_title": "Apple Watch SE Gen2 44mm",
-        "example_url": "https://es.wallapop.com/item/apple-watch-se-gen2-44mm-1256010023",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 140,
-        "median_price": 140,
-        "max_price": 140,
-        "first_seen": "2026-04-25T17:23:10.110Z",
-        "last_seen": "2026-04-25T17:23:10.110Z",
-        "sample": [
-          {
-            "price": 140,
-            "title": "Apple Watch SE Gen2 44mm",
-            "url": "https://es.wallapop.com/item/apple-watch-se-gen2-44mm-1256010023",
-            "city": "Palma de Mallorca"
           }
         ]
       },
@@ -8601,8 +8601,8 @@
     "recurring": 0,
     "possible": 330,
     "total_unique_models": 340,
-    "total_reservations": 20,
-    "total_confirmed_sales": 337
+    "total_reservations": 19,
+    "total_confirmed_sales": 338
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8613,5 +8613,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "ejkmn33kg1zx",
+      "model": "apple watch gen2 44mm",
+      "title": "Apple Watch SE Gen2 44mm",
+      "sold_price": 140,
+      "city": "Palma de Mallorca",
+      "url": "https://es.wallapop.com/item/apple-watch-se-gen2-44mm-1256010023",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T17:23:10.110Z",
+      "last_seen": "2026-04-25T17:23:10.110Z",
+      "confirmed_at": "2026-04-25T20:53:38.523Z"
+    }
+  ]
 }
