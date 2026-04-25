@@ -1,50 +1,6 @@
 {
   "reservations": [
     {
-      "id": "p618m0l12dz5",
-      "title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
-      "model": "lote asier cromos panini balon oro mbapp",
-      "price": 10,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-25T15:24:50.753Z",
-      "last_seen": "2026-04-25T15:24:50.753Z"
-    },
-    {
-      "id": "e65qd1ld0p6o",
-      "title": "Cartas para Luis",
-      "model": "cartas luis",
-      "price": 32,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-25T15:24:50.753Z",
-      "last_seen": "2026-04-25T15:24:50.753Z"
-    },
-    {
-      "id": "9jdw10r1dd6k",
-      "title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
-      "model": "juegos nintendo switch mario wonder sports kart",
-      "price": 70,
-      "city": "Santa Eulalia de Ronçana",
-      "url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
-      "category": "Tecnología y electrónica",
-      "first_seen": "2026-04-25T15:24:50.753Z",
-      "last_seen": "2026-04-25T15:24:50.753Z"
-    },
-    {
-      "id": "4z482xlmgvjy",
-      "title": "Duelo al Sol Blu-ray + 2 Westerns",
-      "model": "duelo sol blu ray westerns",
-      "price": 11,
-      "city": "Torroella de Montgrí",
-      "url": "https://es.wallapop.com/item/duelo-al-sol-blu-ray---2-westerns-1255976138",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-25T15:31:47.504Z",
-      "last_seen": "2026-04-25T15:31:47.504Z"
-    },
-    {
       "id": "qzmm0d89g1zv",
       "title": "Carta Pokémon Genesect EX Inglés",
       "model": "carta pokemon genesect ex ingles",
@@ -252,6 +208,28 @@
       "category": "Tecnología y electrónica",
       "first_seen": "2026-04-25T17:23:10.110Z",
       "last_seen": "2026-04-25T17:23:10.110Z"
+    },
+    {
+      "id": "pzpkxee73kj3",
+      "title": "LOTE RAMONRáfaga elemental azul MTG",
+      "model": "lote ramonrafaga elemental azul mtg",
+      "price": 8,
+      "city": "Mont-Ras",
+      "url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-25T17:32:01.279Z",
+      "last_seen": "2026-04-25T17:32:01.279Z"
+    },
+    {
+      "id": "p618m00epxz5",
+      "title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
+      "model": "pack peliculas blu ray accion terror thriller",
+      "price": 27,
+      "city": "Parque Empresarial La Moraleja",
+      "url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
+      "category": "Cine, libros y música",
+      "first_seen": "2026-04-25T17:32:01.279Z",
+      "last_seen": "2026-04-25T17:32:01.279Z"
     }
   ]
 }

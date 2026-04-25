@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T17:23:10.112Z",
+  "updated_at": "2026-04-25T17:32:01.281Z",
   "tiers": {
     "proven_seller": [
       {
@@ -337,6 +337,156 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "lote ramonrafaga elemental azul mtg",
+        "example_title": "LOTE RAMONRáfaga elemental azul MTG",
+        "example_url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-25T17:32:01.279Z",
+        "last_seen": "2026-04-25T17:32:01.279Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "LOTE RAMONRáfaga elemental azul MTG",
+            "url": "https://es.wallapop.com/item/lote-ramonrafaga-elemental-azul-mtg-1256013798",
+            "city": "Mont-Ras"
+          }
+        ]
+      },
+      {
+        "model": "pack peliculas blu ray accion terror thriller",
+        "example_title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
+        "example_url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-25T17:32:01.279Z",
+        "last_seen": "2026-04-25T17:32:01.279Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "Pack 5 Películas Blu-ray Acción/Terror/Thriller",
+            "url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-accion-terror-thriller-1256013479",
+            "city": "Parque Empresarial La Moraleja"
+          }
+        ]
+      },
+      {
+        "model": "lote asier cromos panini balon oro mbapp",
+        "example_title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
+        "example_url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T17:32:01.279Z",
+        "last_seen": "2026-04-25T17:32:01.279Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
+            "url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "cartas luis",
+        "example_title": "Cartas para Luis",
+        "example_url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-25T17:32:01.279Z",
+        "last_seen": "2026-04-25T17:32:01.279Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "Cartas para Luis",
+            "url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "juegos nintendo switch mario wonder sports kart",
+        "example_title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
+        "example_url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 70,
+        "median_price": 70,
+        "max_price": 70,
+        "first_seen": "2026-04-25T17:32:01.279Z",
+        "last_seen": "2026-04-25T17:32:01.279Z",
+        "sample": [
+          {
+            "price": 70,
+            "title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
+            "url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
+            "city": "Santa Eulalia de Ronçana"
+          }
+        ]
+      },
+      {
+        "model": "duelo sol blu ray westerns",
+        "example_title": "Duelo al Sol Blu-ray + 2 Westerns",
+        "example_url": "https://es.wallapop.com/item/duelo-al-sol-blu-ray---2-westerns-1255976138",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 11,
+        "median_price": 11,
+        "max_price": 11,
+        "first_seen": "2026-04-25T17:32:01.279Z",
+        "last_seen": "2026-04-25T17:32:01.279Z",
+        "sample": [
+          {
+            "price": 11,
+            "title": "Duelo al Sol Blu-ray + 2 Westerns",
+            "url": "https://es.wallapop.com/item/duelo-al-sol-blu-ray---2-westerns-1255976138",
+            "city": "Torroella de Montgrí"
+          }
+        ]
+      },
       {
         "model": "apple watch gen2 44mm",
         "example_title": "Apple Watch SE Gen2 44mm",
@@ -1038,31 +1188,6 @@
         ]
       },
       {
-        "model": "duelo sol blu ray westerns",
-        "example_title": "Duelo al Sol Blu-ray + 2 Westerns",
-        "example_url": "https://es.wallapop.com/item/duelo-al-sol-blu-ray---2-westerns-1255976138",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 11,
-        "median_price": 11,
-        "max_price": 11,
-        "first_seen": "2026-04-25T15:31:47.504Z",
-        "last_seen": "2026-04-25T15:31:47.504Z",
-        "sample": [
-          {
-            "price": 11,
-            "title": "Duelo al Sol Blu-ray + 2 Westerns",
-            "url": "https://es.wallapop.com/item/duelo-al-sol-blu-ray---2-westerns-1255976138",
-            "city": "Torroella de Montgrí"
-          }
-        ]
-      },
-      {
         "model": "lote blu ray 4k blu ray",
         "example_title": "Lote Blu-ray 4K y Blu-ray",
         "example_url": "https://es.wallapop.com/item/lote-blu-ray-4k-y-blu-ray-1255939120",
@@ -1109,81 +1234,6 @@
             "title": "Cromos Panini Animales Salvajes",
             "url": "https://es.wallapop.com/item/cromos-panini-animales-salvajes-1255940464",
             "city": "Torrevieja"
-          }
-        ]
-      },
-      {
-        "model": "lote asier cromos panini balon oro mbapp",
-        "example_title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
-        "example_url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-25T15:24:50.753Z",
-        "last_seen": "2026-04-25T15:24:50.753Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
-            "url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "cartas luis",
-        "example_title": "Cartas para Luis",
-        "example_url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 32,
-        "median_price": 32,
-        "max_price": 32,
-        "first_seen": "2026-04-25T15:24:50.753Z",
-        "last_seen": "2026-04-25T15:24:50.753Z",
-        "sample": [
-          {
-            "price": 32,
-            "title": "Cartas para Luis",
-            "url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "juegos nintendo switch mario wonder sports kart",
-        "example_title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
-        "example_url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 70,
-        "median_price": 70,
-        "max_price": 70,
-        "first_seen": "2026-04-25T15:24:50.753Z",
-        "last_seen": "2026-04-25T15:24:50.753Z",
-        "sample": [
-          {
-            "price": 70,
-            "title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
-            "url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
-            "city": "Santa Eulalia de Ronçana"
           }
         ]
       },
@@ -7994,10 +8044,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 306,
-    "total_unique_models": 316,
-    "total_reservations": 23,
-    "total_confirmed_sales": 310
+    "possible": 308,
+    "total_unique_models": 318,
+    "total_reservations": 21,
+    "total_confirmed_sales": 314
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8010,16 +8060,52 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "36e5m7m0yy6d",
-      "model": "apple watch ultra plata verde",
-      "title": "Apple Watch Ultra Plata/Verde",
-      "sold_price": 250,
-      "city": "Roma",
-      "url": "https://es.wallapop.com/item/apple-watch-ultra-argento-verde-1255962715",
+      "id": "p618m0l12dz5",
+      "model": "lote asier cromos panini balon oro mbapp",
+      "title": "Lote para Asier 2 cromos Panini Balón de Oro Mbapp",
+      "sold_price": 10,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-para-asier-2-cromos-panini-balon-de-oro-mbapp-1255972979",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T15:24:50.753Z",
+      "last_seen": "2026-04-25T15:24:50.753Z",
+      "confirmed_at": "2026-04-25T17:32:01.279Z"
+    },
+    {
+      "id": "e65qd1ld0p6o",
+      "model": "cartas luis",
+      "title": "Cartas para Luis",
+      "sold_price": 32,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/cartas-para-luis-1255973672",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T15:24:50.753Z",
+      "last_seen": "2026-04-25T15:24:50.753Z",
+      "confirmed_at": "2026-04-25T17:32:01.279Z"
+    },
+    {
+      "id": "9jdw10r1dd6k",
+      "model": "juegos nintendo switch mario wonder sports kart",
+      "title": "Juegos Nintendo Switch: Mario Wonder, Sports, Kart",
+      "sold_price": 70,
+      "city": "Santa Eulalia de Ronçana",
+      "url": "https://es.wallapop.com/item/juegos-nintendo-switch-mario-wonder-sports-kart-1255973184",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T14:55:46.440Z",
-      "last_seen": "2026-04-25T14:55:46.440Z",
-      "confirmed_at": "2026-04-25T17:23:10.110Z"
+      "first_reserved": "2026-04-25T15:24:50.753Z",
+      "last_seen": "2026-04-25T15:24:50.753Z",
+      "confirmed_at": "2026-04-25T17:32:01.279Z"
+    },
+    {
+      "id": "4z482xlmgvjy",
+      "model": "duelo sol blu ray westerns",
+      "title": "Duelo al Sol Blu-ray + 2 Westerns",
+      "sold_price": 11,
+      "city": "Torroella de Montgrí",
+      "url": "https://es.wallapop.com/item/duelo-al-sol-blu-ray---2-westerns-1255976138",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T15:31:47.504Z",
+      "last_seen": "2026-04-25T15:31:47.504Z",
+      "confirmed_at": "2026-04-25T17:32:01.279Z"
     }
   ]
 }
