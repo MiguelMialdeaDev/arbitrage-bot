@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T08:17:08.987Z",
+  "updated_at": "2026-04-25T08:32:38.563Z",
   "tiers": {
     "proven_seller": [
       {
@@ -263,6 +263,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "playmobil superheroes figuras",
+        "example_title": "Playmobil Superhéroes (4 figuras)",
+        "example_url": "https://es.wallapop.com/item/playmobil-superheroes-4-figuras-1255831766",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4,
+        "median_price": 4,
+        "max_price": 4,
+        "first_seen": "2026-04-25T08:32:38.560Z",
+        "last_seen": "2026-04-25T08:32:38.560Z",
+        "sample": [
+          {
+            "price": 4,
+            "title": "Playmobil Superhéroes (4 figuras)",
+            "url": "https://es.wallapop.com/item/playmobil-superheroes-4-figuras-1255831766",
+            "city": "Burriana"
+          }
+        ]
+      },
       {
         "model": "nintendo switch leyendas pokemon",
         "example_title": "Nintendo Switch: Leyendas Pokémon Z-A",
@@ -3595,7 +3620,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6245,9 +6270,9 @@
     "hot_24h": 4,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 239,
-    "total_unique_models": 247,
-    "total_reservations": 11,
+    "possible": 240,
+    "total_unique_models": 248,
+    "total_reservations": 12,
     "total_confirmed_sales": 246
   },
   "thresholds": {
@@ -6258,64 +6283,6 @@
     "recurring_30d": 2,
     "mode": "incubation"
   },
-  "tier_ups": [
-    {
-      "model": "figuras dc comics playmobil",
-      "from_tier": "possible",
-      "to_tier": "hot_24h",
-      "from_label": "💡 Posible",
-      "to_label": "🔥 Hot 24h",
-      "entry": {
-        "model": "figuras dc comics playmobil",
-        "example_title": "Figuras DC Comics Playmobil",
-        "example_url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255824382",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 4.5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-24T15:32:28.188Z",
-        "last_seen": "2026-04-25T08:17:08.985Z",
-        "sample": [
-          {
-            "price": 4.5,
-            "title": "Figuras DC Comics Playmobil",
-            "url": "https://es.wallapop.com/item/figuras-dc-comics-playmobil-1255824382",
-            "city": "Moreaga"
-          }
-        ]
-      }
-    }
-  ],
-  "new_sales": [
-    {
-      "id": "nz081pmv4e6o",
-      "model": "nintendo switch leyendas pokemon",
-      "title": "Nintendo Switch: Leyendas Pokémon Z-A",
-      "sold_price": 95,
-      "city": "Castellbisbal",
-      "url": "https://es.wallapop.com/item/nintendo-switch-leyendas-pokemon-z-a-1255801675",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T06:10:10.980Z",
-      "last_seen": "2026-04-25T06:10:10.980Z",
-      "confirmed_at": "2026-04-25T08:17:08.985Z"
-    },
-    {
-      "id": "v6gp3x4gkn6e",
-      "model": "funkos",
-      "title": "6 Funkos",
-      "sold_price": 9,
-      "city": "Albal",
-      "url": "https://es.wallapop.com/item/6-funkos-1255802940",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T06:16:27.135Z",
-      "last_seen": "2026-04-25T06:16:27.135Z",
-      "confirmed_at": "2026-04-25T08:17:08.985Z"
-    }
-  ]
+  "tier_ups": [],
+  "new_sales": []
 }
