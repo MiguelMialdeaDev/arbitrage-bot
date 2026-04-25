@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T20:07:07.413Z",
+  "updated_at": "2026-04-25T20:16:44.840Z",
   "tiers": {
     "proven_seller": [
       {
@@ -343,6 +343,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack peliculas blu ray",
+        "example_title": "Pack 5 Películas Blu-ray",
+        "example_url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-1256056541",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 31.5,
+        "median_price": 31.5,
+        "max_price": 31.5,
+        "first_seen": "2026-04-25T20:16:44.839Z",
+        "last_seen": "2026-04-25T20:16:44.839Z",
+        "sample": [
+          {
+            "price": 31.5,
+            "title": "Pack 5 Películas Blu-ray",
+            "url": "https://es.wallapop.com/item/pack-5-peliculas-blu-ray-1256056541",
+            "city": "Parque Empresarial La Moraleja"
+          }
+        ]
+      },
+      {
+        "model": "packs cargador 20w iphone 60w usb",
+        "example_title": "6 packs cargador 20W iphone+ 60W USB-C",
+        "example_url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 54,
+        "median_price": 54,
+        "max_price": 54,
+        "first_seen": "2026-04-25T20:16:44.839Z",
+        "last_seen": "2026-04-25T20:16:44.839Z",
+        "sample": [
+          {
+            "price": 54,
+            "title": "6 packs cargador 20W iphone+ 60W USB-C",
+            "url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
+            "city": "Guadalajara"
+          }
+        ]
+      },
       {
         "model": "cartas magic the gathering",
         "example_title": "Cartas Magic The Gathering",
@@ -1065,31 +1115,6 @@
             "title": "iPhone 7 Plus Rose Gold",
             "url": "https://es.wallapop.com/item/iphone-7-plus-rose-gold-1255985996",
             "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "packs cargador 20w iphone 60w usb",
-        "example_title": "6 packs cargador 20W iphone+ 60W USB-C",
-        "example_url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 54,
-        "median_price": 54,
-        "max_price": 54,
-        "first_seen": "2026-04-25T18:09:12.588Z",
-        "last_seen": "2026-04-25T18:09:12.588Z",
-        "sample": [
-          {
-            "price": 54,
-            "title": "6 packs cargador 20W iphone+ 60W USB-C",
-            "url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
-            "city": "Guadalajara"
           }
         ]
       },
@@ -8425,10 +8450,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 323,
-    "total_unique_models": 333,
+    "possible": 324,
+    "total_unique_models": 334,
     "total_reservations": 14,
-    "total_confirmed_sales": 336
+    "total_confirmed_sales": 337
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8441,16 +8466,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "qjwrgw0pwe6o",
-      "model": "cartas pokemon snorlax mightyena",
-      "title": "Cartas Pokémon Snorlax y Mightyena",
-      "sold_price": 10,
-      "city": "Palma de Mallorca",
-      "url": "https://es.wallapop.com/item/cartas-pokemon-snorlax-y-mightyena-1256023705",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T18:02:18.345Z",
-      "last_seen": "2026-04-25T18:02:18.345Z",
-      "confirmed_at": "2026-04-25T20:07:07.411Z"
+      "id": "v6gp3xw7gl6e",
+      "model": "packs cargador 20w iphone 60w usb",
+      "title": "6 packs cargador 20W iphone+ 60W USB-C",
+      "sold_price": 54,
+      "city": "Guadalajara",
+      "url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T18:09:12.588Z",
+      "last_seen": "2026-04-25T18:09:12.588Z",
+      "confirmed_at": "2026-04-25T20:16:44.839Z"
     }
   ]
 }
