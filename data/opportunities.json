@@ -1,41 +1,29 @@
 {
-  "updated_at": "2026-04-25T21:16:23.692Z",
+  "updated_at": "2026-04-25T21:32:06.655Z",
   "tiers": {
     "proven_seller": [
       {
         "model": "lote funko pop stranger things",
         "example_title": "Lote Funko Pop Stranger Things",
-        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
-        "total_reservations": 0,
+        "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1256071613",
+        "total_reservations": 1,
         "confirmed_sales": 4,
-        "total_events": 4,
-        "reservations_24h": 2,
-        "reservations_7d": 4,
-        "reservations_30d": 4,
-        "reservations_per_day": 1.94,
+        "total_events": 5,
+        "reservations_24h": 3,
+        "reservations_7d": 5,
+        "reservations_30d": 5,
+        "reservations_per_day": 2.21,
         "min_price": 5.5,
         "median_price": 8,
         "max_price": 17,
         "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-25T16:47:34.835Z",
+        "last_seen": "2026-04-25T21:32:06.653Z",
         "sample": [
           {
-            "price": 7.5,
+            "price": 10,
             "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
-            "city": "Santa Coloma de Gramenet"
-          },
-          {
-            "price": 8,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
-            "city": "Torrox Park"
-          },
-          {
-            "price": 17,
-            "title": "Lote Funko Pop Stranger Things",
-            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255961451",
-            "city": "Valdemanco"
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1256071613",
+            "city": "Madrid"
           }
         ]
       },
@@ -222,7 +210,7 @@
         "total_reservations": 0,
         "confirmed_sales": 2,
         "total_events": 2,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 2,
         "reservations_30d": 2,
         "reservations_per_day": 2,
@@ -342,6 +330,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "blu ray angeles demonios tom hanks",
+        "example_title": "Blu-ray Ángeles y Demonios Tom Hanks",
+        "example_url": "https://es.wallapop.com/item/blu-ray-angeles-y-demonios-tom-hanks-1256071499",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T21:32:06.653Z",
+        "last_seen": "2026-04-25T21:32:06.653Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Blu-ray Ángeles y Demonios Tom Hanks",
+            "url": "https://es.wallapop.com/item/blu-ray-angeles-y-demonios-tom-hanks-1256071499",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "nintendo switch mario kart deluxe",
+        "example_title": "Nintendo Switch + Mario Kart 8 Deluxe",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch---mario-kart-8-deluxe-1256046369",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 150,
+        "median_price": 150,
+        "max_price": 150,
+        "first_seen": "2026-04-25T21:32:06.653Z",
+        "last_seen": "2026-04-25T21:32:06.653Z",
+        "sample": [
+          {
+            "price": 150,
+            "title": "Nintendo Switch + Mario Kart 8 Deluxe",
+            "url": "https://es.wallapop.com/item/nintendo-switch---mario-kart-8-deluxe-1256046369",
+            "city": "Móstoles"
+          }
+        ]
+      },
+      {
+        "model": "iphone 16 plus 128gb bateria 91",
+        "example_title": "iPhone 16 Plus 128GB Batería 91%",
+        "example_url": "https://es.wallapop.com/item/iphone-16-plus-128gb-bateria-91-1256044885",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 560,
+        "median_price": 560,
+        "max_price": 560,
+        "first_seen": "2026-04-25T21:32:06.653Z",
+        "last_seen": "2026-04-25T21:32:06.653Z",
+        "sample": [
+          {
+            "price": 560,
+            "title": "iPhone 16 Plus 128GB Batería 91%",
+            "url": "https://es.wallapop.com/item/iphone-16-plus-128gb-bateria-91-1256044885",
+            "city": "Terrassa"
+          }
+        ]
+      },
       {
         "model": "max mix primer megamix espanol",
         "example_title": "Max Mix - El Primer Megamix Español",
@@ -889,56 +952,6 @@
             "title": "Television Marquee Moon Vinilo LP",
             "url": "https://es.wallapop.com/item/television-marquee-moon-vinilo-lp-1256050347",
             "city": "Valencia"
-          }
-        ]
-      },
-      {
-        "model": "nintendo switch mario kart deluxe",
-        "example_title": "Nintendo Switch + Mario Kart 8 Deluxe",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch---mario-kart-8-deluxe-1256046369",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 150,
-        "median_price": 150,
-        "max_price": 150,
-        "first_seen": "2026-04-25T19:32:05.199Z",
-        "last_seen": "2026-04-25T19:32:05.199Z",
-        "sample": [
-          {
-            "price": 150,
-            "title": "Nintendo Switch + Mario Kart 8 Deluxe",
-            "url": "https://es.wallapop.com/item/nintendo-switch---mario-kart-8-deluxe-1256046369",
-            "city": "Móstoles"
-          }
-        ]
-      },
-      {
-        "model": "iphone 16 plus 128gb bateria 91",
-        "example_title": "iPhone 16 Plus 128GB Batería 91%",
-        "example_url": "https://es.wallapop.com/item/iphone-16-plus-128gb-bateria-91-1256044885",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 560,
-        "median_price": 560,
-        "max_price": 560,
-        "first_seen": "2026-04-25T19:32:05.199Z",
-        "last_seen": "2026-04-25T19:32:05.199Z",
-        "sample": [
-          {
-            "price": 560,
-            "title": "iPhone 16 Plus 128GB Batería 91%",
-            "url": "https://es.wallapop.com/item/iphone-16-plus-128gb-bateria-91-1256044885",
-            "city": "Terrassa"
           }
         ]
       },
@@ -3524,7 +3537,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3549,7 +3562,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3574,7 +3587,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3599,7 +3612,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3624,7 +3637,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3649,7 +3662,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3674,7 +3687,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8674,10 +8687,10 @@
     "hot_24h": 0,
     "trending_7d": 6,
     "recurring": 0,
-    "possible": 333,
-    "total_unique_models": 343,
+    "possible": 334,
+    "total_unique_models": 344,
     "total_reservations": 19,
-    "total_confirmed_sales": 341
+    "total_confirmed_sales": 343
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8688,5 +8701,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "3zlmp2yl4njx",
+      "model": "nintendo switch mario kart deluxe",
+      "title": "Nintendo Switch + Mario Kart 8 Deluxe",
+      "sold_price": 150,
+      "city": "Móstoles",
+      "url": "https://es.wallapop.com/item/nintendo-switch---mario-kart-8-deluxe-1256046369",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T19:32:05.199Z",
+      "last_seen": "2026-04-25T19:32:05.199Z",
+      "confirmed_at": "2026-04-25T21:32:06.653Z"
+    },
+    {
+      "id": "pj9402w2e06e",
+      "model": "iphone 16 plus 128gb bateria 91",
+      "title": "iPhone 16 Plus 128GB Batería 91%",
+      "sold_price": 560,
+      "city": "Terrassa",
+      "url": "https://es.wallapop.com/item/iphone-16-plus-128gb-bateria-91-1256044885",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T19:32:05.199Z",
+      "last_seen": "2026-04-25T19:32:05.199Z",
+      "confirmed_at": "2026-04-25T21:32:06.653Z"
+    }
+  ]
 }
