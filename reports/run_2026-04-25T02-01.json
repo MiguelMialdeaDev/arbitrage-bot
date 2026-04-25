@@ -1,0 +1,308 @@
+{
+  "timestamp": "2026-04-25T02:00:39.899Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 205,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Funko Pop! Wonder Woman Antiope Etta Candy",
+          "price": 25,
+          "city": "Zizur Mayor/Zizur Nagusia",
+          "url": "https://es.wallapop.com/item/funko-pop-wonder-woman-antiope-etta-candy-1255788627",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! wonder woman antiope etta",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! wonder woman antiope etta' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Umbreon Llamas Obsidianas Promo stam",
+          "price": 25,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/carta-pokemon-umbreon-llamas-obsidianas-promo-stam-1255788499",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon umbreon llamas obsidianas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon umbreon llamas obsidianas' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 224,
+      "new_items": 17,
+      "items": [
+        {
+          "title": "JUEGOS + Nintendo Switch",
+          "price": 199.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/juegos---nintendo-switch-1255788541",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "pack (pack_consola_juegos): comparación eBay imprecisa, skip conservador"
+        },
+        {
+          "title": "Crash Team Racing Nitro-Fueled Nintendo Switch",
+          "price": 20,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/crash-team-racing-nitro-fueled-nintendo-switch-1255788341",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "crash team racing nitro-fueled nintendo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'crash team racing nitro-fueled nintendo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch accesorios",
+          "price": 24.99,
+          "city": "Mataró",
+          "url": "https://es.wallapop.com/item/nintendo-switch-accesorios-1255788328",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch accesorios",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch accesorios' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Estuche Mando DualSense Edge PS5",
+          "price": 45,
+          "city": "Vigo",
+          "url": "https://es.wallapop.com/item/estuche-mando-dualsense-edge-ps5-1255788158",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "estuche mando dualsense edge ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'estuche mando dualsense edge ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PlayStation 5 Slim Blanca",
+          "price": 315,
+          "city": "Vitoria-Gasteiz",
+          "url": "https://es.wallapop.com/item/playstation-5-slim-blanca-1255788149",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation slim blanca",
+          "verdict": "skip",
+          "reason": "315€ vs mín reservado 300€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Auriculares Inalámbricos Asus ROG Pelta",
+          "price": 100,
+          "city": "Badajoz",
+          "url": "https://es.wallapop.com/item/auriculares-inalambricos-asus-rog-pelta-1255787851",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "auriculares inalambricos asus rog pelta",
+          "verdict": "skip",
+          "reason": "0 reservados de 'auriculares inalambricos asus rog pelta' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS4 (PlayStation 4) Negra",
+          "price": 100,
+          "city": "Vigo",
+          "url": "https://es.wallapop.com/item/ps4-playstation-4-negra-1255788223",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 (playstation negra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps4 (playstation negra' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS4 Blanca + Mando",
+          "price": 120,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/ps4-blanca---mando-1255788000",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 blanca mando",
+          "verdict": "skip",
+          "reason": "120€ vs mín reservado 70€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 16 Pro Max Dorado",
+          "price": 580,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-dorado-1255788553",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 11 Green 64GB -- OFERTA LEED !! --",
+          "price": 130,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-11-green-64gb-oferta-leed-1255788511",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "iphone green 64gb oferta leed",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone green 64gb oferta leed' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 totalmente renovado",
+          "price": 180,
+          "city": "Leganés",
+          "url": "https://es.wallapop.com/item/iphone-13-totalmente-renovado-1255788379",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone totalmente renovado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone totalmente renovado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Max Naranja",
+          "price": 850,
+          "city": "Málaga",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-naranja-1255788340",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max naranja",
+          "verdict": "skip",
+          "reason": "850€ vs mín reservado 1100€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 14 Pro Apple morado",
+          "price": 312,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-apple-morado-1255788327",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "iphone pro apple morado",
+          "verdict": "skip",
+          "reason": "312€ vs mín reservado 400€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 12 Azul 64GB Batería 100% Pantalla Original",
+          "price": 190,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-12-azul-64gb-bateria-100-pantalla-original-1255788232",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone azul 64gb bateria 100%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone azul 64gb bateria 100%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Monitor Inalámbrico MagSafe 1080P SmallRig",
+          "price": 48,
+          "city": "La Belga",
+          "url": "https://es.wallapop.com/item/monitor-inalambrico-magsafe-1080p-smallrig-1255788018",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "monitor inalambrico magsafe 1080p smallrig",
+          "verdict": "skip",
+          "reason": "0 reservados de 'monitor inalambrico magsafe 1080p smallrig' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Pro Max Dorado",
+          "price": 500,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-dorado-1255787982",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max dorado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max dorado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Apple Watch S6 40mm (PRODUCT)RED GPS+LTE",
+          "price": 130,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-watch-s6-40mm-product-red-gps-lte-1255788388",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch 40mm (product)red gps+lte",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch 40mm (product)red gps+lte' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 149,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Película Logan Blu-ray y  UHD 4K",
+          "price": 25,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/pelicula-logan-blu-ray-1255788831",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pelicula logan blu-ray uhd",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pelicula logan blu-ray uhd' (sin evidencia de demanda)"
+        },
+        {
+          "title": "La Princesa Prometida Blu-ray Edición Especial",
+          "price": 9.95,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/la-princesa-prometida-blu-ray-edicion-especial-1255788797",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "La Princesa Mononoke Blu-ray + DVD Edición Especia",
+          "price": 13,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/la-princesa-mononoke-blu-ray---dvd-edicion-especia-1255788668",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "princesa mononoke blu-ray dvd edicion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'princesa mononoke blu-ray dvd edicion' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Blu-ray Looper Bruce Willis Joseph Gordon-Levitt",
+          "price": 12,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-looper-bruce-willis-joseph-gordon-levitt-1255788582",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        },
+        {
+          "title": "Blu-ray Siete Almas (Will Smith)",
+          "price": 6,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-siete-almas-will-smith-1255788089",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: rota"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 78,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 24,
+  "total_signals": 0,
+  "duration_s": 75
+}
