@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T11:02:44.623Z",
+  "updated_at": "2026-04-25T11:17:49.399Z",
   "tiers": {
     "proven_seller": [
       {
@@ -288,6 +288,181 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funkos kathia",
+        "example_title": "Funkos Kathia",
+        "example_url": "https://es.wallapop.com/item/lote-funkos-1255892155",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6.5,
+        "median_price": 6.5,
+        "max_price": 6.5,
+        "first_seen": "2026-04-25T11:17:49.397Z",
+        "last_seen": "2026-04-25T11:17:49.397Z",
+        "sample": [
+          {
+            "price": 6.5,
+            "title": "Funkos Kathia",
+            "url": "https://es.wallapop.com/item/lote-funkos-1255892155",
+            "city": "Carpihuelo"
+          }
+        ]
+      },
+      {
+        "model": "lego star wars minifiguras",
+        "example_title": "Lego Star Wars Minifiguras",
+        "example_url": "https://es.wallapop.com/item/lego-star-wars-minifiguras-1255892726",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T11:17:49.397Z",
+        "last_seen": "2026-04-25T11:17:49.397Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "Lego Star Wars Minifiguras",
+            "url": "https://es.wallapop.com/item/lego-star-wars-minifiguras-1255892726",
+            "city": "Vilanova i la Geltrú"
+          }
+        ]
+      },
+      {
+        "model": "elite trainer box pokemon fuegos fantasmales",
+        "example_title": "Elite Trainer Box Pokémon: Fuegos Fantasmales",
+        "example_url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-fuegos-fantasmales-1255894795",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 70,
+        "median_price": 70,
+        "max_price": 70,
+        "first_seen": "2026-04-25T11:17:49.397Z",
+        "last_seen": "2026-04-25T11:17:49.397Z",
+        "sample": [
+          {
+            "price": 70,
+            "title": "Elite Trainer Box Pokémon: Fuegos Fantasmales",
+            "url": "https://es.wallapop.com/item/elite-trainer-box-pokemon-fuegos-fantasmales-1255894795",
+            "city": "La Vegueta"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas pokemon reshiram zekrom",
+        "example_title": "Lote 2 Cartas Pokémon Reshiram y Zekrom",
+        "example_url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-reshiram-y-zekrom-1255891976",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 85,
+        "median_price": 85,
+        "max_price": 85,
+        "first_seen": "2026-04-25T11:17:49.397Z",
+        "last_seen": "2026-04-25T11:17:49.397Z",
+        "sample": [
+          {
+            "price": 85,
+            "title": "Lote 2 Cartas Pokémon Reshiram y Zekrom",
+            "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-reshiram-y-zekrom-1255891976",
+            "city": "Aranjuez"
+          }
+        ]
+      },
+      {
+        "model": "blu ray fotografo mauthausen",
+        "example_title": "Blu-ray El fotógrafo de Mauthausen",
+        "example_url": "https://es.wallapop.com/item/blu-ray-el-fotografo-de-mauthausen-1255897012",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-25T11:17:49.397Z",
+        "last_seen": "2026-04-25T11:17:49.397Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "Blu-ray El fotógrafo de Mauthausen",
+            "url": "https://es.wallapop.com/item/blu-ray-el-fotografo-de-mauthausen-1255897012",
+            "city": "Alhaurín de la Torre"
+          }
+        ]
+      },
+      {
+        "model": "lote vinilos elvis the beatles",
+        "example_title": "Lote Vinilos Elvis y The Beatles",
+        "example_url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 20,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-25T11:17:49.397Z",
+        "last_seen": "2026-04-25T11:17:49.397Z",
+        "sample": [
+          {
+            "price": 20,
+            "title": "Lote Vinilos Elvis y The Beatles",
+            "url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "lote 15 figuras lego",
+        "example_title": "Lote 15 Figuras LEGO",
+        "example_url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T11:17:49.397Z",
+        "last_seen": "2026-04-25T11:17:49.397Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote 15 Figuras LEGO",
+            "url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
+            "city": "A Ribeira do Freixo"
+          }
+        ]
+      },
       {
         "model": "minifigura lego ninjago blanco verde",
         "example_title": "Minifigura de Lego Ninjago - Blanco y Verde",
@@ -889,31 +1064,6 @@
         ]
       },
       {
-        "model": "lote 15 figuras lego",
-        "example_title": "Lote 15 Figuras LEGO",
-        "example_url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 10,
-        "median_price": 10,
-        "max_price": 10,
-        "first_seen": "2026-04-25T09:17:28.819Z",
-        "last_seen": "2026-04-25T09:17:28.819Z",
-        "sample": [
-          {
-            "price": 10,
-            "title": "Lote 15 Figuras LEGO",
-            "url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
-            "city": "A Ribeira do Freixo"
-          }
-        ]
-      },
-      {
         "model": "pack cartas pokemon fezandipiti lucario snoru",
         "example_title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
         "example_url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
@@ -935,31 +1085,6 @@
             "title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
             "url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
             "city": "Yecla"
-          }
-        ]
-      },
-      {
-        "model": "lote vinilos elvis the beatles",
-        "example_title": "Lote Vinilos Elvis y The Beatles",
-        "example_url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 20,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-25T09:02:53.540Z",
-        "last_seen": "2026-04-25T09:02:53.540Z",
-        "sample": [
-          {
-            "price": 20,
-            "title": "Lote Vinilos Elvis y The Beatles",
-            "url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
-            "city": "Madrid"
           }
         ]
       },
@@ -6745,10 +6870,10 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 258,
-    "total_unique_models": 267,
-    "total_reservations": 24,
-    "total_confirmed_sales": 255
+    "possible": 263,
+    "total_unique_models": 272,
+    "total_reservations": 27,
+    "total_confirmed_sales": 257
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6759,5 +6884,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "p618m0453dz5",
+      "model": "lote vinilos elvis the beatles",
+      "title": "Lote Vinilos Elvis y The Beatles",
+      "sold_price": 20,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T09:02:53.540Z",
+      "last_seen": "2026-04-25T09:02:53.540Z",
+      "confirmed_at": "2026-04-25T11:17:49.397Z"
+    },
+    {
+      "id": "xzogw42qy7j9",
+      "model": "lote 15 figuras lego",
+      "title": "Lote 15 Figuras LEGO",
+      "sold_price": 10,
+      "city": "A Ribeira do Freixo",
+      "url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T09:17:28.819Z",
+      "last_seen": "2026-04-25T09:17:28.819Z",
+      "confirmed_at": "2026-04-25T11:17:49.397Z"
+    }
+  ]
 }
