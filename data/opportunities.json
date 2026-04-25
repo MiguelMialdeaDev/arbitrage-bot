@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T11:17:49.399Z",
+  "updated_at": "2026-04-25T11:26:17.882Z",
   "tiers": {
     "proven_seller": [
       {
@@ -288,6 +288,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack mini latas pokemon poderes kanto",
+        "example_title": "Pack Mini-Latas Pokémon : Poderes de Kanto",
+        "example_url": "https://es.wallapop.com/item/pack-mini-latas-pokemon-poderes-de-kanto-1255900067",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 75,
+        "median_price": 75,
+        "max_price": 75,
+        "first_seen": "2026-04-25T11:26:17.879Z",
+        "last_seen": "2026-04-25T11:26:17.879Z",
+        "sample": [
+          {
+            "price": 75,
+            "title": "Pack Mini-Latas Pokémon : Poderes de Kanto",
+            "url": "https://es.wallapop.com/item/pack-mini-latas-pokemon-poderes-de-kanto-1255900067",
+            "city": "La Vegueta"
+          }
+        ]
+      },
+      {
+        "model": "ed 11# novadell joyas bolsillo novaro",
+        "example_title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
+        "example_url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 27,
+        "median_price": 27,
+        "max_price": 27,
+        "first_seen": "2026-04-25T11:26:17.879Z",
+        "last_seen": "2026-04-25T11:26:17.879Z",
+        "sample": [
+          {
+            "price": 27,
+            "title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
+            "url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
+            "city": "Campiello"
+          }
+        ]
+      },
       {
         "model": "funkos kathia",
         "example_title": "Funkos Kathia",
@@ -2989,31 +3039,6 @@
         ]
       },
       {
-        "model": "ed 11# novadell joyas bolsillo novaro",
-        "example_title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
-        "example_url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 27,
-        "median_price": 27,
-        "max_price": 27,
-        "first_seen": "2026-04-24T14:18:07.704Z",
-        "last_seen": "2026-04-24T14:18:07.704Z",
-        "sample": [
-          {
-            "price": 27,
-            "title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
-            "url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
-            "city": "Campiello"
-          }
-        ]
-      },
-      {
         "model": "cartas pokemon lamincards nuzleaf seedot treecko",
         "example_title": "Cartas Pokémon Lamincards Nuzleaf, Seedot, Treecko",
         "example_url": "https://es.wallapop.com/item/cartas-pokemon-lamincards-nuzleaf-seedot-treecko-1255597584",
@@ -3820,7 +3845,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3845,7 +3870,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3870,7 +3895,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3895,7 +3920,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6870,10 +6895,10 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 263,
-    "total_unique_models": 272,
+    "possible": 264,
+    "total_unique_models": 273,
     "total_reservations": 27,
-    "total_confirmed_sales": 257
+    "total_confirmed_sales": 258
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6886,28 +6911,16 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "p618m0453dz5",
-      "model": "lote vinilos elvis the beatles",
-      "title": "Lote Vinilos Elvis y The Beatles",
-      "sold_price": 20,
-      "city": "Madrid",
-      "url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
+      "id": "ejkmn70999zx",
+      "model": "ed 11# novadell joyas bolsillo novaro",
+      "title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
+      "sold_price": 27,
+      "city": "Campiello",
+      "url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
       "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T09:02:53.540Z",
-      "last_seen": "2026-04-25T09:02:53.540Z",
-      "confirmed_at": "2026-04-25T11:17:49.397Z"
-    },
-    {
-      "id": "xzogw42qy7j9",
-      "model": "lote 15 figuras lego",
-      "title": "Lote 15 Figuras LEGO",
-      "sold_price": 10,
-      "city": "A Ribeira do Freixo",
-      "url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T09:17:28.819Z",
-      "last_seen": "2026-04-25T09:17:28.819Z",
-      "confirmed_at": "2026-04-25T11:17:49.397Z"
+      "first_reserved": "2026-04-24T14:18:07.704Z",
+      "last_seen": "2026-04-24T14:18:07.704Z",
+      "confirmed_at": "2026-04-25T11:26:17.879Z"
     }
   ]
 }

@@ -1,17 +1,6 @@
 {
   "reservations": [
     {
-      "id": "ejkmn70999zx",
-      "title": "1ª Ed. 11# NovaDell y Joyas Bolsillo Novaro",
-      "model": "ed 11# novadell joyas bolsillo novaro",
-      "price": 27,
-      "city": "Campiello",
-      "url": "https://es.wallapop.com/item/1-ed-11-novadell-y-joyas-bolsillo-novaro-1255635723",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-24T14:18:07.704Z",
-      "last_seen": "2026-04-24T14:18:07.704Z"
-    },
-    {
       "id": "wzyrgp2r4565",
       "title": "PEDIDO BRALW STARS (ISABEL)",
       "model": "pedido bralw stars isabel",
@@ -296,6 +285,17 @@
       "category": "Cine, libros y música",
       "first_seen": "2026-04-25T11:17:49.397Z",
       "last_seen": "2026-04-25T11:17:49.397Z"
+    },
+    {
+      "id": "vjrem51ekxzk",
+      "title": "Pack Mini-Latas Pokémon : Poderes de Kanto",
+      "model": "pack mini latas pokemon poderes kanto",
+      "price": 75,
+      "city": "La Vegueta",
+      "url": "https://es.wallapop.com/item/pack-mini-latas-pokemon-poderes-de-kanto-1255900067",
+      "category": "Coleccionismo",
+      "first_seen": "2026-04-25T11:26:17.879Z",
+      "last_seen": "2026-04-25T11:26:17.879Z"
     }
   ]
 }
