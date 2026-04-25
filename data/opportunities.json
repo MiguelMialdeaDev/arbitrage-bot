@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T22:16:48.675Z",
+  "updated_at": "2026-04-25T22:31:43.877Z",
   "tiers": {
     "proven_seller": [
       {
@@ -330,6 +330,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack pokemon sergio",
+        "example_title": "Pack Pokémon para Sergio",
+        "example_url": "https://es.wallapop.com/item/pack-pokemon-para-sergio-1256078263",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 65,
+        "median_price": 65,
+        "max_price": 65,
+        "first_seen": "2026-04-25T22:31:43.875Z",
+        "last_seen": "2026-04-25T22:31:43.875Z",
+        "sample": [
+          {
+            "price": 65,
+            "title": "Pack Pokémon para Sergio",
+            "url": "https://es.wallapop.com/item/pack-pokemon-para-sergio-1256078263",
+            "city": "Torrent"
+          }
+        ]
+      },
       {
         "model": "pack cartas pokemon tyrunt aurorus charcadet",
         "example_title": "Pack Cartas Pokémon: Tyrunt, Aurorus, Charcadet",
@@ -3337,7 +3362,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3362,7 +3387,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3387,7 +3412,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3412,7 +3437,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8712,9 +8737,9 @@
     "hot_24h": 0,
     "trending_7d": 6,
     "recurring": 0,
-    "possible": 335,
-    "total_unique_models": 345,
-    "total_reservations": 17,
+    "possible": 336,
+    "total_unique_models": 346,
+    "total_reservations": 18,
     "total_confirmed_sales": 346
   },
   "thresholds": {
