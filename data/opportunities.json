@@ -1,7 +1,44 @@
 {
-  "updated_at": "2026-04-25T14:17:39.752Z",
+  "updated_at": "2026-04-25T14:32:46.663Z",
   "tiers": {
     "proven_seller": [
+      {
+        "model": "super mario odyssey nintendo switch",
+        "example_title": "Super Mario Odyssey Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
+        "total_reservations": 0,
+        "confirmed_sales": 4,
+        "total_events": 4,
+        "reservations_24h": 1,
+        "reservations_7d": 4,
+        "reservations_30d": 4,
+        "reservations_per_day": 2.25,
+        "min_price": 15,
+        "median_price": 27,
+        "max_price": 28,
+        "first_seen": "2026-04-23T19:47:30.951Z",
+        "last_seen": "2026-04-25T14:32:46.660Z",
+        "sample": [
+          {
+            "price": 24.8,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255419354",
+            "city": "A Coruña"
+          },
+          {
+            "price": 27,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255431976",
+            "city": "Lasarte-Oria"
+          },
+          {
+            "price": 15,
+            "title": "Super Mario Odyssey Nintendo Switch",
+            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
+            "city": "Zaragoza"
+          }
+        ]
+      },
       {
         "model": "lote cartas pokemon",
         "example_title": "Lote Cartas Pokémon",
@@ -24,31 +61,6 @@
             "title": "Lote Cartas Pokémon",
             "url": "https://es.wallapop.com/item/lote-cartas-pokemon-1255953175",
             "city": "Valladolid"
-          }
-        ]
-      },
-      {
-        "model": "super mario odyssey nintendo switch",
-        "example_title": "Super Mario Odyssey Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
-        "total_reservations": 1,
-        "confirmed_sales": 3,
-        "total_events": 4,
-        "reservations_24h": 1,
-        "reservations_7d": 4,
-        "reservations_30d": 4,
-        "reservations_per_day": 2.36,
-        "min_price": 15,
-        "median_price": 27,
-        "max_price": 28,
-        "first_seen": "2026-04-23T19:47:30.951Z",
-        "last_seen": "2026-04-25T12:32:20.646Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Super Mario Odyssey Nintendo Switch",
-            "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
-            "city": "Zaragoza"
           }
         ]
       },
@@ -146,37 +158,6 @@
             "city": "Moreaga"
           }
         ]
-      },
-      {
-        "model": "nintendo switch sports",
-        "example_title": "Nintendo Switch Sports",
-        "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
-        "total_reservations": 0,
-        "confirmed_sales": 2,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 20,
-        "median_price": 25,
-        "max_price": 25,
-        "first_seen": "2026-04-24T14:18:07.704Z",
-        "last_seen": "2026-04-24T18:47:26.269Z",
-        "sample": [
-          {
-            "price": 25,
-            "title": "Nintendo Switch Sports",
-            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
-            "city": "Pinto"
-          },
-          {
-            "price": 20,
-            "title": "Nintendo Switch Sports",
-            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
-            "city": "Berga"
-          }
-        ]
       }
     ],
     "trending_7d": [
@@ -243,6 +224,37 @@
         ]
       },
       {
+        "model": "nintendo switch sports",
+        "example_title": "Nintendo Switch Sports",
+        "example_url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
+        "total_reservations": 0,
+        "confirmed_sales": 2,
+        "total_events": 2,
+        "reservations_24h": 1,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 20,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-24T14:18:07.704Z",
+        "last_seen": "2026-04-24T18:47:26.269Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Nintendo Switch Sports",
+            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255599855",
+            "city": "Pinto"
+          },
+          {
+            "price": 20,
+            "title": "Nintendo Switch Sports",
+            "url": "https://es.wallapop.com/item/nintendo-switch-sports-1255675668",
+            "city": "Berga"
+          }
+        ]
+      },
+      {
         "model": "pokemon let go eevee nintendo switch",
         "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
@@ -276,6 +288,106 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "funko pop stranger things",
+        "example_title": "¡Funko Pop! Stranger Things",
+        "example_url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5.5,
+        "median_price": 5.5,
+        "max_price": 5.5,
+        "first_seen": "2026-04-25T14:32:46.660Z",
+        "last_seen": "2026-04-25T14:32:46.660Z",
+        "sample": [
+          {
+            "price": 5.5,
+            "title": "¡Funko Pop! Stranger Things",
+            "url": "https://es.wallapop.com/item/funko-pop-stranger-things-1255957718",
+            "city": "Cabeço M Jacob"
+          }
+        ]
+      },
+      {
+        "model": "2x greninja ex 2x drampa cartas pokemon",
+        "example_title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
+        "example_url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 130,
+        "median_price": 130,
+        "max_price": 130,
+        "first_seen": "2026-04-25T14:32:46.660Z",
+        "last_seen": "2026-04-25T14:32:46.660Z",
+        "sample": [
+          {
+            "price": 130,
+            "title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
+            "url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
+            "city": "Meliana"
+          }
+        ]
+      },
+      {
+        "model": "pokemon ascended heroes elite trainer box",
+        "example_title": "Pokémon Ascended Heroes Elite Trainer Box",
+        "example_url": "https://es.wallapop.com/item/pokemon-ascended-heroes-elite-trainer-box-1255919389",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 150,
+        "median_price": 150,
+        "max_price": 150,
+        "first_seen": "2026-04-25T14:32:46.660Z",
+        "last_seen": "2026-04-25T14:32:46.660Z",
+        "sample": [
+          {
+            "price": 150,
+            "title": "Pokémon Ascended Heroes Elite Trainer Box",
+            "url": "https://es.wallapop.com/item/pokemon-ascended-heroes-elite-trainer-box-1255919389",
+            "city": "Vila-Real/Villarreal"
+          }
+        ]
+      },
+      {
+        "model": "rex masters universo cueva guante",
+        "example_title": "T-Rex Masters del Universo con Cueva y Guante",
+        "example_url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 190,
+        "median_price": 190,
+        "max_price": 190,
+        "first_seen": "2026-04-25T14:32:46.660Z",
+        "last_seen": "2026-04-25T14:32:46.660Z",
+        "sample": [
+          {
+            "price": 190,
+            "title": "T-Rex Masters del Universo con Cueva y Guante",
+            "url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "mario kart world nintendo switch",
         "example_title": "Mario Kart World para Nintendo Switch",
@@ -848,56 +960,6 @@
             "title": "Cartas Juego Marvel",
             "url": "https://es.wallapop.com/item/cartas-juego-marvel-1255925462",
             "city": "Villazain"
-          }
-        ]
-      },
-      {
-        "model": "pokemon ascended heroes elite trainer box",
-        "example_title": "Pokémon Ascended Heroes Elite Trainer Box",
-        "example_url": "https://es.wallapop.com/item/pokemon-ascended-heroes-elite-trainer-box-1255919389",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 150,
-        "median_price": 150,
-        "max_price": 150,
-        "first_seen": "2026-04-25T12:32:20.646Z",
-        "last_seen": "2026-04-25T12:32:20.646Z",
-        "sample": [
-          {
-            "price": 150,
-            "title": "Pokémon Ascended Heroes Elite Trainer Box",
-            "url": "https://es.wallapop.com/item/pokemon-ascended-heroes-elite-trainer-box-1255919389",
-            "city": "Vila-Real/Villarreal"
-          }
-        ]
-      },
-      {
-        "model": "rex masters universo cueva guante",
-        "example_title": "T-Rex Masters del Universo con Cueva y Guante",
-        "example_url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 190,
-        "median_price": 190,
-        "max_price": 190,
-        "first_seen": "2026-04-25T12:32:20.646Z",
-        "last_seen": "2026-04-25T12:32:20.646Z",
-        "sample": [
-          {
-            "price": 190,
-            "title": "T-Rex Masters del Universo con Cueva y Guante",
-            "url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
-            "city": "Barcelona"
           }
         ]
       },
@@ -3433,7 +3495,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3458,7 +3520,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3483,7 +3545,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -7280,13 +7342,13 @@
   },
   "stats": {
     "proven_seller": 4,
-    "hot_24h": 2,
-    "trending_7d": 3,
+    "hot_24h": 1,
+    "trending_7d": 4,
     "recurring": 0,
-    "possible": 280,
-    "total_unique_models": 289,
-    "total_reservations": 16,
-    "total_confirmed_sales": 288
+    "possible": 282,
+    "total_unique_models": 291,
+    "total_reservations": 15,
+    "total_confirmed_sales": 291
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7297,5 +7359,42 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzvgd7k85dzl",
+      "model": "pokemon ascended heroes elite trainer box",
+      "title": "Pokémon Ascended Heroes Elite Trainer Box",
+      "sold_price": 150,
+      "city": "Vila-Real/Villarreal",
+      "url": "https://es.wallapop.com/item/pokemon-ascended-heroes-elite-trainer-box-1255919389",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T12:32:20.646Z",
+      "last_seen": "2026-04-25T12:32:20.646Z",
+      "confirmed_at": "2026-04-25T14:32:46.660Z"
+    },
+    {
+      "id": "ejkmn3dqnyzx",
+      "model": "super mario odyssey nintendo switch",
+      "title": "Super Mario Odyssey Nintendo Switch",
+      "sold_price": 15,
+      "city": "Zaragoza",
+      "url": "https://es.wallapop.com/item/super-mario-odyssey-nintendo-switch-1255919371",
+      "category": "Tecnología y electrónica",
+      "first_reserved": "2026-04-25T12:32:20.646Z",
+      "last_seen": "2026-04-25T12:32:20.646Z",
+      "confirmed_at": "2026-04-25T14:32:46.660Z"
+    },
+    {
+      "id": "3zlmp2d2knjx",
+      "model": "rex masters universo cueva guante",
+      "title": "T-Rex Masters del Universo con Cueva y Guante",
+      "sold_price": 190,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/t-rex-masters-del-universo-con-cueva-y-guante-1255920393",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-25T12:32:20.646Z",
+      "last_seen": "2026-04-25T12:32:20.646Z",
+      "confirmed_at": "2026-04-25T14:32:46.660Z"
+    }
+  ]
 }
