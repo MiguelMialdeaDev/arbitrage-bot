@@ -1,0 +1,589 @@
+{
+  "timestamp": "2026-04-25T00:30:29.273Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 209,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Trading cards, TOPPS , mas de 60 cartas, the rise of skywalker + 17 cartas force attax",
+          "price": 9.9,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/trading-cards-topps-mas-de-60-cartas-the-rise-of-skywalker---17-cartas-force-attax-1255774843",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Trading cards, TOPPS , mas de 80 cartas, EL CAMINO DE LOS JEDI, STAR WARS",
+          "price": 15.29,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/trading-cards-topps-mas-de-80-cartas-el-camino-de-los-jedi-star-wars-1255774787",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "trading cards, topps mas cartas,",
+          "verdict": "skip",
+          "reason": "0 reservados de 'trading cards, topps mas cartas,' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 221,
+      "new_items": 35,
+      "items": [
+        {
+          "title": "Dragon Quest XI S Nintendo Switch",
+          "price": 39.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/dragon-quest-xi-s-nintendo-switch-1255776094",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "dragon quest nintendo switch",
+          "verdict": "skip",
+          "reason": "39.95€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Mando Nintendo Switch Pro",
+          "price": 21.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/mando-nintendo-switch-pro-1255775634",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mando nintendo switch pro",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "Pack Joy-Con Nintendo Switch Azul y Naranja",
+          "price": 35,
+          "city": "El Puerto de Santa María",
+          "url": "https://es.wallapop.com/item/pack-joy-con-nintendo-switch-azul-y-naranja-1255775346",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "pack joy-con nintendo switch azul",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 4€ vs mín reservado 160€)"
+        },
+        {
+          "title": "Nintendo Switch V1",
+          "price": 169.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/nintendo-switch-v1-1255775127",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch",
+          "verdict": "skip",
+          "reason": "169.95€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Pack 7 juegos de Nintendo Switch 1",
+          "price": 170,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/pack-7-juegos-de-nintendo-switch-1-1255774548",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "pack (pack_juegos): comparación eBay imprecisa, skip conservador"
+        },
+        {
+          "title": "Nintendo Switch COMO NUEVA",
+          "price": 159.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/nintendo-switch-como-nueva-1255774086",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch como",
+          "verdict": "skip",
+          "reason": "159.95€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Spyro Reignited Trilogy",
+          "price": 17.95,
+          "city": "Calella",
+          "url": "https://es.wallapop.com/item/spyro-reignited-trilogy-nintendo-switch-1255776641",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "spyro reignited trilogy Nintendo Switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'spyro reignited trilogy Nintendo Switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Mando GAME GP322 Inalámbrico RGB Bluetooth 5.0",
+          "price": 40,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/mando-game-gp322-inalambrico-rgb-bluetooth-5-0-1255776485",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "mando game gp322 inalambrico rgb Nintendo Switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'mando game gp322 inalambrico rgb Nintendo Switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PlayStation 5 PS5 Blanca",
+          "price": 450,
+          "city": "Bonavista",
+          "url": "https://es.wallapop.com/item/consola-playstation-5-ps5-blanca-1255775544",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola playstation ps5 blanca",
+          "verdict": "skip",
+          "reason": "450€ vs mín reservado 300€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 15 Pro Max",
+          "price": 550,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-1255776077",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 14 256gb",
+          "price": 409,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-256gb-1255775731",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "apple iphone 12 pro 256gb",
+          "price": 369,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-iphone-12-pro-256gb-1255775671",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "iPhone 15 Pro Azul Marino 128GB Batería 100%",
+          "price": 590,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-azul-marino-128gb-bateria-100-1255775506",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro azul marino 128gb",
+          "verdict": "skip",
+          "reason": "590€ vs mín reservado 350€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda para iPhone 13 The North Face Azul",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/cover-iphone-13-the-north-face-blu-1255775409",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "apple iphone 17 256gb",
+          "price": 749,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-256gb-1255775319",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 17 pro max 512gb",
+          "price": 1429,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-512gb-1255775253",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 512gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 512gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro 128GB Dorado Batería 82%",
+          "price": 475,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-128gb-dorado-bateria-82-1255775252",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 128gb dorado bateria",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 128gb dorado bateria' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro 256GB ¡PRECINTADO!",
+          "price": 1099,
+          "city": "La Felguera",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-256gb-precintado-1255775208",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 256gb ¡precintado!",
+          "verdict": "skip",
+          "reason": "1099€ vs mín reservado 1250€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Funda Louis Vuitton para iPhone 14 Pro",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/cover-custodia-louis-vuitton-iphone-14-pro-1255775105",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "apple iphone 17 pro max 256gb",
+          "price": 1235,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/apple-iphone-17-pro-max-256gb-1255774833",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 256gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 256gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 256GB ¡NUEVO!",
+          "price": 750,
+          "city": "La Felguera",
+          "url": "https://es.wallapop.com/item/iphone-17-256gb-nuevo-1255774757",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 256gb ¡nuevo!",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 256gb ¡nuevo!' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda Louis Vuitton para iPhone 14 Pro Max",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/custodia-louis-vuitton-iphone-14-pro-max-1255774753",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "apple iphone 13 256gb",
+          "price": 315,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/apple-iphone-13-256gb-1255774669",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "iPhone 15 Negro 128GB Batería 84%",
+          "price": 399,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-15-negro-128gb-bateria-84-1255774650",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro 128gb bateria 84%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro 128gb bateria 84%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda Gucci iPhone 14 Pro",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/cover-gucci-iphone-14-pro-1255774530",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "apple iphone 14 128gb",
+          "price": 375,
+          "city": "Reus",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-128gb-1255774390",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "posible fake: no original"
+        },
+        {
+          "title": "apple iphone 16e 128gb",
+          "price": 409,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/apple-iphone-16e-128gb-1255774376",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 16e 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 16e 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 14 128gb",
+          "price": 375,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/apple-iphone-14-128gb-1255774350",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funda Louis Vuitton iPhone 14 Pro",
+          "price": 5,
+          "city": "Torino",
+          "url": "https://es.wallapop.com/item/custodia-louis-vuitton-iphone-14-pro-1255774334",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "iPhone 15 Pro Max Negro",
+          "price": 500,
+          "city": "Torremolinos",
+          "url": "https://es.wallapop.com/item/iphone-15-pro-max-negro-1255774332",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "iphone pro max negro",
+          "verdict": "skip",
+          "reason": "500€ vs mín reservado 50€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 15 Negro 128GB Batería 82%",
+          "price": 420,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-15-negro-128gb-bateria-82-1255774326",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro 128gb bateria 82%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone negro 128gb bateria 82%' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple iphone 12 pro max 128gb",
+          "price": 359,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/apple-iphone-12-pro-max-128gb-1255774322",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple iphone pro max 128gb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple iphone pro max 128gb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple apple watch se 2022 44mm (gps ) aluminio",
+          "price": 145,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/apple-apple-watch-se-2022-44mm-gps-aluminio-1255776060",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple apple watch 44mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple apple watch 44mm (gps' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch se 40mm (gps) (a2351) aluminio",
+          "price": 59,
+          "city": "Las Palmas de Gran Canaria",
+          "url": "https://es.wallapop.com/item/apple-watch-se-40mm-gps-a2351-aluminio-1255774551",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch 40mm (gps) (a2351)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch 40mm (gps) (a2351)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "apple watch ultra 2 49mm (gps 4g) titanio",
+          "price": 389,
+          "city": "Las Palmas de Gran Canaria",
+          "url": "https://es.wallapop.com/item/apple-watch-ultra-2-49mm-gps-4g-titanio-1255774522",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "apple watch ultra 49mm (gps",
+          "verdict": "skip",
+          "reason": "0 reservados de 'apple watch ultra 49mm (gps' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 157,
+      "new_items": 8,
+      "items": [
+        {
+          "title": "Pi De La Serra– Palau D'Esports Barcelona 27-2-76-LP 1976, Spain",
+          "price": 5.39,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/pi-de-la-serra-palau-d-esports-barcelona-27-2-76-lp-1976-spain-1255777109",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "serra– palau d'esports barcelona 27-2-76-lp",
+          "verdict": "skip",
+          "reason": "0 reservados de 'serra– palau d'esports barcelona 27-2-76-lp' (sin evidencia de demanda)"
+        },
+        {
+          "title": "disco vinilo, Cat Stevens – Catch Bull At Four , LP, Album, 1972, France",
+          "price": 6.49,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-vinilo-cat-stevens-catch-bull-at-four-lp-album-1972-france-1255776908",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "vinilo, cat stevens catch bull",
+          "verdict": "skip",
+          "reason": "0 reservados de 'vinilo, cat stevens catch bull' (sin evidencia de demanda)"
+        },
+        {
+          "title": "disco Lp, vinilo Various – La Leyenda De La Ciudad Sin Nombre = Paint Your Wagon (Banda Sonora Original) 1970, Spain",
+          "price": 6.49,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-various-la-leyenda-de-la-ciudad-sin-nombre-paint-your-wagon-banda-sonora-original-1970-spain-1255776854",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, various leyenda ciudad sin",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lp, various leyenda ciudad sin' (sin evidencia de demanda)"
+        },
+        {
+          "title": "disco LP, vinilo– Pi De La Serra A L'Olympia 8-12-1974 ,LP, Album, 1975, Spain",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-pi-de-la-serra-a-l-olympia-8-12-1974-lp-album-1975-spain-1255776815",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, vinilo– serra l'olympia 8-12-1974",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lp, vinilo– serra l'olympia 8-12-1974' (sin evidencia de demanda)"
+        },
+        {
+          "title": "disco LP vinilo, Jessye Norman – Negro Spirituals, LP, Album ,1979,",
+          "price": 8.69,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-jessye-norman-negro-spirituals-lp-album-1979-1255776781",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "vinilo, jessye norman negro spirituals,",
+          "verdict": "skip",
+          "reason": "0 reservados de 'vinilo, jessye norman negro spirituals,' (sin evidencia de demanda)"
+        },
+        {
+          "title": "disco LP, vinilo, CHAQUETON - MUSEO DEL FLAMENCO, GUITARRA MANOLO SANLUCAR",
+          "price": 5.5,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-chaqueton-museo-del-flamenco-guitarra-manolo-sanlucar-1255776744",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, vinilo, chaqueton museo del",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lp, vinilo, chaqueton museo del' (sin evidencia de demanda)"
+        },
+        {
+          "title": "disco LP, vinilo, Miguel Fleta – Así Cantaba Miguel Fleta. Vol. 1 ,1970, Spain",
+          "price": 4.4,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-vinilo-miguel-fleta-asi-cantaba-miguel-fleta-vol-1-1970-spain-1255776719",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "lp, vinilo, miguel fleta asi",
+          "verdict": "skip",
+          "reason": "0 reservados de 'lp, vinilo, miguel fleta asi' (sin evidencia de demanda)"
+        },
+        {
+          "title": "disco, LP, KATHLEEN BATTLE Y JESSYE NORMAN - SPIRITUALS IN CONCERT - vinilo - 1991",
+          "price": 6.6,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/disco-lp-kathleen-battle-y-jessye-norman-spirituals-in-concert-vinilo-1991-1255776703",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "disco, lp, kathleen battle jessye",
+          "verdict": "skip",
+          "reason": "0 reservados de 'disco, lp, kathleen battle jessye' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 83,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Ajedrez Magnético de Viaje",
+          "price": 13,
+          "city": "Albalat dels Sorells",
+          "url": "https://es.wallapop.com/item/ajedrez-magnetico-de-viaje-1255776685",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ajedrez magnetico viaje",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ajedrez magnetico viaje' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego de mesa The Dark Quarter",
+          "price": 37.5,
+          "city": "Sevilla",
+          "url": "https://es.wallapop.com/item/juego-de-mesa-the-dark-quarter-1255775726",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego mesa the dark quarter",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego mesa the dark quarter' (sin evidencia de demanda)"
+        },
+        {
+          "title": "raqueta wilson avenger",
+          "price": 29,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/raqueta-wilson-avenger-1255775828",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "raqueta wilson avenger",
+          "verdict": "skip",
+          "reason": "0 reservados de 'raqueta wilson avenger' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 34,
+      "new_items": 2,
+      "items": [
+        {
+          "title": "Baby Pelón Shakira de Juegaterapia",
+          "price": 45,
+          "city": "Ponferrada",
+          "url": "https://es.wallapop.com/item/baby-pelon-shakira-de-juegaterapia-1255774857",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "baby pelon shakira juegaterapia",
+          "verdict": "skip",
+          "reason": "0 reservados de 'baby pelon shakira juegaterapia' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Baby Pelón Paula Echeverría Juegaterapia",
+          "price": 40,
+          "city": "Ponferrada",
+          "url": "https://es.wallapop.com/item/baby-pelon-paula-echeverria-juegaterapia-1255774498",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "baby pelon paula echeverria juegaterapia",
+          "verdict": "skip",
+          "reason": "0 reservados de 'baby pelon paula echeverria juegaterapia' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 50,
+  "total_signals": 0,
+  "duration_s": 96
+}
