@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T09:05:58.167Z",
+  "updated_at": "2026-04-25T09:17:28.822Z",
   "tiers": {
     "proven_seller": [
       {
@@ -264,6 +264,56 @@
     "recurring": [],
     "possible": [
       {
+        "model": "lote 15 figuras lego",
+        "example_title": "Lote 15 Figuras LEGO",
+        "example_url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T09:17:28.819Z",
+        "last_seen": "2026-04-25T09:17:28.819Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Lote 15 Figuras LEGO",
+            "url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
+            "city": "A Ribeira do Freixo"
+          }
+        ]
+      },
+      {
+        "model": "pack cartas pokemon fezandipiti lucario snoru",
+        "example_title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
+        "example_url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T09:17:28.819Z",
+        "last_seen": "2026-04-25T09:17:28.819Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
+            "url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
+            "city": "Yecla"
+          }
+        ]
+      },
+      {
         "model": "lote vinilos elvis the beatles",
         "example_title": "Lote Vinilos Elvis y The Beatles",
         "example_url": "https://es.wallapop.com/item/lote-vinilos-elvis-y-the-beatles-1255845707",
@@ -510,31 +560,6 @@
             "title": "Pack Lander Marvel Crisis Protocol",
             "url": "https://es.wallapop.com/item/pack-lander-marvel-crisis-protocol-1255813479",
             "city": "Santander"
-          }
-        ]
-      },
-      {
-        "model": "pack cartas pokemon fezandipiti lucario snoru",
-        "example_title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
-        "example_url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 12,
-        "median_price": 12,
-        "max_price": 12,
-        "first_seen": "2026-04-25T07:17:00.318Z",
-        "last_seen": "2026-04-25T07:17:00.318Z",
-        "sample": [
-          {
-            "price": 12,
-            "title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
-            "url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
-            "city": "Yecla"
           }
         ]
       },
@@ -3570,7 +3595,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3595,7 +3620,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -6295,10 +6320,10 @@
     "hot_24h": 4,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 241,
-    "total_unique_models": 249,
+    "possible": 242,
+    "total_unique_models": 250,
     "total_reservations": 13,
-    "total_confirmed_sales": 246
+    "total_confirmed_sales": 247
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6309,5 +6334,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzyrg1np4e65",
+      "model": "pack cartas pokemon fezandipiti lucario snoru",
+      "title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
+      "sold_price": 12,
+      "city": "Yecla",
+      "url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T07:17:00.318Z",
+      "last_seen": "2026-04-25T07:17:00.318Z",
+      "confirmed_at": "2026-04-25T09:17:28.819Z"
+    }
+  ]
 }
