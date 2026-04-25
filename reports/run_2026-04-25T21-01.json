@@ -1,0 +1,437 @@
+{
+  "timestamp": "2026-04-25T21:00:39.657Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 212,
+      "new_items": 12,
+      "items": [
+        {
+          "title": "Funko Pop Ron y Dumbledore Harry Potter",
+          "price": 2,
+          "city": "Premià de Mar",
+          "url": "https://es.wallapop.com/item/funko-pop-ron-y-dumbledore-harry-potter-1256066705",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Cromo Vinicius Jr Mundial 2026",
+          "price": 10,
+          "city": "Mollet del Vallès",
+          "url": "https://es.wallapop.com/item/cromo-vinicius-jr-mundial-2026-1256066215",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cromo vinicius mundial",
+          "verdict": "skip",
+          "reason": "0 reservados de 'cromo vinicius mundial' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Kyukon Nivel 32 HP80 Japonesa",
+          "price": 70,
+          "city": "Calderara",
+          "url": "https://es.wallapop.com/item/pokemon-kyukon-lv-32-hp80-carta-giapponese-1256066829",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon kyukon nivel hp80",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon kyukon nivel hp80' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Zacian Básico 100/094",
+          "price": 4.5,
+          "city": "Salamanca",
+          "url": "https://es.wallapop.com/item/carta-pokemon-zacian-basico-100-094-1256066700",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "carta pokemon zacian basico 100/094",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon zacian basico 100/094' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Zapdos 145/145 Holo",
+          "price": 80,
+          "city": "Calderara",
+          "url": "https://es.wallapop.com/item/pokemon-card-zapdos-145-145-holo-1256066611",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon zapdos 145/145 holo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon zapdos 145/145 holo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Vaporeon VMAX 320 PS",
+          "price": 30,
+          "city": "Albaida",
+          "url": "https://es.wallapop.com/item/carta-pokemon-vaporeon-vmax-320-ps-1256066559",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "carta pokemon vaporeon vmax",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon vaporeon vmax' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Vikavolt 230/217",
+          "price": 3.5,
+          "city": "Salamanca",
+          "url": "https://es.wallapop.com/item/carta-pokemon-vikavolt-230-217-1256066546",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "carta pokemon vikavolt 230/217",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon vikavolt 230/217' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Raichu Set Base 026/102",
+          "price": 100,
+          "city": "Calderara",
+          "url": "https://es.wallapop.com/item/carta-pokemon-raichu-base-set-026-102-1256066425",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon raichu set base",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon raichu set base' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Zapdos de Galar promo",
+          "price": 4,
+          "city": "Salamanca",
+          "url": "https://es.wallapop.com/item/carta-pokemon-zapdos-de-galar-promo-1256066347",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Pokemon TCG Turtwig, Chimchar, Piplup 4ta Gen",
+          "price": 30,
+          "city": "Massanassa",
+          "url": "https://es.wallapop.com/item/pokemon-tcg-turtwig-chimchar-piplup-4ta-gen-1256066343",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "pokemon tcg turtwig, chimchar, piplup",
+          "verdict": "skip",
+          "reason": "0 reservados de 'pokemon tcg turtwig, chimchar, piplup' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Gyarados Nivel 41 PS100",
+          "price": 100,
+          "city": "Calderara",
+          "url": "https://es.wallapop.com/item/pokemon-card-gyarados-lv-41-hp100-1256066242",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon gyarados nivel ps100",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carta pokemon gyarados nivel ps100' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carta Pokémon Charcadet promo 022",
+          "price": 1.5,
+          "city": "Salamanca",
+          "url": "https://es.wallapop.com/item/carta-pokemon-charcadet-promo-022-1256066168",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 257,
+      "new_items": 13,
+      "items": [
+        {
+          "title": "Minecraft Nintendo Switch",
+          "price": 15.9,
+          "city": "Jerez de la Frontera",
+          "url": "https://es.wallapop.com/item/minecraft-nintendo-switch-1256066724",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "minecraft nintendo switch",
+          "verdict": "skip",
+          "reason": "15.9€ vs mín reservado 12.99€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Fort Boyard Nintendo Switch",
+          "price": 12.9,
+          "city": "Jerez de la Frontera",
+          "url": "https://es.wallapop.com/item/fort-boyard-nintendo-switch-1256066258",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "precio fuera de rango razonable"
+        },
+        {
+          "title": "Zelda Skyward Sword HD Nintendo Switch",
+          "price": 35,
+          "city": "Murcia",
+          "url": "https://es.wallapop.com/item/zelda-skyward-sword-hd-nintendo-switch-1256066154",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "zelda skyward sword nintendo switch",
+          "verdict": "skip",
+          "reason": "35€ vs mín reservado 35€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "PlayStation 5 Digital Edition - Nueva",
+          "price": 400,
+          "city": "Lleida",
+          "url": "https://es.wallapop.com/item/playstation-5-digital-edition-nueva-1256066691",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation digital edition nueva",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playstation digital edition nueva' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Caja y extras Terminator 2D No Fate PS5 Edición Dí",
+          "price": 15,
+          "city": "Els Pallaresos",
+          "url": "https://es.wallapop.com/item/caja-y-extras-terminator-2d-no-fate-ps5-edicion-di-1256066637",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "extras terminator fate ps5 edicion",
+          "verdict": "skip",
+          "reason": "0 reservados de 'extras terminator fate ps5 edicion' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Little Nightmares III PS5",
+          "price": 25,
+          "city": "Córdoba",
+          "url": "https://es.wallapop.com/item/little-nightmares-iii-ps5-1256066570",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "little nightmares iii ps5",
+          "verdict": "skip",
+          "reason": "25€ vs mín reservado 18€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Nine Sols PS5 Precintado ES",
+          "price": 36,
+          "city": "Pamplona/Iruña",
+          "url": "https://es.wallapop.com/item/nine-sols-ps5-precintado-es-1256066339",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "nine sols ps5 precintado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nine sols ps5 precintado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Airpods Pro 2 Nuevos",
+          "price": 90,
+          "city": "Arroyo de La Miel",
+          "url": "https://es.wallapop.com/item/airpods-pro-2-nuevos-1256066404",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "airpods pro nuevos",
+          "verdict": "skip",
+          "reason": "0 reservados de 'airpods pro nuevos' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 Pro Max 256GB Dorado",
+          "price": 400,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-max-256gb-dorado-1256066743",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb dorado",
+          "verdict": "skip",
+          "reason": "400€ vs mín reservado 400€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 13 Azul Oscuro",
+          "price": 350,
+          "city": "Rosmaninhal",
+          "url": "https://es.wallapop.com/item/iphone-13-azul-escuro-1256066720",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone azul oscuro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone azul oscuro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 mini",
+          "price": 100,
+          "city": "La Papiola",
+          "url": "https://es.wallapop.com/item/iphone-12-mini-1256066507",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone mini",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 16€ vs mín reservado 160€)"
+        },
+        {
+          "title": "iPhone 11 64GB Rojo",
+          "price": 99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-11-64gb-rojo-1256066486",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone 64gb rojo",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone 64gb rojo' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Plus 128GB Batería 82%",
+          "price": 340,
+          "city": "Sant Adrià de Besòs",
+          "url": "https://es.wallapop.com/item/iphone-14-plus-128gb-bateria-82-1256066175",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone plus 128gb bateria 82%",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone plus 128gb bateria 82%' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 186,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Vinilo Delaossa La Madruga",
+          "price": 80,
+          "city": "Palma de Mallorca",
+          "url": "https://es.wallapop.com/item/vinilo-delaossa-la-madruga-1256066583",
+          "reserved": false,
+          "profile": "vinilo",
+          "query_ebay": "delaossa madruga",
+          "verdict": "skip",
+          "reason": "0 reservados de 'delaossa madruga' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Colección de CDs de Jazz",
+          "price": 39,
+          "city": "Portalegre",
+          "url": "https://es.wallapop.com/item/colecao-de-cds-de-jazz-1256066626",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Asalto al Queen Mary (Blu-Ray_R)",
+          "price": 12,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/asalto-al-queen-mary-blu-ray_r-1256066284",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "asalto queen mary (blu-ray_r)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'asalto queen mary (blu-ray_r)' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 104,
+      "new_items": 7,
+      "items": [
+        {
+          "title": "Futbolín de mesa",
+          "price": 15,
+          "city": "Motril",
+          "url": "https://es.wallapop.com/item/futbolin-de-mesa-1256066585",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "mal estado: amarillo"
+        },
+        {
+          "title": "Hackmaster. Manual del Jugador.",
+          "price": 25,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/hackmaster-manual-del-jugador-1256066573",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "hackmaster. manual del jugador.",
+          "verdict": "skip",
+          "reason": "0 reservados de 'hackmaster. manual del jugador.' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Tanto Cuore Juego de Cartas Español",
+          "price": 35,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/tanto-cuore-juego-de-cartas-espanol-1256066561",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "tanto cuore juego cartas espanol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'tanto cuore juego cartas espanol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "El Rastro de Cthulhu Juego de Rol",
+          "price": 40,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/el-rastro-de-cthulhu-juego-de-rol-1256066479",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "rastro cthulhu juego rol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'rastro cthulhu juego rol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Criaturas de las Sombras - Juego de Mesa",
+          "price": 20,
+          "city": "Borricen",
+          "url": "https://es.wallapop.com/item/criaturas-de-las-sombras-juego-de-mesa-1256066358",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "criaturas las sombras juego mesa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'criaturas las sombras juego mesa' (sin evidencia de demanda)"
+        },
+        {
+          "title": "D&D 5e Manual del Jugador en español",
+          "price": 90,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/d-d-5e-manual-del-jugador-1256066279",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "d&d manual del jugador espanol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'd&d manual del jugador espanol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Welcome hacia el perfecto hogar",
+          "price": 30,
+          "city": "Castellón de la Plana/Castelló de la Plana",
+          "url": "https://es.wallapop.com/item/welcome-hacia-el-perfecto-hogar-1256066188",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "welcome hacia hogar",
+          "verdict": "skip",
+          "reason": "0 reservados de 'welcome hacia hogar' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 36,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Pack Juguetes Niños Pequeños",
+          "price": 7,
+          "city": "Lloret de Mar",
+          "url": "https://es.wallapop.com/item/pack-juguetes-ninos-pequenos-1256067644",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    }
+  },
+  "total_items": 36,
+  "total_signals": 0,
+  "duration_s": 67
+}
