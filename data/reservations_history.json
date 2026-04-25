@@ -1,28 +1,6 @@
 {
   "reservations": [
     {
-      "id": "qzmm0d8ykgzv",
-      "title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
-      "model": "lote cromos panini lamine yamal instant #1",
-      "price": 14,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/lote-2-cromos-panini-lamine-yamal-instant-1-1255982256",
-      "category": "Coleccionismo",
-      "first_seen": "2026-04-25T16:02:29.729Z",
-      "last_seen": "2026-04-25T16:02:29.729Z"
-    },
-    {
-      "id": "mzn37kq3lgjn",
-      "title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
-      "model": "blu ray conoces joe black drama espanol",
-      "price": 4.5,
-      "city": "Parque Empresarial La Moraleja",
-      "url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
-      "category": "Cine, libros y música",
-      "first_seen": "2026-04-25T16:02:29.729Z",
-      "last_seen": "2026-04-25T16:02:29.729Z"
-    },
-    {
       "id": "4z482x4878jy",
       "title": "Capitan América Marvel Héroes",
       "model": "capitan america marvel heroes",
@@ -230,6 +208,17 @@
       "category": "Coleccionismo",
       "first_seen": "2026-04-25T18:02:18.345Z",
       "last_seen": "2026-04-25T18:02:18.345Z"
+    },
+    {
+      "id": "v6gp3xw7gl6e",
+      "title": "6 packs cargador 20W iphone+ 60W USB-C",
+      "model": "packs cargador 20w iphone 60w usb",
+      "price": 54,
+      "city": "Guadalajara",
+      "url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
+      "category": "Tecnología y electrónica",
+      "first_seen": "2026-04-25T18:09:12.588Z",
+      "last_seen": "2026-04-25T18:09:12.588Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T18:02:18.347Z",
+  "updated_at": "2026-04-25T18:09:12.589Z",
   "tiers": {
     "proven_seller": [
       {
@@ -337,6 +337,81 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "packs cargador 20w iphone 60w usb",
+        "example_title": "6 packs cargador 20W iphone+ 60W USB-C",
+        "example_url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 54,
+        "median_price": 54,
+        "max_price": 54,
+        "first_seen": "2026-04-25T18:09:12.588Z",
+        "last_seen": "2026-04-25T18:09:12.588Z",
+        "sample": [
+          {
+            "price": 54,
+            "title": "6 packs cargador 20W iphone+ 60W USB-C",
+            "url": "https://es.wallapop.com/item/6-packs-cargador-20w-iphone--60w-usb-c-1256025740",
+            "city": "Guadalajara"
+          }
+        ]
+      },
+      {
+        "model": "lote cromos panini lamine yamal instant #1",
+        "example_title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
+        "example_url": "https://es.wallapop.com/item/lote-2-cromos-panini-lamine-yamal-instant-1-1255982256",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 14,
+        "median_price": 14,
+        "max_price": 14,
+        "first_seen": "2026-04-25T18:09:12.588Z",
+        "last_seen": "2026-04-25T18:09:12.588Z",
+        "sample": [
+          {
+            "price": 14,
+            "title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
+            "url": "https://es.wallapop.com/item/lote-2-cromos-panini-lamine-yamal-instant-1-1255982256",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "blu ray conoces joe black drama espanol",
+        "example_title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
+        "example_url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 4.5,
+        "median_price": 4.5,
+        "max_price": 4.5,
+        "first_seen": "2026-04-25T18:09:12.588Z",
+        "last_seen": "2026-04-25T18:09:12.588Z",
+        "sample": [
+          {
+            "price": 4.5,
+            "title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
+            "url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
+            "city": "Parque Empresarial La Moraleja"
+          }
+        ]
+      },
       {
         "model": "cartas pokemon snorlax mightyena",
         "example_title": "Cartas Pokémon Snorlax y Mightyena",
@@ -1109,56 +1184,6 @@
             "title": "Mando PS5 Morado para despiece",
             "url": "https://es.wallapop.com/item/mando-ps5-morado-para-despiece-1255949531",
             "city": "Granada"
-          }
-        ]
-      },
-      {
-        "model": "lote cromos panini lamine yamal instant #1",
-        "example_title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
-        "example_url": "https://es.wallapop.com/item/lote-2-cromos-panini-lamine-yamal-instant-1-1255982256",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 14,
-        "median_price": 14,
-        "max_price": 14,
-        "first_seen": "2026-04-25T16:02:29.729Z",
-        "last_seen": "2026-04-25T16:02:29.729Z",
-        "sample": [
-          {
-            "price": 14,
-            "title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
-            "url": "https://es.wallapop.com/item/lote-2-cromos-panini-lamine-yamal-instant-1-1255982256",
-            "city": "Barcelona"
-          }
-        ]
-      },
-      {
-        "model": "blu ray conoces joe black drama espanol",
-        "example_title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
-        "example_url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 4.5,
-        "median_price": 4.5,
-        "max_price": 4.5,
-        "first_seen": "2026-04-25T16:02:29.729Z",
-        "last_seen": "2026-04-25T16:02:29.729Z",
-        "sample": [
-          {
-            "price": 4.5,
-            "title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
-            "url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
-            "city": "Parque Empresarial La Moraleja"
           }
         ]
       },
@@ -8094,10 +8119,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 310,
-    "total_unique_models": 320,
-    "total_reservations": 21,
-    "total_confirmed_sales": 316
+    "possible": 311,
+    "total_unique_models": 321,
+    "total_reservations": 20,
+    "total_confirmed_sales": 318
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8108,5 +8133,30 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "qzmm0d8ykgzv",
+      "model": "lote cromos panini lamine yamal instant #1",
+      "title": "Lote 2 Cromos Panini Lamine Yamal Instant #1",
+      "sold_price": 14,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/lote-2-cromos-panini-lamine-yamal-instant-1-1255982256",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T16:02:29.729Z",
+      "last_seen": "2026-04-25T16:02:29.729Z",
+      "confirmed_at": "2026-04-25T18:09:12.588Z"
+    },
+    {
+      "id": "mzn37kq3lgjn",
+      "model": "blu ray conoces joe black drama espanol",
+      "title": "Blu-ray ¿Conoces a Joe Black? Drama Español",
+      "sold_price": 4.5,
+      "city": "Parque Empresarial La Moraleja",
+      "url": "https://es.wallapop.com/item/blu-ray-conoces-a-joe-black-drama-espanol-1255983025",
+      "category": "Cine, libros y música",
+      "first_reserved": "2026-04-25T16:02:29.729Z",
+      "last_seen": "2026-04-25T16:02:29.729Z",
+      "confirmed_at": "2026-04-25T18:09:12.588Z"
+    }
+  ]
 }
