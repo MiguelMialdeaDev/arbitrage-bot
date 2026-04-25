@@ -1,0 +1,123 @@
+{
+  "timestamp": "2026-04-25T03:42:26.898Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 198,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "Piezas Lego y varios",
+          "price": 3,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/piezas-lego-y-varios-1255793464",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Caja de Sobres Celestial Storm (ME06) Pokemon En",
+          "price": 159.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/caja-de-sobres-celestial-storm-me06-1255787722",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "sobres celestial storm (me06) pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'sobres celestial storm (me06) pokemon' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Booster Box Pitch Black - Pokemon en Inglés",
+          "price": 159.99,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/booster-box-pitch-black-ingles-1255783420",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "booster box pitch black pokemon",
+          "verdict": "skip",
+          "reason": "0 reservados de 'booster box pitch black pokemon' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 234,
+      "new_items": 4,
+      "items": [
+        {
+          "title": "Logitech G923 – Volante + Pedales (PS4/PS5/PC)",
+          "price": 180,
+          "city": "Navalagamella",
+          "url": "https://es.wallapop.com/item/logitech-g923-volante---pedales-ps4-ps5-pc-1255793444",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "logitech g923 volante pedales (ps4/ps5/pc)",
+          "verdict": "skip",
+          "reason": "0 reservados de 'logitech g923 volante pedales (ps4/ps5/pc)' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PS5",
+          "price": 150,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/consola-sony-ps5-1255793008",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola sony ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "PS4 Slim 1TB fallo disco duro",
+          "price": 50,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/ps4-slim-1tb-fallo-disco-duro-1255793581",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "ps4 slim 1tb fallo duro",
+          "verdict": "skip",
+          "reason": "0 reservados de 'ps4 slim 1tb fallo duro' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 17 Pro Max 256GB Precintado",
+          "price": 1199,
+          "city": "L' Eliana",
+          "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-precintado-1255793131",
+          "reserved": true,
+          "profile": "generic",
+          "query_ebay": "iphone pro max 256gb precintado",
+          "verdict": "skip",
+          "reason": "1199€ vs mín reservado 1050€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 151,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 75,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 32,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 7,
+  "total_signals": 0,
+  "duration_s": 62
+}

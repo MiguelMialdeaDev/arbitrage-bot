@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T03:31:27.903Z",
+  "updated_at": "2026-04-25T03:43:28.765Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,31 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "iphone 17 pro max 256gb precintado",
+        "example_title": "iPhone 17 Pro Max 256GB Precintado",
+        "example_url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-precintado-1255793131",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 1199,
+        "median_price": 1199,
+        "max_price": 1199,
+        "first_seen": "2026-04-25T03:43:28.764Z",
+        "last_seen": "2026-04-25T03:43:28.764Z",
+        "sample": [
+          {
+            "price": 1199,
+            "title": "iPhone 17 Pro Max 256GB Precintado",
+            "url": "https://es.wallapop.com/item/iphone-17-pro-max-256gb-precintado-1255793131",
+            "city": "L' Eliana"
+          }
+        ]
+      },
       {
         "model": "caballero zodiaco figura",
         "example_title": "Caballero del Zodiaco Figura",
@@ -6020,9 +6045,9 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 231,
-    "total_unique_models": 238,
-    "total_reservations": 6,
+    "possible": 232,
+    "total_unique_models": 239,
+    "total_reservations": 7,
     "total_confirmed_sales": 241
   },
   "thresholds": {
