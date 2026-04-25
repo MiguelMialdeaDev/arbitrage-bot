@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T18:17:18.029Z",
+  "updated_at": "2026-04-25T18:32:41.339Z",
   "tiers": {
     "proven_seller": [
       {
@@ -156,8 +156,8 @@
         "model": "mario party superstars nintendo switch",
         "example_title": "Mario Party Superstars Nintendo Switch",
         "example_url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255990578",
-        "total_reservations": 1,
-        "confirmed_sales": 1,
+        "total_reservations": 0,
+        "confirmed_sales": 2,
         "total_events": 2,
         "reservations_24h": 2,
         "reservations_7d": 2,
@@ -167,8 +167,14 @@
         "median_price": 28.5,
         "max_price": 28.5,
         "first_seen": "2026-04-24T20:17:05.740Z",
-        "last_seen": "2026-04-25T16:32:31.615Z",
+        "last_seen": "2026-04-25T18:32:41.336Z",
         "sample": [
+          {
+            "price": 24,
+            "title": "Mario Party Superstars Nintendo Switch",
+            "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255706545",
+            "city": "Torredembarra"
+          },
           {
             "price": 28.5,
             "title": "Mario Party Superstars Nintendo Switch",
@@ -337,6 +343,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "mando xbox elite series",
+        "example_title": "Mando Xbox Elite Series 2",
+        "example_url": "https://es.wallapop.com/item/mando-xbox-elite-series-2-1256028966",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 10,
+        "median_price": 10,
+        "max_price": 10,
+        "first_seen": "2026-04-25T18:32:41.336Z",
+        "last_seen": "2026-04-25T18:32:41.336Z",
+        "sample": [
+          {
+            "price": 10,
+            "title": "Mando Xbox Elite Series 2",
+            "url": "https://es.wallapop.com/item/mando-xbox-elite-series-2-1256028966",
+            "city": "Azucarera Leopoldo"
+          }
+        ]
+      },
+      {
+        "model": "cromos edicion limitada futbol panini",
+        "example_title": "3 Cromos Edición Limitada Fútbol Panini",
+        "example_url": "https://es.wallapop.com/item/3-cromos-edicion-limitada-futbol-panini-1255994023",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 5,
+        "median_price": 5,
+        "max_price": 5,
+        "first_seen": "2026-04-25T18:32:41.336Z",
+        "last_seen": "2026-04-25T18:32:41.336Z",
+        "sample": [
+          {
+            "price": 5,
+            "title": "3 Cromos Edición Limitada Fútbol Panini",
+            "url": "https://es.wallapop.com/item/3-cromos-edicion-limitada-futbol-panini-1255994023",
+            "city": "Torrelavega"
+          }
+        ]
+      },
       {
         "model": "pares joy nintendo switch",
         "example_title": "2 Pares Joy-Con Nintendo Switch",
@@ -1059,31 +1115,6 @@
             "title": "2x Greninja EX + 2x Drampa Cartas Pokémon",
             "url": "https://es.wallapop.com/item/2x-greninja-ex---2x-drampa-cartas-pokemon-1255955249",
             "city": "Meliana"
-          }
-        ]
-      },
-      {
-        "model": "cromos edicion limitada futbol panini",
-        "example_title": "3 Cromos Edición Limitada Fútbol Panini",
-        "example_url": "https://es.wallapop.com/item/3-cromos-edicion-limitada-futbol-panini-1255994023",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 5,
-        "median_price": 5,
-        "max_price": 5,
-        "first_seen": "2026-04-25T16:32:31.615Z",
-        "last_seen": "2026-04-25T16:32:31.615Z",
-        "sample": [
-          {
-            "price": 5,
-            "title": "3 Cromos Edición Limitada Fútbol Panini",
-            "url": "https://es.wallapop.com/item/3-cromos-edicion-limitada-futbol-panini-1255994023",
-            "city": "Torrelavega"
           }
         ]
       },
@@ -3369,7 +3400,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3394,7 +3425,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -3419,7 +3450,7 @@
         "total_reservations": 0,
         "confirmed_sales": 1,
         "total_events": 1,
-        "reservations_24h": 1,
+        "reservations_24h": 0,
         "reservations_7d": 1,
         "reservations_30d": 1,
         "reservations_per_day": 1,
@@ -8119,10 +8150,10 @@
     "hot_24h": 1,
     "trending_7d": 5,
     "recurring": 0,
-    "possible": 311,
-    "total_unique_models": 321,
-    "total_reservations": 17,
-    "total_confirmed_sales": 321
+    "possible": 312,
+    "total_unique_models": 322,
+    "total_reservations": 16,
+    "total_confirmed_sales": 323
   },
   "thresholds": {
     "proven_7d": 3,
@@ -8135,40 +8166,28 @@
   "tier_ups": [],
   "new_sales": [
     {
-      "id": "4z482x4r3mjy",
-      "model": "pares joy nintendo switch",
-      "title": "2 Pares Joy-Con Nintendo Switch",
-      "sold_price": 55,
-      "city": "Reus",
-      "url": "https://es.wallapop.com/item/2-pares-joy-con-nintendo-switch-1255985586",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T16:10:30.754Z",
-      "last_seen": "2026-04-25T16:10:30.754Z",
-      "confirmed_at": "2026-04-25T18:17:18.028Z"
+      "id": "ejkmn37xkpzx",
+      "model": "cromos edicion limitada futbol panini",
+      "title": "3 Cromos Edición Limitada Fútbol Panini",
+      "sold_price": 5,
+      "city": "Torrelavega",
+      "url": "https://es.wallapop.com/item/3-cromos-edicion-limitada-futbol-panini-1255994023",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T16:32:31.615Z",
+      "last_seen": "2026-04-25T16:32:31.615Z",
+      "confirmed_at": "2026-04-25T18:32:41.336Z"
     },
     {
-      "id": "4z482x425wjy",
-      "model": "chasis tapa trasera iphone 14 negro",
-      "title": "Chasis y Tapa Trasera iPhone 14 Negro",
-      "sold_price": 45,
-      "city": "La Mojonera",
-      "url": "https://es.wallapop.com/item/chasis-y-tapa-trasera-iphone-14-negro-1255987486",
+      "id": "nzxegx820762",
+      "model": "mario party superstars nintendo switch",
+      "title": "Mario Party Superstars Nintendo Switch",
+      "sold_price": 28.5,
+      "city": "Castellbisbal",
+      "url": "https://es.wallapop.com/item/mario-party-superstars-nintendo-switch-1255990578",
       "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T16:10:30.754Z",
-      "last_seen": "2026-04-25T16:10:30.754Z",
-      "confirmed_at": "2026-04-25T18:17:18.028Z"
-    },
-    {
-      "id": "e65qd15e806o",
-      "model": "iphone plus rose gold",
-      "title": "iPhone 7 Plus Rose Gold",
-      "sold_price": 35,
-      "city": "Barcelona",
-      "url": "https://es.wallapop.com/item/iphone-7-plus-rose-gold-1255985996",
-      "category": "Tecnología y electrónica",
-      "first_reserved": "2026-04-25T16:10:30.754Z",
-      "last_seen": "2026-04-25T16:10:30.754Z",
-      "confirmed_at": "2026-04-25T18:17:18.028Z"
+      "first_reserved": "2026-04-25T16:32:31.615Z",
+      "last_seen": "2026-04-25T16:32:31.615Z",
+      "confirmed_at": "2026-04-25T18:32:41.336Z"
     }
   ]
 }
