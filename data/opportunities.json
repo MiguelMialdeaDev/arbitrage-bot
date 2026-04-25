@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T12:47:34.432Z",
+  "updated_at": "2026-04-25T13:02:35.234Z",
   "tiers": {
     "proven_seller": [
       {
@@ -31,19 +31,31 @@
         "model": "lote funko pop stranger things",
         "example_title": "Lote Funko Pop Stranger Things",
         "example_url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
-        "total_reservations": 1,
-        "confirmed_sales": 2,
+        "total_reservations": 0,
+        "confirmed_sales": 3,
         "total_events": 3,
         "reservations_24h": 2,
         "reservations_7d": 3,
         "reservations_30d": 3,
-        "reservations_per_day": 1.65,
+        "reservations_per_day": 1.57,
         "min_price": 5.5,
         "median_price": 7.5,
         "max_price": 8,
         "first_seen": "2026-04-23T15:18:11.367Z",
-        "last_seen": "2026-04-25T10:56:13.890Z",
+        "last_seen": "2026-04-25T13:02:35.233Z",
         "sample": [
+          {
+            "price": 5.5,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255300183",
+            "city": "Arrasate/Mondragón"
+          },
+          {
+            "price": 7.5,
+            "title": "Lote Funko Pop Stranger Things",
+            "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255677302",
+            "city": "Santa Coloma de Gramenet"
+          },
           {
             "price": 8,
             "title": "Lote Funko Pop Stranger Things",
@@ -282,6 +294,131 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "cartas pokemon varias lote",
+        "example_title": "Cartas Pokémon Varias (Lote)",
+        "example_url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 15,
+        "median_price": 15,
+        "max_price": 15,
+        "first_seen": "2026-04-25T13:02:35.233Z",
+        "last_seen": "2026-04-25T13:02:35.233Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Cartas Pokémon Varias (Lote)",
+            "url": "https://es.wallapop.com/item/cartas-pokemon-varias-lote-1255929718",
+            "city": "Aranjuez"
+          }
+        ]
+      },
+      {
+        "model": "lote cartas pokemon fosil",
+        "example_title": "Lote cartas Pokémon Fósil",
+        "example_url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 25,
+        "median_price": 25,
+        "max_price": 25,
+        "first_seen": "2026-04-25T13:02:35.233Z",
+        "last_seen": "2026-04-25T13:02:35.233Z",
+        "sample": [
+          {
+            "price": 25,
+            "title": "Lote cartas Pokémon Fósil",
+            "url": "https://es.wallapop.com/item/lote-2-cartas-pokemon-fosil-1255928214",
+            "city": "Algeciras"
+          }
+        ]
+      },
+      {
+        "model": "pedido bralw stars isabel",
+        "example_title": "PEDIDO BRALW STARS (ISABEL)",
+        "example_url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 8,
+        "median_price": 8,
+        "max_price": 8,
+        "first_seen": "2026-04-25T13:02:35.233Z",
+        "last_seen": "2026-04-25T13:02:35.233Z",
+        "sample": [
+          {
+            "price": 8,
+            "title": "PEDIDO BRALW STARS (ISABEL)",
+            "url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
+            "city": "Talavera de la Reina"
+          }
+        ]
+      },
+      {
+        "model": "minifigura lego ninjago blanco verde",
+        "example_title": "Minifigura de Lego Ninjago - Blanco y Verde",
+        "example_url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-25T13:02:35.233Z",
+        "last_seen": "2026-04-25T13:02:35.233Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Minifigura de Lego Ninjago - Blanco y Verde",
+            "url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
+            "city": "Russi"
+          }
+        ]
+      },
+      {
+        "model": "figura accion cable",
+        "example_title": "Figura de acción con cable",
+        "example_url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 250,
+        "median_price": 250,
+        "max_price": 250,
+        "first_seen": "2026-04-25T13:02:35.233Z",
+        "last_seen": "2026-04-25T13:02:35.233Z",
+        "sample": [
+          {
+            "price": 250,
+            "title": "Figura de acción con cable",
+            "url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
+            "city": "Barcelona"
+          }
+        ]
+      },
       {
         "model": "cartas juego marvel",
         "example_title": "Cartas Juego Marvel",
@@ -1054,56 +1191,6 @@
             "title": "Lote 15 Figuras LEGO",
             "url": "https://es.wallapop.com/item/lote-15-figuras-lego-1255850457",
             "city": "A Ribeira do Freixo"
-          }
-        ]
-      },
-      {
-        "model": "minifigura lego ninjago blanco verde",
-        "example_title": "Minifigura de Lego Ninjago - Blanco y Verde",
-        "example_url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 6,
-        "median_price": 6,
-        "max_price": 6,
-        "first_seen": "2026-04-25T10:47:51.040Z",
-        "last_seen": "2026-04-25T10:47:51.040Z",
-        "sample": [
-          {
-            "price": 6,
-            "title": "Minifigura de Lego Ninjago - Blanco y Verde",
-            "url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
-            "city": "Russi"
-          }
-        ]
-      },
-      {
-        "model": "figura accion cable",
-        "example_title": "Figura de acción con cable",
-        "example_url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 250,
-        "median_price": 250,
-        "max_price": 250,
-        "first_seen": "2026-04-25T10:47:51.040Z",
-        "last_seen": "2026-04-25T10:47:51.040Z",
-        "sample": [
-          {
-            "price": 250,
-            "title": "Figura de acción con cable",
-            "url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
-            "city": "Barcelona"
           }
         ]
       },
@@ -2229,31 +2316,6 @@
             "title": "Lote 6 Juegos PS3: Assassin's Creed II, Killzone 2",
             "url": "https://es.wallapop.com/item/lote-6-juegos-ps3-assassin-s-creed-ii-killzone-2-1255687664",
             "city": "Móstoles"
-          }
-        ]
-      },
-      {
-        "model": "pedido bralw stars isabel",
-        "example_title": "PEDIDO BRALW STARS (ISABEL)",
-        "example_url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 8,
-        "median_price": 8,
-        "max_price": 8,
-        "first_seen": "2026-04-24T19:03:03.770Z",
-        "last_seen": "2026-04-24T19:03:03.770Z",
-        "sample": [
-          {
-            "price": 8,
-            "title": "PEDIDO BRALW STARS (ISABEL)",
-            "url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
-            "city": "Talavera de la Reina"
           }
         ]
       },
@@ -7064,10 +7126,10 @@
     "hot_24h": 3,
     "trending_7d": 3,
     "recurring": 0,
-    "possible": 271,
-    "total_unique_models": 280,
-    "total_reservations": 19,
-    "total_confirmed_sales": 274
+    "possible": 273,
+    "total_unique_models": 282,
+    "total_reservations": 17,
+    "total_confirmed_sales": 278
   },
   "thresholds": {
     "proven_7d": 3,
@@ -7078,5 +7140,54 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "wzyrgp2r4565",
+      "model": "pedido bralw stars isabel",
+      "title": "PEDIDO BRALW STARS (ISABEL)",
+      "sold_price": 8,
+      "city": "Talavera de la Reina",
+      "url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T19:03:03.770Z",
+      "last_seen": "2026-04-24T19:03:03.770Z",
+      "confirmed_at": "2026-04-25T13:02:35.233Z"
+    },
+    {
+      "id": "mzn37ko8gkjn",
+      "model": "minifigura lego ninjago blanco verde",
+      "title": "Minifigura de Lego Ninjago - Blanco y Verde",
+      "sold_price": 6,
+      "city": "Russi",
+      "url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T10:47:51.040Z",
+      "last_seen": "2026-04-25T10:47:51.040Z",
+      "confirmed_at": "2026-04-25T13:02:35.233Z"
+    },
+    {
+      "id": "w67vno781w6x",
+      "model": "figura accion cable",
+      "title": "Figura de acción con cable",
+      "sold_price": 250,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-25T10:47:51.040Z",
+      "last_seen": "2026-04-25T10:47:51.040Z",
+      "confirmed_at": "2026-04-25T13:02:35.233Z"
+    },
+    {
+      "id": "w67vno77q56x",
+      "model": "lote funko pop stranger things",
+      "title": "Lote Funko Pop Stranger Things",
+      "sold_price": 8,
+      "city": "Torrox Park",
+      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T10:56:13.890Z",
+      "last_seen": "2026-04-25T10:56:13.890Z",
+      "confirmed_at": "2026-04-25T13:02:35.233Z"
+    }
+  ]
 }

@@ -3287,6 +3287,54 @@
       "first_reserved": "2026-04-25T10:27:16.988Z",
       "last_seen": "2026-04-25T10:27:16.988Z",
       "confirmed_at": "2026-04-25T12:32:20.646Z"
+    },
+    {
+      "id": "wzyrgp2r4565",
+      "model": "pedido bralw stars isabel",
+      "title": "PEDIDO BRALW STARS (ISABEL)",
+      "sold_price": 8,
+      "city": "Talavera de la Reina",
+      "url": "https://es.wallapop.com/item/pedido-bralw-stars-isabel-1255720444",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T19:03:03.770Z",
+      "last_seen": "2026-04-24T19:03:03.770Z",
+      "confirmed_at": "2026-04-25T13:02:35.233Z"
+    },
+    {
+      "id": "mzn37ko8gkjn",
+      "model": "minifigura lego ninjago blanco verde",
+      "title": "Minifigura de Lego Ninjago - Blanco y Verde",
+      "sold_price": 6,
+      "city": "Russi",
+      "url": "https://es.wallapop.com/item/lego-ninjago-minifigure-bianco-e-verde-1255885097",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T10:47:51.040Z",
+      "last_seen": "2026-04-25T10:47:51.040Z",
+      "confirmed_at": "2026-04-25T13:02:35.233Z"
+    },
+    {
+      "id": "w67vno781w6x",
+      "model": "figura accion cable",
+      "title": "Figura de acción con cable",
+      "sold_price": 250,
+      "city": "Barcelona",
+      "url": "https://es.wallapop.com/item/figura-de-accion-con-cable-1255883276",
+      "category": "Niños y bebés",
+      "first_reserved": "2026-04-25T10:47:51.040Z",
+      "last_seen": "2026-04-25T10:47:51.040Z",
+      "confirmed_at": "2026-04-25T13:02:35.233Z"
+    },
+    {
+      "id": "w67vno77q56x",
+      "model": "lote funko pop stranger things",
+      "title": "Lote Funko Pop Stranger Things",
+      "sold_price": 8,
+      "city": "Torrox Park",
+      "url": "https://es.wallapop.com/item/lote-funko-pop-stranger-things-1255887928",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-25T10:56:13.890Z",
+      "last_seen": "2026-04-25T10:56:13.890Z",
+      "confirmed_at": "2026-04-25T13:02:35.233Z"
     }
   ]
 }
