@@ -1,0 +1,311 @@
+{
+  "timestamp": "2026-04-25T22:04:10.102Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 206,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Cromo Panini Club Fantastica Futbol",
+          "price": 2,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/cromo-panini-club-fantastica-futbol-1256076045",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Cartas Pokémon Zekrom V y Umbreon V",
+          "price": 200,
+          "city": "Vic",
+          "url": "https://es.wallapop.com/item/cartas-pokemon-zekrom-v-y-umbreon-v-1256076446",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        },
+        {
+          "title": "Carta Pokémon Golett 042 073",
+          "price": 2,
+          "city": "Fuenlabrada",
+          "url": "https://es.wallapop.com/item/carta-pokemon-golett-042-073-1256076300",
+          "reserved": false,
+          "verdict": "skip",
+          "reason": "precio < 3€ (truco SEO)"
+        },
+        {
+          "title": "Carta Pokémon M Steelix EX",
+          "price": 10,
+          "city": "Villaviciosa de Odón",
+          "url": "https://es.wallapop.com/item/carta-pokemon-m-steelix-ex-1256076177",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carta pokemon steelix",
+          "ebay_count": 0,
+          "ebay_price_estimate": 0,
+          "margin_net": -0.5,
+          "margin_pct": -5,
+          "score": 5,
+          "from_cache": false,
+          "verdict": "skip",
+          "reason": "score bajo (net=-0.5€, pct=-5%, score=5)"
+        },
+        {
+          "title": "Lote Accesorios Playmobil",
+          "price": 5,
+          "city": "Bilbao",
+          "url": "https://es.wallapop.com/item/lote-accesorios-playmobil-1256075925",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 265,
+      "new_items": 15,
+      "items": [
+        {
+          "title": "Super Mario Maker 2 Nintendo Switch",
+          "price": 27,
+          "city": "Sant Joan de Palamos",
+          "url": "https://es.wallapop.com/item/super-mario-maker-2-nintendo-switch-1256076273",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "super mario maker nintendo switch",
+          "verdict": "skip",
+          "reason": "0 reservados de 'super mario maker nintendo switch' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Nintendo Switch OLED Blanca y Negra",
+          "price": 190,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/nintendo-switch-oled-blanca-y-negra-1256076210",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "nintendo switch oled blanca negra",
+          "verdict": "skip",
+          "reason": "0 reservados de 'nintendo switch oled blanca negra' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Pokemon Escudo Nintendo Switch RPG",
+          "price": 32,
+          "city": "Sant Joan de Palamos",
+          "url": "https://es.wallapop.com/item/pokemon-escudo-nintendo-switch-rpg-1256075996",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "pokemon escudo nintendo switch rpg",
+          "verdict": "skip",
+          "reason": "32€ vs mín reservado 34.9€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Estuche para Nintendo Switch 2",
+          "price": 22.99,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/estuche-para-nintendo-switch-1256075890",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "query_ebay": "estuche nintendo switch",
+          "verdict": "skip",
+          "reason": "competencia alta: 9 vendedores activos del mismo producto"
+        },
+        {
+          "title": "The Last of Us Part II Remastered PS5",
+          "price": 26,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/the-last-of-us-part-ii-remastered-ps5-1256076296",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "the last part remastered ps5",
+          "verdict": "skip",
+          "reason": "0 reservados de 'the last part remastered ps5' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Visor PlayStation VR2 usado con accesorios",
+          "price": 319.9,
+          "city": "Caivano",
+          "url": "https://es.wallapop.com/item/visore-playstation-vr2-usato-con-accessori-1256076114",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "visor playstation vr2 usado con",
+          "verdict": "skip",
+          "reason": "0 reservados de 'visor playstation vr2 usado con' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Kingdom Hearts HD 1.5 + 2.5 Remix PS4",
+          "price": 10,
+          "city": "Torremolinos",
+          "url": "https://es.wallapop.com/item/kingdom-hearts-hd-1-5---2-5-remix-ps4-1256076109",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "kingdom hearts 1.5 2.5 remix",
+          "verdict": "skip",
+          "reason": "0 reservados de 'kingdom hearts 1.5 2.5 remix' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola Sony PS5 Pro 2TB FC26",
+          "price": 750,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/consola-sony-ps5-pro-2tb-fc26-1256076014",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola sony ps5 pro 2tb",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola sony ps5 pro 2tb' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Space Marine 2 Xbox Series X",
+          "price": 30,
+          "city": "Puerto Real",
+          "url": "https://es.wallapop.com/item/space-marine-2-xbox-series-x-1256076324",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "space marine xbox series",
+          "verdict": "skip",
+          "reason": "0 reservados de 'space marine xbox series' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Altavoz interno iPhone 14",
+          "price": 10,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/altavoz-interno-iphone-14-1256076453",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "altavoz interno iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'altavoz interno iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cargador iPhone Apple 20W y Cable USB-C 60W",
+          "price": 10,
+          "city": "Guadalajara",
+          "url": "https://es.wallapop.com/item/cargador-iphone-apple-20w-y-cable-usb-c-60w-1256076140",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "cargador iphone apple 20w cable",
+          "verdict": "skip",
+          "reason": "activos saturados (mín activo 12€ vs mín reservado 54€)"
+        },
+        {
+          "title": "iPhone 11 Negro",
+          "price": 119,
+          "city": "Arévalo",
+          "url": "https://es.wallapop.com/item/iphone-11-negro-1256075960",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone negro",
+          "verdict": "skip",
+          "reason": "119€ vs mín reservado 80€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "Cámara Frontal iPhone 14",
+          "price": 20,
+          "city": "Terrassa",
+          "url": "https://es.wallapop.com/item/camara-frontal-iphone-14-1256075930",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "camara frontal iphone",
+          "verdict": "skip",
+          "reason": "0 reservados de 'camara frontal iphone' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Cable Cargador de iPhone USB (OFERTA:2x15€)",
+          "price": 7,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/cable-cargador-de-iphone-usb-oferta-2x15-1256075876",
+          "reserved": false,
+          "profile": "generic",
+          "verdict": "skip",
+          "reason": "ticket bajo (<10€), envío mata margen"
+        },
+        {
+          "title": "Correa Ocean para Apple Watch - Naranja",
+          "price": 10,
+          "city": "Logroño",
+          "url": "https://es.wallapop.com/item/correa-ocean-para-apple-watch-naranja-1256076027",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "correa ocean para apple watch",
+          "verdict": "skip",
+          "reason": "10€ vs mín reservado 10€ (margen <30%, no es ganga clara)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 184,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Vinilo Carole King",
+          "price": 6,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/vinilo-carole-king-1256076067",
+          "reserved": false,
+          "profile": "vinilo",
+          "verdict": "skip",
+          "reason": "lote multi-disco, no evaluable"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 109,
+      "new_items": 3,
+      "items": [
+        {
+          "title": "D&D 5e La Tumba de la Aniquilación en español",
+          "price": 100,
+          "city": "Badalona",
+          "url": "https://es.wallapop.com/item/d-d-5e-la-tumba-de-la-aniquilacion-en-espanol-1256076373",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "d&d tumba aniquilacion espanol",
+          "verdict": "skip",
+          "reason": "0 reservados de 'd&d tumba aniquilacion espanol' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Juego Catan Plus Klaus Teuber",
+          "price": 45,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/juego-catan-plus-klaus-teuber-1256076340",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "juego catan plus klaus teuber",
+          "verdict": "skip",
+          "reason": "0 reservados de 'juego catan plus klaus teuber' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Carcassonne Plus Juego de Mesa",
+          "price": 35,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/carcassonne-plus-juego-de-mesa-1256075913",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "carcassonne plus juego mesa",
+          "verdict": "skip",
+          "reason": "0 reservados de 'carcassonne plus juego mesa' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 50,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 24,
+  "total_signals": 0,
+  "duration_s": 60
+}
