@@ -1,0 +1,223 @@
+{
+  "timestamp": "2026-04-25T02:15:26.517Z",
+  "categories": [
+    "Coleccionismo",
+    "Tecnología y electrónica",
+    "Cine, libros y música",
+    "Deporte y ocio",
+    "Niños y bebés"
+  ],
+  "sections": {
+    "Coleccionismo": {
+      "total_items": 205,
+      "new_items": 5,
+      "items": [
+        {
+          "title": "Funko Pop! Wonder Woman 392",
+          "price": 8,
+          "city": "Zizur Mayor/Zizur Nagusia",
+          "url": "https://es.wallapop.com/item/funko-pop-wonder-woman-392-1255789184",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! wonder woman 392",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! wonder woman 392' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Wonder Woman 08",
+          "price": 12,
+          "city": "Zizur Mayor/Zizur Nagusia",
+          "url": "https://es.wallapop.com/item/funko-pop-wonder-woman-08-1255789127",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! wonder woman 08",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! wonder woman 08' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Diana Prince 230 Wonder Woman",
+          "price": 12,
+          "city": "Zizur Mayor/Zizur Nagusia",
+          "url": "https://es.wallapop.com/item/funko-pop-diana-prince-230-wonder-woman-1255789069",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! diana prince wonder woman 230",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! diana prince wonder woman 230' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Wonder Woman 238 Flashpoint",
+          "price": 17,
+          "city": "Zizur Mayor/Zizur Nagusia",
+          "url": "https://es.wallapop.com/item/funko-pop-wonder-woman-238-flashpoint-1255789014",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! wonder woman flashpoint 238",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! wonder woman flashpoint 238' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Funko Pop! Kuromi y My Melody 20th Anniversary",
+          "price": 30,
+          "city": "Zizur Mayor/Zizur Nagusia",
+          "url": "https://es.wallapop.com/item/funko-pop-kuromi-y-my-melody-20th-anniversary-1255788906",
+          "reserved": false,
+          "profile": "funko",
+          "query_ebay": "Funko pop! kuromi melody 20th anniversary",
+          "verdict": "skip",
+          "reason": "0 reservados de 'Funko pop! kuromi melody 20th anniversary' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Tecnología y electrónica": {
+      "total_items": 226,
+      "new_items": 10,
+      "items": [
+        {
+          "title": "Nintendo Switch 2 + Mario Kart World",
+          "price": 520,
+          "city": "Onda",
+          "url": "https://es.wallapop.com/item/nintendo-switch-2---mario-kart-world-1255788764",
+          "reserved": false,
+          "profile": "videojuego_switch",
+          "verdict": "skip",
+          "reason": "pack (pack_consola_juegos): comparación eBay imprecisa, skip conservador"
+        },
+        {
+          "title": "PlayStation 5 + Monitor 144Hz camibio por setup pc",
+          "price": 900,
+          "city": "Cadenes",
+          "url": "https://es.wallapop.com/item/playstation-5---monitor-144hz-camibio-por-setup-pc-1255788921",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "playstation monitor 144hz camibio por",
+          "verdict": "skip",
+          "reason": "0 reservados de 'playstation monitor 144hz camibio por' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Uncharted 4 y Lost Legacy ps5 remasterizado",
+          "price": 25,
+          "city": "Playa de Los Cristianos",
+          "url": "https://es.wallapop.com/item/uncharted-legacy-of-thieves-collection-ps5-1255788785",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "uncharted lost legacy ps5 remasterizado",
+          "verdict": "skip",
+          "reason": "0 reservados de 'uncharted lost legacy ps5 remasterizado' (sin evidencia de demanda)"
+        },
+        {
+          "title": "Consola PS4 Edición Star Wars Darth Vader",
+          "price": 130,
+          "city": "La Papiola",
+          "url": "https://es.wallapop.com/item/consola-ps4-edicion-star-wars-darth-vader-1255789237",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "consola ps4 edicion star wars",
+          "verdict": "skip",
+          "reason": "0 reservados de 'consola ps4 edicion star wars' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 Pro 128G Pacific Blue Batería 100% NUEVA",
+          "price": 270,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-12-pro-128g-pacific-blue-bateria-100-nueva-1255788909",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro 128g pacific blue",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro 128g pacific blue' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 14 Pro Max Morado",
+          "price": 370,
+          "city": "Valencia",
+          "url": "https://es.wallapop.com/item/iphone-14-pro-max-morado-1255788846",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max morado",
+          "verdict": "skip",
+          "reason": "370€ vs mín reservado 400€ (margen <30%, no es ganga clara)"
+        },
+        {
+          "title": "iPhone 17 Air para piezas",
+          "price": 350,
+          "city": "Sax",
+          "url": "https://es.wallapop.com/item/iphone-17-air-para-piezas-1255788745",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone air para piezas",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone air para piezas' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 13 Pro Max Azul",
+          "price": 290,
+          "city": "Zaragoza",
+          "url": "https://es.wallapop.com/item/iphone-13-pro-max-azul-1255788723",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max azul",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max azul' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 12 128 GBs Batería ORIGINAL Apple NUEVA",
+          "price": 270,
+          "city": "Barcelona",
+          "url": "https://es.wallapop.com/item/iphone-12-128-gbs-bateria-original-apple-nueva-1255788708",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone gbs bateria apple nueva",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone gbs bateria apple nueva' (sin evidencia de demanda)"
+        },
+        {
+          "title": "iPhone 16 Pro Max",
+          "price": 515,
+          "city": "Madrid",
+          "url": "https://es.wallapop.com/item/iphone-16-pro-max-1255788626",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "iphone pro max",
+          "verdict": "skip",
+          "reason": "0 reservados de 'iphone pro max' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Cine, libros y música": {
+      "total_items": 146,
+      "new_items": 1,
+      "items": [
+        {
+          "title": "Blu-ray The Amazing Spider-Man 2",
+          "price": 20,
+          "city": "Getafe",
+          "url": "https://es.wallapop.com/item/blu-ray-the-amazing-spider-man-2-1255789349",
+          "reserved": false,
+          "profile": "generic",
+          "query_ebay": "blu-ray the amazing spider-man",
+          "verdict": "skip",
+          "reason": "0 reservados de 'blu-ray the amazing spider-man' (sin evidencia de demanda)"
+        }
+      ],
+      "signals": 0
+    },
+    "Deporte y ocio": {
+      "total_items": 77,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    },
+    "Niños y bebés": {
+      "total_items": 33,
+      "new_items": 0,
+      "items": [],
+      "signals": 0
+    }
+  },
+  "total_items": 16,
+  "total_signals": 0,
+  "duration_s": 70
+}
