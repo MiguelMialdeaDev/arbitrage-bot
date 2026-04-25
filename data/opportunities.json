@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T07:02:14.416Z",
+  "updated_at": "2026-04-25T07:17:00.320Z",
   "tiers": {
     "proven_seller": [
       {
@@ -238,6 +238,56 @@
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "pack cartas pokemon fezandipiti lucario snoru",
+        "example_title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
+        "example_url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 12,
+        "median_price": 12,
+        "max_price": 12,
+        "first_seen": "2026-04-25T07:17:00.318Z",
+        "last_seen": "2026-04-25T07:17:00.318Z",
+        "sample": [
+          {
+            "price": 12,
+            "title": "Pack 3 Cartas Pokémon Fezandipiti, Lucario y Snoru",
+            "url": "https://es.wallapop.com/item/pack-3-cartas-pokemon-fezandipiti-lucario-y-snoru-1255809144",
+            "city": "Yecla"
+          }
+        ]
+      },
+      {
+        "model": "pack funko pop silent hill heather james",
+        "example_title": "Pack Funko Pop! Silent Hill Heather & James",
+        "example_url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
+        "total_reservations": 0,
+        "confirmed_sales": 1,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 30.9,
+        "median_price": 30.9,
+        "max_price": 30.9,
+        "first_seen": "2026-04-25T07:17:00.318Z",
+        "last_seen": "2026-04-25T07:17:00.318Z",
+        "sample": [
+          {
+            "price": 30.9,
+            "title": "Pack Funko Pop! Silent Hill Heather & James",
+            "url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
+            "city": "Madrid"
+          }
+        ]
+      },
       {
         "model": "funkos",
         "example_title": "6 Funkos",
@@ -509,31 +559,6 @@
             "price": 23,
             "title": "Garchomp ex y Eevee Pokémon TCG Inglés",
             "url": "https://es.wallapop.com/item/garchomp-ex-y-eevee-pokemon-tcg-ingles-1255750486",
-            "city": "Madrid"
-          }
-        ]
-      },
-      {
-        "model": "pack funko pop silent hill heather james",
-        "example_title": "Pack Funko Pop! Silent Hill Heather & James",
-        "example_url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
-        "total_reservations": 1,
-        "confirmed_sales": 0,
-        "total_events": 1,
-        "reservations_24h": 1,
-        "reservations_7d": 1,
-        "reservations_30d": 1,
-        "reservations_per_day": 1,
-        "min_price": 30.9,
-        "median_price": 30.9,
-        "max_price": 30.9,
-        "first_seen": "2026-04-24T23:16:34.190Z",
-        "last_seen": "2026-04-24T23:16:34.190Z",
-        "sample": [
-          {
-            "price": 30.9,
-            "title": "Pack Funko Pop! Silent Hill Heather & James",
-            "url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
             "city": "Madrid"
           }
         ]
@@ -6095,10 +6120,10 @@
     "hot_24h": 3,
     "trending_7d": 2,
     "recurring": 0,
-    "possible": 234,
-    "total_unique_models": 241,
+    "possible": 235,
+    "total_unique_models": 242,
     "total_reservations": 8,
-    "total_confirmed_sales": 242
+    "total_confirmed_sales": 243
   },
   "thresholds": {
     "proven_7d": 3,
@@ -6109,5 +6134,18 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": []
+  "new_sales": [
+    {
+      "id": "xzogwmeq3wj9",
+      "model": "pack funko pop silent hill heather james",
+      "title": "Pack Funko Pop! Silent Hill Heather & James",
+      "sold_price": 30.9,
+      "city": "Madrid",
+      "url": "https://es.wallapop.com/item/pack-funko-pop-silent-hill-heather-james-1255767181",
+      "category": "Coleccionismo",
+      "first_reserved": "2026-04-24T23:16:34.190Z",
+      "last_seen": "2026-04-24T23:16:34.190Z",
+      "confirmed_at": "2026-04-25T07:17:00.318Z"
+    }
+  ]
 }
