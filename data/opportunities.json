@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T09:47:54.811Z",
+  "updated_at": "2026-04-25T10:02:14.292Z",
   "tiers": {
     "proven_seller": [
       {
@@ -164,37 +164,6 @@
             "city": "Berga"
           }
         ]
-      },
-      {
-        "model": "pokemon let go eevee nintendo switch",
-        "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
-        "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
-        "total_reservations": 0,
-        "confirmed_sales": 2,
-        "total_events": 2,
-        "reservations_24h": 2,
-        "reservations_7d": 2,
-        "reservations_30d": 2,
-        "reservations_per_day": 2,
-        "min_price": 15,
-        "median_price": 20,
-        "max_price": 20,
-        "first_seen": "2026-04-24T09:48:03.321Z",
-        "last_seen": "2026-04-24T10:18:25.763Z",
-        "sample": [
-          {
-            "price": 15,
-            "title": "Pokémon Let's Go Eevee Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
-            "city": "Badalona"
-          },
-          {
-            "price": 20,
-            "title": "Pokémon Let's Go Eevee Nintendo Switch",
-            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
-            "city": "Badalona"
-          }
-        ]
       }
     ],
     "trending_7d": [
@@ -259,10 +228,166 @@
             "city": "Santa Coloma de Gramenet"
           }
         ]
+      },
+      {
+        "model": "pokemon let go eevee nintendo switch",
+        "example_title": "Pokémon Let's Go Eevee Nintendo Switch",
+        "example_url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
+        "total_reservations": 0,
+        "confirmed_sales": 2,
+        "total_events": 2,
+        "reservations_24h": 1,
+        "reservations_7d": 2,
+        "reservations_30d": 2,
+        "reservations_per_day": 2,
+        "min_price": 15,
+        "median_price": 20,
+        "max_price": 20,
+        "first_seen": "2026-04-24T09:48:03.321Z",
+        "last_seen": "2026-04-24T10:18:25.763Z",
+        "sample": [
+          {
+            "price": 15,
+            "title": "Pokémon Let's Go Eevee Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255506929",
+            "city": "Badalona"
+          },
+          {
+            "price": 20,
+            "title": "Pokémon Let's Go Eevee Nintendo Switch",
+            "url": "https://es.wallapop.com/item/pokemon-let-s-go-eevee-nintendo-switch-1255512725",
+            "city": "Badalona"
+          }
+        ]
       }
     ],
     "recurring": [],
     "possible": [
+      {
+        "model": "carta pokemon charizard vstar sar 212 172",
+        "example_title": "Carta Pokémon Charizard VSTAR SAR 212/172",
+        "example_url": "https://es.wallapop.com/item/carta-pokemon-charizard-vstar-sar-212-172-1255865347",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 90,
+        "median_price": 90,
+        "max_price": 90,
+        "first_seen": "2026-04-25T10:02:14.291Z",
+        "last_seen": "2026-04-25T10:02:14.291Z",
+        "sample": [
+          {
+            "price": 90,
+            "title": "Carta Pokémon Charizard VSTAR SAR 212/172",
+            "url": "https://es.wallapop.com/item/carta-pokemon-charizard-vstar-sar-212-172-1255865347",
+            "city": "Barcelona"
+          }
+        ]
+      },
+      {
+        "model": "lote eduardo playmobil",
+        "example_title": "Lote Eduardo Playmobil",
+        "example_url": "https://es.wallapop.com/item/lote-eduardo-playmobil-1255866296",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 33.25,
+        "median_price": 33.25,
+        "max_price": 33.25,
+        "first_seen": "2026-04-25T10:02:14.291Z",
+        "last_seen": "2026-04-25T10:02:14.291Z",
+        "sample": [
+          {
+            "price": 33.25,
+            "title": "Lote Eduardo Playmobil",
+            "url": "https://es.wallapop.com/item/lote-eduardo-playmobil-1255866296",
+            "city": "Madrid"
+          }
+        ]
+      },
+      {
+        "model": "playstation ps4 perfecto estado",
+        "example_title": "PlayStation 4 (PS4) en perfecto estado",
+        "example_url": "https://es.wallapop.com/item/playstation-4-ps4-en-perfecto-estado-1255854309",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 200,
+        "median_price": 200,
+        "max_price": 200,
+        "first_seen": "2026-04-25T10:02:14.291Z",
+        "last_seen": "2026-04-25T10:02:14.291Z",
+        "sample": [
+          {
+            "price": 200,
+            "title": "PlayStation 4 (PS4) en perfecto estado",
+            "url": "https://es.wallapop.com/item/playstation-4-ps4-en-perfecto-estado-1255854309",
+            "city": "Alcalá de Henares"
+          }
+        ]
+      },
+      {
+        "model": "flex volumen iphone 14",
+        "example_title": "Flex Volumen iPhone 14",
+        "example_url": "https://es.wallapop.com/item/flex-volumen-iphone-14-1255866451",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 6,
+        "median_price": 6,
+        "max_price": 6,
+        "first_seen": "2026-04-25T10:02:14.291Z",
+        "last_seen": "2026-04-25T10:02:14.291Z",
+        "sample": [
+          {
+            "price": 6,
+            "title": "Flex Volumen iPhone 14",
+            "url": "https://es.wallapop.com/item/flex-volumen-iphone-14-1255866451",
+            "city": "Valencia"
+          }
+        ]
+      },
+      {
+        "model": "pack fundas iphone 17 pro pro max",
+        "example_title": "Pack 2 Fundas iPhone 17 Pro y Pro Max",
+        "example_url": "https://es.wallapop.com/item/pack-2-fundas-iphone-17-pro-y-pro-max-1255866175",
+        "total_reservations": 1,
+        "confirmed_sales": 0,
+        "total_events": 1,
+        "reservations_24h": 1,
+        "reservations_7d": 1,
+        "reservations_30d": 1,
+        "reservations_per_day": 1,
+        "min_price": 32,
+        "median_price": 32,
+        "max_price": 32,
+        "first_seen": "2026-04-25T10:02:14.291Z",
+        "last_seen": "2026-04-25T10:02:14.291Z",
+        "sample": [
+          {
+            "price": 32,
+            "title": "Pack 2 Fundas iPhone 17 Pro y Pro Max",
+            "url": "https://es.wallapop.com/item/pack-2-fundas-iphone-17-pro-y-pro-max-1255866175",
+            "city": "Valencia"
+          }
+        ]
+      },
       {
         "model": "cartas pokemon splendor astral",
         "example_title": "Cartas Pokémon Splendor Astral",
@@ -6467,12 +6592,12 @@
   },
   "stats": {
     "proven_seller": 2,
-    "hot_24h": 4,
-    "trending_7d": 2,
+    "hot_24h": 3,
+    "trending_7d": 3,
     "recurring": 0,
-    "possible": 248,
-    "total_unique_models": 256,
-    "total_reservations": 15,
+    "possible": 253,
+    "total_unique_models": 261,
+    "total_reservations": 20,
     "total_confirmed_sales": 251
   },
   "thresholds": {
@@ -6484,30 +6609,5 @@
     "mode": "incubation"
   },
   "tier_ups": [],
-  "new_sales": [
-    {
-      "id": "e65qd13q5m6o",
-      "model": "will",
-      "title": "2 Will",
-      "sold_price": 20,
-      "city": "Albal",
-      "url": "https://es.wallapop.com/item/2-will-1255817448",
-      "category": "Coleccionismo",
-      "first_reserved": "2026-04-25T07:43:38.138Z",
-      "last_seen": "2026-04-25T07:43:38.138Z",
-      "confirmed_at": "2026-04-25T09:47:54.809Z"
-    },
-    {
-      "id": "3zlmp29m9njx",
-      "model": "pack blu ray trilogia crepusculo",
-      "title": "Pack Blu-ray Trilogía Crepúsculo",
-      "sold_price": 15,
-      "city": "Daimiel",
-      "url": "https://es.wallapop.com/item/pack-blu-ray-trilogia-crepusculo-1255817169",
-      "category": "Cine, libros y música",
-      "first_reserved": "2026-04-25T07:43:38.138Z",
-      "last_seen": "2026-04-25T07:43:38.138Z",
-      "confirmed_at": "2026-04-25T09:47:54.809Z"
-    }
-  ]
+  "new_sales": []
 }
